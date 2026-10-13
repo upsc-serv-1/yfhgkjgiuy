@@ -615,3 +615,26 @@ Append to this file after every batch. Format: card id | issue.
 
 ### Term-list / concept cards with accepted similarity (0.71-0.96)
 - 0643/0644/0645 (0.71-0.77 after rework); 0648 (0.94), 0651 (0.96), 0655 (0.92) — fixed-name term lists with only shorthand/style fixes; 0653 (0.93) 3 packed semicolon list lines (9+5+3 items), reads long — accepted.
+
+## Batch 26 (cards 657-676: Ethics — Moral Thinkers) — needs_review / flags
+
+### Statuses
+- 11 polished; 9 untouched (quote-only cards 0657, 0658, 0662, 0663, 0665, 0666, 0668, 0675, 0676).
+
+### Fixes made
+- 0660 "prez" expanded to "President"; "didn't" → "did not".
+- 0671 broken bold "**Machiavelli & **Kautilya** agree**" repaired to "**Machiavelli** and **Kautilya** agree"; sentence reordered around the protected quote.
+- 0673 broken bold "non- **violence (Ahimsa)**" repaired to "**non-violence (Ahimsa)**".
+- 0672 long sentences split (both under 26 words now).
+
+### Kept as written (please confirm)
+- 0671 quote 'material well being of citizens is supreme.' kept exactly ("well being" without hyphen, as written).
+- 0661 "**'Golden Mean'**" kept as written.
+- 0670 "saam daam dand bheda" transliteration kept; commas added for readability.
+
+### Quote attributions (flag only; quotes never edited)
+- 0661 "Moral excellence is not an act, but a habit." – Aristotle (usually attributed to Will Durant summarising Aristotle; verify).
+- 0657 MLK Jr. and Kalam quotes (stray double-quote marks in source kept as converted).
+
+### Term-list / concept cards with accepted similarity (0.71-0.79)
+- 0661 conclusion, 0664 intro/examples/conclusion, 0673 conclusion.

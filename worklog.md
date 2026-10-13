@@ -224,3 +224,20 @@ Work Log:
 Stage Summary:
 - Progress: 500 of 789. Next: batch 26 = 657-676 (Ethics).
 - Queue flags: "Mayor" vs "Mayer" spelling, Nehru head/heart quote attribution, Buffet spelling, duplicate Gandhi quote 0592/0645.
+
+---
+Task ID: 13
+Agent: Super Z (main)
+Task: Batch 26 polish (657-676 Ethics, Moral Thinkers); push "batch-26". Continuous mode.
+
+Work Log:
+- Converted 657-676; wrote tools/build_batch26_example.py. 9 of 20 cards are quote-only -> untouched.
+- Verify rounds: 13 -> 5 warnings; 0 errors throughout.
+- Fixed: 0659/0661/0669/0671 restructures; 0671 broken bold repaired; 0672 long sentences split; 0673 "non-violence" bold repair; 0674 split; 0660 "prez" expanded.
+- Final: 0 errors, 5 accepted warnings.
+- Merged: MERGED_cards157-676.md (520 cards, 0 errors); deleted MERGED_cards157-656.md.
+- PLAN/review_queue/worklog updated; zipped; pushed "batch-26".
+
+Stage Summary:
+- Progress: 520 of 789. Next: batch 27 = 677-696 (Ethics).
+- Queue flags: Aristotle "Moral excellence" quote (usually Will Durant), MLK/Kalam stray quote marks, "well being" unhyphenated in protected quote.
