@@ -1,0 +1,274 @@
+# PLAN.md: UPSC Mains "Intro and Conclusions" ebook polish
+
+# START HERE (status at handoff, written when the previous agent stopped)
+
+**Done:** cards 157 to 416 of 789 (260 cards) are polished, in `polished/` (13 batch files plus `MERGED_cards157-416.md`). All pass `verify_protected.py` with **0 errors** (no quote, number or data item lost or changed). About 208 warnings remain; they are the accepted kinds explained in section 14 (short fact lines, expanded abbreviations).
+**Not done:** cards 1 to 156 (GS-1: History 1-85, Society 86-105, Geography 106-156) and cards 417 to 789 (rest of Science and Technology 417-427, Environment 428-479, Disaster Management 480-504, Internal Security 505-543, Ethics 544-789). Batch 14 (cards 417-436) was converted and read but **not yet polished**; start there.
+
+**What the user needs from you:** (1) continue polishing in batches of 20 using the method in sections 5, 7, 11, 14, 15; (2) after every batch run `verify_protected.py`, then update section 8, section 12 and `review_queue.md`; (3) keep replies short, because long replies get cut off by the chat; (4) never invent facts, never change quotes or numbers.
+
+**Files the user will give you:** this `PLAN.md`, `review_queue.md`, `convert.py`, `verify_protected.py`, the `tools/` folder (has `bb.py` and example batch scripts `build_batch01..13_example.py`, plus `merge_batches.py`), the `polished/` folder, and the original JSON `*_mains_intro_conclusions.json`. Before starting, set `SRC` at the top of `convert.py` to the JSON path, and copy `convert.py` into the folder that `verify_protected.py` imports it from (see the GOTCHA in section 11).
+
+**Ways to split the work between several agents (each needs the same files):**
+- Agent A: Science and Technology 417-427 and Environment 428-479 (batches 14 to 16).
+- Agent B: Disaster Management 480-504 and Internal Security 505-543.
+- Agent C: Ethics 544-789 (246 cards, the biggest job; can be split into 544-666 and 667-789).
+- Agent D: GS-1 cards 1-156 (History, Society, Geography).
+- Agent E (second pass): re-polish the lightest batches (10, 11, 12, 13: Economy, Agriculture, Sci and Tech cards 337-416) with stronger rewriting if the user says they are still too close to the old edition.
+- Agent F (review): resolve items in `review_queue.md` once the user decides (fill templates, verify quote attributions, fix flagged facts).
+Each agent writes batch files named like `polished/<PAPER>_<SUBJECT>_batchNN_cardsA-B.md` with its own batch numbers (agree on ranges first), and a separate `review_queue_<agent>.md`; merge at the end with `python3 tools/merge_batches.py out.md`.
+**Important when several agents work in parallel:** do not edit another agent's range; do not renumber cards; card IDs and numbers come from the original JSON order.
+
+---
+
+
+Handoff file. A new agent should read this fully, then continue from "Progress tracker".
+The user supplies: this PLAN.md, the original JSON, and the files listed under "Tooling".
+
+## 1. Project in one paragraph
+The user is turning an earlier-edition JSON of UPSC Mains answer-writing cards (789 cards) into a new ebook edition.
+The content must be **polished so it does not look like a copy of the old edition**, while academic quality is
+maintained or improved and **protected content (quotes, data, facts) is never altered**. The final output is Markdown
+with uniform tagged blocks so the user's designer AI agent can parse it with Python scripts and auto-style it.
+The user writes in rough, typo-heavy English. Reply in simple clear English and keep replies short.
+
+## 2. Source data
+File: `*_mains_intro_conclusions.json`. A list of 789 objects with keys
+`paper, subject, section_group, microtopic, subtopic, card_title, body, hierarchy_path`.
+`body` is Markdown-like text with top-level labels such as `*   **Introduction:**`.
+- Papers: GS-4 = 246 cards, GS-3 = 215, GS-2 = 172, GS-1 = 156.
+- Subjects: Ethics 246, History 85, Polity 64, Governance 52, Environment 52, Geography 51, Sci and Tech 44,
+  Internal Security 39, International Relations 33, Economy 31, Disaster Mgmt 25, Agriculture 24,
+  Social Justice 23, Society 20.
+- There are **44 distinct section-label combinations**. Cards are deliberately NOT uniform (sources differ).
+  Top: Quote+Intro+Examples+Conclusion (221), Intro+Conclusion+Data (80), Intro+Conclusion (74),
+  Concept only (73), Intro+Data (55), Quote only (50), Examples only (49), Intro only (36), Quote+Intro (34).
+- Some bodies contain `<img ... src=...>` diagram links (47 cards). Keep them attached to their card.
+
+## 3. Decisions made with the user (LATEST RULES WIN)
+1. Do NOT force one template on all cards. Never add sections that a card did not have.
+2. **Do not add anything new** (no new quotes, data, examples, keywords, "way forward" lines).
+3. **Polish language** of `introduction`, `conclusion` and `examples` blocks in structured cards so the
+   book feels freshly written. Improve clarity and flow; fix grammar, spelling and stray `*`.
+4. **Protected, never change:** quotes (text and attribution), all numbers, years, percentages,
+   names of people, institutions, schemes, laws, article numbers, case/judgment names, place names, theory names,
+   and every item of a `data` or `detail` list (no item may be dropped, merged away or added; keep order and nesting).
+   Reordering blocks is allowed. Changing protected facts is not.
+   **UPDATE (user, after batch 01): shorthand and short forms MUST be expanded and wording improved everywhere, including inside `data` and `detail`
+   blocks, because someone could claim the old text was reused.** Only quotes and image blocks stay exactly as they are.
+   **ABBREVIATION POLICY (user): keep universally known exam abbreviations as they are. Do NOT expand SC, HC, PM, VP, EC, CJI, IPC, UOI, FRs, DPSPs,
+   UCC, RPA, GDP, NITI Aayog-type names, etc. (for example keep "SC struck down...", never "Supreme Court" in place of SC).** Expand only informal note-taking
+   shorthand that students would not write in an answer: imp, b/w, obj, ppl, u/s, govt, w.r.t, dev, temp, "Ex:" and similar. Never use an abbreviation for
+   anything other than its standard meaning.
+5. Chosen layout is **Design A**: clean labelled blocks, one block per element, quote shown as a pull-quote.
+6. Output is Markdown, **one card = YAML metadata + `:::block` sections** (schema in section 4).
+7. Cards that are just a topic with no quote or intro (Concept only, Examples only, Data only, etc.) become
+   `card_type: detail`, with the original label kept as `:::detail label="Concept"`.
+   For detail cards: fix grammar and stray `*` only. Do not restyle unless the user asks.
+8. **Truncated or placeholder (`__`) cards:** do NOT invent missing text. Leave the broken sentence as is,
+   flag it, set `status: needs_review`. The user will decide later.
+9. Block order inside a card: quote, introduction, examples, data, conclusion (the conclusion always closes).
+10. Keep useful bold on key terms. Remove stray or unbalanced `**`.
+11. "Same as above" cards: keep text, flag `same_as_above`, and do not reorder cards in a way that breaks them.
+
+## 4. Markdown schema (what the designer's script reads)
+```
+---
+id: GS2-POLI-0159            # paper-subject4-globalIndex(1-based, original order)
+paper: "GS-2"
+subject: "POLITY"
+section_group: "..."
+microtopic: "..."
+subtopic: "Amendments"
+card_title: "Significant Provisions and Amendments"
+card_type: structured         # or detail
+sections: [quote, introduction, examples, conclusion, image]
+flags: [has_image]            # truncated, placeholder_blank, placeholder_quote, same_as_above (also cross-refs like "Refer to..."), has_image, format_fixed
+status: polished              # polished | untouched | needs_review
+---
+
+:::quote
+"..." — Name
+:::
+:::introduction
+paragraph
+:::
+:::examples
+- bullet
+:::
+:::data
+- **Label:** nested bullets allowed
+:::
+:::conclusion
+paragraph
+:::
+:::detail label="Concept"
+...
+:::
+:::image
+https://...png
+:::
+```
+A card can have several `:::quote` blocks (one per quote). Only blocks that existed in the original appear. `sections:` lists exactly the blocks present, in order.
+
+## 5. Polish style guide (for introduction, conclusion, examples)
+- **HARD RULE (user): LANGUAGE MUST BE EASY. A student must be able to remember it and write it in the exam.**
+  Use everyday words and short sentences (aim for 12 to 20 words, never above 25). One idea per sentence.
+  No bookish, flowery or "AI-sounding" words (spotlight, tapestry, bedrock, pivotal, holistic, multifaceted, etc.).
+  No idioms or poetic phrases (for example "take to heart", "stir a connect"). Prefer "ability" to "capacity", "shows" to "underscores".
+  Rewriting must change structure and words, but only into simpler or equally simple English, never harder English.
+  Test each line: "Could an average aspirant reproduce this from memory in the exam hall?" If not, simplify it.
+  `verify_protected.py` warns on sentences above 25 words and on a list of hard words; a human read is still needed.
+- **LESSON FROM THE PILOT: the first pilot polish was too light (only grammar fixes, same sentences). The user compared it with the
+  old file and saw it was nearly word-for-word the same. A polish MUST be a real rewrite:** new sentence structure, new
+  vocabulary, same meaning. Only protected items (section 3, rule 4) stay as they were. Target: word similarity to the
+  original below 0.70 for every polished block (`verify_protected.py` warns above 0.70).
+- Do not just swap synonyms. Restructure the sentence (reorder clauses, change the opening, merge or split sentences).
+- Good vs bad (Empathy card). Original: "Empathy is the ability to perceive and internalize others' emotions, experiences, and struggles."
+  Bad (too light): "Empathy is the ability to perceive and internalise others' emotions, experiences and struggles."
+  Good (simple AND different): "Empathy is the ability to understand and share what others feel."
+  Too fancy (do not do this): "Empathy is the capacity to sense what others feel and to take their struggles to heart."
+- Goal: sound fresh, crisp and exam-ready, not like a paraphrase of the old text. Fix awkward or ambiguous grammar.
+- Introduction: 1 to 2 sentences, defines or frames the topic. Conclusion: 1 sentence, forward-looking or value-based.
+- Examples: parallel, short bullets, each ending with a full stop. Start with the named entity in **bold** where natural.
+- Spelling: Indian/British style (internalise, programme). Use "and" not "&" in prose. Serial comma is not required.
+- Keep standard abbreviations (SC, HC, PM, EC, FRs...). Expand only informal shorthand. Do not swap an entity for a different one.
+- Never add a fact, number, example or claim that is not in the original card. Never "improve" a quote.
+- If an example looks factually doubtful, DO NOT fix it silently. Leave it and add it to `review_queue.md`.
+- Keep the two-layer feel: short and scannable first, nothing bulky.
+- Worked reference: compare `pilot_cards.md` (before) with `pilot_cards_polished.md` (after, second and stronger pass).
+
+## 6. Tooling (files the user keeps and re-shares)
+- `convert.py`: JSON to schema-valid Markdown (no polishing, just structure, flags, and `**` fixes).
+  `python3 convert.py out.md 159 11 138`  (ids are 1-based positions in the JSON list). Omit ids for all 789.
+  **Update `SRC` at the top** to the actual JSON path in the new session.
+- `verify_protected.py`: run on every polished batch: `python3 verify_protected.py batch.md`.
+  ERROR = quote or image changed, a data/detail list lost or gained items, or any number differs. Must be zero errors before delivery.
+  WARN = a capitalised name or acronym is missing (check by eye; expanded acronyms are fine), or a polished block is
+  still more than 70% similar to the original (rewrite it more). Stray warnings such as a sentence-start word like "It" can be ignored.
+  It reads originals through `convert.py`, so both must be in the same folder or on the path.
+- `pilot_cards.md`, `pilot_cards_polished.md`: 5-card style reference (Amendments, Mughal Architecture,
+  Volcano distribution, Empathy, Leopold's Land Ethics).
+- Integrity test already run: the converter changes **zero words** across all 789 cards (markup and ordering only).
+  Dry-run stats: 646 structured, 143 detail; flags: format_fixed 74, truncated 63, has_image 47,
+  placeholder_blank 24, same_as_above 2. The `truncated` flag is a heuristic (no end punctuation); expect some false positives.
+
+## 7. Workflow for the next agent
+1. Run `convert.py` for one batch (about 25 to 40 cards, same subject) to get structured Markdown.
+2. Polish the introduction, conclusion and examples blocks by hand-writing the new wording (no automated rewriting).
+   Keep every protected item. Set `status: polished`. Leave truncated cards untouched with `status: needs_review`.
+   Leave detail cards `status: untouched` (grammar and `*` fixes only).
+3. Run `verify_protected.py`; fix every ERROR; read every WARN.
+4. Save to `polished/<PAPER>_<SUBJECT>_batchNN.md`; present the file; update section 8 below.
+5. Keep a running `review_queue.md` of: truncated cards, `__` blanks, doubtful facts, doubtful quote attributions,
+   "same as above" cards.
+6. At the end: merge batches, run verify on the merged file, hand to the user.
+
+## 8. Progress tracker (update this table every batch)
+Card numbers are 1-based positions in the original JSON list. Ranges below were computed from the file.
+| Paper / subject | Cards (range) | Count | Polished | Notes |
+|---|---|---|---|---|
+| Pilot | 5 cards | 5 | done | style reference only |
+| GS-1 History | 1-85 | 85 | 0 | TO DO (do last or ask user for priority) |
+| GS-1 Society | 86-105 | 20 | 0 | TO DO |
+| GS-1 Geography | 106-156 | 51 | 0 | TO DO; flat duplicate cards near 154-156 |
+| GS-2 Polity | 157-220 | 64 | 64 DONE | batches 01 to 04 |
+| GS-2 Governance | 221-272 | 52 | 52 DONE | batches 04 to 06 |
+| GS-2 Social Justice | 273-295 | 23 | 23 DONE | batches 06, 07 |
+| GS-2 International Relations | 296-328 | 33 | 33 DONE | batches 07 to 09 |
+| GS-3 Indian Economy | 329-359 | 31 | 31 DONE | batches 09 to 11 |
+| GS-3 Agriculture | 360-383 | 24 | 24 DONE | batches 11, 12 |
+| GS-3 Science and Technology | 384-427 | 44 | 33 done (384-416) | NEXT: 417-427 |
+| GS-3 Environment | 428-479 | 52 | 0 | TO DO |
+| GS-3 Disaster Management | 480-504 | 25 | 0 | TO DO |
+| GS-3 Internal Security | 505-543 | 39 | 0 | TO DO |
+| GS-4 Ethics, Integrity and Aptitude | 544-789 | 246 | 0 | TO DO; heavier bold style; check carefully |
+
+**Totals so far: cards 157 to 416 are polished (260 of 789).** NEXT BATCH: batch 14 = cards 417 to 436 (Science and Technology 417-427, then Environment 428-436).
+
+## 9. Open questions still to ask the user
+- One big Markdown file, or one file per paper or subject? (Per subject suggested for the designer's script.)
+- Did the designer's script accept the tag names `:::quote`, `:::detail` and the metadata fields? Adjust the schema before the full run if not.
+- Should a separate pass flag doubtful **quote attributions** (flag only, never change)? Known examples:
+  a Kabir line credited to Tagore (Medieval Bhakti and Sufi Literature card), and "Sant Kabir Akademi" (unverified).
+- Should `detail` cards also get light polishing, or stay as they are?
+- Do the original-order "Same as above" cards need a fix (for example by pointing to the card title)?
+- Known original defects found: missing space after a comma-bold join (Empathy card, "struggles,**It bridges"), dangling
+  fragments (Mughal Architecture intro "Golden period."), truncated Geography intro and conclusion.
+
+## 10. Hard rules recap
+Never alter quotes or data. Never invent. Never remove a card. Never reorder cards in a way that breaks
+"same as above". Always run the verifier. Always flag, never silently fix, anything doubtful.
+
+## 11. Lessons from batch 01 (read before starting a batch)
+- **Subject index ranges are NOT guessed.** Always compute them: `[i+1 for i,x in enumerate(d) if x['subject']=='POLITY']`. Polity is 157 to 220.
+- Real cards are often **notes-style** (shorthand like "imp", "b/w", "obj", "u/s", "ppl"). Intros and conclusions often hold bullet lists of
+  facts (case names, articles, committees). For those: rewrite the wording in easy English, keep every case name, article, committee, number and
+  quoted phrase. Expanding informal shorthand (not standard abbreviations like SC, HC, PM) in intro, conclusion and examples is welcome. **Data and detail blocks are also polished (user decision after batch 01):** expand shorthand, fix grammar, reword in easy English, but keep every list item, number, name and theory.
+- Fact-dense short lines (for example "SC struck down electoral bonds scheme") have little room to reword. A similarity warning on these is acceptable.
+  Do not change meaning just to beat the check.
+- Never change a name's spelling, even if it looks wrong (for example "Narsimha Rao"); list it in `review_queue.md`.
+- Cards that have only quotes, or placeholder or cross-reference text, are not polished. Mark `status: untouched` or `needs_review`.
+- `convert.py` was patched in batch 01: multiple quotes are split into separate blocks, placeholder text and fake "Source Text" attributions are flagged,
+  truncation is judged only on paragraph-style intros and conclusions, and cross-references ("Refer to", "Same as") are flagged.
+- `verify_protected.py` was patched: name-check noise from sentence-opening words was removed.
+- **Converter bug fixed in batch 02:** lines after a `Quote` label that did not start with `>` were glued into the quote. Now only `>` lines are the quote;
+  other lines go into `:::detail label="Attached points"`. Affects cards 187, 197 and 385 only.
+- **GOTCHA:** `verify_protected.py` imports `convert.py` from `/mnt/user-data/outputs` FIRST. After every change to `convert.py`, copy it there
+  (`cp convert.py /mnt/user-data/outputs/`), or the verifier will compare against an outdated converter and report false errors.
+- Example build scripts for the dict-and-replace method are in `tools/build_batch01_example.py` and `tools/build_batch02_example.py`.
+  Copy one, change the card dict and the id range and output name.
+- Be careful with numbers like "10/15" (a single token for the checker): keep such forms exactly as written. Keep "17-18" style forms too.
+- When a card gives a long list of examples inside one bullet (for example Best Practices), splitting it into nested bullets is allowed and reads better.
+- Build method that worked: convert a batch, then write a Python dict {card_id: (status, {block: new_text})} and a small script that replaces
+  only introduction, examples and conclusion blocks in the converted Markdown (so quotes, data and metadata can never be touched by accident).
+  Then run the verifier and fix warnings. `verify_protected.py` also warns on informal shorthand left behind (imp, b/w, obj, ppl, u/s, govt...).
+
+## 12. Batch log
+| Batch | Cards | File | Result |
+|---|---|---|---|
+| 01 | Polity 157 to 176 (20 cards) | `polished/GS2_POLITY_batch01_cards157-176.md` | 0 errors; data/detail blocks of 0167, 0168, 0169 re-polished after the shorthand decision; SC/VP kept as abbreviations after the abbreviation decision; see `review_queue.md` |
+| 02 | Polity 177 to 196 (20 cards) | `polished/GS2_POLITY_batch02_cards177-196.md` | 0 errors; only accepted warnings; see `review_queue.md` |
+| 03 | Polity 197 to 216 | `polished/GS2_POLITY_batch03_cards197-216.md` | 0 errors; 0215 untouched; see `review_queue.md` |
+| 04 | Polity 217-220 + Governance 221-236 | `polished/GS2_POLITY-GOVERNANCE_batch04_cards217-236.md` | 0 errors; 0235 needs_review (cross-reference) |
+| 05 | Governance 237 to 256 | `polished/GS2_GOVERNANCE_batch05_cards237-256.md` | 0 errors; 0245, 0252, 0255 needs_review |
+| 06 | Governance 257-272 + Social Justice 273-276 | `polished/GS2_GOVERNANCE-SOCIALJUSTICE_batch06_cards257-276.md` | 0 errors; 0264, 0266 needs_review |
+| 07 | Social Justice 277-295 + IR 296 | `polished/GS2_SOCIALJUSTICE-IR_batch07_cards277-296.md` | 0 errors; 0279, 0280, 0284, 0292, 0296 needs_review |
+| 08 | IR 297 to 316 | `polished/GS2_IR_batch08_cards297-316.md` | 0 errors; templates 0297, 0307, 0314 needs_review (0319, 0318 in batch 09) |
+| 09 | IR 317-328 + Economy 329-336 | `polished/GS2-IR_GS3-ECONOMY_batch09_cards317-336.md` | 0 errors; 0318, 0319 needs_review; 0322, 0324 untouched |
+| 10 | Economy 337 to 356 | `polished/GS3_ECONOMY_batch10_cards337-356.md` | 0 errors; about 25 warnings (light rewrite, see queue note) |
+| 11 | Economy 357-359 + Agriculture 360-376 | `polished/GS3_ECONOMY-AGRICULTURE_batch11_cards357-376.md` | 0 errors; about 20 accepted warnings (one-line examples have little room to reword) |
+| 12 | Agriculture 377-383 + Sci and Tech 384-396 | `polished/GS3_AGRICULTURE-SCITECH_batch12_cards377-396.md` | 0 errors; 0385, 0386 needs_review |
+| 13 | Sci and Tech 397 to 416 | `polished/GS3_SCITECH_batch13_cards397-416.md` | 0 errors; 0402, 0404, 0405, 0414, 0415 needs_review |
+
+## 13. How to resume (for the next agent)
+1. Read this file fully, then `review_queue.md`, then look at the last batch file as the style reference.
+2. Ask the user for the original JSON if it is not attached; set `SRC` in `convert.py`.
+3. Do the next batch (next is batch 14: cards 417 to 436, Science and Technology 417-427 and Environment 428-436): compute the subject's index range, convert 20 cards, write the polish dict, build, verify, deliver, update sections 8, 12 and `review_queue.md`.
+4. Always end your reply with the three files the user must keep: `PLAN.md`, the latest batch `.md`, and `review_queue.md` (plus `convert.py` and `verify_protected.py`).
+
+## 14. Lessons from batches 03 to 07 (read these too)
+- **Helper:** `tools/bb.py` has `build(raw_path, P, out_path)`. Each batch script defines `P` with `card(id, status, introduction=..., examples=..., conclusion=..., data=..., detail=...)`.
+  Only the blocks you pass are replaced. See `tools/build_batch07_example.py`. Card IDs use the subject's first four letters (POLI, GOVE, SOCI, INTE);
+  batches that cross a subject boundary need a prefix rule (see `build_batch04_example.py`).
+- **Workflow per batch (about 20 cards):** `python3 convert.py raw.md $(seq A B)`, read the raw cards, write the dict, build, run the verifier,
+  rewrite lines flagged as "lightly rewritten" or "long sentence", re-run, then update the plan and queue.
+- **Similarity warnings:** Aim below 0.70. Short fact lines, names and quoted phrases cannot be changed much; accept those. Fix every warning above about 0.80 and every long sentence.
+  Slogans or quoted phrases that appear in conclusion blocks (for example "Sahi Poshan, Desh Roshan") are quotes and stay untouched (similarity 1.00 is fine there).
+- **Duplicate cards are common** (same topic from different sources). Polish them with different wording so they do not look copied from each other.
+- **Do NOT fix wrong facts silently.** Keep them as written and list them in `review_queue.md` (wrong years, mismatched ranks, doubtful quotes, generic examples).
+- **Placeholder, template and cross-reference cards:** leave the placeholder text alone, polish only the real parts, set `status: needs_review`, and list them in the queue.
+- **Numbers:** keep forms like "6/7", "102/123", "120/100", "36K", "17-18", "10/15" exactly as written (the verifier compares number tokens).
+- **Do not turn a quote into a paraphrase.** Text inside quotation marks in intro, conclusion, examples or data blocks is treated as protected even if it is not in a `:::quote` block.
+- **Remaining subjects:** see the tracker in section 8 for the exact, computed card ranges. Do not guess ranges; recompute them with a short script if unsure.
+
+## 15. Lessons from batches 08 to 10
+- IDs use the paper and the first four letters of the subject, for example `GS2-INTE-0297`, `GS3-INDI-0329` (Indian Economy), `GS3-AGRI-`, `GS3-SCIE-`, `GS3-ENVI-`, `GS3-DISA-`, `GS3-INTE-` (Internal Security; note the same four letters as IR but a different paper), `GS4-ETHI-`.
+  The IDs come from `convert.py`; check one converted card to see the exact prefix before writing the batch dict.
+- **First drafts are usually too light.** In batch 08 the first draft had 32 warnings. Aim to restructure sentences (change the opening, split or merge, swap order of clauses) and not only swap words.
+  Economy cards (batch 10) are packed with bold catchphrases and one-line examples; keep the bold catchphrases but rebuild the sentence around them.
+- **Never add a number or fact.** In batch 10 the checker caught an added number ("Only 2 countries..."). The verifier compares number tokens; trust it.
+- Misplaced bold markers in the original (for example "Inclusive growth** is driven by...") should be fixed as formatting while rewriting.
+- Quotes that sit inside intro/conclusion/data blocks (for example slogans) stay exactly as written.
+- Template cards with blanks (`____`): do not invent the missing words. Polish the real parts and mark `needs_review`.
+- Long turns can be cut off by the chat. Work in batches of 20, and update `PLAN.md` and `review_queue.md` after each batch so a new agent can resume at any time.

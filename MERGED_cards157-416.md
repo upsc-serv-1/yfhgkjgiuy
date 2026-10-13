@@ -1,0 +1,7555 @@
+---
+id: GS2-POLI-0157
+paper: "GS-2"
+subject: "POLITY"
+section_group: "Constitutional Framework & Evolution"
+microtopic: "Comparison of the Indian constitutional scheme with that of other countries"
+subtopic: "Constitutional Comparison"
+card_title: "Comparison with Constitutions of Other Countries"
+card_type: structured
+sections: [quote, introduction, examples, conclusion]
+flags: []
+status: polished
+---
+
+:::quote
+"While we borrowed from many, we built for Bharat." — Dr. B.R. Ambedkar
+:::
+
+:::introduction
+India’s Constitution mixes ideas from other countries: **the UK’s parliamentary values, the US system of checks and balances, and Ireland’s DPSPs**. Together they form a **Bharatiya model**.
+:::
+
+:::examples
+- The **Law Commission** suggested adopting some AI laws from the **EU**, but only selectively.
+- In its digital privacy verdict, the **SC** referred to **US Supreme Court** precedents.
+- **NITI Aayog** used **OECD** models as a reference for cooperative federalism.
+:::
+
+:::conclusion
+Learning from the world while acting locally keeps Indian constitutionalism flexible and rooted in our culture.
+:::
+
+---
+id: GS2-POLI-0158
+paper: "GS-2"
+subject: "POLITY"
+section_group: "Constitutional Framework & Evolution"
+microtopic: "Comparison of the Indian constitutional scheme with that of other countries"
+subtopic: "Constitutional Comparison"
+card_title: "PARLIAMENTARY DEMOCRACY vs PRESIDENTIAL SYSTEM"
+card_type: structured
+sections: [quote, introduction]
+flags: []
+status: polished
+---
+
+:::quote
+"Parliamentary democracy is the bedrock of India's governance, where diverse voices converge to shape the nation's destiny." — ABV (Atal Bihari Vajpayee)
+:::
+
+:::introduction
+- **Parliamentary system:** The **PM is the head of government**, and the **executive answers to the legislature**. This system is part of the **Basic Structure**.
+- **Presidential system:** A **directly elected President** is both head of state and head of government, and the **executive works separately from the legislature**.
+:::
+
+---
+id: GS2-POLI-0159
+paper: "GS-2"
+subject: "POLITY"
+section_group: "Constitutional Framework & Evolution"
+microtopic: "Features, amendments, significant provisions and basic structure"
+subtopic: "Amendments"
+card_title: "Significant Provisions and Amendments"
+card_type: structured
+sections: [quote, introduction, examples, conclusion, image]
+flags: [has_image]
+status: polished
+---
+
+:::quote
+"Amendment is the lifeline of a living Constitution." — Nani Palkhivala
+:::
+
+:::introduction
+From “One Nation, One Tax” to women-led Viksit Bharat, **India’s amendments show a Constitution that keeps adapting** to the needs of justice, equity and development.
+:::
+
+:::examples
+- The **106th Amendment** allowed 33% reservation for women in legislatures.
+- **NITI Aayog** suggested fiscal federalism reforms through a constitutional amendment.
+- The **SC** upheld the EWS quota under **Art. 15(6)** as a reasonable classification.
+:::
+
+:::conclusion
+Amendments should serve **inclusion, not impulse**, and must be based on reason, data and the Constitution’s spirit of justice.
+:::
+
+:::image
+https://pub-cfb8b9095d7d4914990dbb6f73afeb92.r2.dev/syllabus_hierarchy/gs2/images/diagram_p4.png
+:::
+
+---
+id: GS2-POLI-0160
+paper: "GS-2"
+subject: "POLITY"
+section_group: "Constitutional Framework & Evolution"
+microtopic: "Features, amendments, significant provisions and basic structure"
+subtopic: "Case Laws"
+card_title: "BASIC STRUCTURE DOCTRINE"
+card_type: structured
+sections: [quote, introduction]
+flags: []
+status: polished
+---
+
+:::quote
+"BSD applies brakes when the engine of amending power threatens to overrun the Constitution." — Upendra Baxi
+:::
+
+:::quote
+"BSD is the Pole star which guides us when we are lost." — CJI
+:::
+
+:::introduction
+- **Context:** The VP criticised the Basic Structure Doctrine.
+- **Meaning:** The judiciary created this doctrine in the **Kesavananda Bharati (KSB) case**. It stops Parliament from misusing its power to amend the Constitution under **Art. 368**.
+:::
+
+---
+id: GS2-POLI-0161
+paper: "GS-2"
+subject: "POLITY"
+section_group: "Constitutional Framework & Evolution"
+microtopic: "Features, amendments, significant provisions and basic structure"
+subtopic: "Constitutional Morality"
+card_title: "Salient Features and Basic Structure"
+card_type: structured
+sections: [quote, introduction, examples, conclusion]
+flags: []
+status: polished
+---
+
+:::quote
+"The basic structure is the North Star of Indian democracy." — Justice D.Y. Chandrachud
+:::
+
+:::introduction
+Built on the ideals of liberty, equality and fraternity, the Indian Constitution stands for **“Nyay, not just Kanoon”**. Its basic structure keeps democracy running even when politics keeps changing.
+:::
+
+:::examples
+- The **SC** struck down electoral bonds because they violated voters’ right to information.
+- A **Parliamentary Committee** said again that secularism is central to electoral reforms.
+- **ARC-II** said constitutional morality cannot be compromised if institutions are to keep their integrity.
+:::
+
+:::conclusion
+The basic structure doctrine does not guard tradition. It guards transformation, with dignity, dissent and democracy standing watch.
+:::
+
+---
+id: GS2-POLI-0162
+paper: "GS-2"
+subject: "POLITY"
+section_group: "Constitutional Framework & Evolution"
+microtopic: "Fundamental Rights, Preamble, DPSP, Fundamental Duties, etc."
+subtopic: "DPSP"
+card_title: "DIRECTIVE PRINCIPLES of STATE POLICY (Dpsps)"
+card_type: structured
+sections: [quote, introduction]
+flags: []
+status: polished
+---
+
+:::quote
+"DPSP are life-giving provisions of the constitution." — LM Singhvi
+:::
+
+:::introduction
+**DPSPs** are **moral guidelines** given in **Part 4 (Art. 36–51)** of the Constitution. The state should follow them while governing, to achieve **socio-economic justice**. They are **non-justiciable**.
+:::
+
+---
+id: GS2-POLI-0163
+paper: "GS-2"
+subject: "POLITY"
+section_group: "Constitutional Framework & Evolution"
+microtopic: "Fundamental Rights, Preamble, DPSP, Fundamental Duties, etc."
+subtopic: "Fundamental Rights"
+card_title: "FUNDAMENTAL RIGHTS (Frs)"
+card_type: structured
+sections: [introduction, conclusion]
+flags: []
+status: polished
+---
+
+:::introduction
+- Start with the **specific article** reference.
+- **Fundamental Rights** are the basic human rights given in **Part 3 (Art. 12–35)** of the Constitution, and they are guaranteed to **all citizens**.
+:::
+
+:::conclusion
+**FRs create the conditions** for citizens’ **moral and material progress**. They also ensure **constitutionalism and limited government**, in line with “We the People.”
+:::
+
+---
+id: GS2-POLI-0164
+paper: "GS-2"
+subject: "POLITY"
+section_group: "Constitutional Framework & Evolution"
+microtopic: "Fundamental Rights, Preamble, DPSP, Fundamental Duties, etc."
+subtopic: "Fundamental Rights"
+card_title: "PREAMBLE"
+card_type: structured
+sections: [quote, introduction]
+flags: []
+status: polished
+---
+
+:::quote
+"Horoscope of our sovereign democratic republic." — KM Munshi
+:::
+
+:::introduction
+- The **introduction** to the Constitution, which explains its **philosophy and objectives**.
+- In the **LIC case** and **Kesavananda Bharati**, it was held to be part of the Constitution, but **not directly enforceable**.
+:::
+
+---
+id: GS2-POLI-0165
+paper: "GS-2"
+subject: "POLITY"
+section_group: "Constitutional Framework & Evolution"
+microtopic: "Fundamental Rights, Preamble, DPSP, Fundamental Duties, etc."
+subtopic: "Fundamental Rights"
+card_title: "RESERVATION / AFFIRMATIVE ACTION"
+card_type: structured
+sections: [quote, introduction, conclusion]
+flags: []
+status: polished
+---
+
+:::quote
+"Purpose of reservation has been stretched beyond combating discrimination & empowering marginalised to an anti-poverty measure — a load it cannot bear." — Pratap Bhanu Mehta
+:::
+
+:::quote
+"Strong consensus for weak reforms." — Montek Singh Ahluwalia
+:::
+
+:::introduction
+- **Affirmative action** is when the State acts to end **persistent discrimination** faced by a particular section of society.
+- **Context:** Haryana local job quota.
+- **Key Judgements:**
+  - **Nagraj Case:** (1) Equality is part of the Basic Structure; (2) the **Width and Identity Test**. Width: 50% limit, creamy layer, compelling reasons, administrative efficiency. Identity: BSD.
+  - **Indira Sawhney Case:** The Court struck down the **10% reservation** that Narsimha Rao gave to the General Category.
+  - **NALSA, Ram Singh vs UOI:** The State must find and recognise new emerging groups.
+:::
+
+:::conclusion
+The **Justice Ranganath Mishra Commission** suggested one **uniform set of criteria**, based on **socio-economic backwardness**.
+:::
+
+---
+id: GS2-POLI-0166
+paper: "GS-2"
+subject: "POLITY"
+section_group: "Constitutional Framework & Evolution"
+microtopic: "Fundamental Rights, Preamble, DPSP, Fundamental Duties, etc."
+subtopic: "Fundamental Rights"
+card_title: "FUNDAMENTAL DUTIES (Fds)"
+card_type: structured
+sections: [quote, introduction, conclusion]
+flags: []
+status: polished
+---
+
+:::quote
+"The true source of rights is duty." — Gandhi
+:::
+
+:::introduction
+On the recommendation of the **Swaran Singh Committee**, the **42nd Constitutional Amendment Act (CAA) 1976** added **Part 4A**. It lists the **moral obligations** of citizens towards the state and towards fellow citizens.
+:::
+
+:::conclusion
+Citizens must actually follow their duties under **Part 4A**; otherwise the promises of **Part 3 (FRs)** and **Part 4 (DPSPs)** cannot be fulfilled.
+:::
+
+---
+id: GS2-POLI-0167
+paper: "GS-2"
+subject: "POLITY"
+section_group: "Constitutional Framework & Evolution"
+microtopic: "Fundamental Rights, Preamble, DPSP, Fundamental Duties, etc."
+subtopic: "Fundamental Rights"
+card_title: "SEDITION (Section 124a IPC)"
+card_type: structured
+sections: [quote, introduction, conclusion, detail]
+flags: []
+status: polished
+---
+
+:::quote
+"124A is the prince among sections of IPC to suppress liberty of people." — Gandhiji
+:::
+
+:::introduction
+**Context:** In its **279th Report**, the Law Commission recently reviewed **S. 124A** and recommended that it be retained.
+:::
+
+:::conclusion
+- **Kishan Bhai vs State of Gujarat:** Policemen must be prosecuted if they file a chargesheet against a person they know to be innocent.
+- **“Cutting the tree vs cutting the entire forest”**: action must be proportionate.
+- **“Process becomes the punishment”**: this shows the danger of misuse.
+:::
+
+:::detail label="Key Judgements"
+- **Kedarnath vs State of Bihar, Arup Bhuyan Case:** Sedition applies **only when there is incitement to violence**.
+- **SG Vombatkere vs UOI:** The **SC** has paused the use of 124A while a review is pending. It is seen as a colonial legacy.
+:::
+
+---
+id: GS2-POLI-0168
+paper: "GS-2"
+subject: "POLITY"
+section_group: "Constitutional Framework & Evolution"
+microtopic: "Fundamental Rights, Preamble, DPSP, Fundamental Duties, etc."
+subtopic: "Fundamental Rights"
+card_title: "FREEDOM of SPEECH & EXPRESSION (FOSE) / DISSENT"
+card_type: structured
+sections: [quote, detail]
+flags: []
+status: polished
+---
+
+:::quote
+"Dissent is the Safety Valve of democracy." — DY Chandrachud
+:::
+
+:::quote
+"Main challenge to FOSE is not state-imposed restrictions but demands of masses who favor limitations of speech — Heckler's veto." — Abhinav Chandrachud, *Republic of Rhetoric*
+:::
+
+:::quote
+"Censorial powers is in the people over govt and not in govt over people."
+:::
+
+:::detail label="Key Judgements"
+- **Freedom of Speech and Expression (FOSE) rests on 2 premises:**
+  - **Instrumental value theory:** free speech is a means to an end, such as democracy, truth and art.
+  - **Intrinsic value theory:** free speech serves liberty and self-development to one’s full potential.
+:::
+
+---
+id: GS2-POLI-0169
+paper: "GS-2"
+subject: "POLITY"
+section_group: "Constitutional Framework & Evolution"
+microtopic: "Fundamental Rights, Preamble, DPSP, Fundamental Duties, etc."
+subtopic: "Fundamental Rights"
+card_title: "INTERNET SHUTDOWN"
+card_type: structured
+sections: [introduction, data, conclusion]
+flags: []
+status: polished
+---
+
+:::introduction
+- Steps taken by the government to **block or disrupt access to the internet**.
+- **Context:** Manipur internet shutdown.
+- **Anuradha Bhasin Case:** Suspending internet services for an indefinite period violates **Art. 19(1)(a) and 19(1)(g)**.
+:::
+
+:::data
+- In 2023, India recorded **116 internet disruptions**, the most in the world, according to **Access Now**.
+- The **Brookings Study 2016** estimated an economic loss of **$970 million** in 2016 from internet shutdowns.
+:::
+
+:::conclusion
+The recommendations of the **Parliamentary Standing Committee** must be followed: **clear policies and selective, targeted restrictions**.
+:::
+
+---
+id: GS2-POLI-0170
+paper: "GS-2"
+subject: "POLITY"
+section_group: "Constitutional Framework & Evolution"
+microtopic: "Fundamental Rights, Preamble, DPSP, Fundamental Duties, etc."
+subtopic: "Fundamental Rights"
+card_title: "DEFAMATION"
+card_type: structured
+sections: [introduction, conclusion]
+flags: []
+status: polished
+---
+
+:::introduction
+- **Context:** An MP was sentenced to 2 years for criminal defamation under **Sections 499 and 500 IPC** by the Surat HC.
+- Defamation is one of the **Reasonable Restrictions (RR)** under **Art. 19(2)**.
+- It means making **false statements** that harm a person’s reputation.
+- **Subramanyam Swamy Case:** The Court upheld the right to reputation under **Art. 21** and the need for constitutional fraternity.
+- A sentence above 2 years is a ground for **disqualification** under **S. 8(3) of RPA**.
+:::
+
+:::conclusion
+**Freedom comes with responsibility.** Since defamation is an enumerated RR, each case must be examined carefully to **balance Art. 19 with the right to reputation under Art. 21**.
+:::
+
+---
+id: GS2-POLI-0171
+paper: "GS-2"
+subject: "POLITY"
+section_group: "Constitutional Framework & Evolution"
+microtopic: "Fundamental Rights, Preamble, DPSP, Fundamental Duties, etc."
+subtopic: "Fundamental Rights"
+card_title: "UNIFORM CIVIL CODE (UCC)"
+card_type: structured
+sections: [quote, introduction, conclusion]
+flags: []
+status: polished
+---
+
+:::quote
+"UCC should apply only for those who are prepared to be bound by it." — Ambedkar
+:::
+
+:::introduction
+- **Art. 44** provides for a single law on personal matters, based on the idea that **religion and law have no connection** in modern civilisation.
+- **Pannalal Patil Case:** Even though a UCC is desirable, enacting it may be **counterproductive to unity**; change must come from the bottom up.
+- **Law Commission:** Differences alone do not mean discrimination; they are a sign of a healthy democracy.
+:::
+
+:::conclusion
+- Reform should be **piecemeal**, not **wholesale social engineering**.
+- **Law Commission:** In a diverse country without consensus, the best way is to **preserve diversity**. Personal laws should not go against FRs, which can be ensured by **amending inequalities**.
+:::
+
+---
+id: GS2-POLI-0172
+paper: "GS-2"
+subject: "POLITY"
+section_group: "Constitutional Framework & Evolution"
+microtopic: "Fundamental Rights, Preamble, DPSP, Fundamental Duties, etc."
+subtopic: "Fundamental Rights"
+card_title: "HATE SPEECH"
+card_type: structured
+sections: [quote, introduction]
+flags: [placeholder_blank]
+status: needs_review
+---
+
+:::quote
+"Without fraternity, liberty & equality would be no deeper than coats of paint." — Ambedkar
+:::
+
+:::introduction
+(Introductory definition to be added from notes)
+:::
+
+---
+id: GS2-POLI-0173
+paper: "GS-2"
+subject: "POLITY"
+section_group: "Constitutional Framework & Evolution"
+microtopic: "Fundamental Rights, Preamble, DPSP, Fundamental Duties, etc."
+subtopic: "Fundamental Rights"
+card_title: "DPDP Bill (Data Protection)"
+card_type: structured
+sections: [introduction, conclusion]
+flags: []
+status: polished
+---
+
+:::introduction
+- The DPDP Bill was recently passed. Its aim is to process **digital personal data** while balancing **privacy** with the need to process data for lawful purposes.
+- Data is often called the **new oil**.
+- **Big data has 4Vs**: Veracity, Volume, Variety and Velocity.
+- Under the **IT Act 2000** and **IT Rules 2021**, **S 69A** allows some websites to be banned.
+- **KS Puttaswamy:** Right to privacy has 3 tests: law, legitimate state interest and proportionality.
+:::
+
+:::conclusion
+- India should follow the **EU-GDPR model**, for example the right to be forgotten.
+- The **JPC** recommended including non-personal data in the law’s scope.
+- Apply the **9 principles of data protection** suggested by the **A P Shah committee**.
+:::
+
+---
+id: GS2-POLI-0174
+paper: "GS-2"
+subject: "POLITY"
+section_group: "Constitutional Framework & Evolution"
+microtopic: "Indian Constitution- historical underpinnings and evolution"
+subtopic: "Making of the Constitution"
+card_title: "Historical Underpinnings and Evolution"
+card_type: structured
+sections: [quote, introduction, examples, conclusion]
+flags: []
+status: polished
+---
+
+:::quote
+"Our Constitution is a testament to the sacrifices of generations who believed in justice, liberty, equality, and fraternity." — President Droupadi Murmu
+:::
+
+:::introduction
+India’s constitutional journey, from the Regulating Act to Nehru’s Objectives Resolution, shows its change from colonial rule to participatory democracy. This is the spirit of **“Raj se Samvidhan tak.”**
+:::
+
+:::examples
+- A **Law Commission** consultation paper suggested adding constitutional history to legal education reforms.
+- The **UGC** launched **‘Samvidhan Mahotsav’** in universities.
+- **NCERT** updated Class 12 Political Science by adding new modules on Constitution-making.
+:::
+
+:::conclusion
+Constitutional literacy must go beyond ceremonies and reach classrooms, civic tech and citizen charters, so that the Samvidhan becomes truly participative.
+:::
+
+---
+id: GS2-POLI-0175
+paper: "GS-2"
+subject: "POLITY"
+section_group: "Elections & Political Dynamics"
+microtopic: "Salient features of the Representation of People's Act"
+subtopic: "Election Dispute and Disqualification"
+card_title: "REPRESENTATION of People's ACT (RPA)"
+card_type: structured
+sections: [introduction, conclusion]
+flags: [same_as_above]
+status: needs_review
+---
+
+:::introduction
+Using the powers given by **Art. 327**, Parliament passed the **RPA 1951** to ensure **free and fair elections** in India.
+:::
+
+:::conclusion
+(Refer to common elections conclusion — Jimmy Carter quote.)
+:::
+
+---
+id: GS2-POLI-0176
+paper: "GS-2"
+subject: "POLITY"
+section_group: "Elections & Political Dynamics"
+microtopic: "Salient features of the Representation of People's Act"
+subtopic: "Electoral reforms"
+card_title: "Representation of People's Act"
+card_type: structured
+sections: [quote, introduction, examples, conclusion]
+flags: []
+status: polished
+---
+
+:::quote
+"The essence of democracy is free and fair elections." — S.Y. Quraishi
+:::
+
+:::introduction
+In the digital age, the RP Act keeps changing to deal with electoral bonds, voter portability and criminalisation, while protecting public trust in elections.
+:::
+
+:::examples
+- The **SC** struck down the electoral bonds scheme.
+- The **EC** came up with a remote voting prototype for migrant citizens.
+- The **Law Commission** suggested holding synchronised polls under the RP Act framework.
+:::
+
+:::conclusion
+Electoral laws must keep pace with the digital age so that voters are empowered and politics stays clean.
+:::
+
+---
+id: GS2-POLI-0177
+paper: "GS-2"
+subject: "POLITY"
+section_group: "Elections & Political Dynamics"
+microtopic: "Salient features of the Representation of People's Act"
+subtopic: "Electoral reforms"
+card_title: "WOMEN RESERVATION BILL (108th CAA)"
+card_type: structured
+sections: [introduction, conclusion]
+flags: []
+status: polished
+---
+
+:::introduction
+- The **106th CAA (Nari Shakti Vandan Adhiniyam, 2023)** provides **33% reservation** in the LS and State Legislatures for **15 years**.
+- A private member bill recently asked for the Reservation Bill to be introduced again.
+- It was criticised as “**Biwi Bahu Beti politics**”.
+:::
+
+:::conclusion
+- **UK model:** A compulsory 40% reservation inside political parties.
+- A model of **1/3rd dual-member constituencies**.
+- It is not a panacea (O ACS).
+:::
+
+---
+id: GS2-POLI-0178
+paper: "GS-2"
+subject: "POLITY"
+section_group: "Elections & Political Dynamics"
+microtopic: "Salient features of the Representation of People's Act"
+subtopic: "Electoral reforms"
+card_title: "ELECTIONS — COMMON CONCLUSION"
+card_type: structured
+sections: [quote, introduction]
+flags: []
+status: polished
+---
+
+:::quote
+"Free & Fair elections are the lifeblood of any democracy." — Jimmy Carter
+:::
+
+:::introduction
+**India is the Mother of Democracy.**
+:::
+
+---
+id: GS2-POLI-0179
+paper: "GS-2"
+subject: "POLITY"
+section_group: "Elections & Political Dynamics"
+microtopic: "Salient features of the Representation of People's Act"
+subtopic: "Electoral reforms"
+card_title: "ELECTION FUNDING & ELECTORAL BONDS"
+card_type: structured
+sections: [quote, introduction, data]
+flags: []
+status: polished
+---
+
+:::quote
+"When the power of a vote is diluted through opacity in political funding, democracy loses its intrinsic value." — Ornit Shani
+:::
+
+:::introduction
+- According to ADR, the 17th Lok Sabha had **475 crorepatis**.
+- **Electoral Bonds** were announced in Budget 2017-18 as **interest-free, anonymous financial instruments** for donating to political parties. They work like a promissory note.
+:::
+
+:::data
+- **83%** of electoral bonds came from 4 metro cities.
+- **91%** came from donations of more than ₹1 crore.
+- In 2017-18, **95%** went to the ruling party.
+:::
+
+---
+id: GS2-POLI-0180
+paper: "GS-2"
+subject: "POLITY"
+section_group: "Elections & Political Dynamics"
+microtopic: "Salient features of the Representation of People's Act"
+subtopic: "Electoral reforms"
+card_title: "SIMULTANEOUS ELECTIONS (ONE NATION ONE ELECTION)"
+card_type: structured
+sections: [introduction, conclusion]
+flags: []
+status: polished
+---
+
+:::introduction
+- This means holding **LS and State Assembly elections together (synchronised)**. It was recently recommended by the ECI, the Law Commission and the Parliamentary Standing Committee.
+- It will need amendments to **Art. 172 and Art. 83** (duration of the LS and State Legislative Assemblies) and to the RPA.
+:::
+
+:::conclusion
+**Law Commission:** Implement it in 2 phases, synchronising with the LS and with the midterm of the LS. Hold all bye-elections together in a year.
+:::
+
+---
+id: GS2-POLI-0181
+paper: "GS-2"
+subject: "POLITY"
+section_group: "Elections & Political Dynamics"
+microtopic: "Salient features of the Representation of People's Act"
+subtopic: "Electoral reforms"
+card_title: "RPA & Elections"
+card_type: structured
+sections: [quote, introduction]
+flags: []
+status: polished
+---
+
+:::quote
+"Free & Fair elections are lifeblood of any democracy" — Jimmy Carter
+:::
+
+:::introduction
+- Under **Art. 327**, Parliament passed the **RPA 1951** to ensure free and fair elections in India.
+- The world recognises India as the **mother of democracy**.
+:::
+
+---
+id: GS2-POLI-0182
+paper: "GS-2"
+subject: "POLITY"
+section_group: "Elections & Political Dynamics"
+microtopic: "Salient features of the Representation of People's Act"
+subtopic: "Electoral reforms"
+card_title: "Election Reforms"
+card_type: structured
+sections: [introduction]
+flags: []
+status: polished
+---
+
+:::introduction
+Election reforms are **positive changes** made to election processes to make democracy stronger.
+:::
+
+---
+id: GS2-POLI-0183
+paper: "GS-2"
+subject: "POLITY"
+section_group: "Elections & Political Dynamics"
+microtopic: "Salient features of the Representation of People's Act"
+subtopic: "Political Parties"
+card_title: "Anti-defection LAW (10th SCHEDULE)"
+card_type: structured
+sections: [introduction, conclusion]
+flags: []
+status: polished
+---
+
+:::introduction
+- The **52nd CAA 1985** added the **10th Schedule**, which provides for disqualification on the basis of defection, to prevent **AyaRam GayaRam politics**.
+- **Recent Examples:** In Goa (2019), **10/15** Congress MLAs joined the BJP. In Maharashtra, the government collapsed. In Karnataka, the ruling government collapsed. In Manipur, the Speaker did not disqualify.
+- In the **Kihoto Hollohan Case**, the Court upheld its constitutionality.
+:::
+
+:::conclusion
+- **Meghachandra Case:** A permanent tribunal should decide instead of the Speaker, with a **3-month time limit**.
+- **Halim Committee:** The phrase “voluntarily giving up membership” should be defined.
+- **Law Commission:** Pre-poll groupings should be treated as one party under the 10th Schedule, and the exception for mergers should be deleted.
+- **Dinesh Goswami Committee:** The whip should be limited to **vote of confidence** cases only.
+:::
+
+---
+id: GS2-POLI-0184
+paper: "GS-2"
+subject: "POLITY"
+section_group: "Elections & Political Dynamics"
+microtopic: "Salient features of the Representation of People's Act"
+subtopic: "Political Parties"
+card_title: "CRIMINALISATION of POLITICS"
+card_type: structured
+sections: [quote, introduction, data]
+flags: []
+status: polished
+---
+
+:::quote
+"Like a cancer, eating into the vitals of a democracy." — Delhi HC 2018
+:::
+
+:::introduction
+- According to the **ADR Report**, **46%** of MPs in the **18th LS** have criminal records, and **31%** have serious charges.
+- **Milan Vaishnav:** The link between crime and politics has moved from a nexus to **vertical integration**.
+:::
+
+:::data
+- In the **18th LS**, **46%** of MPs have criminal records and **31%** face serious charges (**ADR Report**).
+:::
+
+---
+id: GS2-POLI-0185
+paper: "GS-2"
+subject: "POLITY"
+section_group: "Elections & Political Dynamics"
+microtopic: "Salient features of the Representation of People's Act"
+subtopic: "Political Parties"
+card_title: "Electoral Funding & Bonds"
+card_type: structured
+sections: [quote, introduction, data]
+flags: []
+status: polished
+---
+
+:::quote
+"When the power of a vote is diluted through opacity in political funding, democracy loses its intrinsic value" — Ornit Shani
+:::
+
+:::introduction
+**Electoral Bonds** were announced in Budget 17-18 as **interest-free financial instruments** for anonymous donations.
+:::
+
+:::data
+- ADR reported **475 crorepatis** in the 17th Lok Sabha.
+- In 17-18, **95%** went to the ruling party.
+- **83%** came from 4 metro cities.
+:::
+
+---
+id: GS2-POLI-0186
+paper: "GS-2"
+subject: "POLITY"
+section_group: "Federal Structure & Local Governance"
+microtopic: "Devolution of powers and finances up to local levels and challenges therein"
+subtopic: "Local Self Government"
+card_title: "Devolution of Powers to Local Governments"
+card_type: structured
+sections: [quote, introduction, examples, conclusion, image]
+flags: [has_image]
+status: polished
+---
+
+:::quote
+"Democracy at the grassroots is democracy at its strongest." — Mahatma Gandhi
+:::
+
+:::introduction
+From digital panchayats to SDGs linked with urban devolution, India is moving towards **Jan Bhagidari se Jan Governance**. This makes decentralisation more than tokenism.
+:::
+
+:::examples
+- The MoPR launched **e-GramSwaraj 2.0**, which includes spatial planning tools.
+- The MoHUA linked urban devolution funds to service-level benchmarks.
+- The **15th Finance Commission** gave incentives through performance-based grants to panchayats.
+:::
+
+:::conclusion
+Democracies become strong from the bottom up, by building institutions that bring service delivery, voice and accountability close to people.
+:::
+
+:::image
+https://pub-cfb8b9095d7d4914990dbb6f73afeb92.r2.dev/syllabus_hierarchy/gs2/images/diagram_p6.png
+:::
+
+---
+id: GS2-POLI-0187
+paper: "GS-2"
+subject: "POLITY"
+section_group: "Federal Structure & Local Governance"
+microtopic: "Devolution of powers and finances up to local levels and challenges therein"
+subtopic: "Local Self Government"
+card_title: "PANCHAYATI RAJ INSTITUTIONS (Pris)"
+card_type: structured
+sections: [quote, introduction, data, conclusion, detail]
+flags: []
+status: polished
+---
+
+:::quote
+"Future of India lies in its villages." — Gandhiji
+:::
+
+:::introduction
+- The **73rd and 74th CAA 1992** gave PRIs constitutional status, to fulfil the vision of **Art. 40**: democratic decentralisation for **grass-roots democracy**.
+- **Art. 243 – 243O** cover rural bodies and **Art. 243P – 243ZG** cover urban bodies.
+- **Best Practices (BPs):**
+  - Gram Panchayat Model Citizen Charter
+  - **Kerala** (activity mapping)
+  - **15th FC** (₹1.42 lakh crore for panchayats)
+  - **Karnataka** (separate bureaucratic cadre)
+  - Bellandur (live TV telecast of panchayat meetings)
+  - **AP** (Village Volunteer and Secretariat)
+:::
+
+:::data
+- ₹1.42 lakh crore was allocated to panchayats by the **15th FC**.
+:::
+
+:::conclusion
+When local bodies are empowered, they can drive **triple-engine growth**.
+:::
+
+:::detail label="Attached points"
+- Move from **3F to the 4th F**, which is Functionality, and build **Cooperative Sub-Federalism**.
+- **“Gram Uday se Bharat Uday”**: since 65% of India lives in villages, PRIs can play a key role.
+:::
+
+---
+id: GS2-POLI-0188
+paper: "GS-2"
+subject: "POLITY"
+section_group: "Federal Structure & Local Governance"
+microtopic: "Functions and responsibilities of the Union and the States"
+subtopic: "Emergency"
+card_title: "EMERGENCY PROVISIONS"
+card_type: structured
+sections: [introduction, conclusion]
+flags: []
+status: polished
+---
+
+:::introduction
+**Part XVIII (Art. 352–360)** of the Constitution allows an emergency to be imposed in **extraordinary situations** that normal administrative systems cannot handle.
+:::
+
+:::conclusion
+Emergency provisions make a **sui generis Constitution** flexible by design (**built-in flexibility**). They protect the democratic political system, financial stability, and the nation’s sovereignty, unity and integrity.
+:::
+
+---
+id: GS2-POLI-0189
+paper: "GS-2"
+subject: "POLITY"
+section_group: "Federal Structure & Local Governance"
+microtopic: "Issues and challenges pertaining to the federal structure"
+subtopic: "Federalism"
+card_title: "Federal Structure & Centre-State Relations"
+card_type: structured
+sections: [quote, introduction, examples, conclusion, image]
+flags: [has_image]
+status: polished
+---
+
+:::quote
+"Cooperative federalism is not a choice; it is a constitutional compulsion." — PM Narendra Modi
+:::
+
+:::introduction
+Through platforms like NITI Aayog and PM Gati Shakti, **India’s federalism is moving from confrontation to convergence**. This supports the idea of **“One India, Inclusive India.”**
+:::
+
+:::examples
+- The **Finance Commission** pointed out delays in GST compensation.
+- The **Inter-State Council** was revived with a new agenda.
+- The MoHUA allowed urban funds that are linked to SDG localisation.
+:::
+
+:::conclusion
+India’s unity will rest on **“Sahyog se Samriddhi”**. Legal boundaries are not enough; fiscal trust and a cooperative temperament matter too.
+:::
+
+:::image
+https://pub-cfb8b9095d7d4914990dbb6f73afeb92.r2.dev/syllabus_hierarchy/gs2/images/diagram_p5.png
+:::
+
+---
+id: GS2-POLI-0190
+paper: "GS-2"
+subject: "POLITY"
+section_group: "Federal Structure & Local Governance"
+microtopic: "Issues and challenges pertaining to the federal structure"
+subtopic: "Federalism"
+card_title: "FEDERALISM"
+card_type: structured
+sections: [quote, introduction, conclusion]
+flags: []
+status: polished
+---
+
+:::quote
+"Cooperative federalism will be the key to sustain India's unity, integrity & socio-economic development in the future." — Punchhi Commission
+:::
+
+:::introduction
+- Federalism is the **constitutional division of powers** between 2 or more levels of government.
+- **Key thinkers:** KC Wheare (quasi-federal), Morris Jones (bargaining federalism) and SR Bommai (federalism is part of the **Basic Structure**).
+:::
+
+:::conclusion
+Too much centralisation leads to **blood pressure at the Centre and anaemia at the periphery**.
+:::
+
+---
+id: GS2-POLI-0191
+paper: "GS-2"
+subject: "POLITY"
+section_group: "Federal Structure & Local Governance"
+microtopic: "Issues and challenges pertaining to the federal structure"
+subtopic: "Union Territory"
+card_title: "DELHI GNCTD / NCT ORDINANCE ISSUE"
+card_type: structured
+sections: [quote, introduction]
+flags: []
+status: polished
+---
+
+:::quote
+"Cooperative federalism envisages that Centre & States must iron out their differences through negotiation & conciliation." — SC
+:::
+
+:::introduction
+- The **Delhi Services Bill** was recently passed using the powers under **Art. 239AA(3)(b)**, which allow Parliament to frame laws beyond the 3 matters in any List.
+- **Govt of NCT Delhi vs UOI:** The Delhi government has legislative and administrative powers, along with the triple chain of collective responsibility. Without a law or constitutional provision, the Central Government’s powers extend only to 3 areas: land, police and public order.
+:::
+
+---
+id: GS2-POLI-0192
+paper: "GS-2"
+subject: "POLITY"
+section_group: "Federal Structure & Local Governance"
+microtopic: "Issues and challenges pertaining to the federal structure"
+subtopic: "Union Territory"
+card_title: "Delhi GNTD (Ordinance)"
+card_type: structured
+sections: [introduction, conclusion]
+flags: []
+status: polished
+---
+
+:::introduction
+- The **Delhi Services Bill** was recently passed under the powers in **239AA(3)(b)**. Parliament can frame laws beyond 3 matters in any list.
+- **Govt of NCT Delhi vs. UOI**: The Delhi government has legislative and administrative powers, along with the triple chain of collective responsibility.
+:::
+
+:::conclusion
+The **SC** said that **cooperative federalism** expects the Centre and the states to settle their differences through negotiation and conciliation.
+:::
+
+---
+id: GS2-POLI-0193
+paper: "GS-2"
+subject: "POLITY"
+section_group: "Organs of Government & Dispute Redressal"
+microtopic: "Parliament and State Legislatures - structure, functioning, conduct of business, powers & privileges and issues arising out of these"
+subtopic: "Bicameralism"
+card_title: "RAJYA SABHA"
+card_type: structured
+sections: [quote, introduction, data, conclusion]
+flags: []
+status: polished
+---
+
+:::quote
+"RS may be the second house but no one should think of it as a secondary house." — ABV
+:::
+
+:::introduction
+- **Art. 80** provides for the **Rajya Sabha**, the second chamber that represents the **states and union territories**.
+- Ambedkar sat in the RS.
+- **Kuldeep Nayar vs UOI:** The question of duplication with the LS came up.
+:::
+
+:::data
+- **40%** of the time was lost to disruptions.
+- Sachin Tendulkar’s attendance was 24 out of 374 days.
+- In 60 years, there have been only **3 joint sittings**.
+:::
+
+:::conclusion
+- In recent years, it has moved from a “**useless stepney tyre**” to the “**most useful supporting organ**”.
+- **UK model:** An appointments committee selects the nominated members.
+- **Punchhi Commission:** Add a domicile requirement and give states equal representation.
+:::
+
+---
+id: GS2-POLI-0194
+paper: "GS-2"
+subject: "POLITY"
+section_group: "Organs of Government & Dispute Redressal"
+microtopic: "Parliament and State Legislatures - structure, functioning, conduct of business, powers & privileges and issues arising out of these"
+subtopic: "Bicameralism"
+card_title: "LEGISLATIVE COUNCIL (VIDHAN PARISHAD)"
+card_type: structured
+sections: [introduction, conclusion]
+flags: []
+status: polished
+---
+
+:::introduction
+- India has a bicameral system at both the Centre and state levels. The **Vidhan Parishad** is the upper house of a state, and the **Vidhan Sabha** is the lower house.
+- **Art. 169** deals with the creation and abolition of State Legislative Councils (TUMBAK states).
+- New resolutions have come from Andhra Pradesh, Odisha and Rajasthan.
+:::
+
+:::conclusion
+Councils should be given powers similar to the Rajya Sabha. A **national plan for the creation and abolition** of State Legislative Councils should also be made.
+:::
+
+---
+id: GS2-POLI-0195
+paper: "GS-2"
+subject: "POLITY"
+section_group: "Organs of Government & Dispute Redressal"
+microtopic: "Parliament and State Legislatures - structure, functioning, conduct of business, powers & privileges and issues arising out of these"
+subtopic: "Parliamentary Committees"
+card_title: "PARLIAMENTARY COMMITTEES"
+card_type: structured
+sections: [quote, introduction, conclusion]
+flags: []
+status: polished
+---
+
+:::quote
+"Parliamentary committees bridge the gap between lawmakers and citizens, translating aspirations into effective governance." — P. Chidambaram
+:::
+
+:::introduction
+- A parliamentary committee is a panel of MPs. It is appointed to bring about:
+  - **Close parliamentary oversight** of executive action, and deliberative democracy
+  - Sharing of **constructive feedback**, along with checks and balances
+  - **Consultation** with stakeholders
+  - **Convergence** of different viewpoints
+:::
+
+:::conclusion
+These can be remembered as the **4 Cs**: Consultation, Convergence, Checks and Balances, and Constructive feedback.
+:::
+
+---
+id: GS2-POLI-0196
+paper: "GS-2"
+subject: "POLITY"
+section_group: "Organs of Government & Dispute Redressal"
+microtopic: "Parliament and State Legislatures - structure, functioning, conduct of business, powers & privileges and issues arising out of these"
+subtopic: "Parliamentary Privileges"
+card_title: "PARLIAMENTARY PRIVILEGES"
+card_type: structured
+sections: [introduction, conclusion]
+flags: []
+status: polished
+---
+
+:::introduction
+- Legislators individually and the House collectively enjoy **special immunities or concessions** (**Art. 105, 194**), which help them do their work.
+- **Searchlight Case:** Judicial review does not apply.
+- **Raja Ram Pal Case:** The protection does not cover unconstitutional acts.
+:::
+
+:::conclusion
+The **NCRWC** favoured **codification** of privileges by an independent body of experts, in an open-ended manner, and a stronger Privileges Committee.
+:::
+
+---
+id: GS2-POLI-0197
+paper: "GS-2"
+subject: "POLITY"
+section_group: "Organs of Government & Dispute Redressal"
+microtopic: "Parliament and State Legislatures - structure, functioning, conduct of business, powers & privileges and issues arising out of these"
+subtopic: "Presiding Officers"
+card_title: "SPEAKER of LOK SABHA"
+card_type: structured
+sections: [quote, introduction, detail]
+flags: []
+status: polished
+---
+
+:::quote
+"In a parliamentary democracy, the speaker represents the dignity & freedom of the house." — Nehru
+:::
+
+:::introduction
+- The Speaker is the **constitutional and ceremonial head of the LS** under **Art. 93**. The Speaker presides over the day-to-day functioning of the House.
+- **Context:** The Maharashtra Speaker was accused. The Manipur Assembly Speaker gave no decision on defection. The Karnataka Speaker did not accept the resignation of ruling party MLAs. An MP from TS used pepper spray in the LS.
+- **Megha Chandra Singh vs MN Assembly:** The decision must be taken within a reasonable time.
+:::
+
+:::detail label="Attached points"
+- N Sanjeeva Reddy and Somnath Chatterjee said we should “build a healthy convention by appointing persons with integrity.”
+- **Dinesh Goswami Committee:** A 2nd term should be uncontested.
+:::
+
+---
+id: GS2-POLI-0198
+paper: "GS-2"
+subject: "POLITY"
+section_group: "Organs of Government & Dispute Redressal"
+microtopic: "Parliament and State Legislatures - structure, functioning, conduct of business, powers & privileges and issues arising out of these"
+subtopic: "Role of MPs"
+card_title: "PARLIAMENT (GENERAL)"
+card_type: structured
+sections: [introduction, data, conclusion]
+flags: []
+status: polished
+---
+
+:::introduction
+- **Parliament (Part 5 — Art. 79–123)** is India’s **bicameral legislative organ**, working under the parliamentary or “Westminster” form of government that India has adopted.
+- The **Lok Sabha (Art. 81)** is the lower house.
+:::
+
+:::data
+- PSC reference: Women MPs went from **27% (15th LS)** to the current figure.
+- **Question Hour:** 47% was used in the 19th LS, and 40% of questions went unanswered.
+- **Sittings:** fell from 150 days (1950) to 67 days (2014-19).
+- **Money Bills:** rose from 6/year to 11/year.
+- **16th LS Disruptions:** 19% of the scheduled time was lost.
+- **Women MPs:** make up 15%.
+- **MPs with criminal records:** rose from 30% (2009) to 43% (2013).
+- **Cost of disruptions:** ₹2.5 lakh for every minute.
+:::
+
+:::conclusion
+- Parliament needs to change. It should move from a forum for “**adversarial combat with politics focus**” to one of “**deliberative democracy with policy focus**.”
+- **NCRWC:** Parliament should sit for a minimum of **120/100 days**.
+:::
+
+---
+id: GS2-POLI-0199
+paper: "GS-2"
+subject: "POLITY"
+section_group: "Organs of Government & Dispute Redressal"
+microtopic: "Pressure groups and formal/informal associations and their role in the Polity"
+subtopic: "Informal associations and their role in polity"
+card_title: "MEDIA & PRESS FREEDOM"
+card_type: structured
+sections: [quote, introduction, detail]
+flags: []
+status: polished
+---
+
+:::quote
+"A free press should neither be an ally nor an adversary but a constructive critic." — Gandhiji
+:::
+
+:::introduction
+- **Context:** In the *Madhyamam Broadcasting Ltd case*, the SC quashed the ban on MediaOne TV. It said: “Homogenised views on issues pose grave dangers to democracy.”
+- **2 Pluralisms of Press:**
+  - **Internal pluralism:** space on air for marginalised sections
+  - **External pluralism:** a plurality of news suppliers (e.g., Corporatisation)
+:::
+
+:::detail label="BJ Verghese Committee"
+- **Windhoek Declaration:** It promotes an independent press and pluralism.
+:::
+
+---
+id: GS2-POLI-0200
+paper: "GS-2"
+subject: "POLITY"
+section_group: "Organs of Government & Dispute Redressal"
+microtopic: "Pressure groups and formal/informal associations and their role in the Polity"
+subtopic: "Informal associations and their role in polity"
+card_title: "SOCIAL MEDIA"
+card_type: structured
+sections: [quote, introduction, data]
+flags: []
+status: polished
+---
+
+:::quote
+"Social media is a double-edged sword." — Noam Chomsky
+:::
+
+:::introduction
+- Social media means apps and websites that allow people to create and exchange **user-generated content**. Its **3 Cs** are Conversations, Community and Connectedness.
+- **IT Rules 2021:** They require traceability and due diligence by social media companies, which is **soft-touch regulation**.
+- **Keywords:** Digital un-democracy, Surveillance capitalism, Cyber marginalisation, Doom scrolling, Phubbing, E-mental health.
+:::
+
+:::data
+- According to IAMAI (2024), there are **82 crore active internet users**. NITI Aayog projects that the gig workforce will expand to **2.35 crore by 2029-30**.
+:::
+
+---
+id: GS2-POLI-0201
+paper: "GS-2"
+subject: "POLITY"
+section_group: "Organs of Government & Dispute Redressal"
+microtopic: "Pressure groups and formal/informal associations and their role in the Polity"
+subtopic: "Pressure Groups"
+card_title: "Role of Pressure Groups and Associations"
+card_type: structured
+sections: [quote, introduction, examples, conclusion]
+flags: []
+status: polished
+---
+
+:::quote
+"In democracy, even silence can organise into influence." — Granville Austin
+:::
+
+:::introduction
+Farmer unions have gradually given way to digital advocacy groups. Informal networks now shape policy, and democracy is expanding from Jan Andolan to Jan Nirnay.
+:::
+
+:::examples
+- The **NCW** worked with CSOs to build an anti-cyberbullying framework.
+- Startup associations influenced the regulatory sandbox policies of the **DPIIT**.
+- Farmers’ collectives held talks with the MSP reform committee.
+:::
+
+:::conclusion
+Democracy grows stronger when institutions listen to voices outside their offices, in forums, movements and feedback platforms.
+:::
+
+---
+id: GS2-POLI-0202
+paper: "GS-2"
+subject: "POLITY"
+section_group: "Organs of Government & Dispute Redressal"
+microtopic: "Pressure groups and formal/informal associations and their role in the Polity"
+subtopic: "Pressure Groups"
+card_title: "Pressure Groups"
+card_type: structured
+sections: [introduction, conclusion]
+flags: []
+status: polished
+---
+
+:::introduction
+A pressure group is an **organised group** that tries to influence the policies or actions of the government.
+:::
+
+:::conclusion
+India should promote more **broad-based, inclusive and institutionalised** pressure groups, to deepen participative democracy.
+:::
+
+---
+id: GS2-POLI-0203
+paper: "GS-2"
+subject: "POLITY"
+section_group: "Organs of Government & Dispute Redressal"
+microtopic: "Separation of powers between different organs"
+subtopic: "Executive Vs Judiciary"
+card_title: "JUDICIAL ACTIVISM & OVERREACH"
+card_type: structured
+sections: [introduction, conclusion]
+flags: []
+status: polished
+---
+
+:::introduction
+- **Activism** means courts act in the public interest when the Executive and the Legislature fail to step in. It follows the court’s **guardian ethic** (e.g., Vishakha Guidelines).
+- **Overreach** means breaching the separation of powers (SOP). Courts openly interfere in the domain of the Executive or Legislature and replace them.
+:::
+
+:::conclusion
+**Premchand Garg Case:** Courts should **supplement, not supplant**. They should hold the other organs accountable and step in only when absolutely necessary.
+:::
+
+---
+id: GS2-POLI-0204
+paper: "GS-2"
+subject: "POLITY"
+section_group: "Organs of Government & Dispute Redressal"
+microtopic: "Separation of powers between different organs"
+subtopic: "Separation of Powers"
+card_title: "Separation of Powers and Dispute Redressal"
+card_type: structured
+sections: [quote, introduction, examples, conclusion]
+flags: []
+status: polished
+---
+
+:::quote
+"No organ can claim supremacy, only harmony." — Justice R.F. Nariman
+:::
+
+:::introduction
+India’s democracy is protected by a carefully balanced separation of powers. Checks and balances ensure that **Samvaad, not Sangharsh**, defines the relations between institutions.
+:::
+
+:::examples
+- An **SC** ruling upheld the independence of tribunals in the setup of the GST Appellate Tribunal.
+- The **Lokpal** released its first digital annual report.
+- The **Ministry of Law** proposed reforms in the mediation bill.
+:::
+
+:::conclusion
+Checks and balances need regular adjustment to keep the constitutional balance.
+:::
+
+---
+id: GS2-POLI-0205
+paper: "GS-2"
+subject: "POLITY"
+section_group: "Organs of Government & Dispute Redressal"
+microtopic: "Separation of powers between different organs"
+subtopic: "Separation of Powers"
+card_title: "SEPARATION of POWERS"
+card_type: structured
+sections: [quote, introduction]
+flags: []
+status: polished
+---
+
+:::quote
+"Separation of Powers is essential for constitutionalism." — Coelho Case
+:::
+
+:::introduction
+- It is the division of **Legislative, Executive and Judicial** functions, so that no single organ can act in an arbitrary manner (**Art. 50**).
+- **Kesavananda Bharati & Indira Gandhi vs Raj Narain:** Separation of powers is part of the **Basic Structure**.
+:::
+
+---
+id: GS2-POLI-0206
+paper: "GS-2"
+subject: "POLITY"
+section_group: "Organs of Government & Dispute Redressal"
+microtopic: "Structure, organization and functioning of the Executive"
+subtopic: "Union Executive"
+card_title: "Ministries and Departments of the Government"
+card_type: structured
+sections: [quote, introduction, examples, conclusion]
+flags: []
+status: polished
+---
+
+:::quote
+"A government is only as good as its coordination." — NITI Aayog Strategy Document
+:::
+
+:::introduction
+Ministries are moving **from silos to synergy**, from the **Viksit Bharat Sankalp Yatra** to integrated dashboards. This supports evidence-based governance and citizen-centric service delivery.
+:::
+
+:::examples
+- Grievance redress was integrated with **CPGRAMS 3.0** by the **MEITY**.
+- The **MoLE** connected **e-Shram** to the **PM-SVANidhi** database.
+- The **MoSPI** brought ministry KPIs in line with SDG targets.
+:::
+
+:::conclusion
+Smooth service delivery needs convergence of data, design and development thinking across ministries.
+:::
+
+---
+id: GS2-POLI-0207
+paper: "GS-2"
+subject: "POLITY"
+section_group: "Organs of Government & Dispute Redressal"
+microtopic: "Structure, organization and functioning of the Executive"
+subtopic: "Union Executive"
+card_title: "ORDINANCES (Art. 123 & 213)"
+card_type: structured
+sections: [introduction, conclusion]
+flags: []
+status: polished
+---
+
+:::introduction
+- **Art. 123 and 213** give the **President/Governor** the extraordinary power to make laws by ordinance when the Legislature is in recess, to deal with unforeseen circumstances.
+- **DC Wadhwa Case.**
+- **Krishna Kumar Singh Case:** The Court can question the wisdom of an ordinance and reverse it. The power is not absolute.
+:::
+
+:::conclusion
+**NCRWC:** The President should be careful and use this power only in special circumstances. The review period should be reduced from **6 weeks to 1 week**.
+:::
+
+---
+id: GS2-POLI-0208
+paper: "GS-2"
+subject: "POLITY"
+section_group: "Organs of Government & Dispute Redressal"
+microtopic: "Structure, organization and functioning of the Executive"
+subtopic: "Union Executive"
+card_title: "OFFICE of PROFIT (OOP)"
+card_type: structured
+sections: [introduction, conclusion]
+flags: []
+status: polished
+---
+
+:::introduction
+- **Art. 102 and 191** provide for disqualification of MPs/MLAs who hold an office of profit (**OOP**) under the government. Certain offices are exempt, as declared under the **OOP Act 1959**.
+- **Pradyut Bordoloi vs Swapan Roy:** The SC outlined what counts as an OOP.
+- **Jaya Bachchan vs UOI:** An office is an OOP if it is capable of yielding profit or pecuniary gain. It does not matter if the profit is not actually received.
+- Specialists get a chance to join, for example Atishi Marlena (an educator who joined for ₹1).
+:::
+
+:::conclusion
+- **UK best practice (BP):** Whenever a new office comes up, a committee takes the decision in advance.
+- A **Joint committee on OOP** decides whether an office qualifies as an OOP or not.
+- **2nd ARC:** The focus is on offices involved in executive decision-making, control over public funds, etc.
+:::
+
+---
+id: GS2-POLI-0209
+paper: "GS-2"
+subject: "POLITY"
+section_group: "Organs of Government & Dispute Redressal"
+microtopic: "Structure, organization and functioning of the Executive"
+subtopic: "Union Executive"
+card_title: "GOVERNOR"
+card_type: structured
+sections: [quote, introduction]
+flags: []
+status: polished
+---
+
+:::quote
+"Governor's actions must be tempered with caution, dictated by reason & activated in good faith." — Sarkaria Commission
+:::
+
+:::introduction
+- **Art. 153:** The Governor is the **nominal executive head** of the state, and also acts as an **agent of the Centre**.
+- **Key Judgements:**
+  - **Nabam Rabia & Shamsher Singh Case:** The Governor’s discretion under Art. 163 is **limited**.
+  - **Hung Assembly — Rameshwar Prasad Case:** The Governor must follow the prescribed order.
+  - **President’s Rule — Sarkaria Commission:** Use it only in the rarest of rare cases, and after a warning; see the **SR Bommai Case.**
+  - **Appointment — Sarkaria:** A non-political person should be appointed (**Art. 155**).
+  - **Removal — Surya Narain Case.**
+:::
+
+---
+id: GS2-POLI-0210
+paper: "GS-2"
+subject: "POLITY"
+section_group: "Organs of Government & Dispute Redressal"
+microtopic: "Structure, organization and functioning of the Judiciary (including Tribunals & ADR)"
+subtopic: "Alternate Dispute Resolution"
+card_title: "CONTEMPT of COURT"
+card_type: structured
+sections: [quote, introduction, conclusion]
+flags: []
+status: polished
+---
+
+:::quote
+"Judiciary must earn respect through broad-shouldered approach & not command it by imposing contempt." — Rajesh Kumar Case
+:::
+
+:::introduction
+- **Art. 129 and 215**, along with the **Contempt of Courts Act 1971**, give courts civil and criminal powers of contempt.
+- **Criminal contempt (SODI):** Scandalising, Obstructing, Disrespecting and Interfering in the administration.
+- **Examples:** Prashant Bhushan and Justice Karnan (6 months in jail).
+:::
+
+:::conclusion
+- Mention the **amendment to the Contempt of Court Bill 2013**.
+- **S. Malgaonkar Judgement:** The judiciary cannot claim immunity from fair and genuine criticism.
+- **Law Commission:** Contempt should be limited to civil contempt.
+:::
+
+---
+id: GS2-POLI-0211
+paper: "GS-2"
+subject: "POLITY"
+section_group: "Organs of Government & Dispute Redressal"
+microtopic: "Structure, organization and functioning of the Judiciary (including Tribunals & ADR)"
+subtopic: "Judiciary"
+card_title: "CRIMINAL JUSTICE SYSTEM (COMMON)"
+card_type: structured
+sections: [quote, introduction]
+flags: []
+status: polished
+---
+
+:::quote
+"Justice is not simply punishing the guilty, but also defending the innocent and ensuring due process for all." — Kofi Annan
+:::
+
+:::introduction
+India’s **criminal justice system** is the framework and processes used to deal with **criminal offences** and to ensure that justice is done.
+:::
+
+---
+id: GS2-POLI-0212
+paper: "GS-2"
+subject: "POLITY"
+section_group: "Organs of Government & Dispute Redressal"
+microtopic: "Structure, organization and functioning of the Judiciary (including Tribunals & ADR)"
+subtopic: "Judiciary"
+card_title: "POLICE REFORMS"
+card_type: structured
+sections: [introduction, data, conclusion]
+flags: []
+status: polished
+---
+
+:::introduction
+- The PM recently recommended **prison reforms and the repeal of obsolete criminal laws**.
+- **Suggestions:** Prakash Singh Case, **Model Police Act 2015**.
+- **Steps taken:** POLNET, CCTNS and the Modernisation of Police Force Scheme.
+- **Best practice (BP):** Janamaithri (Kerala).
+:::
+
+:::data
+- According to BPR&D, police strength is **152.80/lakh** against **196.23 sanctioned**.
+- **36K cases** of custodial torture are pending with the NHRC.
+- Police spending is **3% of government spending**.
+- There is a weaponry shortage of **75% in Rajasthan**.
+- **BPRD:** 68% of SHOs said their subordinates are overworked (more than 11 hours).
+- **Poor investigation quality:** The conviction rate is 47%, and 21% for women.
+:::
+
+:::conclusion
+**SMART Policing** means a representative and sensitised police force.
+:::
+
+---
+id: GS2-POLI-0213
+paper: "GS-2"
+subject: "POLITY"
+section_group: "Organs of Government & Dispute Redressal"
+microtopic: "Structure, organization and functioning of the Judiciary (including Tribunals & ADR)"
+subtopic: "Judiciary"
+card_title: "PRISON REFORMS"
+card_type: structured
+sections: [introduction, data, conclusion]
+flags: []
+status: polished
+---
+
+:::introduction
+- The **Amitava Roy Committee** pointed out various issues.
+- **Best practices (BPs):** Bandi Panchayat and **Open Prisons (Rajasthan)**.
+:::
+
+:::data
+- Prison occupancy is **131.4%**.
+- According to the NCRB PSI, **75.8%** of prisoners are undertrials.
+- 1/3rd of staff posts are vacant, and female staff are 10%.
+:::
+
+:::conclusion
+- Follow the **UN Standard Minimum Rules** for the treatment of prisoners.
+- **Suggestions:** Model Prison Manual 2016; **Art. 39A** (free legal aid).
+- **AN Mulla Committee:** It recommended All India Prison Services.
+- **Charles Sobhraj Case:** Human rights must be upheld even in prison, with a role for the NHRC and SHRC.
+:::
+
+---
+id: GS2-POLI-0214
+paper: "GS-2"
+subject: "POLITY"
+section_group: "Organs of Government & Dispute Redressal"
+microtopic: "Structure, organization and functioning of the Judiciary (including Tribunals & ADR)"
+subtopic: "Judiciary"
+card_title: "ALL INDIA JUDICIAL SERVICE (AIJS)"
+card_type: structured
+sections: [introduction, data, conclusion]
+flags: []
+status: polished
+---
+
+:::introduction
+- It is a **centralised cadre** of district judges. They are recruited through an **All India Exam** and allotted to states, like the AIS (**Art. 312**).
+- It was recommended by the **Jagannath Shetty Commission**.
+- **Art. 233:** The Governor appoints district judges in consultation with the HC.
+:::
+
+:::data
+- There are **5000 vacancies** in the district judiciary.
+- Even the AIS has **25% vacancies**.
+:::
+
+:::conclusion
+**Training in language and customs**, and involving the states, is essential.
+:::
+
+---
+id: GS2-POLI-0215
+paper: "GS-2"
+subject: "POLITY"
+section_group: "Organs of Government & Dispute Redressal"
+microtopic: "Structure, organization and functioning of the Judiciary (including Tribunals & ADR)"
+subtopic: "Judiciary"
+card_title: "JUDICIAL ISSUES — GENERAL CONCLUSION"
+card_type: structured
+sections: [quote, introduction]
+flags: []
+status: untouched
+---
+
+:::quote
+"A robust judiciary is essential for upholding the rights of citizens and for holding those in power accountable for their actions." — Soli J. Sorabjee
+:::
+
+:::introduction
+(Use specific sub-topics — see below)
+:::
+
+---
+id: GS2-POLI-0216
+paper: "GS-2"
+subject: "POLITY"
+section_group: "Organs of Government & Dispute Redressal"
+microtopic: "Structure, organization and functioning of the Judiciary (including Tribunals & ADR)"
+subtopic: "Judiciary"
+card_title: "JUDICIAL ACCOUNTABILITY"
+card_type: structured
+sections: [quote, introduction, conclusion]
+flags: []
+status: polished
+---
+
+:::quote
+"Accountability & integrity increase a court's prestige & faith rather than reducing it." — Justice Hidayatullah, in Naresh Sridhar Case
+:::
+
+:::introduction
+- **Instances of accountability concerns:**
+  - **Justice Gogoi:** Sexual harassment case, contempt, and later appointment to the RS.
+  - **Secrecy:** The Master of Roster controversy (Justice Deepak Mishra).
+:::
+
+:::conclusion
+**Suggestions:**
+- **ARC:** Judicial Lokpal and a Judicial Code of Conduct.
+- **NITI:** Judicial Performance Index.
+- **Judicial Standards & Accountability Bill 2010.**
+:::
+
+---
+id: GS2-POLI-0217
+paper: "GS-2"
+subject: "POLITY"
+section_group: "Organs of Government & Dispute Redressal"
+microtopic: "Structure, organization and functioning of the Judiciary (including Tribunals & ADR)"
+subtopic: "Judiciary"
+card_title: "WOMEN in JUDICIARY"
+card_type: structured
+sections: [quote, introduction, data, conclusion]
+flags: []
+status: polished
+---
+
+:::quote
+"Women belong in all places where decisions are being made." — Ruth Bader Ginsburg
+:::
+
+:::introduction
+- CJI NV Ramana spoke of the need for **50% reservation for women in the judiciary**.
+- Women are **only 13.5%** of judges in HCs, and India has **never had a female CJI**.
+- Women are only **15%** of lawyers.
+- Justice BV Nagarathna said it enhances “**democratic legitimacy**.”
+:::
+
+:::data
+- Women make up **13.5%** of judges in HCs.
+- Women make up **15%** of lawyers.
+:::
+
+:::conclusion
+**Best practice (BP):** States like AS and AP have reservation for women in the lower judiciary (**40-50% representation**).
+:::
+
+---
+id: GS2-POLI-0218
+paper: "GS-2"
+subject: "POLITY"
+section_group: "Organs of Government & Dispute Redressal"
+microtopic: "Structure, organization and functioning of the Judiciary (including Tribunals & ADR)"
+subtopic: "Judiciary"
+card_title: "COLLEGIUM SYSTEM"
+card_type: structured
+sections: [quote, introduction]
+flags: []
+status: polished
+---
+
+:::quote
+"There is a need for accountability & transparency in the judicial appointment process." — Retd. CJI VS Verma
+:::
+
+:::introduction
+- Judges are appointed and transferred through a system that grew out of **SC judgements**. No Act of Parliament or constitutional provision creates it.
+- **1st Judges Case (1982); 2nd Judges Case (1993); 3rd Judges Case (1998); 4th Judges Case (2018), in which the NJAC was struck down.**
+:::
+
+---
+id: GS2-POLI-0219
+paper: "GS-2"
+subject: "POLITY"
+section_group: "Organs of Government & Dispute Redressal"
+microtopic: "Structure, organization and functioning of the Judiciary (including Tribunals & ADR)"
+subtopic: "Judiciary"
+card_title: "JUDICIAL PENDENCY"
+card_type: structured
+sections: [quote, introduction, data]
+flags: []
+status: polished
+---
+
+:::quote
+"Justice delayed is justice denied." — William Gladstone
+:::
+
+:::introduction
+- According to the Law Ministry, there are **5.1 crore pending cases** in Indian courts. **88%** of them are with the lower judiciary (**NJDG 2024**).
+- **Judges shortage:** India has 21 judges/million, while the Law Commission recommended 50/million.
+- **CCR (Case Clearance Rate):** 89%. It must be more than 100% to prevent a backlog.
+- **The government is the largest litigant**, with 50% of cases.
+- **Sittings:** 190 days in the SC, 210 days in the HC and 250 days in district courts (DC).
+- The **adjournment rate is 50%**.
+- **Vacancies:** 30% in HCs and 20% in district courts.
+- Spending on judicial infrastructure is **0.1%** of GDP.
+- **Gram Nyayalayas:** The aim was **5,000**, but only **150 are functional**.
+- **Best practices (BPs):** UK Crown Court Management Services (an independent administrative cadre) and Slovakia’s Fast-track courts (60 days).
+- **Steps taken:** National Litigation Policy 2015, which aims to reduce pendency from 15 years to 3 years.
+:::
+
+:::data
+- There are **5.1 crore pending cases**, and **88%** are in the lower judiciary (**NJDG 2024**).
+- **Judges:** 21/million, against a need of 50/million.
+- **Gram Nyayalaya:** 5,000 were planned, but only 150 are functional.
+:::
+
+---
+id: GS2-POLI-0220
+paper: "GS-2"
+subject: "POLITY"
+section_group: "Organs of Government & Dispute Redressal"
+microtopic: "Structure, organization and functioning of the Judiciary (including Tribunals & ADR)"
+subtopic: "Judiciary"
+card_title: "Judicial Independence & Accountability"
+card_type: structured
+sections: [quote, introduction, conclusion]
+flags: []
+status: polished
+---
+
+:::quote
+"A robust judiciary is essential for upholding the rights of citizens and for holding those in power accountable for their actions." — Soli J. Sorabjee
+:::
+
+:::introduction
+- **Art 121:** Parliament cannot discuss the conduct of judges.
+- **Instances of issues:** The PoNJ-Gogoi sexual harassment case; the Master of Roster issue (Deepak Mishra).
+:::
+
+:::conclusion
+- **ARC:** Judicial Lokpal and a Judicial Code of Conduct.
+- **NITI:** Judicial Performance Index; also the Judicial Standards and Accountability Bill 2010.
+- Justice Hidayatullah, in the Naresh Sridhar case, said that accountability and integrity **increase a court’s prestige**.
+:::
+
+---
+id: GS2-GOVE-0221
+paper: "GS-2"
+subject: "GOVERNANCE"
+section_group: "Accountability & Civil Services"
+microtopic: "E-Governance (applications, models, successes, limitations, potential)"
+subtopic: "E-governance"
+card_title: "Governance, Transparency & E-Governance"
+card_type: structured
+sections: [quote, introduction, examples, conclusion]
+flags: []
+status: polished
+---
+
+:::quote
+"Transparency is the currency of trust in governance." — Second ARC
+:::
+
+:::introduction
+From file-notings to facial recognition, e-governance is changing how India runs its state. CPGRAMS 3.0, DigiLocker and UMANG lead the way in connecting citizens with the state.
+:::
+
+:::examples
+- The **MEITY** brought AI into grievance analysis on **CPGRAMS 3.0**.
+- **MoSPI** connected its dashboards to SDG progress.
+- The **Ministry of Coal** started a drone-based portal to monitor mines.
+:::
+
+:::conclusion
+Good governance now needs visibility, verifiability and velocity. Citizens trust the system when technology makes it accountable.
+:::
+
+---
+id: GS2-GOVE-0222
+paper: "GS-2"
+subject: "GOVERNANCE"
+section_group: "Accountability & Civil Services"
+microtopic: "E-Governance (applications, models, successes, limitations, potential)"
+subtopic: "E-governance"
+card_title: "Civic Tech and Welfare Delivery"
+card_type: structured
+sections: [quote, introduction, examples, conclusion]
+flags: []
+status: polished
+---
+
+:::quote
+"Digital is not the end; dignity is." — Digital India Vision Document
+:::
+
+:::introduction
+Civic tech, from e-Shram to CoWIN, is transforming welfare at the last mile. It links Aadhaar-based identity with DBT and grievance portals, in line with Article 41’s call for effective public assistance.
+:::
+
+:::examples
+- AI-based redressal under **CPGRAMS 3.0** now covers 10 central ministries.
+- **UMANG 2.0** now offers 1,500 new citizen service modules.
+- **Anuvadini AI** makes social schemes available in many languages in real time.
+:::
+
+:::conclusion
+Technology should build trust. Digital infrastructure must reach the most invisible people first.
+:::
+
+---
+id: GS2-GOVE-0223
+paper: "GS-2"
+subject: "GOVERNANCE"
+section_group: "Accountability & Civil Services"
+microtopic: "E-Governance (applications, models, successes, limitations, potential)"
+subtopic: "E-governance"
+card_title: "DIGITAL PUBLIC INFRASTRUCTURE (DPI)"
+card_type: structured
+sections: [introduction, conclusion]
+flags: []
+status: polished
+---
+
+:::introduction
+- DPI means **digital public goods**. They provide a **basic level of infrastructure at population scale**, and innovative applications can be built on top of them.
+- **5D Challenges:** Device cost, Digital infrastructure, Digital divide, Security and Privacy.
+:::
+
+:::conclusion
+Strong anchor institutions like **UIDAI** should support **user-centric design and phygital models**.
+:::
+
+---
+id: GS2-GOVE-0224
+paper: "GS-2"
+subject: "GOVERNANCE"
+section_group: "Accountability & Civil Services"
+microtopic: "E-Governance (applications, models, successes, limitations, potential)"
+subtopic: "E-governance"
+card_title: "E-governance"
+card_type: structured
+sections: [quote, introduction]
+flags: []
+status: polished
+---
+
+:::quote
+"E-governance is easy, effective and efficient governance, and the only way to move from good governance to pro-active, pro-people good governance." — Narendra Modi
+:::
+
+:::introduction
+- Under e-governance, the government delivers services through the **use of ICT** in **G2G, G2B and G2C** forms.
+- **E-governance** leads to **SMART Governance**: Speedy, Moral, Accountable, Responsible and Time-bound.
+- **Best Practice:** The RTGS (Real-Time Governance Society) initiative of Andhra Pradesh, and the **E-Estonia model**.
+:::
+
+---
+id: GS2-GOVE-0225
+paper: "GS-2"
+subject: "GOVERNANCE"
+section_group: "Accountability & Civil Services"
+microtopic: "Role of Civil Services in a democracy"
+subtopic: "Civil Services"
+card_title: "Role of Civil Services in Democracy"
+card_type: structured
+sections: [quote, introduction, examples, conclusion]
+flags: []
+status: polished
+---
+
+:::quote
+"Civil servants are the steel frame but must also be the spinal nerve of reform." — Sardar Patel
+:::
+
+:::introduction
+**Mission Karmayogi** and **iGOT 2.0** are moving civil services **from rule-based to role-based**. The focus is on changing behaviour, citizen empathy and real-time delivery.
+:::
+
+:::examples
+- The **DoPT** launched AI-enabled learning pathways on **iGOT Karmayogi**.
+- The **Capacity Building Commission** released capacity scorecards for departments.
+- The **DARPG** ran a pilot of **Mission Karmayogi** in UTs and the North-East.
+:::
+
+:::conclusion
+Civil services should lead change and not only implement it. Empathy, ethics and efficiency must come together in public service.
+:::
+
+---
+id: GS2-GOVE-0226
+paper: "GS-2"
+subject: "GOVERNANCE"
+section_group: "Accountability & Civil Services"
+microtopic: "Role of Civil Services in a democracy"
+subtopic: "Civil Services"
+card_title: "ROLE of CIVIL SERVICES"
+card_type: structured
+sections: [quote, introduction]
+flags: []
+status: polished
+---
+
+:::quote
+"Civil servants are the silent architects of a nation's progress, dedicated to translating policies into actions that shape the destiny of India." — Dr. APJ Abdul Kalam
+:::
+
+:::quote
+"Civil servants are the bridge that connects government policies with the aspirations and welfare of the people they serve." — NR Narayana Murthy
+:::
+
+:::introduction
+**Government servants** are tasked with formulating and implementing **public policies** to realise a welfare state (**Art. 38**).
+:::
+
+---
+id: GS2-GOVE-0227
+paper: "GS-2"
+subject: "GOVERNANCE"
+section_group: "Accountability & Civil Services"
+microtopic: "Transaparency and accountability (institutional and other measures); Citizens Charter"
+subtopic: "Citizens Charter"
+card_title: "CITIZEN CHARTER"
+card_type: structured
+sections: [introduction, conclusion]
+flags: []
+status: polished
+---
+
+:::introduction
+In a published **document** called a citizen charter, an organisation promises **quality of services within a fixed time frame**.
+:::
+
+:::conclusion
+- States can adopt models like **Mo Sarkar (Odisha) and the Right to Service Bill (MP)** across India.
+- The **Sevottam Model** helps achieve excellence in service delivery.
+:::
+
+---
+id: GS2-GOVE-0228
+paper: "GS-2"
+subject: "GOVERNANCE"
+section_group: "Accountability & Civil Services"
+microtopic: "Transaparency and accountability (institutional and other measures); Citizens Charter"
+subtopic: "Transparency and Accountability"
+card_title: "DIGITAL PERSONAL DATA PROTECTION (DPDP) BILL"
+card_type: structured
+sections: [introduction, data, conclusion]
+flags: []
+status: polished
+---
+
+:::introduction
+- The **DPDP Bill** was recently passed. Its objective is to process **digital personal data** while balancing the needs of **privacy** and **lawful data processing**.
+- **KS Puttaswamy Case:** The Right to Privacy has **3 tests**: Law, Legitimate State Interest and Proportionality. The state has a duty to bring in a law.
+- **IT Act 2000, IT Rules 2021 — S. 69A:** It allows some websites to be banned.
+- **Big Data — 4Vs:** Veracity, Volume, Variety and Velocity.
+- Data is a collection of information stored in a computer or network in **digital format**. According to the ES, data is a **public good, of, for and by the people**.
+:::
+
+:::data
+- Cyber crimes: **2 lakh** in the whole of **2018**, and **more than 2 lakh** in the **1st month of 2022**.
+- “**Data is the new oil.**”
+:::
+
+:::conclusion
+- India should follow the **EU’s GDPR model**, including the **right to be forgotten**. The JPC recommended including **non-personal data** in the law’s scope.
+- Apply the **9 principles of data protection** suggested by the **AP Shah Committee**.
+:::
+
+---
+id: GS2-GOVE-0229
+paper: "GS-2"
+subject: "GOVERNANCE"
+section_group: "Accountability & Civil Services"
+microtopic: "Transaparency and accountability (institutional and other measures); Citizens Charter"
+subtopic: "Transparency and Accountability"
+card_title: "ACCOUNTABILITY, RESPONSIBILITY & TRANSPARENCY (ART)"
+card_type: structured
+sections: [quote, introduction, conclusion]
+flags: []
+status: polished
+---
+
+:::quote
+"Without accountability, resources are wasted, corruption flourishes, and trust in institutions is eroded." — Ban Ki-moon
+:::
+
+:::introduction
+- **Accountability** means that people in decision-making positions must **report, explain and be answerable** for the consequences of their decisions.
+- **Responsibility:** "You are not only responsible for what you say but also for what you do not say." — MLK Jr.
+- **Transparency** means a better flow of **timely and reliable information** that the public can access to scrutinise and serve the general interest.
+:::
+
+:::conclusion
+- "**Info is the currency in a democracy.**"
+- Transparency helps prevent corruption, encourages citizen participation and builds trust.
+:::
+
+---
+id: GS2-GOVE-0230
+paper: "GS-2"
+subject: "GOVERNANCE"
+section_group: "Accountability & Civil Services"
+microtopic: "Transaparency and accountability (institutional and other measures); Citizens Charter"
+subtopic: "Transparency and Accountability"
+card_title: "RIGHT to INFORMATION (RTI)"
+card_type: structured
+sections: [quote, introduction]
+flags: []
+status: polished
+---
+
+:::quote
+"RTI is the most important legislation since independence. It marks the beginning of an era of dawn & ends the era of darkness." — ARC 2
+:::
+
+:::quote
+"Sunlight is the best disinfectant." — 2nd ARC
+:::
+
+:::quote
+"Corruption thrives in secret places — avoids open spaces." — Woodrow Wilson
+:::
+
+:::introduction
+RTI gives citizens a **legal right to access information from a public authority**, which helps them hold officials accountable.
+:::
+
+---
+id: GS2-GOVE-0231
+paper: "GS-2"
+subject: "GOVERNANCE"
+section_group: "Accountability & Civil Services"
+microtopic: "Transaparency and accountability (institutional and other measures); Citizens Charter"
+subtopic: "Transparency and Accountability"
+card_title: "SOCIAL AUDIT"
+card_type: structured
+sections: [quote, introduction]
+flags: []
+status: polished
+---
+
+:::quote
+"Social audit is not just an evaluation of programs; it's an assertion of people's rights to dignity, transparency, and accountable governance." — Aruna Roy
+:::
+
+:::introduction
+Social audit is a **beneficiary-led assessment** of government programmes, done to ensure good governance.
+:::
+
+---
+id: GS2-GOVE-0232
+paper: "GS-2"
+subject: "GOVERNANCE"
+section_group: "Accountability & Civil Services"
+microtopic: "Transaparency and accountability (institutional and other measures); Citizens Charter"
+subtopic: "Transparency and Accountability"
+card_title: "CORRUPTION"
+card_type: structured
+sections: [quote, introduction, data]
+flags: []
+status: polished
+---
+
+:::quote
+"Corruption is a tax on the poor and a tax on development." — José Ugaz
+:::
+
+:::introduction
+**Corruption** means misusing entrusted power or position for **personal gain**.
+:::
+
+:::data
+- In the Corruption Perception Index, India ranks **86th** (see also the CVC card).
+:::
+
+---
+id: GS2-GOVE-0233
+paper: "GS-2"
+subject: "GOVERNANCE"
+section_group: "Accountability & Civil Services"
+microtopic: "Transaparency and accountability (institutional and other measures); Citizens Charter"
+subtopic: "Transparency and Accountability"
+card_title: "ART (Accountability, Responsibility, Transparency)"
+card_type: structured
+sections: [quote, introduction, conclusion]
+flags: []
+status: polished
+---
+
+:::quote
+"Without accountability, resources are wasted, corruption flourishes, and trust in institutions is eroded." — Ban Ki-moon
+:::
+
+:::quote
+"You are not only responsible for what you say but also for what you do not say." — Martin Luther King Jr.
+:::
+
+:::introduction
+- **Accountability:** Those in decision-making positions must report, explain and answer for their actions.
+- **Transparency:** More timely and reliable information flows freely, and it can be accessed for scrutiny and in the public interest.
+:::
+
+:::conclusion
+Transparency is essential to prevent corruption, encourage citizen participation and build trust. Information is the **currency in a democracy**.
+:::
+
+---
+id: GS2-GOVE-0234
+paper: "GS-2"
+subject: "GOVERNANCE"
+section_group: "Constitutional & Regulatory Bodies"
+microtopic: "Appointment to various Constitutional posts; Constitutional Bodies (powers, functions and responsibilities)"
+subtopic: "Constitutional Bodies"
+card_title: "Appointment and Functions of Constitutional Bodies"
+card_type: structured
+sections: [quote, introduction, examples, conclusion]
+flags: []
+status: polished
+---
+
+:::quote
+"Autonomy without accountability is as dangerous as control without competence." — Second ARC
+:::
+
+:::introduction
+Institutions such as the EC, CAG and UPSC need appointments that are transparent and autonomy linked to performance. This keeps public faith in India’s constitutional system.
+:::
+
+:::examples
+- The **SC** set new guidelines for EC appointments.
+- **CAG** reports are being digitised under the **One Nation Audit Grid**.
+- A **Parliamentary Committee** pointed out delays in appointments to the **CIC**.
+:::
+
+:::conclusion
+Autonomous bodies need both independence from pressure and transparency. Together they preserve trust in the institutions that guard the Constitution.
+:::
+
+---
+id: GS2-GOVE-0235
+paper: "GS-2"
+subject: "GOVERNANCE"
+section_group: "Constitutional & Regulatory Bodies"
+microtopic: "Appointment to various Constitutional posts; Constitutional Bodies (powers, functions and responsibilities)"
+subtopic: "Constitutional Bodies"
+card_title: "ELECTION COMMISSION of INDIA (ECI)"
+card_type: structured
+sections: [introduction, conclusion]
+flags: [same_as_above]
+status: needs_review
+---
+
+:::introduction
+- A new bill for **CEC & EC Appointment, Terms & Conditions** has recently come up, repealing the ECI Act 1991.
+- **Anoop Baranwal Case 2023:** The intent of Art. 324(2) is that a law should be passed to secure the **independence of the ECI**.
+- **Art. 324** provides for the office of the ECI to carry out **superintendence, direction and control** of free and fair elections at the Centre and in the States.
+:::
+
+:::conclusion
+(Refer to common elections conclusion.)
+:::
+
+---
+id: GS2-GOVE-0236
+paper: "GS-2"
+subject: "GOVERNANCE"
+section_group: "Constitutional & Regulatory Bodies"
+microtopic: "Appointment to various Constitutional posts; Constitutional Bodies (powers, functions and responsibilities)"
+subtopic: "Constitutional Bodies"
+card_title: "UPSC"
+card_type: structured
+sections: [introduction, conclusion]
+flags: []
+status: polished
+---
+
+:::introduction
+**Art. 315 to 323 under Part 14** set up the UPSC as India’s **premier central recruiting agency** for public servants of the Central Government.
+:::
+
+:::conclusion
+The UPSC is the **watchdog of the merit system**, and this is an important role.
+:::
+
+---
+id: GS2-GOVE-0237
+paper: "GS-2"
+subject: "GOVERNANCE"
+section_group: "Constitutional & Regulatory Bodies"
+microtopic: "Appointment to various Constitutional posts; Constitutional Bodies (powers, functions and responsibilities)"
+subtopic: "Constitutional Bodies"
+card_title: "CAG (COMPTROLLER and AUDITOR GENERAL)"
+card_type: structured
+sections: [quote, introduction]
+flags: []
+status: polished
+---
+
+:::quote
+"The CAG is the conscience keeper of government finances, ensuring that taxpayer money is used judiciously and efficiently." — Rajiv Mehrishi (former Finance Secretary)
+:::
+
+:::introduction
+- The CAG is an **independent authority under Art. 148** and acts as the **chief guardian of the public purse**.
+- **Vinod Rai Committee:** The **CAG Act of 1971** should be revamped, and the scope and powers of the CAG should be expanded.
+:::
+
+---
+id: GS2-GOVE-0238
+paper: "GS-2"
+subject: "GOVERNANCE"
+section_group: "Constitutional & Regulatory Bodies"
+microtopic: "Appointment to various Constitutional posts; Constitutional Bodies (powers, functions and responsibilities)"
+subtopic: "Constitutional Bodies"
+card_title: "FINANCE COMMISSION"
+card_type: structured
+sections: [introduction, conclusion]
+flags: []
+status: polished
+---
+
+:::introduction
+The Finance Commission (FC) is a **quasi-judicial body constituted by the President under Art. 280**. It is set up for the **vertical and horizontal allocation** of revenue resources between the Union and the States.
+:::
+
+:::conclusion
+The FC must ensure **adequate involvement of states** in framing its terms of reference, and **fiscal transparency**. Then it can act as the **balancing wheel of fiscal federalism**.
+:::
+
+---
+id: GS2-GOVE-0239
+paper: "GS-2"
+subject: "GOVERNANCE"
+section_group: "Constitutional & Regulatory Bodies"
+microtopic: "Appointment to various Constitutional posts; Constitutional Bodies (powers, functions and responsibilities)"
+subtopic: "Constitutional Bodies"
+card_title: "NCSC / NCST / NCBC"
+card_type: structured
+sections: [introduction, conclusion]
+flags: []
+status: polished
+---
+
+:::introduction
+- These are **quasi-judicial bodies** set up under **Art. 338 / 338A / 338B** to protect the interests of **SCs/STs/OBCs** in India.
+- Even with various protective and promotive provisions, SCs continue to face deprivation.
+:::
+
+:::conclusion
+**Sen:** The idea of justice must change: from an **arrangement-focused view** to a **realisation-focused understanding**.
+:::
+
+---
+id: GS2-GOVE-0240
+paper: "GS-2"
+subject: "GOVERNANCE"
+section_group: "Constitutional & Regulatory Bodies"
+microtopic: "Appointment to various Constitutional posts; Constitutional Bodies (powers, functions and responsibilities)"
+subtopic: "Constitutional Bodies"
+card_title: "INTERSTATE COUNCIL"
+card_type: structured
+sections: [introduction, data, conclusion]
+flags: []
+status: polished
+---
+
+:::introduction
+**Art. 263** allows the President to set up the **Inter-State Council**, to discuss issues of mutual interest between the Centre and the States.
+:::
+
+:::data
+- The Council has held only **12 meetings since 1990**.
+:::
+
+:::conclusion
+It must be **revitalised** and given **more teeth**. Then it can reach its true potential as the only **constitutional multilateral forum for Centre-State cooperation**.
+:::
+
+---
+id: GS2-GOVE-0241
+paper: "GS-2"
+subject: "GOVERNANCE"
+section_group: "Constitutional & Regulatory Bodies"
+microtopic: "Appointment to various Constitutional posts; Constitutional Bodies (powers, functions and responsibilities)"
+subtopic: "Constitutional Bodies"
+card_title: "SPECIAL OFFICER for LINGUISTIC MINORITIES"
+card_type: structured
+sections: [introduction, data, conclusion]
+flags: []
+status: polished
+---
+
+:::introduction
+The **7th CAA 1956** created this office under **Art. 350B**, to promote and protect the interests of India’s **linguistic minorities**.
+:::
+
+:::data
+- India has **more than 1600 languages**.
+:::
+
+:::conclusion
+The institution should be strengthened.
+:::
+
+---
+id: GS2-GOVE-0242
+paper: "GS-2"
+subject: "GOVERNANCE"
+section_group: "Constitutional & Regulatory Bodies"
+microtopic: "Statutory, Regulatory and Quasi-judicial bodies"
+subtopic: "Enforcement Agencies"
+card_title: "ED / CBI"
+card_type: structured
+sections: [introduction, conclusion]
+flags: []
+status: polished
+---
+
+:::introduction
+**Common Intro:** In Dr. Jaya Thakur vs UOI, the SC upheld the annual extension of the tenures of the CBI and ED Directors.
+:::
+
+:::conclusion
+- **CBI:** ARC 2 recommended replacing the DSPE Act with a separate law that gives **statutory status** and makes the CBI **accountable directly to Parliament**.
+- **ED:** It is the premier financial investigation agency, and its role is important as financial frauds and money laundering crimes rise. Cases need **fast and independent resolution**, to improve convictions and stop the **process from becoming punishment**.
+:::
+
+---
+id: GS2-GOVE-0243
+paper: "GS-2"
+subject: "GOVERNANCE"
+section_group: "Constitutional & Regulatory Bodies"
+microtopic: "Statutory, Regulatory and Quasi-judicial bodies"
+subtopic: "Enforcement Agencies"
+card_title: "Cyber Crimes"
+card_type: structured
+sections: [introduction, data, conclusion]
+flags: []
+status: polished
+---
+
+:::introduction
+Data means information that is stored in digital format in a computer or network.
+:::
+
+:::data
+- Cyber crimes: **2 lakh in the whole of 2018**, against more than 2 lakh in the 1st month of 2022.
+:::
+
+:::conclusion
+The ES calls data a public good, of, for and by the people.
+:::
+
+---
+id: GS2-GOVE-0244
+paper: "GS-2"
+subject: "GOVERNANCE"
+section_group: "Constitutional & Regulatory Bodies"
+microtopic: "Statutory, Regulatory and Quasi-judicial bodies"
+subtopic: "Quasi judicial Bodies"
+card_title: "LOKPAL / LOKAYUKTA"
+card_type: structured
+sections: [quote, introduction]
+flags: []
+status: polished
+---
+
+:::quote
+"Without strong watchdog institutions, impunity becomes the very foundation on which systems of corruption are built." — Rigoberta Menchú Tum
+:::
+
+:::introduction
+Under the **Lokpal and Lokayukta Act, 2013**, the **Lokpal** is the ombudsman that inquires into allegations of **corruption** against public servants.
+:::
+
+---
+id: GS2-GOVE-0245
+paper: "GS-2"
+subject: "GOVERNANCE"
+section_group: "Constitutional & Regulatory Bodies"
+microtopic: "Statutory, Regulatory and Quasi-judicial bodies"
+subtopic: "Quasi judicial Bodies"
+card_title: "Template 5: 4th BRANCH / Quasi-judicial INSTITUTION"
+card_type: structured
+sections: [introduction, conclusion]
+flags: [placeholder_blank]
+status: needs_review
+---
+
+:::introduction
+- **Structural & operational independence + competence** is a **sine qua non** for **____**.
+- Need to reimagine **____** into becoming a truly transformative agency for the **protection & promotion** of interests of **____**.
+- **Sen's idea:** Realisation-focused view of justice.
+:::
+
+:::conclusion
+Strengthen through **greater teeth, operational independence & active stakeholder participation**.
+:::
+
+---
+id: GS2-GOVE-0246
+paper: "GS-2"
+subject: "GOVERNANCE"
+section_group: "Constitutional & Regulatory Bodies"
+microtopic: "Statutory, Regulatory and Quasi-judicial bodies"
+subtopic: "Quasi judicial Bodies"
+card_title: "4th Branch Institutions (Quasi Judicial Bodies)"
+card_type: structured
+sections: [introduction, conclusion]
+flags: []
+status: polished
+---
+
+:::introduction
+**Structural and operational independence**, along with competence, is essential (a sine qua non).
+:::
+
+:::conclusion
+- The institution needs to be reimagined as a truly **transformative agency** for the protection and promotion of interests.
+- It needs Sen’s idea of a **realisation-focused** approach.
+:::
+
+---
+id: GS2-GOVE-0247
+paper: "GS-2"
+subject: "GOVERNANCE"
+section_group: "Constitutional & Regulatory Bodies"
+microtopic: "Statutory, Regulatory and Quasi-judicial bodies"
+subtopic: "Statutory Bodies"
+card_title: "NHRC (NATIONAL HUMAN RIGHTS COMMISSION)"
+card_type: structured
+sections: [introduction, data, conclusion]
+flags: []
+status: polished
+---
+
+:::introduction
+- The NHRC is a **statutory body** under the **Protection of Human Rights Act 1993**. It acts as the watchdog of **human rights** in India.
+- **AM Ahmadi Committee:** The time limit of 1 year should be increased, and paramilitary forces should be included.
+:::
+
+:::data
+- Complaints have risen by **1400%** since 1990, while staff strength is down by **17%**.
+- **40K cases** are pending.
+- A total of **₹1 billion** has been awarded so far.
+:::
+
+:::conclusion
+The **SC** called it a “Toothless tiger.” This must change. India needs to keep its commitment to human rights under the **UDHR** and the promise of the **Preamble**.
+:::
+
+---
+id: GS2-GOVE-0248
+paper: "GS-2"
+subject: "GOVERNANCE"
+section_group: "Constitutional & Regulatory Bodies"
+microtopic: "Statutory, Regulatory and Quasi-judicial bodies"
+subtopic: "Statutory Bodies"
+card_title: "NCM (NATIONAL COMMISSION for MINORITIES)"
+card_type: structured
+sections: [introduction, data, conclusion]
+flags: []
+status: polished
+---
+
+:::introduction
+- The NCM is a **statutory body** under the **NCM Act 1992**, working for the development of recognised minorities.
+- **6/7 positions are vacant**, and the Delhi HC directed that they be filled.
+- No report has been tabled in Parliament **since 2010**.
+:::
+
+:::data
+- Minorities are **20%** of the population, and the largest group is **Muslims at 14%**.
+:::
+
+:::conclusion
+It should be strengthened with **more teeth, operational independence and active participation by stakeholders**.
+:::
+
+---
+id: GS2-GOVE-0249
+paper: "GS-2"
+subject: "GOVERNANCE"
+section_group: "Constitutional & Regulatory Bodies"
+microtopic: "Statutory, Regulatory and Quasi-judicial bodies"
+subtopic: "Statutory Bodies"
+card_title: "NCW (NATIONAL COMMISSION for WOMEN)"
+card_type: structured
+sections: [introduction, conclusion]
+flags: []
+status: polished
+---
+
+:::introduction
+To review the **constitutional and legal safeguards for women**, the **NCW** was set up in **1992 under the NCW Act 1990** as a statutory body.
+:::
+
+:::conclusion
+PM Modi said the **NCW’s scope must be broadened**, because women’s needs are evolving.
+:::
+
+---
+id: GS2-GOVE-0250
+paper: "GS-2"
+subject: "GOVERNANCE"
+section_group: "Constitutional & Regulatory Bodies"
+microtopic: "Statutory, Regulatory and Quasi-judicial bodies"
+subtopic: "Statutory Bodies"
+card_title: "CVC (CENTRAL VIGILANCE COMMISSION)"
+card_type: structured
+sections: [introduction, data, conclusion]
+flags: []
+status: polished
+---
+
+:::introduction
+The CVC was conceptualised by the **Santhanam Committee** in 1994. It was given **statutory status** under the **CVC Act 2003**, to work as the **apex vigilance institution** against corruption.
+:::
+
+:::data
+- In the Corruption Perception Index, India ranks **86th**.
+:::
+
+:::conclusion
+It should be strengthened with more teeth, operational independence and active stakeholder participation.
+:::
+
+---
+id: GS2-GOVE-0251
+paper: "GS-2"
+subject: "GOVERNANCE"
+section_group: "Constitutional & Regulatory Bodies"
+microtopic: "Statutory, Regulatory and Quasi-judicial bodies"
+subtopic: "Statutory Bodies"
+card_title: "CIC (CENTRAL INFORMATION COMMISSION)"
+card_type: structured
+sections: [introduction, conclusion]
+flags: []
+status: polished
+---
+
+:::introduction
+The CIC is a **statutory body** under the **RTI Act 2005**, set up to inquire into non-compliance with the Act.
+:::
+
+:::conclusion
+**Strengthen the 3Fs** (Framework, Funding, Functionaries), and restore the independence that was diluted by the **recent amendment**.
+:::
+
+---
+id: GS2-GOVE-0252
+paper: "GS-2"
+subject: "GOVERNANCE"
+section_group: "Constitutional & Regulatory Bodies"
+microtopic: "Statutory, Regulatory and Quasi-judicial bodies"
+subtopic: "Statutory Bodies"
+card_title: "Template 7: Non-constitutional BODIES — COMMON SUGGESTION"
+card_type: structured
+sections: [introduction, conclusion]
+flags: [placeholder_blank]
+status: needs_review
+---
+
+:::introduction
+**____** is a **statutory body** under **____ Act** working for **____**.
+:::
+
+:::conclusion
+- **Common suggestion:** Confer **constitutional status**.
+- Strengthen through **greater teeth, operational independence & active stakeholder participation**.
+:::
+
+---
+id: GS2-GOVE-0253
+paper: "GS-2"
+subject: "GOVERNANCE"
+section_group: "Constitutional & Regulatory Bodies"
+microtopic: "Statutory, Regulatory and Quasi-judicial bodies"
+subtopic: "Statutory Bodies"
+card_title: "National Commission for Minorities (NCM)"
+card_type: structured
+sections: [introduction, data, conclusion]
+flags: []
+status: polished
+---
+
+:::introduction
+The NCM is a **statutory body** set up under the NCM Act 1992 to work for the development of recognised minorities in India.
+:::
+
+:::data
+- Minorities are **20%**, and the largest group is Muslims (14%).
+- **6/7 positions are vacant**, and the Delhi HC has directed that they be filled.
+- **No report has been tabled** in Parliament since 2010.
+:::
+
+:::conclusion
+It should be strengthened with **more teeth, operational independence and active participation by stakeholders**.
+:::
+
+---
+id: GS2-GOVE-0254
+paper: "GS-2"
+subject: "GOVERNANCE"
+section_group: "Constitutional & Regulatory Bodies"
+microtopic: "Statutory, Regulatory and Quasi-judicial bodies"
+subtopic: "Statutory Bodies"
+card_title: "National Commission for Women (NCW)"
+card_type: structured
+sections: [introduction, conclusion]
+flags: []
+status: polished
+---
+
+:::introduction
+The NCW was set up in 1992 under the NCW Act 1990 as a **statutory body**. Its job is to review the constitutional and legal safeguards for women.
+:::
+
+:::conclusion
+PM Modi has suggested that the **scope of the NCW must be broadened**, given the evolving needs of women.
+:::
+
+---
+id: GS2-GOVE-0255
+paper: "GS-2"
+subject: "GOVERNANCE"
+section_group: "Constitutional & Regulatory Bodies"
+microtopic: "Statutory, Regulatory and Quasi-judicial bodies"
+subtopic: "Statutory Bodies"
+card_title: "Central Vigilance Commission (CVC)"
+card_type: structured
+sections: [introduction, data, conclusion]
+flags: [same_as_above]
+status: needs_review
+---
+
+:::introduction
+The CVC was conceptualised by the **Santhanam committee** in 1994 and given **statutory status** under the 2003 CVC Act. It works as the apex vigilance institution to tackle corruption.
+:::
+
+:::data
+- India’s rank in the Corruption Perception Index is **86th**.
+:::
+
+:::conclusion
+Same as NCM - needs to be **strengthened**.
+:::
+
+---
+id: GS2-GOVE-0256
+paper: "GS-2"
+subject: "GOVERNANCE"
+section_group: "Constitutional & Regulatory Bodies"
+microtopic: "Statutory, Regulatory and Quasi-judicial bodies"
+subtopic: "Statutory Bodies"
+card_title: "Central Information Commission (CIC)"
+card_type: structured
+sections: [introduction, conclusion]
+flags: []
+status: polished
+---
+
+:::introduction
+The CIC, a **statutory body** under the RTI Act 2005, inquires into non-compliance with the Act.
+:::
+
+:::conclusion
+The **3 Fs (Funds, Functions, Functionaries)** need to be strengthened, and the independence diluted by recent amendments must be restored.
+:::
+
+---
+id: GS2-GOVE-0257
+paper: "GS-2"
+subject: "GOVERNANCE"
+section_group: "Constitutional & Regulatory Bodies"
+microtopic: "Statutory, Regulatory and Quasi-judicial bodies"
+subtopic: "Statutory Bodies"
+card_title: "Non Constitutional Bodies (ED, CBI, NHRC)"
+card_type: structured
+sections: [introduction, data, conclusion]
+flags: []
+status: polished
+---
+
+:::introduction
+- **CBI:** ARC 2 recommends that the DSPE Act be replaced with a separate law that gives it statutory status.
+- **NHRC:** A statutory body under the Protection of Human Rights Act 1993.
+:::
+
+:::data
+- NHRC: Complaints have risen by **1400%** since 1990, but staff strength is down by 17%. **40K cases** are pending.
+:::
+
+:::conclusion
+- ED: Cases must be resolved quickly, so that the process does not become the punishment.
+- NHRC: The SC labelled it a **toothless tiger**. The A M Ahmadi committee recommends including paramilitary forces.
+:::
+
+---
+id: GS2-GOVE-0258
+paper: "GS-2"
+subject: "GOVERNANCE"
+section_group: "Development Processes & Policies"
+microtopic: "Development processes and the role of NGOs, Civil Society, and various groups and associations"
+subtopic: "Civil Society"
+card_title: "Development Industry & Processes"
+card_type: structured
+sections: [quote, introduction, examples, conclusion, image]
+flags: [has_image]
+status: polished
+---
+
+:::quote
+"Development is a partnership not charity."
+:::
+
+:::introduction
+**NGOs, SHGs and CSOs** are no longer on the edge of development. They are **last-mile multipliers**. They are increasingly part of schemes like the Aspirational Blocks Programme and Mission Antyodaya, for community-led governance.
+:::
+
+:::examples
+- The **MoRD** partnered with NGOs for cluster facilitation in SHG schemes.
+- The **FSSAI** involved CSOs in the **Eat Right India** campaign.
+- The **Tribal Ministry** expanded **Van Dhan Vikas Kendras** through SHGs.
+:::
+
+:::conclusion
+When civil society and the state create together, from policy drafting to service delivery, development becomes lasting, inclusive and democratic.
+:::
+
+:::image
+https://pub-cfb8b9095d7d4914990dbb6f73afeb92.r2.dev/syllabus_hierarchy/gs2/images/diagram_p8.png
+:::
+
+---
+id: GS2-GOVE-0259
+paper: "GS-2"
+subject: "GOVERNANCE"
+section_group: "Development Processes & Policies"
+microtopic: "Development processes and the role of NGOs, Civil Society, and various groups and associations"
+subtopic: "Civil Society"
+card_title: "Social Capital & Community Development"
+card_type: structured
+sections: [quote, introduction, examples, conclusion]
+flags: []
+status: polished
+---
+
+:::quote
+"Communities are not beneficiaries they are architects of change." — Ministry of Rural Development
+:::
+
+:::introduction
+India’s welfare model, from SHGs to community kitchens, succeeds when people take part in creating results. Articles 40 and 243 and SDG 11 (inclusive communities) highlight how strong decentralised, participatory models are.
+:::
+
+:::examples
+- **DAY-NRLM** brought together 9 crore SHG women for nutrition and sanitation drives.
+- The **Aspirational Blocks Programme** used local metrics through community dashboards.
+- The **Ministry of Tribal Affairs** supported **Van Dhan Vikas Kendras** as enterprises run by communities.
+:::
+
+:::conclusion
+Governance changes from mere delivery to dignity when communities take the lead.
+:::
+
+---
+id: GS2-GOVE-0260
+paper: "GS-2"
+subject: "GOVERNANCE"
+section_group: "Development Processes & Policies"
+microtopic: "Development processes and the role of NGOs, Civil Society, and various groups and associations"
+subtopic: "Civil Society"
+card_title: "Ngos / CIVIL SOCIETY"
+card_type: structured
+sections: [quote, introduction]
+flags: []
+status: polished
+---
+
+:::quote
+"NGOs are sine qua non for a healthy democracy as they ensure 'Sarve bhavantu sukhinah, sarve santu niramaya' (may everyone be happy)."
+:::
+
+:::quote
+"If we want any significant development, we must co-opt civil society." — Nelson Mandela
+:::
+
+:::introduction
+- An NGO is a **voluntary association** of public-spirited individuals who work for **altruism and public service**.
+- NGOs are informal agents of society. They **propel the formal democratic system**.
+:::
+
+---
+id: GS2-GOVE-0261
+paper: "GS-2"
+subject: "GOVERNANCE"
+section_group: "Development Processes & Policies"
+microtopic: "Development processes and the role of NGOs, Civil Society, and various groups and associations"
+subtopic: "Civil Society"
+card_title: "Non-governmental Organizations (Ngos)"
+card_type: structured
+sections: [quote, introduction, conclusion]
+flags: []
+status: polished
+---
+
+:::quote
+"If we want any significant development, we must Co-opt civil society" — Nelson Mandela
+:::
+
+:::introduction
+- These are **voluntary associations** of public-spirited individuals, created for altruism and public service.
+- They are informal agents of society that propel the formal democratic system.
+:::
+
+:::conclusion
+- NGOs are essential (a **sine qua non**) for a healthy democracy, ensuring “sarve bhavanthu sukhinah.”
+- The **3 Cs** are needed: collaboration, compassion and collective responsibility.
+:::
+
+---
+id: GS2-GOVE-0262
+paper: "GS-2"
+subject: "GOVERNANCE"
+section_group: "Development Processes & Policies"
+microtopic: "Government Policies & Interventions for development of various sectors (issues in their design, implementation)"
+subtopic: "Government Schemes and Policies"
+card_title: "Government Policies and Interventions"
+card_type: structured
+sections: [quote, introduction, examples, conclusion, image]
+flags: [has_image]
+status: polished
+---
+
+:::quote
+"Policies must not only target growth, but must also engineer inclusion." — Amartya Sen
+:::
+
+:::introduction
+From Jan Dhan to Jal Jeevan, government interventions have moved from delivering entitlements to achieving outcomes in mission mode. They reflect Antyodaya and **“Minimum Government, Maximum Governance”** through technology-driven, targeted schemes.
+:::
+
+:::examples
+- **NITI Aayog** released policy vision documents on **‘Viksit Bharat @2047’**.
+- The **MoRD** added AI-powered monitoring to **DAY-NRLM**.
+- The **MoHFW** launched a dashboard for **PM-ABHIM** convergence.
+:::
+
+:::conclusion
+Development policy must shift from spending to empowerment. It should be backed by citizen data, local feedback and outcomes, not outlays.
+:::
+
+:::image
+https://pub-cfb8b9095d7d4914990dbb6f73afeb92.r2.dev/syllabus_hierarchy/gs2/images/diagram_p7.png
+:::
+
+---
+id: GS2-GOVE-0263
+paper: "GS-2"
+subject: "GOVERNANCE"
+section_group: "Development Processes & Policies"
+microtopic: "Government Policies & Interventions for development of various sectors (issues in their design, implementation)"
+subtopic: "Government Schemes and Policies"
+card_title: "Government Policies & Implementation Challenges"
+card_type: structured
+sections: [quote, introduction, examples, conclusion]
+flags: []
+status: polished
+---
+
+:::quote
+"Good policies fail with bad implementation; bad policies fail faster." – Second ARC
+:::
+
+:::introduction
+India’s policies are becoming more ambitious, such as Digital India, Skill India and Swachh Bharat. But delivery lags because of fragmented coordination, capacity gaps and weak evaluation.
+:::
+
+:::examples
+- **PRAGATI** pointed out delays between ministries in housing convergence.
+- The **CAG** found fund diversion in rural skilling under **DDU-GKY**.
+- The **NeGD** launched unified digital dashboards to track schemes.
+:::
+
+:::conclusion
+Implementation should be treated as the new reform, using capacity audits, citizen feedback loops and fiscal accountability.
+:::
+
+---
+id: GS2-GOVE-0264
+paper: "GS-2"
+subject: "GOVERNANCE"
+section_group: "Development Processes & Policies"
+microtopic: "Government Policies & Interventions for development of various sectors (issues in their design, implementation)"
+subtopic: "Government Schemes and Policies"
+card_title: "GOVERNMENT SCHEMES (COMMON FRAMEWORK)"
+card_type: structured
+sections: [quote, introduction, data, conclusion, detail]
+flags: []
+status: needs_review
+---
+
+:::quote
+"Most of our problems are due to poor implementation, wrong priorities and unattainable targets." — JRD Tata
+:::
+
+:::introduction
+**Effective implementation** needs coordination across the whole system and a strong monitoring system.
+:::
+
+:::data
+- (Scheme-specific)
+:::
+
+:::conclusion
+(Use scheme-specific conclusions + SDG references from Social Justice section)
+:::
+
+:::detail label="Scheme-related issues"
+- **Targeted Beneficiary Identification:** Inclusion and exclusion errors; low awareness.
+- **Formulation:** One-size-fits-all design; a top-down approach that ignores local self-government (LSG); low participation by communities and civil society; multiple schemes with poor convergence and overlapping jurisdiction.
+- **Capacity (3F):** Funds (low outlay or underutilisation); Functionaries (trained, committed staff); Functions (low coverage); and an infrastructure deficit.
+- **Implementation:** Corruption and leakages; poor quality; poor grievance redress mechanism (GRM); red tape and bureaucratic delay; socio-cultural barriers.
+- **Post-Implementation:** Poor monitoring and midcourse correction. Solution: technology, local self-government and ART.
+:::
+
+---
+id: GS2-GOVE-0265
+paper: "GS-2"
+subject: "GOVERNANCE"
+section_group: "Development Processes & Policies"
+microtopic: "Government Policies & Interventions for development of various sectors (issues in their design, implementation)"
+subtopic: "Government Schemes and Policies"
+card_title: "ASPIRATIONAL BLOCK PROGRAMME (ABP)"
+card_type: structured
+sections: [introduction, conclusion]
+flags: []
+status: polished
+---
+
+:::introduction
+The **ABP** was launched in the 2023 Budget. It is based on the **Aspirational Districts Programme (ADP)** and aims to improve the performance of **blocks that lag in various developmental parameters**.
+:::
+
+:::conclusion
+**Progressive decentralisation** and **effective targeting of schemes** are leading to governance that is inclusive and effective.
+:::
+
+---
+id: GS2-GOVE-0266
+paper: "GS-2"
+subject: "GOVERNANCE"
+section_group: "Development Processes & Policies"
+microtopic: "Government Policies & Interventions for development of various sectors (issues in their design, implementation)"
+subtopic: "Government Schemes and Policies"
+card_title: "Template 1: GOVERNMENT SCHEME (GENERIC)"
+card_type: structured
+sections: [quote, introduction, conclusion]
+flags: [placeholder_blank]
+status: needs_review
+---
+
+:::quote
+"Most of our problems are due to poor implementation, wrong priorities and unattainable targets." — JRD Tata
+:::
+
+:::introduction
+- **_____ scheme** was introduced in **_____** to **_____**.
+- Effective implementation of the scheme requires **holistic coordination** and an **effective monitoring ecosystem**.
+:::
+
+:::conclusion
+(Scheme-specific — use SDG reference + Art. 38/47 framework)
+:::
+
+---
+id: GS2-GOVE-0267
+paper: "GS-2"
+subject: "GOVERNANCE"
+section_group: "Development Processes & Policies"
+microtopic: "Government Policies & Interventions for development of various sectors (issues in their design, implementation)"
+subtopic: "Government Schemes and Policies"
+card_title: "Aspirational Block Program (ABP)"
+card_type: structured
+sections: [introduction, conclusion]
+flags: []
+status: polished
+---
+
+:::introduction
+In the 2023 budget, the ABP was launched on the basis of the ADP. Its aim is to improve the performance of blocks that lag in various developmental parameters.
+:::
+
+:::conclusion
+With **progressive decentralisation** and effective targeting of schemes, governance is becoming inclusive and effective.
+:::
+
+---
+id: GS2-GOVE-0268
+paper: "GS-2"
+subject: "GOVERNANCE"
+section_group: "Development Processes & Policies"
+microtopic: "Role of Self Help Groups (SHGs) and microfinancing in development activities"
+subtopic: "SHGs"
+card_title: "Development Industry: NGOs, SHGs"
+card_type: structured
+sections: [quote, introduction, examples, conclusion]
+flags: []
+status: polished
+---
+
+:::quote
+"The development sector is not third sector it is the frontline of inclusive governance." – Abhijit Banerjee
+:::
+
+:::introduction
+**SHGs act as engines of rural finance** and **NGOs as policy bridges**. The “**samaj sarkar bazaar**” triad now shapes last-mile development. This development ecosystem gets its legitimacy from trust and transparency.
+:::
+
+:::examples
+- **DAY-NRLM** connected the sale of SHG products to the **GeM portal**.
+- **NITI Aayog** released a voluntary sector index that ranks NGO governance.
+- The **MoTA** involved NGOs in capacity-building under the **FRA** in forest villages.
+:::
+
+:::conclusion
+Stakeholder-led governance works best when regulation empowers and partnerships make delivery more democratic, moving from tokenism to trust.
+:::
+
+---
+id: GS2-GOVE-0269
+paper: "GS-2"
+subject: "GOVERNANCE"
+section_group: "Development Processes & Policies"
+microtopic: "Role of Self Help Groups (SHGs) and microfinancing in development activities"
+subtopic: "SHGs"
+card_title: "SELF HELP GROUPS (Shgs)"
+card_type: structured
+sections: [quote, introduction, conclusion]
+flags: []
+status: polished
+---
+
+:::quote
+"Govt aims to create unicorns among SHGs."
+:::
+
+:::quote
+"SHGs need to be transformed into National Help Groups."
+:::
+
+:::introduction
+SHGs are **small community-based organisations** formed by individuals who share socio-economic goals. They aim to promote **financial inclusion, skill development and collective empowerment**.
+:::
+
+:::conclusion
+SHGs — "**untapped powerhouse of enterprise**; high-potential groups for social good."
+:::
+
+---
+id: GS2-GOVE-0270
+paper: "GS-2"
+subject: "GOVERNANCE"
+section_group: "Development Processes & Policies"
+microtopic: "Role of donors, charities, institutional and other external stakeholders"
+subtopic: "Donor Agencies"
+card_title: "Social Stock Exchange & Philanthropy"
+card_type: structured
+sections: [quote, introduction, examples, conclusion]
+flags: []
+status: polished
+---
+
+:::quote
+"Markets can fund change when trust meets transparency." — SEBI Chairperson
+:::
+
+:::introduction
+The Social Stock Exchange (SSE) connects capital with compassion, turning CSR into community impact. It fits SDG 17 on partnerships and Article 38’s directive for social justice.
+:::
+
+:::examples
+- In Mumbai, **SEBI** gave the first accreditation to Not-for-Profit Organizations (NPOs) under the **SSE**.
+- **CSR 2.0** guidelines matched disclosure norms to the SSE framework.
+- The **Ministry of Corporate Affairs** introduced impact reporting standards for social enterprises.
+:::
+
+:::conclusion
+Philanthropy needs structure, scale and strategy. The SSE is India’s leap towards finance with a conscience.
+:::
+
+---
+id: GS2-GOVE-0271
+paper: "GS-2"
+subject: "GOVERNANCE"
+section_group: "Development Processes & Policies"
+microtopic: "Role of donors, charities, institutional and other external stakeholders"
+subtopic: "Donor Agencies"
+card_title: "DONOR AGENCIES & CHARITIES"
+card_type: structured
+sections: [introduction, conclusion]
+flags: []
+status: polished
+---
+
+:::introduction
+- **Donor agencies** are local, national or international institutions that provide **financial and technical assistance** for development initiatives.
+- **Charities** are NPOs that act out of altruism and carry out philanthropic work for underserved communities.
+:::
+
+:::conclusion
+**Collaboration, compassion and collective responsibility** can help build a world where everyone can thrive, whatever their circumstances.
+:::
+
+---
+id: GS2-GOVE-0272
+paper: "GS-2"
+subject: "GOVERNANCE"
+section_group: "Development Processes & Policies"
+microtopic: "Role of donors, charities, institutional and other external stakeholders"
+subtopic: "Donor Agencies"
+card_title: "Donor and Charities"
+card_type: structured
+sections: [introduction, conclusion]
+flags: []
+status: polished
+---
+
+:::introduction
+- **Donor agencies** are institutions that give financial and technical help to support development.
+- **Charities** are NPOs that work out of altruism, carrying out philanthropic activities for underserved communities.
+:::
+
+:::conclusion
+This builds the spirit of **collaboration, compassion and collective responsibility**, so that every individual in the world can thrive.
+:::
+
+---
+id: GS2-SOCI-0273
+paper: "GS-2"
+subject: "SOCIAL JUSTICE"
+section_group: "Poverty & Hunger"
+microtopic: "Issues and Challenges relating to Poverty & Hunger"
+subtopic: "Hunger"
+card_title: "Poverty and Hunger"
+card_type: structured
+sections: [quote, introduction, examples, conclusion]
+flags: []
+status: polished
+---
+
+:::quote
+"Poverty is the worst form of violence." – Mahatma Gandhi
+:::
+
+:::introduction
+India’s fight against poverty now depends on a multidimensional view that goes beyond income to health, nutrition, dignity and access. Moving from food security to nutrition security needs steady policy effort and community ownership.
+:::
+
+:::examples
+- **NITI Aayog** released the **Multidimensional Poverty Index**, which shows major rural improvements.
+- The **MoWCD** digitised **ICDS** through the **Poshan Tracker**, with real-time nutrition dashboards.
+- **NFSA** coverage was updated using Aadhaar-enabled dynamic exclusion.
+:::
+
+:::conclusion
+Hunger must end not through handouts, but through dignity for all, using data-led targeting and nutrition-sensitive development.
+:::
+
+---
+id: GS2-SOCI-0274
+paper: "GS-2"
+subject: "SOCIAL JUSTICE"
+section_group: "Poverty & Hunger"
+microtopic: "Issues and Challenges relating to Poverty & Hunger"
+subtopic: "Hunger"
+card_title: "HUNGER & FOOD SECURITY"
+card_type: structured
+sections: [introduction, data, conclusion]
+flags: []
+status: polished
+---
+
+:::introduction
+In the **Global Hunger Index (2025)**, India ranks **102/123**.
+:::
+
+:::data
+- India’s rank in the **Global Hunger Index (2025)** is **102/123**.
+:::
+
+:::conclusion
+"**Sahi Poshan, Desh Roshan**."
+:::
+
+---
+id: GS2-SOCI-0275
+paper: "GS-2"
+subject: "SOCIAL JUSTICE"
+section_group: "Poverty & Hunger"
+microtopic: "Issues and Challenges relating to Poverty & Hunger"
+subtopic: "Poverty"
+card_title: "Issues of Poverty and Hunger"
+card_type: structured
+sections: [quote, introduction, examples, conclusion]
+flags: []
+status: polished
+---
+
+:::quote
+"Poverty anywhere is a threat to prosperity everywhere." — ILO Declaration
+:::
+
+:::introduction
+From the targeted PDS to the Poshan Tracker, poverty policy is moving beyond counting calories. It now focuses on nutrition security, access to assets and dignity of living.
+:::
+
+:::examples
+- The **NFSA** portal now has Aadhaar seeding and real-time ration tracking.
+- The **MoWCD** added regional dashboards to the **Poshan Tracker**.
+- A revision of **SECC** data was started for better poverty targeting.
+:::
+
+:::conclusion
+Ending poverty is not only about raising incomes. It is about giving citizens a platform for mobility, dignity and resilience.
+:::
+
+---
+id: GS2-SOCI-0276
+paper: "GS-2"
+subject: "SOCIAL JUSTICE"
+section_group: "Poverty & Hunger"
+microtopic: "Issues and Challenges relating to Poverty & Hunger"
+subtopic: "Poverty"
+card_title: "Urban Poor and Informal Workers"
+card_type: structured
+sections: [quote, introduction, examples, conclusion]
+flags: []
+status: polished
+---
+
+:::quote
+"Cities must work for the ones who build them." — UN-Habitat
+:::
+
+:::introduction
+India’s urban poor drive its growth, yet they face structural exclusion. Schemes like DAY-NULM and rights under Article 43 must give informal workers and migrant labour stable housing, health and dignity.
+:::
+
+:::examples
+- The **MoHUA** connected **PM SVANidhi** with skilling under the **Skill India Mission**.
+- The **e-Shram** database was linked to insurance under **PMSBY**.
+- **NITI Aayog’s** gig economy report recommended implementing the social security code.
+:::
+
+:::conclusion
+A resilient India needs cities for everyone, which means just cities and not only smart cities.
+:::
+
+---
+id: GS2-SOCI-0277
+paper: "GS-2"
+subject: "SOCIAL JUSTICE"
+section_group: "Poverty & Hunger"
+microtopic: "Issues and Challenges relating to Poverty & Hunger"
+subtopic: "Poverty"
+card_title: "POVERTY"
+card_type: structured
+sections: [quote, introduction, data]
+flags: []
+status: polished
+---
+
+:::quote
+"Unleash the power of the poor & there will be no poverty. Hence need for capacity building & gainful employment." — Mohammed Yunus
+:::
+
+:::quote
+"Overcoming poverty is not a gesture of charity, but an act of justice." — Nelson Mandela
+:::
+
+:::introduction
+- **Poverty** means any deprivation that stops a person from **achieving their true potential**.
+- According to the **NITI Aayog MPI**, the figure is **11.28%**.
+- In the last 9 years, **24.82 crore people escaped multidimensional poverty**.
+:::
+
+:::data
+- The national multidimensional poverty average is **11.28%** (**NITI Aayog MPI**).
+- More than **24.82 crore people escaped multidimensional poverty** in the last 9 years.
+:::
+
+---
+id: GS2-SOCI-0278
+paper: "GS-2"
+subject: "SOCIAL JUSTICE"
+section_group: "Social Sector & Human Development"
+microtopic: "Social Sector & Services: Issues relating to Development & Management of Health, Education & Human Resources"
+subtopic: "Education"
+card_title: "Digital Inclusion as a Social Equaliser"
+card_type: structured
+sections: [quote, introduction, examples, conclusion, image]
+flags: [has_image]
+status: polished
+---
+
+:::quote
+"Bridging the digital divide is the new freedom struggle." — PM’s Digital India Mission
+:::
+
+:::introduction
+Digital inclusion is not only access to technology. It is about removing caste, gender and rural divides in opportunity. Article 21A’s right to education and SDG 9 (industry, innovation, infrastructure) come together in schemes like PM-WANI and BharatNet.
+:::
+
+:::examples
+- The **MoE** launched the **National Digital University** for underserved learners.
+- The **MeitY** took **PMGDISHA** (Digital Literacy Mission) to remote blocks.
+- **UDISE+** data now includes internet access indicators in school rankings.
+:::
+
+:::conclusion
+Technology is the new tool of social mobility. A digital Bharat must also be a dignified Bharat.
+:::
+
+:::image
+https://pub-cfb8b9095d7d4914990dbb6f73afeb92.r2.dev/syllabus_hierarchy/gs2/images/diagram_p12.png
+:::
+
+---
+id: GS2-SOCI-0279
+paper: "GS-2"
+subject: "SOCIAL JUSTICE"
+section_group: "Social Sector & Human Development"
+microtopic: "Social Sector & Services: Issues relating to Development & Management of Health, Education & Human Resources"
+subtopic: "Education"
+card_title: "EDUCATION"
+card_type: structured
+sections: [introduction, data, conclusion]
+flags: []
+status: needs_review
+---
+
+:::introduction
+(To be filled)
+:::
+
+:::data
+- There are **6 million out-of-school children**, and 75% of them are from marginalised sections.
+- 1 extra year of school raises income by **10% for males and 20% for females**.
+- According to ASSOCHAM, India loses **$17 billion annually** to brain drain.
+:::
+
+:::conclusion
+- The future of education is **Education 4.0**, which focuses on **21st Century skills** and the **4 Cs**: Critical thinking, Communication, Collaboration and Creativity.
+- The **NEP** can become a **game changer** and help India become a hub of **Global Capability Centres**.
+- **Female education:** MMR (maternal mortality ratio) can be cut to **1/2** by ensuring secondary education for mothers.
+:::
+
+---
+id: GS2-SOCI-0280
+paper: "GS-2"
+subject: "SOCIAL JUSTICE"
+section_group: "Social Sector & Human Development"
+microtopic: "Social Sector & Services: Issues relating to Development & Management of Health, Education & Human Resources"
+subtopic: "Health"
+card_title: "HEALTH"
+card_type: structured
+sections: [introduction, conclusion]
+flags: [placeholder_blank]
+status: needs_review
+---
+
+:::introduction
+(Sector-specific data to be added)
+:::
+
+:::conclusion
+- Follow an **integrated life cycle approach** from “**clinic to community**”, along with the **One Health approach**.
+- **Suggestion (5 Ps):** Prevention, Primary health, Public investment, Planetary Health and Patient-centric value-based healthcare.
+- "**Swasth Bharat, Samriddh Bharat**."
+:::
+
+---
+id: GS2-SOCI-0281
+paper: "GS-2"
+subject: "SOCIAL JUSTICE"
+section_group: "Social Sector & Human Development"
+microtopic: "Social Sector & Services: Issues relating to Development & Management of Health, Education & Human Resources"
+subtopic: "Health"
+card_title: "MENTAL HEALTH"
+card_type: structured
+sections: [introduction, data, conclusion]
+flags: []
+status: polished
+---
+
+:::introduction
+**UNICEF 2021 Report:** **1 in 7 youths (15-24 years) reported mental health issues (UNICEF 2021)**. The WHO says that after the pandemic, anxiety and depression became a further **25% more common worldwide**.
+:::
+
+:::data
+- **1 in 7 youths (15-24 years) are affected (UNICEF 2021)**. According to the WHO, anxiety and depression have increased by a further **25% globally** after the pandemic.
+:::
+
+:::conclusion
+The national tele mental health programme is the **TELE MANAS Initiative**.
+:::
+
+---
+id: GS2-SOCI-0282
+paper: "GS-2"
+subject: "SOCIAL JUSTICE"
+section_group: "Social Sector & Human Development"
+microtopic: "Social Sector & Services: Issues relating to Development & Management of Health, Education & Human Resources"
+subtopic: "Human Resources"
+card_title: "Development of Health, Education, HR"
+card_type: structured
+sections: [quote, introduction, examples, conclusion]
+flags: []
+status: polished
+---
+
+:::quote
+"An educated, healthy population is not a burden it is the foundation of any civilised society." – Amartya Sen
+:::
+
+:::introduction
+Health and education decide not only the HDI but also national competitiveness. NEP 2020 and Ayushman Bharat show a shift from input-based models to outcome-led, equity-centred human capital strategies.
+:::
+
+:::examples
+- The **NMC** put in place guidelines for family physicians under the **Ayushman Bharat Digital Mission**.
+- The **NCERT** launched the **National Mission for Foundational Literacy and Numeracy**.
+- To improve inclusivity, the **NTA** brought in regional language parity for the **CUET**.
+:::
+
+:::conclusion
+Human capital should be built up as a public good, through universal access, inclusive quality and responsive innovation.
+:::
+
+---
+id: GS2-SOCI-0283
+paper: "GS-2"
+subject: "SOCIAL JUSTICE"
+section_group: "Social Sector & Human Development"
+microtopic: "Social Sector & Services: Issues relating to Development & Management of Health, Education & Human Resources"
+subtopic: "Miscellaneous (Social Sector)"
+card_title: "Social Sector: Health, Education, HR"
+card_type: structured
+sections: [quote, introduction, examples, conclusion]
+flags: []
+status: polished
+---
+
+:::quote
+"Human development is the true index of national strength." — UNDP HDR
+:::
+
+:::introduction
+Health and education are no longer extras of welfare. They are strategic investments, now guided by the Ayushman Bharat Digital Mission and NEP 2020 to build well-rounded human capital.
+:::
+
+:::examples
+- The **MoE** started an AI dashboard on **UDISE+** for learning outcomes.
+- The **MoHFW** expanded digital health IDs under the **ABDM**.
+- **NITI Aayog** started the **National Health Stack Sandbox**.
+:::
+
+:::conclusion
+To turn people into productive citizens, welfare, workforce planning and digital public goods must come together.
+:::
+
+---
+id: GS2-SOCI-0284
+paper: "GS-2"
+subject: "SOCIAL JUSTICE"
+section_group: "Social Sector & Human Development"
+microtopic: "Social Sector & Services: Issues relating to Development & Management of Health, Education & Human Resources"
+subtopic: "Miscellaneous (Social Sector)"
+card_title: "SOCIAL JUSTICE — COMMON FRAMEWORK"
+card_type: structured
+sections: [introduction, data, conclusion]
+flags: []
+status: needs_review
+---
+
+:::introduction
+- **Data** (sector specific).
+- **O ACS:** Voice, Choice.
+:::
+
+:::data
+- (Sector-specific)
+:::
+
+:::conclusion
+- **SDG references:** SDG 1 (Poverty), SDG 2 (Hunger), SDG 3 (Health), SDG 4 (Education), SDG 5 (Gender Equality) and SDG 16 (Inclusive societies, effective and accountable institutions).
+- **Art. 47:** The state has a duty to raise the level of nutrition, the standard of living and public health.
+- **Art. 38:** A welfare state with socio-economic-political justice, and minimising of inequalities.
+- **Sapt Rishi:** Using full potential and ensuring inclusive growth.
+- "To leverage full potential of India's **human capital**, the engine of India's **Amritkaal**."
+- "**Sabka Saath, Sabka Vikas**."
+:::
+
+---
+id: GS2-SOCI-0285
+paper: "GS-2"
+subject: "SOCIAL JUSTICE"
+section_group: "Vulnerable Sections & Welfare"
+microtopic: "Welfare Schemes (Vulnerable Sections): Performance, Mechanisms, Laws, Institutions & Bodies"
+subtopic: "Children"
+card_title: "Child Welfare and Juvenile Justice"
+card_type: structured
+sections: [quote, introduction, examples, conclusion]
+flags: []
+status: polished
+---
+
+:::quote
+"Every child we fail is a future we weaken." — UN CRC Framework
+:::
+
+:::introduction
+A just society is judged by how it looks after its children. Article 39(e)(f), the Juvenile Justice (Care and Protection of Children) Act and SDG 16.2 (end abuse, exploitation) together shape India’s child-centric legal framework.
+:::
+
+:::examples
+- The **NCPCR** launched the **Baal Swaraj** portal to track orphaned and abandoned children.
+- The **MWCD** linked **Child Helpline 1098** with the Emergency Response Support System (ERSS).
+- The **Juvenile Justice Act** was amended to simplify the role of DMs in child adoption.
+:::
+
+:::conclusion
+Justice for children must prevent harm, help rehabilitation and be rights-based. It should be not just a system, but a safety net.
+:::
+
+---
+id: GS2-SOCI-0286
+paper: "GS-2"
+subject: "SOCIAL JUSTICE"
+section_group: "Vulnerable Sections & Welfare"
+microtopic: "Welfare Schemes (Vulnerable Sections): Performance, Mechanisms, Laws, Institutions & Bodies"
+subtopic: "Disabled"
+card_title: "Disability Rights and Accessibility"
+card_type: structured
+sections: [quote, introduction, examples, conclusion]
+flags: []
+status: polished
+---
+
+:::quote
+"Inclusion is not a favor, it's a constitutional promise." — RPwD Act, 2016
+:::
+
+:::introduction
+True accessibility means putting **Article 41 and SDG 10** into practice through accessible infrastructure, digital tools and equal opportunity. This ensures that **India’s 2.2% disabled population lives with dignity, not dependency**.
+:::
+
+:::examples
+- The **Sugamya Bharat App** added grievance redress for persons with disabilities.
+- The **UDI** (Unique Disability ID) platform was made Aadhaar-compliant.
+- The **SC** directed that exam formats be made accessible for visually impaired UPSC aspirants.
+:::
+
+:::conclusion
+Disability inclusion must move from assistance to agency, so that people can take full part in society.
+:::
+
+---
+id: GS2-SOCI-0287
+paper: "GS-2"
+subject: "SOCIAL JUSTICE"
+section_group: "Vulnerable Sections & Welfare"
+microtopic: "Welfare Schemes (Vulnerable Sections): Performance, Mechanisms, Laws, Institutions & Bodies"
+subtopic: "Efficacy of Welfare and Development Schemes"
+card_title: "Welfare Schemes for Vulnerable Sections"
+card_type: structured
+sections: [quote, introduction, examples, conclusion]
+flags: []
+status: polished
+---
+
+:::quote
+"The test of good governance is how it treats its weakest citizens." — Mahatma Gandhi
+:::
+
+:::introduction
+From SC/ST scholarships to PM-Vishwakarma, India’s welfare focus has moved from identity alone to intersectionality. It joins social justice with skill, dignity and digital access.
+:::
+
+:::examples
+- The **MoTA** moved scholarship payments to the **DBT stack**.
+- The **MoLE** started a pilot of a welfare registry for gig workers.
+- The **MoWCD** increased the number of **Sakhi One-Stop Centres**.
+:::
+
+:::conclusion
+Empowerment is not only about benefits. It is about building capability, choice and dignity for the most marginalised.
+:::
+
+---
+id: GS2-SOCI-0288
+paper: "GS-2"
+subject: "SOCIAL JUSTICE"
+section_group: "Vulnerable Sections & Welfare"
+microtopic: "Welfare Schemes (Vulnerable Sections): Performance, Mechanisms, Laws, Institutions & Bodies"
+subtopic: "Efficacy of Welfare and Development Schemes"
+card_title: "Welfare Schemes for Vulnerable Sections"
+card_type: structured
+sections: [quote, introduction, examples, conclusion]
+flags: []
+status: polished
+---
+
+:::quote
+"The test of our progress is not whether we add to the abundance of those who have much, but whether we provide enough for those who have little." – Franklin D. Roosevelt
+:::
+
+:::introduction
+Targeted welfare today is about dignity, not doles. It uses DBT, the JAM trinity and saturation-based coverage under “Antyodaya to Atmanirbharta.” The social contract now works through digital systems and grassroots reach.
+:::
+
+:::examples
+- The **MoSJ&E** added real-time scheme convergence to the **UDID** portal for PwDs.
+- The **MoTA** linked the **Van Dhan Yojana** with **ONDC**, to give tribals market access.
+- To reduce leakages, the **Rural Development Ministry** geo-tagged **PMAY-G** assets.
+:::
+
+:::conclusion
+Welfare must grow into empowerment that is based on rights, improved by technology and responsive to voices from the margins.
+:::
+
+---
+id: GS2-SOCI-0289
+paper: "GS-2"
+subject: "SOCIAL JUSTICE"
+section_group: "Vulnerable Sections & Welfare"
+microtopic: "Welfare Schemes (Vulnerable Sections): Performance, Mechanisms, Laws, Institutions & Bodies"
+subtopic: "Efficacy of Welfare and Development Schemes"
+card_title: "Constitutional and Institutional Measures"
+card_type: structured
+sections: [quote, introduction, examples, conclusion, image]
+flags: [has_image]
+status: polished
+---
+
+:::quote
+"The Constitution is a transformative document it enshrines not charity but rights." – Justice Indu Malhotra
+:::
+
+:::introduction
+Institutional justice comes not only from courts but also from commissions, reservations and rights-based laws. These give life to **Articles 15, 16, 17 and 39**. The challenge now is credible enforcement.
+:::
+
+:::examples
+- The **NCBC** pointed out irregularities in the implementation of the creamy layer across states.
+- The **NCPCR** worked with **NALSA** on capacity-building for juvenile justice.
+- The **SC** upheld the 10% EWS quota, calling it a reasonable classification under **Art. 15(6)**.
+:::
+
+:::conclusion
+Without empathy in laws and teeth in institutions, neither equity nor efficiency is served. Accountability must keep the rights framework moving forward.
+:::
+
+:::image
+https://pub-cfb8b9095d7d4914990dbb6f73afeb92.r2.dev/syllabus_hierarchy/gs2/images/diagram_p10.png
+:::
+
+---
+id: GS2-SOCI-0290
+paper: "GS-2"
+subject: "SOCIAL JUSTICE"
+section_group: "Vulnerable Sections & Welfare"
+microtopic: "Welfare Schemes (Vulnerable Sections): Performance, Mechanisms, Laws, Institutions & Bodies"
+subtopic: "Efficacy of Welfare and Development Schemes"
+card_title: "Transgender Rights & Inclusion"
+card_type: structured
+sections: [quote, introduction, examples, conclusion]
+flags: []
+status: polished
+---
+
+:::quote
+"Everyone has the right to be who they are, without apology." — Supreme Court (NALSA, 2014)
+:::
+
+:::introduction
+Legal recognition is only part of transgender justice. It also needs social acceptance, through rights, dignity and delivery. Laws like the Transgender Protection Act and schemes like SMILE take us closer to Nyay, not just Kanoon.
+:::
+
+:::examples
+- **Garima Greh** shelter homes were extended to all state capitals.
+- The **National Portal for Transgender Persons** allows self-ID and access to benefits.
+- The **UGC** made it compulsory for all central universities to have trans-inclusion policies.
+:::
+
+:::conclusion
+Trans justice must move from the margins to the mainstream, led by empathy in law and equity in policy.
+:::
+
+---
+id: GS2-SOCI-0291
+paper: "GS-2"
+subject: "SOCIAL JUSTICE"
+section_group: "Vulnerable Sections & Welfare"
+microtopic: "Welfare Schemes (Vulnerable Sections): Performance, Mechanisms, Laws, Institutions & Bodies"
+subtopic: "Efficacy of Welfare and Development Schemes"
+card_title: "Intersectionality in Social Justice"
+card_type: structured
+sections: [quote, introduction, examples, conclusion]
+flags: []
+status: polished
+---
+
+:::quote
+"Justice is not blind it must be deeply seeing." — Kimberlé Crenshaw
+:::
+
+:::introduction
+Social justice cannot have just one dimension. Caste, gender, disability and region overlap and deepen marginalisation. Article 15 and SDG 10 (reduce inequalities) need policies that look at all these layers, not at one line.
+:::
+
+:::examples
+- Transgender persons were brought under **Ayushman Bharat** coverage.
+- The **SC** directed that disabled women be given hostel access in public universities.
+- **NITI Aayog** argued for an intersectional approach in nutrition strategy.
+:::
+
+:::conclusion
+True justice is not uniform. It is shaped to fit complexity and designed for inclusion.
+:::
+
+---
+id: GS2-SOCI-0292
+paper: "GS-2"
+subject: "SOCIAL JUSTICE"
+section_group: "Vulnerable Sections & Welfare"
+microtopic: "Welfare Schemes (Vulnerable Sections): Performance, Mechanisms, Laws, Institutions & Bodies"
+subtopic: "Efficacy of Welfare and Development Schemes"
+card_title: "VULNERABLE SECTIONS — COMMON CONCLUSION"
+card_type: structured
+sections: [introduction, conclusion]
+flags: []
+status: needs_review
+---
+
+:::introduction
+(Sector and scheme specific)
+:::
+
+:::conclusion
+- **Ambedkar's mantra:** "**EAO — Educate, Agitate and Organise**."
+- We need to move from the Darwinian “**survival of the fittest**” to “**survival of the weakest**”, which is **Antyodaya**.
+- **Art. 38:** A welfare state.
+:::
+
+---
+id: GS2-SOCI-0293
+paper: "GS-2"
+subject: "SOCIAL JUSTICE"
+section_group: "Vulnerable Sections & Welfare"
+microtopic: "Welfare Schemes (Vulnerable Sections): Performance, Mechanisms, Laws, Institutions & Bodies"
+subtopic: "Efficacy of Welfare and Development Schemes"
+card_title: "Social Justice & Welfare (Common Intro/conclusion)"
+card_type: structured
+sections: [introduction, conclusion]
+flags: []
+status: polished
+---
+
+:::introduction
+These frameworks are built around **Voice and Choice**, and around using full potential to ensure **inclusive growth**.
+:::
+
+:::conclusion
+- The engine of India’s Amritkaal depends on **Sabka Sath Sabka Vikas**.
+- **Art 47** (duty to raise nutrition, the standard of living and public health) and **Art 38** (welfare state, social economic political justice) form its base.
+- It links to **SDG 1 (poverty), 2 (hunger), 3 (health), 4 (education), 5 (gender equality) and SDG 16 (Inclusive societies)**.
+:::
+
+---
+id: GS2-SOCI-0294
+paper: "GS-2"
+subject: "SOCIAL JUSTICE"
+section_group: "Vulnerable Sections & Welfare"
+microtopic: "Welfare Schemes (Vulnerable Sections): Performance, Mechanisms, Laws, Institutions & Bodies"
+subtopic: "Efficacy of Welfare and Development Schemes"
+card_title: "Vulnerable Sections (Laws & Bodies)"
+card_type: structured
+sections: [quote, introduction, conclusion]
+flags: []
+status: polished
+---
+
+:::quote
+"EAO - Educate, Agitate and Organise" — B.R. Ambedkar
+:::
+
+:::introduction
+We need to move from the Darwinian “survival of fittest” to **“survival of the weakest”, or Antyodaya**.
+:::
+
+:::conclusion
+The constitutional ideals under **Art 38** must be ensured.
+:::
+
+---
+id: GS2-SOCI-0295
+paper: "GS-2"
+subject: "SOCIAL JUSTICE"
+section_group: "Vulnerable Sections & Welfare"
+microtopic: "Welfare Schemes (Vulnerable Sections): Performance, Mechanisms, Laws, Institutions & Bodies"
+subtopic: "Women"
+card_title: "Gender Budgeting & Feminist Policy"
+card_type: structured
+sections: [quote, introduction, examples, conclusion]
+flags: []
+status: polished
+---
+
+:::quote
+"A budget tells us what we value as a society." — UN Women
+:::
+
+:::introduction
+Gender budgeting does not mean separate funds for women. It means shaping public finance through the lens of Article 15(3) and SDG 5. Then schemes like **Beti Bachao Beti Padhao and Mission Shakti** can show real inclusion, not tokenism.
+:::
+
+:::examples
+- A revised **Gender Budget Statement 2024** with performance tracking was issued by the **Ministry of Finance**.
+- In Rajasthan and Tamil Nadu, **State Gender Budget Cells** were activated.
+- For gender-sensitive planning, **NITI Aayog** launched the **Women’s Economic Empowerment Dashboard**.
+:::
+
+:::conclusion
+When women are empowered, GDP becomes more inclusive. Gender budgeting must go from form to force in policymaking.
+:::
+
+---
+id: GS2-INTE-0296
+paper: "GS-2"
+subject: "INTERNATIONAL RELATIONS"
+section_group: "Global Geopolitics & Indian Diaspora"
+microtopic: "Global Policies & Politics: Effect of Policies & Politics of Developed & Developing Countries on India's Interests"
+subtopic: "Energy X Foreign Policy"
+card_title: "ECONOMIC DIPLOMACY"
+card_type: structured
+sections: [introduction, conclusion]
+flags: [placeholder_blank]
+status: needs_review
+---
+
+:::introduction
+- **Economic diplomacy** is the use of **diplomatic skills with economic tools** to advance a country’s objectives.
+- Using **____ diplomacy** enables use of expertise in the **____** field to advance the country's **strategic interest**.
+:::
+
+:::conclusion
+- Economic diplomacy should seek a **balance between competition and cooperation** at the global level, supported by **coordinated efforts at home**.
+- **5Ts** (Talent, Tradition, Technology, Tourism and Trade) are the new areas of focus for Indian embassies.
+:::
+
+---
+id: GS2-INTE-0297
+paper: "GS-2"
+subject: "INTERNATIONAL RELATIONS"
+section_group: "Global Geopolitics & Indian Diaspora"
+microtopic: "Global Policies & Politics: Effect of Policies & Politics of Developed & Developing Countries on India's Interests"
+subtopic: "Energy X Foreign Policy"
+card_title: "Template 6: ______ DIPLOMACY (SECTORAL)"
+card_type: structured
+sections: [introduction, conclusion]
+flags: [placeholder_blank]
+status: needs_review
+---
+
+:::introduction
+Using **____** diplomacy enables use of expertise in the **____** field to advance the country's **strategic interest**.
+:::
+
+:::conclusion
+Indian embassies are now focusing on new areas, the **5Ts**: Talent, Tradition, Technology, Tourism and Trade.
+:::
+
+---
+id: GS2-INTE-0298
+paper: "GS-2"
+subject: "INTERNATIONAL RELATIONS"
+section_group: "Global Geopolitics & Indian Diaspora"
+microtopic: "Global Policies & Politics: Effect of Policies & Politics of Developed & Developing Countries on India's Interests"
+subtopic: "Geo-politics affecting India's Interest"
+card_title: "Effect of Policies and Politics"
+card_type: structured
+sections: [quote, introduction, examples, conclusion]
+flags: []
+status: polished
+---
+
+:::quote
+"In a globalised world, even sovereignty is influenced by decisions abroad." — Foreign Policy White Paper
+:::
+
+:::introduction
+In a polycrisis world, what Washington, Brussels or Beijing decide is felt in New Delhi. Digital protectionism, tech decoupling and climate finance are examples. India must read these global shifts and match its interests with agility, sovereignty and strategic depth.
+:::
+
+:::examples
+- The EU’s **CBAM** policy raised concerns about India’s carbon trade.
+- The US **CHIPS Act** pushed India to work on semiconductor collaboration.
+- China’s rare-earth export controls led to an India-Australia critical minerals pact.
+:::
+
+:::conclusion
+India’s external strategy needs both foresight and resilience, to protect sovereignty while helping to shape the global commons.
+:::
+
+---
+id: GS2-INTE-0299
+paper: "GS-2"
+subject: "INTERNATIONAL RELATIONS"
+section_group: "Global Geopolitics & Indian Diaspora"
+microtopic: "Global Policies & Politics: Effect of Policies & Politics of Developed & Developing Countries on India's Interests"
+subtopic: "Geo-politics affecting India's Interest"
+card_title: "India's FOREIGN POLICY"
+card_type: structured
+sections: [quote, introduction, conclusion, detail]
+flags: []
+status: polished
+---
+
+:::quote
+"FP is an exercise of forging convergences and managing divergences." — S. Jaishankar
+:::
+
+:::introduction
+India’s foreign policy mixes **strategic autonomy** with **omnidirectional diplomatic engagement**. It aims to protect national interests and promote global stability through a **balanced approach**.
+:::
+
+:::conclusion
+- India’s energetic diplomacy and the rise of **global heteropolarity** can make India a **Vishwaguru**.
+- "**There are no permanent friends and no permanent foes; only interests are permanent.**"
+- India must **adapt to new realities** as new challenges arise.
+:::
+
+:::detail label="Art. 51"
+- **SSM:** “**Minimaxing**” means minimising harms and maximising gains.
+:::
+
+---
+id: GS2-INTE-0300
+paper: "GS-2"
+subject: "INTERNATIONAL RELATIONS"
+section_group: "Global Geopolitics & Indian Diaspora"
+microtopic: "Global Policies & Politics: Effect of Policies & Politics of Developed & Developing Countries on India's Interests"
+subtopic: "Geo-politics affecting India's Interest"
+card_title: "India's CHANGING STATURE / ROLE in WORLD"
+card_type: structured
+sections: [introduction, conclusion]
+flags: []
+status: polished
+---
+
+:::introduction
+- **Transformational events** around the world in 2020-21 helped India become a **major swing state**.
+- "India is part of both **global managers and the trade union**." — Vivek Katju
+- "The world wants to be **seen with India**; wants to be heard."
+:::
+
+:::conclusion
+(India as **Vishwamitra** and the voice of the Global South.)
+:::
+
+---
+id: GS2-INTE-0301
+paper: "GS-2"
+subject: "INTERNATIONAL RELATIONS"
+section_group: "Global Geopolitics & Indian Diaspora"
+microtopic: "Global Policies & Politics: Effect of Policies & Politics of Developed & Developing Countries on India's Interests"
+subtopic: "Geo-politics affecting India's Interest"
+card_title: "CHANGING WORLD ORDER"
+card_type: structured
+sections: [quote, introduction, detail]
+flags: []
+status: polished
+---
+
+:::quote
+"The world order is militarily unipolar, economically multipolar and politically confused." — Shiv Shankar Menon (SSM)
+:::
+
+:::quote
+"In a world full of fault lines and rifts, we need to build a shared future." — Modi
+:::
+
+:::quote
+"We are headed for a poorer, meaner and smaller world." — SSM
+:::
+
+:::quote
+"Globalisation is irreversible." — Tony Blair
+:::
+
+:::quote
+"India has entered a phase of energetic foreign policy where it is not anymore a passive recipient of global happenings." — S. Jaishankar
+:::
+
+:::introduction
+The present world order has **no systemic equilibrium**, even though such balance is essential to keep the world stable.
+:::
+
+:::detail label="Features of current world order"
+- **Polycrisis**
+- Two blocs, with the **3 Ts**: Trust deficit, Trade and Tech warfare, and Treaties lacking
+- Realignments in geopolitics and geoeconomics: Friendshoring, De-Americanisation, NATOisation, New Great Game, Great Eurasian Partnership
+- **Deglobalisation** shows up as economic unilateralism, trade lawlessness, economic nationalism and minilateralisation
+- New security threats: Hypersonic weapons and **4th and 5th domain hybrid warfare** (cyber, space)
+- **Thucydides Trap:** the threat that an emerging power poses
+- **Kindleberger Trap:** no one leads globally (a leadership vacuum); G-Zero
+- Pacifist powers are reviving, middle powers act as swing states, and Tech and Big Tech companies challenge SUSI
+:::
+
+---
+id: GS2-INTE-0302
+paper: "GS-2"
+subject: "INTERNATIONAL RELATIONS"
+section_group: "Global Geopolitics & Indian Diaspora"
+microtopic: "Global Policies & Politics: Effect of Policies & Politics of Developed & Developing Countries on India's Interests"
+subtopic: "Geo-politics affecting India's Interest"
+card_title: "Russia-ukraine CONFLICT"
+card_type: structured
+sections: [introduction, conclusion]
+flags: []
+status: polished
+---
+
+:::introduction
+- The Russia-Ukraine war is slowly becoming a **frozen conflict**.
+- To protect its **strategic autonomy**, India follows an **omnidirectional foreign policy** and talks to all stakeholders.
+:::
+
+:::conclusion
+India can act as a **mediator**, because it has good relations with both countries. This gives India a chance to **increase its global stature**.
+:::
+
+---
+id: GS2-INTE-0303
+paper: "GS-2"
+subject: "INTERNATIONAL RELATIONS"
+section_group: "Global Geopolitics & Indian Diaspora"
+microtopic: "Global Policies & Politics: Effect of Policies & Politics of Developed & Developing Countries on India's Interests"
+subtopic: "Geo-politics affecting India's Interest"
+card_title: "VOICE of GLOBAL SOUTH"
+card_type: structured
+sections: [quote, introduction]
+flags: []
+status: polished
+---
+
+:::quote
+"The era of leader and led is over." — PM Modi
+:::
+
+:::quote
+"We want India to be an advocate for us & sit in meetings of the global high table."
+:::
+
+:::quote
+"Global South expects India to play a stabilizing and bridging role, by derisking the global economy and depolarising the world." — S. Jaishankar
+:::
+
+:::introduction
+- India recently held a special virtual summit called the **Voice of Global South Summit**.
+- The **Global South** is the group of southern hemisphere countries with **collective identities of colonisation, exploitation and underdevelopment**.
+:::
+
+---
+id: GS2-INTE-0304
+paper: "GS-2"
+subject: "INTERNATIONAL RELATIONS"
+section_group: "Global Geopolitics & Indian Diaspora"
+microtopic: "Global Policies & Politics: Effect of Policies & Politics of Developed & Developing Countries on India's Interests"
+subtopic: "Geo-politics affecting India's Interest"
+card_title: "INDIAN OCEAN REGION (IOR) & Indo-pacific"
+card_type: structured
+sections: [quote, introduction]
+flags: []
+status: polished
+---
+
+:::quote
+"The Indian Ocean, with its critical sea lanes and vast reservoir of resources, will be a highway to prosperity and a theatre of rivalry." — C. Raja Mohan
+:::
+
+:::introduction
+- The **IOR** is one of the most **strategically significant and economically dynamic** regions in the world.
+- The **Indo-Pacific** joins 2 seas: the **Indian Ocean and Pacific Ocean** are dynamically coupled. It is the new emerging **geopolitical theatre**.
+:::
+
+---
+id: GS2-INTE-0305
+paper: "GS-2"
+subject: "INTERNATIONAL RELATIONS"
+section_group: "Global Geopolitics & Indian Diaspora"
+microtopic: "Global Policies & Politics: Effect of Policies & Politics of Developed & Developing Countries on India's Interests"
+subtopic: "Geo-politics affecting India's Interest"
+card_title: "SOFT POWER"
+card_type: structured
+sections: [quote, introduction]
+flags: []
+status: polished
+---
+
+:::quote
+"In the information age, a nation's power is increasingly defined by its ability to influence as much as to militarily and economically dominate." — Shashi Tharoor
+:::
+
+:::introduction
+**Joseph Nye** says soft power is the ability to **shape what others prefer, through appeal and attraction**.
+:::
+
+---
+id: GS2-INTE-0306
+paper: "GS-2"
+subject: "INTERNATIONAL RELATIONS"
+section_group: "Global Geopolitics & Indian Diaspora"
+microtopic: "Global Policies & Politics: Effect of Policies & Politics of Developed & Developing Countries on India's Interests"
+subtopic: "Geo-politics affecting India's Interest"
+card_title: "India's Changing Stature/role"
+card_type: structured
+sections: [quote, introduction, conclusion]
+flags: []
+status: polished
+---
+
+:::quote
+"India is part of both global managers and the trade union" — Vivek Katju
+:::
+
+:::introduction
+Many transformational events in 2020 and 2021 helped India emerge as a **major swing state**.
+:::
+
+:::conclusion
+Countries want to be seen alongside India, and they want India to listen to them.
+:::
+
+---
+id: GS2-INTE-0307
+paper: "GS-2"
+subject: "INTERNATIONAL RELATIONS"
+section_group: "Global Geopolitics & Indian Diaspora"
+microtopic: "Groupings & Agreements: Bilateral, Regional & Global Groupings & Agreements Involving or Affecting India's Interests"
+subtopic: "Bilateral Relations"
+card_title: "Template 2: BILATERAL RELATIONS (GENERIC)"
+card_type: structured
+sections: [introduction, conclusion]
+flags: [placeholder_blank]
+status: needs_review
+---
+
+:::introduction
+India and **____** relations are driven by a **deep historical, cultural and geostrategic convergence**, which shapes the new geopolitical realities.
+:::
+
+:::conclusion
+- India and **____** relations are **complementary**. Both countries must use each other's strengths to promote **economic growth and development** and to **balance China**.
+- India and **____** are building a **new partnership** to shape the regional order, and are not just accepting the current geopolitical situation.
+- **Africa:** The Ubuntu philosophy stands for inclusive growth and a universal bond that connects all humanity.
+:::
+
+---
+id: GS2-INTE-0308
+paper: "GS-2"
+subject: "INTERNATIONAL RELATIONS"
+section_group: "Global Geopolitics & Indian Diaspora"
+microtopic: "Groupings & Agreements: Bilateral, Regional & Global Groupings & Agreements Involving or Affecting India's Interests"
+subtopic: "Groupings beyond South Asia"
+card_title: "Bilateral, Regional and Global Groupings"
+card_type: structured
+sections: [quote, introduction, examples, conclusion]
+flags: []
+status: polished
+---
+
+:::quote
+"Strategic autonomy is not strategic isolation it is meaningful multialignment." — S. Jaishankar
+:::
+
+:::introduction
+India can become a **Vishwa Mitra** only through active bilateralism and purposeful multilateralism. India is adjusting its groupings, from the Quad’s Indo-Pacific pivot to BRICS+ reform. It aims at value, norms and strategic hedging in a fluid global order, and not only at voice.
+:::
+
+:::examples
+- India chaired the **Global South Summit** to strengthen LDC voices.
+- **BRICS** took in new members, and India pushed for a balanced expansion.
+- India and the **EU** restarted FTA talks under the **Trade and Tech Council**.
+:::
+
+:::conclusion
+India’s group diplomacy needs agility to match its aspirations, wherever global stakes meet national interest.
+:::
+
+---
+id: GS2-INTE-0309
+paper: "GS-2"
+subject: "INTERNATIONAL RELATIONS"
+section_group: "Global Geopolitics & Indian Diaspora"
+microtopic: "Groupings & Agreements: Bilateral, Regional & Global Groupings & Agreements Involving or Affecting India's Interests"
+subtopic: "Groupings beyond South Asia"
+card_title: "G20"
+card_type: structured
+sections: [introduction, conclusion]
+flags: []
+status: polished
+---
+
+:::introduction
+At a **critical time**, when the world faces a polycrisis, India hosted the **18th G20 Summit in Delhi** and took the lead.
+:::
+
+:::conclusion
+- The G20 can shape **inclusive and balanced global growth** in an interdependent world, and this is its significance.
+- India, as Chair of the G20, should play a **proactive role**. It should push for **reformed multilateralism** and speak as the **voice of the Global South**.
+:::
+
+---
+id: GS2-INTE-0310
+paper: "GS-2"
+subject: "INTERNATIONAL RELATIONS"
+section_group: "Global Geopolitics & Indian Diaspora"
+microtopic: "Groupings & Agreements: Bilateral, Regional & Global Groupings & Agreements Involving or Affecting India's Interests"
+subtopic: "Groupings beyond South Asia"
+card_title: "BRICS"
+card_type: structured
+sections: [introduction, data, conclusion]
+flags: []
+status: polished
+---
+
+:::introduction
+- BRICS is a platform of **5 major emerging economies**, which represent:
+  - **~49.5%** of the world’s population
+  - **30%** of the world’s territory
+  - **~40%** of global GDP (PPP)
+  - **~26%** of world trade (post-expansion in 2024/2025)
+:::
+
+:::data
+- World population ~49.5%; global GDP (PPP) ~40%; world trade ~26% (post-expansion in 2024/2025).
+:::
+
+:::conclusion
+- The **BRICS+ framework** can widen the “**circle of friends**” and strengthen **South-South cooperation**.
+- BRICS is becoming an important arena for **rupee internationalisation** and for building alternative multilateral institutions like the **CRA and NDB**.
+:::
+
+---
+id: GS2-INTE-0311
+paper: "GS-2"
+subject: "INTERNATIONAL RELATIONS"
+section_group: "Global Geopolitics & Indian Diaspora"
+microtopic: "Groupings & Agreements: Bilateral, Regional & Global Groupings & Agreements Involving or Affecting India's Interests"
+subtopic: "Groupings beyond South Asia"
+card_title: "QUAD"
+card_type: structured
+sections: [quote, introduction, conclusion]
+flags: []
+status: polished
+---
+
+:::quote
+"Quad is a force for good." — PM Modi
+:::
+
+:::introduction
+The Quad is a **strategic forum** of the **USA, Japan, India and Australia**. It aims to promote **regional security and economic cooperation** in the **Indo-Pacific**.
+:::
+
+:::conclusion
+Quad countries should work more closely on **economic and military cooperation**. The purpose is to build capacity if needed, not to provoke China.
+:::
+
+---
+id: GS2-INTE-0312
+paper: "GS-2"
+subject: "INTERNATIONAL RELATIONS"
+section_group: "Global Geopolitics & Indian Diaspora"
+microtopic: "Groupings & Agreements: Bilateral, Regional & Global Groupings & Agreements Involving or Affecting India's Interests"
+subtopic: "Groupings beyond South Asia"
+card_title: "ASEAN"
+card_type: structured
+sections: [quote, introduction, conclusion]
+flags: []
+status: polished
+---
+
+:::quote
+"Ample closeness between India's 'Indo Pacific Oceans Initiative' and ASEAN's 'Outlook on Indo Pacific'. A 'Cohesive and Responsive ASEAN' is essential for 'Security and Growth for All in the Region'." — PM Modi
+:::
+
+:::introduction
+ASEAN was formed to **speed up economic growth, social progress and cultural development**. It wants to build a prosperous and peaceful community of Southeast Asian Nations.
+:::
+
+:::conclusion
+Follow the **connecting the connectivities approach**, along with a commitment to multilateralism.
+:::
+
+---
+id: GS2-INTE-0313
+paper: "GS-2"
+subject: "INTERNATIONAL RELATIONS"
+section_group: "Global Geopolitics & Indian Diaspora"
+microtopic: "Groupings & Agreements: Bilateral, Regional & Global Groupings & Agreements Involving or Affecting India's Interests"
+subtopic: "Groupings involving Immediate and Extended neighbours"
+card_title: "SCO (SHANGHAI COOPERATION ORGANISATION)"
+card_type: structured
+sections: [quote, introduction, conclusion]
+flags: []
+status: polished
+---
+
+:::quote
+"We do not only see SCO as extended neighbourhood but as extended family." — PM Modi
+:::
+
+:::introduction
+The **SCO** is a **permanent intergovernmental international organisation**, and it works for **peace, security and stability** in the region.
+:::
+
+:::conclusion
+India should keep its **strategic autonomy**, revive connectivity projects (Ashgabat Agreement), and play a constructive role in **Central Asia (CAR)**.
+:::
+
+---
+id: GS2-INTE-0314
+paper: "GS-2"
+subject: "INTERNATIONAL RELATIONS"
+section_group: "Global Geopolitics & Indian Diaspora"
+microtopic: "Groupings & Agreements: Bilateral, Regional & Global Groupings & Agreements Involving or Affecting India's Interests"
+subtopic: "Groupings involving Immediate and Extended neighbours"
+card_title: "Template 3: SAARC & BIMSTEC (REGIONAL GROUPING)"
+card_type: structured
+sections: [introduction, conclusion]
+flags: [placeholder_blank]
+status: needs_review
+---
+
+:::introduction
+**____** is a **South Asian regional organisation** to promote **____** in the region.
+:::
+
+:::conclusion
+**C. Rajamohan:** 2-speed regionalism.
+:::
+
+---
+id: GS2-INTE-0315
+paper: "GS-2"
+subject: "INTERNATIONAL RELATIONS"
+section_group: "Global Geopolitics & Indian Diaspora"
+microtopic: "Indian Diaspora: Economic, Political & Social Impact of the Indian Diaspora"
+subtopic: "Indian Diaspora"
+card_title: "Role of Indian Diaspora"
+card_type: structured
+sections: [quote, introduction, examples, conclusion, image]
+flags: [has_image]
+status: polished
+---
+
+:::quote
+"Our diaspora is not just an asset it is an amplifier of Bharat’s soft power." — PM Narendra Modi
+:::
+
+:::introduction
+The diaspora is now more than a bridge for India. It is a **lever of diplomacy, technology transfer and narrative-shaping**. From Silicon Valley boardrooms to Gulf labour corridors, overseas Indians are strategic stakeholders in India’s foreign engagement.
+:::
+
+:::examples
+- **Pravasi Bharatiya Divas** saw the launch of the **Global Diaspora Startup Connect**.
+- Under the India-UAE labour mobility pact, welfare for blue-collar workers was digitised.
+- Diaspora diplomacy helped speed up the evacuation from Sudan (**Operation Kaveri**).
+:::
+
+:::conclusion
+India should not only celebrate the diaspora but also co-create its global aspirations with it.
+:::
+
+:::image
+https://pub-cfb8b9095d7d4914990dbb6f73afeb92.r2.dev/syllabus_hierarchy/gs2/images/diagram_p15.png
+:::
+
+---
+id: GS2-INTE-0316
+paper: "GS-2"
+subject: "INTERNATIONAL RELATIONS"
+section_group: "Global Geopolitics & Indian Diaspora"
+microtopic: "Indian Diaspora: Economic, Political & Social Impact of the Indian Diaspora"
+subtopic: "Indian Diaspora"
+card_title: "INDIAN DIASPORA"
+card_type: structured
+sections: [introduction, data, conclusion]
+flags: []
+status: polished
+---
+
+:::introduction
+- People **currently living outside India**, temporarily or permanently, who trace their origin to India (**NRI + OCI**) form the Indian diaspora.
+- **Devesh Kapur’s 4 Channels:** Prospects (brain gain through higher education investment); Absence (high wages); Diaspora (social remittances); Return (increased human capital).
+- **Long-distance nationalism.**
+:::
+
+:::data
+- No other country has a larger emigrant population than India (**largest emigrant population**).
+- Remittances were **$120 billion** (World Bank 2023).
+- Examples: Natu Natu Oscar, Little India in Australia, Satya Nadella, Sundar Pichai, Mahendra Chaudhary (Fiji PM), and 20 Indians in the Biden administration.
+:::
+
+:::conclusion
+- **Parliamentary Committee:** Bring out a **policy document on the diaspora** as a guiding principle for deeper and wider engagement. Also expand the scope of the ICCR.
+- **PP Chaudhary Committee:** The **vulnerable diaspora should be part of PBD** (Pravasi Bharatiya Divas).
+- **Emigration Bill 2021.**
+- **4 Cs:** Connect, Celebrate, Care and Contribute.
+- **PM:** The diaspora is a living bridge and Rashtradoot (cultural ambassadors).
+- **Initiatives:** Devi Shakti, Prabhas and Vajra, Madan Portal, PB Sahayata Kendra, and the SHADES portal for skill mapping.
+:::
+
+---
+id: GS2-INTE-0317
+paper: "GS-2"
+subject: "INTERNATIONAL RELATIONS"
+section_group: "International Organizations"
+microtopic: "International Institutions: Structure, Mandate & Functioning of Important Agencies & Fora"
+subtopic: "United Nations and its Agencies"
+card_title: "Important International Institutions"
+card_type: structured
+sections: [quote, introduction, examples, conclusion, image]
+flags: [has_image]
+status: polished
+---
+
+:::quote
+"Global governance must evolve or it will erode." — Antonio Guterres
+:::
+
+:::introduction
+The post-war multilateral order has a legitimacy deficit. As India aims for Viksit Bharat@2047, it is pushing for reform of institutions from the UNSC to the WTO. The goal is to make global governance more democratic, so that “rules-based order” does not become a cover for the status quo.
+:::
+
+:::examples
+- India supported the **Global Digital Public Infrastructure Framework** at the G20.
+- The push for **UN Security Council reform** was revived at the South Summit chaired by India.
+- In **WTO** negotiations, India defended the Global South on agricultural subsidies.
+:::
+
+:::conclusion
+Reimagining institutions is not disruption. It is inclusion, and it ensures equity in making global rules.
+:::
+
+:::image
+https://pub-cfb8b9095d7d4914990dbb6f73afeb92.r2.dev/syllabus_hierarchy/gs2/images/diagram_p16.png
+:::
+
+---
+id: GS2-INTE-0318
+paper: "GS-2"
+subject: "INTERNATIONAL RELATIONS"
+section_group: "International Organizations"
+microtopic: "International Institutions: Structure, Mandate & Functioning of Important Agencies & Fora"
+subtopic: "United Nations and its Agencies"
+card_title: "GLOBAL GROUPINGS (UN / WTO / IMF — COMMON)"
+card_type: structured
+sections: [quote, introduction, conclusion]
+flags: [placeholder_blank]
+status: needs_review
+---
+
+:::quote
+"3Ts: Trust, Transparency and Timeliness." — PM Modi
+:::
+
+:::quote
+"Developing countries want human-centric globalization; therefore India should take a proactive role in pushing for reformed multilateralism."
+:::
+
+:::introduction
+- **___ established to promote ____.**
+- India is one of the **founding members of ___**, which ensures (role).
+- **Democracy deficit** in ___ calls for **reformed multilateralism** to promote **human-centric globalization**.
+:::
+
+:::conclusion
+- **UN:** India suggested **NORMS**, which stands for New Orientation for Reformed Multilateral Systems.
+- **WTO:** As protectionism and trade wars increase, the WTO should take centre stage to protect the **liberal economic world order**.
+:::
+
+---
+id: GS2-INTE-0319
+paper: "GS-2"
+subject: "INTERNATIONAL RELATIONS"
+section_group: "International Organizations"
+microtopic: "International Institutions: Structure, Mandate & Functioning of Important Agencies & Fora"
+subtopic: "United Nations and its Agencies"
+card_title: "Template 4: GLOBAL GROUPING (UN / WTO / IMF)"
+card_type: structured
+sections: [quote, introduction]
+flags: [placeholder_blank]
+status: needs_review
+---
+
+:::quote
+"Developing countries want human-centric globalization; therefore India should take a proactive role in pushing for reformed multilateralism." — PM Modi
+:::
+
+:::introduction
+- **___** established to promote **____**.
+- India is one of the **founding members of ___**; which ensures **(role)**.
+- **Democracy deficit** in **___** calls for **reformed multilateralism** to promote **human-centric globalization**.
+:::
+
+---
+id: GS2-INTE-0320
+paper: "GS-2"
+subject: "INTERNATIONAL RELATIONS"
+section_group: "Neighborhood & Bilateral Engagements"
+microtopic: "Neighborhood Relations: India & its Neighborhood-Relations"
+subtopic: "Neighbourhood"
+card_title: "India and its Neighbourhood"
+card_type: structured
+sections: [quote, introduction, examples, conclusion]
+flags: []
+status: polished
+---
+
+:::quote
+"A nation's destiny is shaped by its geography but defined by its diplomacy." — Shyam Saran
+:::
+
+:::introduction
+In an era of geoeconomics and geostrategy, India’s neighbourhood policy is moving from passive proximity to proactive partnership. Guided by **Neighbourhood First, SAGAR and Act East**, India wants a stable neighbourhood to support its global ambitions. The world order is increasingly centred on the Indo-Pacific.
+:::
+
+:::examples
+- India hosted the **BIMSTEC Security Dialogue**, which focused on regional counter-terrorism.
+- The **e-VBAB** (Tele-education) initiative was extended to Sri Lanka as part of digital diplomacy.
+- The PM’s visit to Bhutan led to MoUs on energy grid cooperation and space tech.
+:::
+
+:::conclusion
+Ties with neighbours need more than history. They need harmony, resilience and regionalism built on shared prosperity.
+:::
+
+---
+id: GS2-INTE-0321
+paper: "GS-2"
+subject: "INTERNATIONAL RELATIONS"
+section_group: "Neighborhood & Bilateral Engagements"
+microtopic: "Neighborhood Relations: India & its Neighborhood-Relations"
+subtopic: "Neighbourhood"
+card_title: "India-bangladesh RELATIONS"
+card_type: structured
+sections: [quote, conclusion]
+flags: []
+status: polished
+---
+
+:::quote
+"India's ties with Bangladesh is a role model in International Relations." — Harshwardhan Singla
+:::
+
+:::conclusion
+Use the close fraternal ties, and include Bangladesh in the **IMT (India-Myanmar-Thailand) corridor**.
+:::
+
+---
+id: GS2-INTE-0322
+paper: "GS-2"
+subject: "INTERNATIONAL RELATIONS"
+section_group: "Neighborhood & Bilateral Engagements"
+microtopic: "Neighborhood Relations: India & its Neighborhood-Relations"
+subtopic: "Neighbourhood"
+card_title: "India-nepal RELATIONS"
+card_type: structured
+sections: [quote, introduction]
+flags: []
+status: untouched
+---
+
+:::quote
+"Our relation needs mutual trust, equality, & benefit to sustain it." — PM Modi
+:::
+
+:::quote
+"The India-Nepal Border should not be a barrier but a bridge to bring prosperity to both sides." — PM Modi
+:::
+
+:::introduction
+"We share **open borders & deep-rooted ties of kinship and culture** — Roti, Beti ka rishta."
+:::
+
+---
+id: GS2-INTE-0323
+paper: "GS-2"
+subject: "INTERNATIONAL RELATIONS"
+section_group: "Neighborhood & Bilateral Engagements"
+microtopic: "Neighborhood Relations: India & its Neighborhood-Relations"
+subtopic: "Neighbourhood"
+card_title: "India-bhutan RELATIONS"
+card_type: structured
+sections: [quote, introduction]
+flags: []
+status: polished
+---
+
+:::quote
+"2-Speed regionalism — faster integration of subregion of South Asia (BIMSTEC-BBIN)." — C. Rajamohan
+:::
+
+:::introduction
+Bhutan sits between India and China as a **strategic buffer state**.
+:::
+
+---
+id: GS2-INTE-0324
+paper: "GS-2"
+subject: "INTERNATIONAL RELATIONS"
+section_group: "Neighborhood & Bilateral Engagements"
+microtopic: "Neighborhood Relations: India & its Neighborhood-Relations"
+subtopic: "Neighbourhood"
+card_title: "India-sri LANKA RELATIONS"
+card_type: structured
+sections: [quote, conclusion]
+flags: [truncated]
+status: untouched
+---
+
+:::quote
+"Relationship with India is our most important relationship, period." — Milinda Moragoda, SL High Commissioner (after India's cooperation in crisis)
+:::
+
+:::quote
+"Focus must be on elevating the bilateral ties from the current 'transactional' phase to one that is more 'strategic'." — Milinda Moragoda
+:::
+
+:::conclusion
+"**Blood is thicker than water.**" — S. Jaishankar
+:::
+
+---
+id: GS2-INTE-0325
+paper: "GS-2"
+subject: "INTERNATIONAL RELATIONS"
+section_group: "Neighborhood & Bilateral Engagements"
+microtopic: "Neighborhood Relations: India & its Neighborhood-Relations"
+subtopic: "Neighbourhood"
+card_title: "India-myanmar RELATIONS"
+card_type: structured
+sections: [quote, conclusion]
+flags: []
+status: polished
+---
+
+:::quote
+"Myanmar is the pillar of India's Act East Policy." — PM Modi
+:::
+
+:::conclusion
+(Strategic importance for the Act East Policy.)
+:::
+
+---
+id: GS2-INTE-0326
+paper: "GS-2"
+subject: "INTERNATIONAL RELATIONS"
+section_group: "Neighborhood & Bilateral Engagements"
+microtopic: "Neighborhood Relations: India & its Neighborhood-Relations"
+subtopic: "Neighbourhood"
+card_title: "India-afghanistan RELATIONS"
+card_type: structured
+sections: [quote, introduction]
+flags: []
+status: polished
+---
+
+:::quote
+"India's vision is a Sovereign, United, Stable, Plural and Democratic Afghanistan." — Former diplomat Rakesh Sood
+:::
+
+:::introduction
+Afghanistan lies at the **crossroads of the Middle East, Central Asia and the Indian subcontinent**.
+:::
+
+---
+id: GS2-INTE-0327
+paper: "GS-2"
+subject: "INTERNATIONAL RELATIONS"
+section_group: "Neighborhood & Bilateral Engagements"
+microtopic: "Neighborhood Relations: India & its Neighborhood-Relations"
+subtopic: "Neighbourhood"
+card_title: "India-pakistan RELATIONS"
+card_type: structured
+sections: [quote, introduction, conclusion]
+flags: []
+status: polished
+---
+
+:::quote
+"You can choose your friends but not your neighbours." — ABV
+:::
+
+:::introduction
+Pakistan is facing a **poly-crisis**: political and economic instability, along with fragile internal security.
+:::
+
+:::conclusion
+- **REVIVE SAARC** — "Politics and economics can help to repair fractured history and geography."
+- A failed, dysfunctional and ungoverned Pakistan, with such a huge land border, is **not good for India**.
+:::
+
+---
+id: GS2-INTE-0328
+paper: "GS-2"
+subject: "INTERNATIONAL RELATIONS"
+section_group: "Neighborhood & Bilateral Engagements"
+microtopic: "Neighborhood Relations: India & its Neighborhood-Relations"
+subtopic: "Neighbourhood"
+card_title: "India and Its Neighborhood (Specific Relations)"
+card_type: structured
+sections: [quote, introduction, conclusion]
+flags: []
+status: polished
+---
+
+:::quote
+"Myanmar is the pillar of India's Act East policy" — PM Modi
+:::
+
+:::quote
+"Blood is thicker than water" — S. Jaishankar
+:::
+
+:::introduction
+- **Bangladesh:** A role model in international relations.
+- **Nepal:** India and Nepal share open borders and deep-rooted ties of kinship and culture (**Roti, Beti ka rishta**).
+- **Bhutan:** A strategic buffer state between India and China.
+- **Sri Lanka:** Its relationship with India is the most important one, and India cooperated during its crisis.
+- **Pakistan:** It faces a **poly crisis**: political and economic instability, plus fragile internal security.
+:::
+
+:::conclusion
+- Move towards **2 speed regionalism**, and create strong dependency bonds.
+- Afghanistan: Treat the regime and the people separately, and focus on double peace.
+- Pakistan: Revive SAARC; a failed or ungoverned Pakistan is not good for India.
+:::
+
+---
+id: GS3-INDI-0329
+paper: "GS-3"
+subject: "INDIAN ECONOMY"
+section_group: "Industrial Dynamics & Reforms"
+microtopic: "Effects of Liberalisation on the economy; Changes in Industrial policy & their effects on industrial growth"
+subtopic: "FDI"
+card_title: "Ease of Doing Business & PLI"
+card_type: structured
+sections: [quote, introduction, examples, conclusion]
+flags: []
+status: polished
+---
+
+:::quote
+"From red tape to red carpet is a journey of mindset and law."
+:::
+
+:::introduction
+Reforms like the **Insolvency & Bankruptcy Code**, **PLI schemes** and **faceless approvals** improve the **ease of doing business**. They show a shift to a **“compliance-light, trust-heavy” economy.**
+:::
+
+:::examples
+- In major insolvency cases, the IBC helped recover **₹2.9 lakh crore**.
+- **PLI schemes across 14 sectors** brought in investment and increased exports.
+- MCA21, GSTN and single-window clearances improved **regulatory transparency**.
+:::
+
+:::conclusion
+India must carry reforms further in **contract enforcement and informal sector inclusion**, to make doing business easy for everyone.
+:::
+
+---
+id: GS3-INDI-0330
+paper: "GS-3"
+subject: "INDIAN ECONOMY"
+section_group: "Industrial Dynamics & Reforms"
+microtopic: "Effects of Liberalisation on the economy; Changes in Industrial policy & their effects on industrial growth"
+subtopic: "FDI"
+card_title: "FDI/FII Trends & Trade Policies"
+card_type: structured
+sections: [quote, introduction, examples, conclusion]
+flags: []
+status: polished
+---
+
+:::quote
+"Capital follows clarity, consistency, and confidence."
+:::
+
+:::introduction
+India is changing its **FDI and trade policies** and improving ease of doing business. The aim is to gain from **“trust reshoring”** and become a **key node in global value chains.**
+:::
+
+:::examples
+- **$80+ billion FDI** came to India, led by renewables, electronics and services.
+- Caps were relaxed in **insurance (74%)** and **defence (74% automatic, 100% via the government route)**.
+- **100% FDI is permitted in the space sector** under amended rules.
+- India signed **FTA pacts with the UAE and Australia**, to open up export markets.
+:::
+
+:::conclusion
+Industry can grow strongly only if there is a balance between **open markets and strategic safeguards**.
+:::
+
+---
+id: GS3-INDI-0331
+paper: "GS-3"
+subject: "INDIAN ECONOMY"
+section_group: "Industrial Dynamics & Reforms"
+microtopic: "Effects of Liberalisation on the economy; Changes in Industrial policy & their effects on industrial growth"
+subtopic: "LPG Reform and Impact"
+card_title: "Disinvestment Policy & Asset Monetization"
+card_type: structured
+sections: [quote, introduction, examples, conclusion]
+flags: []
+status: polished
+---
+
+:::quote
+"The government has no business to be in business." – NITI Aayog Vision Document
+:::
+
+:::introduction
+Strategic disinvestment and asset monetisation let the state leave non-core sectors and free up capital. By **“funding the future without expanding deficits,”** they create more fiscal space.
+:::
+
+:::examples
+- There was progress on the strategic disinvestment of **IDBI Bank**.
+- The **NMP** monetised **brownfield assets** in highways and power.
+- The **LIC IPO** gave retail investors wider access to public wealth.
+:::
+
+:::conclusion
+Efficiency and capital mobilisation depend on a **transparent, time-bound disinvestment policy**.
+:::
+
+---
+id: GS3-INDI-0332
+paper: "GS-3"
+subject: "INDIAN ECONOMY"
+section_group: "Industrial Dynamics & Reforms"
+microtopic: "Effects of Liberalisation on the economy; Changes in Industrial policy & their effects on industrial growth"
+subtopic: "LPG Reform and Impact"
+card_title: "LPG Reforms"
+card_type: structured
+sections: [quote, introduction, examples, conclusion, image]
+flags: [has_image]
+status: polished
+---
+
+:::quote
+"Economic reforms begin where control ends."
+:::
+
+:::introduction
+**LPG reforms transformed India.** A closed, socialist economy became a competitive, market-led one. This laid the foundation for **India@100 as a developed nation**, with global integration and sectoral liberalisation.
+:::
+
+:::examples
+- For decades after the reforms, **GDP growth averaged above 6%**.
+- Industrial licensing was abolished in **nearly all sectors**.
+- IT and finance led **services exports**, which became a major growth driver.
+:::
+
+:::conclusion
+To spread the benefits of liberalisation widely, future progress must combine **continued reforms with inclusive safety nets**.
+:::
+
+:::image
+https://pub-cfb8b9095d7d4914990dbb6f73afeb92.r2.dev/syllabus_hierarchy/gs3/images/diagram_p16.png
+:::
+
+---
+id: GS3-INDI-0333
+paper: "GS-3"
+subject: "INDIAN ECONOMY"
+section_group: "Macroeconomics & Fiscal Policy"
+microtopic: "Government Budgeting and fiscal management policies"
+subtopic: "Current Budget"
+card_title: "Budget Process & Components"
+card_type: structured
+sections: [quote, introduction, examples, conclusion, image]
+flags: [has_image]
+status: polished
+---
+
+:::quote
+"A budget is not just numbers on a page, it is an embodiment of our values." – Barack Obama
+:::
+
+:::introduction
+India’s budget is prepared in line with **constitutional fidelity (Article 112)** and with an eye on development. It is organised around estimates, receipts and expenditures. Under the **FRBM Act**, the aim is macroeconomic stability while **"planning prosperity through prudence."**
+:::
+
+:::examples
+- **Revenue expenditure** was the main focus of the interim budget.
+- For **FY26** the fiscal deficit came to **4.4% of GDP**; the **FY27 target is 4.3% (CGA data)**, as subsidies are high.
+- The **16th Finance Commission** has to review the **FRBM targets**.
+:::
+
+:::conclusion
+To balance growth with discipline, India can use a **calibrated fiscal framework** and an **independent fiscal council**.
+:::
+
+:::image
+https://pub-cfb8b9095d7d4914990dbb6f73afeb92.r2.dev/syllabus_hierarchy/gs3/images/diagram_p8.png
+:::
+
+---
+id: GS3-INDI-0334
+paper: "GS-3"
+subject: "INDIAN ECONOMY"
+section_group: "Macroeconomics & Fiscal Policy"
+microtopic: "Government Budgeting and fiscal management policies"
+subtopic: "Current Budget"
+card_title: "Outcome & Performance Budgeting"
+card_type: structured
+sections: [quote, introduction, examples, conclusion]
+flags: []
+status: polished
+---
+
+:::quote
+"You can’t manage what you can’t measure." – Peter Drucker
+:::
+
+:::introduction
+India’s budgeting now measures impact, not just inputs: **"from outlay to outcome"**. **Performance-based indicators** make it more transparent and accountable to the public.
+:::
+
+:::examples
+- The **PMAY dashboard** shows how many units are complete, unit by unit.
+- **Rural Development** and other ministries link funds to measurable outputs.
+- Fund allocations are shaped by **NITI Aayog’s Performance Index**.
+:::
+
+:::conclusion
+Outcomes can match allocations if **real-time tracking** and **performance-linked disbursal** become standard practice.
+:::
+
+---
+id: GS3-INDI-0335
+paper: "GS-3"
+subject: "INDIAN ECONOMY"
+section_group: "Macroeconomics & Fiscal Policy"
+microtopic: "Government Budgeting and fiscal management policies"
+subtopic: "Fiscal Policy"
+card_title: "Revenue & Capital Expenditure Trends"
+card_type: structured
+sections: [quote, introduction, examples, conclusion]
+flags: []
+status: polished
+---
+
+:::quote
+"Capital expenditure is the soul of sustainable growth."
+:::
+
+:::introduction
+India’s fiscal strategy is moving **from revenue-heavy budgets to capex-led growth engines**. This fits the aim of **“spending less and building more.”** It improves productivity, infrastructure and private investment.
+:::
+
+:::examples
+- More than **₹11 lakh crore** was allocated to capex for infra.
+- High **revenue outgo** continued because of fertiliser and food subsidies.
+- **PM Gati Shakti** received more **capital infusion** for logistics.
+:::
+
+:::conclusion
+Keep the focus on capex and add **efficient monitoring**, so that returns last and the fiscal position stays resilient.
+:::
+
+---
+id: GS3-INDI-0336
+paper: "GS-3"
+subject: "INDIAN ECONOMY"
+section_group: "Macroeconomics & Fiscal Policy"
+microtopic: "Government Budgeting and fiscal management policies"
+subtopic: "Fiscal Policy"
+card_title: "Government Schemes vs Capital Creation"
+card_type: structured
+sections: [quote, introduction, examples, conclusion, image]
+flags: [has_image]
+status: polished
+---
+
+:::quote
+"Schemes must not just spend, they must build."
+:::
+
+:::introduction
+Welfare schemes should create **productive assets**, in line with the government’s **“Minimum Government, Maximum Governance”** philosophy. Welfare linked to capital delivers inclusion and economic growth together.
+:::
+
+:::examples
+- Rural infrastructure built under the **Jal Jeevan Mission** will last.
+- **PM Awas Yojana-Urban** gave a push to housing-linked capex.
+- **MGNREGS** outlay was rationalised and redirected to durable assets.
+:::
+
+:::conclusion
+When welfare is linked with **long-term capital assets**, it gives **economic multipliers without fiscal stress**.
+:::
+
+:::image
+https://pub-cfb8b9095d7d4914990dbb6f73afeb92.r2.dev/syllabus_hierarchy/gs3/images/diagram_p9.png
+:::
+
+---
+id: GS3-INDI-0337
+paper: "GS-3"
+subject: "INDIAN ECONOMY"
+section_group: "Macroeconomics & Fiscal Policy"
+microtopic: "Government Budgeting and fiscal management policies"
+subtopic: "Fiscal Policy"
+card_title: "Central & State Budget Interface"
+card_type: structured
+sections: [quote, introduction, examples, conclusion]
+flags: []
+status: polished
+---
+
+:::quote
+"Cooperative federalism must reflect in cooperative fiscalism."
+:::
+
+:::introduction
+India’s public finance works well only when the Centre and states work together on finance (**centre-state fiscal synergy**). Here, **“collaborative spending powers”** help development move in step. The Union budget now gives states more incentives to create capital at the state level.
+:::
+
+:::examples
+- States are being offered **50-year interest-free loans** for infra projects.
+- **Compensation adjustments** under GST helped the fiscal balance of states.
+- **PM Gati Shakti** brings planning together across levels of government.
+:::
+
+:::conclusion
+Development across states can be equitable and outcome-driven only with a strong **intergovernmental fiscal framework**.
+:::
+
+---
+id: GS3-INDI-0338
+paper: "GS-3"
+subject: "INDIAN ECONOMY"
+section_group: "Macroeconomics & Fiscal Policy"
+microtopic: "Inclusive growth and issues arising from it"
+subtopic: "Inclusive Growth"
+card_title: "Inclusive Growth"
+card_type: structured
+sections: [quote, introduction, examples, conclusion]
+flags: []
+status: polished
+---
+
+:::quote
+"JAM is the highway to equity in a digital India." — Economic Survey
+:::
+
+:::introduction
+The **JAM Trinity**, **Direct Benefit Transfers** and the **Jan Dhan–Aadhaar–Mobile** link drive **inclusive growth**. Together they make entitlements **portable, paperless and person-centric**, in line with **SDG 1 & 10**.
+:::
+
+:::examples
+- Through **DBT**, ₹30 lakh crore+ was sent straight to beneficiaries’ accounts across 400+ schemes.
+- **PM Jan Dhan Yojana** passed the milestone of 50 crore bank accounts.
+- **UPI** transactions went above ₹18 lakh crore a month, which promotes digital access.
+:::
+
+:::conclusion
+India’s digital inclusion model shows that **technology + trust = transformation**, a mantra for closing developmental divides.
+:::
+
+---
+id: GS3-INDI-0339
+paper: "GS-3"
+subject: "INDIAN ECONOMY"
+section_group: "Macroeconomics & Fiscal Policy"
+microtopic: "Inclusive growth and issues arising from it"
+subtopic: "Inclusive Growth X Sustainable Development"
+card_title: "Role of SHGs, Cooperatives & Skill Dev"
+card_type: structured
+sections: [quote, introduction, examples, conclusion]
+flags: []
+status: polished
+---
+
+:::quote
+"Self-help is the best help—especially when it builds an economy from below." — Inspired by grassroots movements
+:::
+
+:::introduction
+Schemes like **MUDRA**, **PM-SVANidhi** and **DAY-NRLM** give strength to **SHGs, nano-enterprises** and informal vendors. They become catalysts of “**Vocal for Local**” and “**Empower the last mile first**”.
+:::
+
+:::examples
+- **MUDRA loans** passed ₹23 lakh crore, and most went to women and SC/STs.
+- **PM-SVANidhi** brought over 70 lakh street vendors on board, with microcredit and e-KYC.
+- Under PMKVY 4.0, the **Skill India Mission** trained over 1.5 crore youth.
+:::
+
+:::conclusion
+India’s answer to **inclusive capitalism** is people-led micro-entrepreneurship, which brings **dignity, credit and capacity** to the grassroots.
+:::
+
+---
+id: GS3-INDI-0340
+paper: "GS-3"
+subject: "INDIAN ECONOMY"
+section_group: "Macroeconomics & Fiscal Policy"
+microtopic: "Indian Economy and issues relating to planning, mobilization of resources, GDP, and monetary framework"
+subtopic: "Investment"
+card_title: "Resource Mobilization"
+card_type: structured
+sections: [quote, introduction, examples, conclusion, image]
+flags: [has_image]
+status: polished
+---
+
+:::quote
+"Revenue is the lifeblood of a government, transparency its heartbeat." — Inspired by the Kelkar Committee
+:::
+
+:::introduction
+**Make in India**, **Invest India** and **Digital India** act as facilitators. Through them India wants to improve **resource mobilisation**, using **efficient taxation**, deeper **capital markets** and stable **foreign investments**.
+:::
+
+:::examples
+- The **faceless tax regime** and the Vivad Se Vishwas scheme improved tax compliance.
+- To improve market liquidity, **SEBI** introduced T+0 trade settlement.
+- **FDI** norms were relaxed in the **space, semiconductor** and **green energy** sectors.
+:::
+
+:::conclusion
+A dynamic resource mobilisation strategy builds **fiscal strength**, wins global trust and drives **inclusive and self-reliant growth**.
+:::
+
+:::image
+https://pub-cfb8b9095d7d4914990dbb6f73afeb92.r2.dev/syllabus_hierarchy/gs3/images/diagram_p6.png
+:::
+
+---
+id: GS3-INDI-0341
+paper: "GS-3"
+subject: "INDIAN ECONOMY"
+section_group: "Macroeconomics & Fiscal Policy"
+microtopic: "Indian Economy and issues relating to planning, mobilization of resources, GDP, and monetary framework"
+subtopic: "Niti Aayog X Planning Commission"
+card_title: "Planning & Economic Strategy"
+card_type: structured
+sections: [quote, introduction, examples, conclusion, image]
+flags: [has_image]
+status: polished
+---
+
+:::quote
+"A vision without a plan is just a wish." – Narendra Modi
+:::
+
+:::introduction
+Planning in India has changed, from **centralised Five-Year Plans** to **Viksit Bharat@2047**. The change is towards **mission-mode governance** and **competitive federalism**, guided by **NITI Aayog’s reform-driven think tank model** and the “**Sabka Prayas**” philosophy.
+:::
+
+:::examples
+- **NITI Aayog** published sector-specific strategy papers in line with Viksit Bharat goals.
+- States were ranked under the **SDG India Index**, which promotes outcome-based planning.
+- The Finance Commission gave states incentives through performance-linked grants.
+:::
+
+:::conclusion
+Strategic planning must match **vision with execution**. It should make economic reforms **federal, future-ready and inclusive**, and build a roadmap for **Amrit Kaal**.
+:::
+
+:::image
+https://pub-cfb8b9095d7d4914990dbb6f73afeb92.r2.dev/syllabus_hierarchy/gs3/images/diagram_p5.png
+:::
+
+---
+id: GS3-INDI-0342
+paper: "GS-3"
+subject: "INDIAN ECONOMY"
+section_group: "Macroeconomics & Fiscal Policy"
+microtopic: "Indian Economy and issues relating to planning, mobilization of resources, GDP, and monetary framework"
+subtopic: "Niti Aayog X Planning Commission"
+card_title: "NITI Aayog Strategy & Viksit Bharat"
+card_type: structured
+sections: [quote, introduction, examples, conclusion]
+flags: []
+status: polished
+---
+
+:::quote
+"What India does today will shape the world of tomorrow." — Viksit Bharat Vision
+:::
+
+:::introduction
+**Viksit Bharat@2047** imagines a **prosperous, inclusive and climate-smart India**. **NITI Aayog’s** thematic roadmaps guide it, and it links national ambitions with **SDG 2030 and India@100** goals.
+:::
+
+:::examples
+- Viksit Bharat targets for MSMEs, health and innovation were released sector by sector.
+- Policy dialogues with states on export hubs and skilling were started by **NITI Aayog**.
+- A roadmap for Net Zero by 2070 came out in a paper on energy transitions.
+:::
+
+:::conclusion
+By 2047, India can be a global model of development if strategic visioning becomes **cohesive policy, cooperative execution and catalytic change**.
+:::
+
+---
+id: GS3-INDI-0343
+paper: "GS-3"
+subject: "INDIAN ECONOMY"
+section_group: "Macroeconomics & Fiscal Policy"
+microtopic: "Issues relating to overall economic growth, sector manufacturing, and employment generation"
+subtopic: "Economic Growth"
+card_title: "Growth vs Development"
+card_type: structured
+sections: [quote, introduction, examples, conclusion]
+flags: []
+status: polished
+---
+
+:::quote
+"Growth is hollow if it doesn’t bridge the divide." — Inspired by the Human Development Report
+:::
+
+:::introduction
+India’s development story balances **GDP growth** with better **HDI**, **GDI** and **Multidimensional Poverty Index** scores. This reflects the push towards “**Sabka Saath, Sabka Vikas, Sabka Vishwas**”.
+:::
+
+:::examples
+- **NITI Aayog** released an updated **MPI report** that identifies high-deprivation districts.
+- The government used the **Aspirational Districts Programme** to get equitable outcomes.
+- UNDP data showed progress in **life expectancy and years of schooling**.
+:::
+
+:::conclusion
+India must give priority to **inclusive indicators** along with GDP, so that growth turns into **real, measurable and people-centric development**.
+:::
+
+---
+id: GS3-INDI-0344
+paper: "GS-3"
+subject: "INDIAN ECONOMY"
+section_group: "Macroeconomics & Fiscal Policy"
+microtopic: "Issues relating to overall economic growth, sector manufacturing, and employment generation"
+subtopic: "Manufacturing Sector"
+card_title: "Make in India & Start-Up India"
+card_type: structured
+sections: [quote, introduction, examples, conclusion]
+flags: []
+status: polished
+---
+
+:::quote
+"India must become the factory of the world without losing its soul."
+:::
+
+:::introduction
+The aim of **Make in India**, **Start-Up India** and **industrial corridors** is to increase domestic manufacturing, jobs and innovation, and so build a **“production-driven, globally integrated India.”**
+:::
+
+:::examples
+- More than **1.4 lakh startups** have been recognised, and they create **employment across 700+ districts**.
+- **Mobile manufacturing exports** went past ₹1.2 lakh crore.
+- **DMIC and other corridors** have started operating, with smart infrastructure nodes.
+:::
+
+:::conclusion
+**Design-led, tech-integrated industrialisation** will make India’s production base ready for the future.
+:::
+
+---
+id: GS3-INDI-0345
+paper: "GS-3"
+subject: "INDIAN ECONOMY"
+section_group: "Macroeconomics & Fiscal Policy"
+microtopic: "Issues relating to overall economic growth, sector manufacturing, and employment generation"
+subtopic: "Manufacturing Sector"
+card_title: "MSME Sector Reforms"
+card_type: structured
+sections: [quote, introduction, examples, conclusion]
+flags: []
+status: polished
+---
+
+:::quote
+"Small businesses build big economies."
+:::
+
+:::introduction
+Over **11 crore people** work in the **MSME sector**, which is central to inclusive industrial growth. The **Emergency Credit Line**, **Udyam portal** and **Credit Guarantee Schemes** aim to build **“formal strength from informal roots.”**
+:::
+
+:::examples
+- Under **ECLGS**, ₹3.6 lakh crore was disbursed to 1.2 crore MSMEs.
+- The **Udyam Assist Platform** brought over 2 crore micro enterprises on board.
+- **SIDBI** started **digitised loan pipelines** for small-scale units.
+:::
+
+:::conclusion
+MSME-led growth can be unlocked by targeted credit, **digital skilling** and **cluster competitiveness**.
+:::
+
+---
+id: GS3-INDI-0346
+paper: "GS-3"
+subject: "INDIAN ECONOMY"
+section_group: "Macroeconomics & Fiscal Policy"
+microtopic: "Issues relating to overall economic growth, sector manufacturing, and employment generation"
+subtopic: "Unemployment"
+card_title: "Employment"
+card_type: structured
+sections: [quote, introduction, examples, conclusion]
+flags: []
+status: polished
+---
+
+:::quote
+"Employment is not just about income—it’s about identity and dignity." — World Bank
+:::
+
+:::introduction
+India is the world’s youngest nation. To use the **demographic dividend** and build “**Atmanirbhar Bharat**”, it must tackle **structural unemployment** and formalise the **gig and informal economy**.
+:::
+
+:::examples
+- The **e-Shram** portal has enrolled over 29 crore unorganised workers.
+- For platform workers, **NITI Aayog’s gig report** recommended social security.
+- The **PLFS 2025 Annual Report** shows overall LFPR is stable at **59.3%**, while female LFPR has improved significantly to **40.0%**. The overall unemployment rate fell to **3.1%**.
+:::
+
+:::conclusion
+India’s employment strategy should look beyond numbers and aim for **dignified, secure and future-ready livelihoods** across all sectors and skill levels.
+:::
+
+---
+id: GS3-INDI-0347
+paper: "GS-3"
+subject: "INDIAN ECONOMY"
+section_group: "Physical Infrastructure & Capital"
+microtopic: "Capital investment models and public-private frameworks"
+subtopic: "PPP X Infrastructure"
+card_title: "Investment Models"
+card_type: structured
+sections: [quote, introduction, examples, conclusion]
+flags: []
+status: polished
+---
+
+:::quote
+"Public-private synergy builds more than infrastructure—it builds trust."
+:::
+
+:::introduction
+India’s infra push is led more and more by hybrid models like PPP, HAM, BOT and EPC, which help reduce financial risk. These models reflect the philosophy of **“collaborative growth through shared responsibility.”**
+:::
+
+:::examples
+- **Bharatmala highways** were built with a mix of HAM and EPC.
+- **Solar parks** used PPP together with Viability Gap Funding.
+- **Vande Bharat** trains were procured under an innovative PPP format.
+:::
+
+:::conclusion
+Better **risk-sharing frameworks** and **speedy dispute resolution** will bring private investment in infra back to life.
+:::
+
+---
+id: GS3-INDI-0348
+paper: "GS-3"
+subject: "INDIAN ECONOMY"
+section_group: "Physical Infrastructure & Capital"
+microtopic: "Infrastructure systems connectivity: energy, ports, roads, airports, and railways"
+subtopic: "Airports X Infrastructure"
+card_title: "Railways Modernisation & Airports"
+card_type: structured
+sections: [quote, introduction, examples, conclusion, image]
+flags: [has_image]
+status: polished
+---
+
+:::quote
+"Speed and sustainability are the twin engines of modern mobility."
+:::
+
+:::introduction
+**Vande Bharat**, **UDAN** and the **Amrit Bharat Station Scheme** are rebuilding India’s rail and air networks. They are part of the **Amrit Kaal infrastructure push**, which aims at **fast, green and inclusive mobility solutions**.
+:::
+
+:::examples
+- **60+ Vande Bharat trains** now run on major routes.
+- **500+ stations** are part of the Amrit Bharat redevelopment plan.
+- UDAN has opened **480+ air routes**.
+:::
+
+:::conclusion
+The mobility transition across Bharat and India should be guided by **smart design and affordability**.
+:::
+
+:::image
+https://pub-cfb8b9095d7d4914990dbb6f73afeb92.r2.dev/syllabus_hierarchy/gs3/images/diagram_p18.png
+:::
+
+---
+id: GS3-INDI-0349
+paper: "GS-3"
+subject: "INDIAN ECONOMY"
+section_group: "Physical Infrastructure & Capital"
+microtopic: "Infrastructure systems connectivity: energy, ports, roads, airports, and railways"
+subtopic: "Renewable Energy"
+card_title: "Energy Infrastructure"
+card_type: structured
+sections: [quote, introduction, examples, conclusion]
+flags: []
+status: polished
+---
+
+:::quote
+"Clean energy isn’t a luxury, it’s a national imperative."
+:::
+
+:::introduction
+By investing in renewables, battery storage and **green hydrogen**, India is moving to become a **Green Growth Leader**. Infrastructure is being tied to the **Panchamrit climate targets** and a **Net-Zero 2070 vision**.
+:::
+
+:::examples
+- India’s solar capacity is now above **80 GW**, among the world’s top 5.
+- With **₹20,000+ crore** of support, the Green Hydrogen Mission targets **5 MMT production**.
+- Gujarat and Rajasthan now have **Hybrid RE parks**.
+:::
+
+:::conclusion
+Clean energy security needs stable policy, **storage infrastructure** and green finance.
+:::
+
+---
+id: GS3-INDI-0350
+paper: "GS-3"
+subject: "INDIAN ECONOMY"
+section_group: "Physical Infrastructure & Capital"
+microtopic: "Infrastructure systems connectivity: energy, ports, roads, airports, and railways"
+subtopic: "Renewable Energy"
+card_title: "ENERGY — General Overview"
+card_type: structured
+sections: [introduction, data]
+flags: []
+status: polished
+---
+
+:::introduction
+- Worldwide, India ranks as the **3rd largest energy consumer**.
+- Energy consumption in India is growing faster than anywhere else, at **11%** (the **highest growth rate**).
+- The **Energy Trilemma** means balancing **Energy equity + Energy security + Sustainable energy**.
+:::
+
+:::data
+- Energy use has grown **25×** since the 1850s.
+:::
+
+---
+id: GS3-INDI-0351
+paper: "GS-3"
+subject: "INDIAN ECONOMY"
+section_group: "Physical Infrastructure & Capital"
+microtopic: "Infrastructure systems connectivity: energy, ports, roads, airports, and railways"
+subtopic: "Renewable Energy"
+card_title: "NATURAL GAS"
+card_type: structured
+sections: [introduction, data]
+flags: []
+status: polished
+---
+
+:::introduction
+- The target is still **15% of the energy mix by 2030**.
+- It is the **cleanest of the fossil fuels**.
+- Today, natural gas makes up around **3.9% of utility capacity**, and nearly **45–50% of requirements are met through LNG imports**.
+- The **TAPI Pipeline** is a key infrastructure project.
+:::
+
+:::data
+- Natural gas is about **3.9% of utility capacity**, and **45–50% of requirements** come from **LNG imports**.
+:::
+
+---
+id: GS3-INDI-0352
+paper: "GS-3"
+subject: "INDIAN ECONOMY"
+section_group: "Physical Infrastructure & Capital"
+microtopic: "Infrastructure systems connectivity: energy, ports, roads, airports, and railways"
+subtopic: "Renewable Energy"
+card_title: "GEOTHERMAL ENERGY"
+card_type: structured
+sections: [introduction, data]
+flags: []
+status: polished
+---
+
+:::introduction
+- **Definition:** Energy that is generated and stored inside the Earth’s crust.
+- India’s **1st ever geothermal field development** is in **Puga Valley, Ladakh**.
+:::
+
+:::data
+- The potential of India’s **350 sites** is **10 GW**.
+:::
+
+---
+id: GS3-INDI-0353
+paper: "GS-3"
+subject: "INDIAN ECONOMY"
+section_group: "Physical Infrastructure & Capital"
+microtopic: "Infrastructure systems connectivity: energy, ports, roads, airports, and railways"
+subtopic: "Renewable Energy"
+card_title: "METHANOL ECONOMY"
+card_type: structured
+sections: [introduction, data]
+flags: []
+status: polished
+---
+
+:::introduction
+- In a **methanol economy**, **methanol** replaces dependence on oil and coal.
+- It has slightly **lower energy content** than petrol and diesel.
+- **NITI Aayog Roadmap:** Methanol alone can replace **10% of crude imports by 2030**.
+:::
+
+:::data
+- The target is to substitute **10% of crude imports by 2030**.
+:::
+
+---
+id: GS3-INDI-0354
+paper: "GS-3"
+subject: "INDIAN ECONOMY"
+section_group: "Physical Infrastructure & Capital"
+microtopic: "Infrastructure systems connectivity: energy, ports, roads, airports, and railways"
+subtopic: "Renewable Energy"
+card_title: "BIO-ETHANOL"
+card_type: structured
+sections: [introduction, data]
+flags: []
+status: polished
+---
+
+:::introduction
+- India reached its **E20 target** ahead of schedule. The national average blending rate is **~20% in the 2025–26 Ethanol Supply Year (ESY)**.
+- The **PM JIVAN scheme** supports 2G bio-ethanol.
+- The government should give incentives for **flex-fuel engines** in vehicles.
+:::
+
+:::data
+- Ethanol production capacity has grown to nearly **20 billion litres**. Blending reached a national average of **~20% in the 2025–26 Ethanol Supply Year (ESY)**, so India achieved its **E20 target** ahead of schedule.
+:::
+
+---
+id: GS3-INDI-0355
+paper: "GS-3"
+subject: "INDIAN ECONOMY"
+section_group: "Physical Infrastructure & Capital"
+microtopic: "Infrastructure systems connectivity: energy, ports, roads, airports, and railways"
+subtopic: "Renewable Energy"
+card_title: "PM KUSUM"
+card_type: structured
+sections: [introduction, data]
+flags: []
+status: polished
+---
+
+:::introduction
+The target is to add **30.8 GW solar capacity**, along with **de-dieselisation** and feeder solarisation.
+:::
+
+:::data
+- The solar capacity target is **30.8 GW**.
+:::
+
+---
+id: GS3-INDI-0356
+paper: "GS-3"
+subject: "INDIAN ECONOMY"
+section_group: "Physical Infrastructure & Capital"
+microtopic: "Infrastructure systems connectivity: energy, ports, roads, airports, and railways"
+subtopic: "Renewable Energy"
+card_title: "NATIONAL GREEN HYDROGEN MISSION"
+card_type: structured
+sections: [introduction, data, conclusion]
+flags: []
+status: polished
+---
+
+:::introduction
+- **Definition:** Producing H₂ from water using only **green and renewable sources**.
+- Types:
+  - 1. **Black/Brown (coal).**
+  - 2. **Grey (natural gas).**
+  - 3. **Blue (carbon capture).**
+  - 4. **Green (renewable).**
+- The Centre cleared the **National Green Hydrogen Mission** of **₹19,000 crore**.
+- **Goals by 2030:**
+  - 1. **5 MMT** of green hydrogen.
+  - 2. **SIGHT** (Strategic Interventions for Green Hydrogen Transition Programme), which gives financial incentives for electrolysers.
+- **Advantages:**
+  - 1. Reduces fossil fuel imports by **₹1 lakh crore.**
+  - 2. Decarbonises industry, mobility and energy.
+  - 3. Makes India a global hub for derivatives.
+- **Issues:**
+  - 1. India produces less than 1% of global output.
+  - 2. The technology is immature.
+  - 3. **3× more expensive than Black H₂** (CEEW).
+:::
+
+:::data
+- The mission budget is **₹19,000 crore**.
+- The target is **5 MMT** by 2030.
+- India currently has **<1%** of global production.
+:::
+
+:::conclusion
+It can be a game changer for the energy landscape, as it **mitigates climate change** and fuels economic progress.
+:::
+
+---
+id: GS3-INDI-0357
+paper: "GS-3"
+subject: "INDIAN ECONOMY"
+section_group: "Physical Infrastructure & Capital"
+microtopic: "Infrastructure systems connectivity: energy, ports, roads, airports, and railways"
+subtopic: "Transport"
+card_title: "Transport: Bharatmala, Sagarmala, Gati Shakti"
+card_type: structured
+sections: [quote, introduction, examples, conclusion]
+flags: []
+status: polished
+---
+
+:::quote
+"Infrastructure is the foundation stone of a nation’s economic destiny."
+:::
+
+:::introduction
+**Bharatmala**, **Sagarmala** and the **PM Gati Shakti National Master Plan** are helping India build unified transport systems and cut logistics bottlenecks. They mark a clear move towards a **“One Nation, One Infrastructure” model** for integrated growth.
+:::
+
+:::examples
+- Bharatmala Phase-I has approved **35+ logistics parks**.
+- The **Gati Shakti portal** tracks 2,000+ infra projects digitally.
+- In coastal regions, Sagarmala helped create **port-linked clusters**.
+:::
+
+:::conclusion
+Smooth connectivity and regional equity will come from faster **multimodal infrastructure with digital governance**.
+:::
+
+---
+id: GS3-INDI-0358
+paper: "GS-3"
+subject: "INDIAN ECONOMY"
+section_group: "Physical Infrastructure & Capital"
+microtopic: "Infrastructure systems connectivity: energy, ports, roads, airports, and railways"
+subtopic: "Transport"
+card_title: "Urban Infra: Smart Cities & Housing"
+card_type: structured
+sections: [quote, introduction, examples, conclusion]
+flags: []
+status: polished
+---
+
+:::quote
+"Well-planned cities are not built overnight—they are coded into policy and design."
+:::
+
+:::introduction
+India wants climate-resilient, tech-enabled and inclusive cities, and **Smart Cities Mission**, **AMRUT 2.0** and **PMAY-Urban** are its tools. This matches the aspiration of **India@100 as a sustainable urban civilisation**.
+:::
+
+:::examples
+- Smart Cities has carried out **7,000+ smart infrastructure projects**.
+- Through AMRUT, **500+ cities** have reached water tap coverage.
+- PMAY-U has sanctioned over **1.3 crore houses**.
+:::
+
+:::conclusion
+The next generation of Indian cities will be shaped by a citizen-first approach and **climate-smart design**.
+:::
+
+---
+id: GS3-INDI-0359
+paper: "GS-3"
+subject: "INDIAN ECONOMY"
+section_group: "Physical Infrastructure & Capital"
+microtopic: "Infrastructure systems connectivity: energy, ports, roads, airports, and railways"
+subtopic: "Transport"
+card_title: "Logistics & Digital Infra"
+card_type: structured
+sections: [quote, introduction, examples, conclusion]
+flags: []
+status: polished
+---
+
+:::quote
+"Connectivity is productivity in the Bharat of today."
+:::
+
+:::introduction
+India is building last-mile assets that cut costs and reduce the rural-urban divide. These include **PMGSY rural roads**, **Digital India fibre backbones** and the **National Logistics Policy**. They drive the vision of a **“Viksit Bharat powered by seamless access.”**
+:::
+
+:::examples
+- Over **7.5 lakh km** of all-weather rural roads were built under PMGSY.
+- BharatNet has connected **2.1 lakh Gram Panchayats**.
+- The recent **DPIIT-NCAER report (September 2025)** says India’s logistics cost has fallen to **7.97% of GDP**. This officially puts India in the single-digit category, like advanced economies.
+:::
+
+:::conclusion
+Inclusive economic transformation depends on aligning **physical and digital infrastructure**.
+:::
+
+---
+id: GS3-AGRI-0360
+paper: "GS-3"
+subject: "AGRICULTURE"
+section_group: "Agriculture & Farm Dynamics"
+microtopic: "Irrigation design, management, water efficiency, and conservation infrastructure"
+subtopic: "Irrigation system"
+card_title: "Irrigation & Watershed Development"
+card_type: structured
+sections: [quote, introduction, examples, conclusion]
+flags: []
+status: polished
+---
+
+:::quote
+"More crop per drop is not just a slogan, it's a necessity."
+:::
+
+:::introduction
+Irrigation is the key to Indian agriculture, yet only about **50% of gross cropped area is irrigated**. Schemes like **PMKSY and watershed development** try to close this **"irrigation inclusion gap."**
+:::
+
+:::examples
+- **Micro-irrigation coverage** grew under PMKSY-Per Drop More Crop.
+- The Watershed Development Component helped with **drought-proofing** in Bundelkhand.
+- KUSUM brought in **solar-powered pumps** for off-grid irrigation.
+:::
+
+:::conclusion
+Priority must go to scaling up **micro and climate-resilient irrigation**, along with **tech-driven water budgeting** at the local level.
+:::
+
+---
+id: GS3-AGRI-0361
+paper: "GS-3"
+subject: "AGRICULTURE"
+section_group: "Agriculture & Farm Dynamics"
+microtopic: "Irrigation design, management, water efficiency, and conservation infrastructure"
+subtopic: "Water Conservation"
+card_title: "WATERSHED DEVELOPMENT"
+card_type: structured
+sections: [introduction, conclusion]
+flags: []
+status: polished
+---
+
+:::introduction
+- **Definition:** Watershed development means conserving, regenerating and wisely using all the natural resources of a watershed.
+- **Schemes:**
+  - 1. MGNREGA.
+  - 2. Neeranchal.
+  - 3. PMKSY.
+  - 4. **Jal Shakti Abhiyan.**
+- **Best Practices:**
+  - 1. **Hiware Bazar.**
+  - 2. **Ralegaon Siddhi.**
+  - 3. **Jal Swavalamban (RJ).**
+  - 4. **Jalgaon model of Pani Panchayat.**
+- **Integrated Watershed Management:** NGOs include **Pani Foundation, Sujala (KN)**.
+- **Micro-watershed Atlas of India 2019**.
+- **Mihir Shah Committee:**
+  - 1. Demand management: crop diversification.
+  - 2. RRR.
+  - 1. Supply side: nature-based solutions.
+  - 2. Dam and river management.
+  - Water governance: a multi-stakeholder **National Water Commission**.
+:::
+
+:::conclusion
+**Way forward:** Use **agroforestry, ZBNF and sub-surface irrigation**.
+:::
+
+---
+id: GS3-AGRI-0362
+paper: "GS-3"
+subject: "AGRICULTURE"
+section_group: "Agriculture & Farm Dynamics"
+microtopic: "Issues related to direct and indirect farm subsidies and minimum support prices (MSP)"
+subtopic: "MSP"
+card_title: "MSP & Farm Subsidies"
+card_type: structured
+sections: [quote, introduction, examples, conclusion]
+flags: []
+status: polished
+---
+
+:::quote
+"MSP is not a price, it’s a promise of protection."
+:::
+
+:::introduction
+Input subsidies and MSP give farmers a **safety net**. But there are concerns about their **fiscal sustainability and crop bias**. Reforms must ensure **“support without distortion.”**
+:::
+
+:::examples
+- MSP is declared for 23 crops, but **procurement leans heavily towards paddy and wheat**.
+- **PM-KISAN** gave direct cash support to over 11 crore farmers.
+- The fertiliser subsidy moved to a **nutrient-based model**, with a DBT pilot.
+:::
+
+:::conclusion
+Subsidies should become **targeted, direct support** that is tied to **crop diversification and soil health.**
+:::
+
+---
+id: GS3-AGRI-0363
+paper: "GS-3"
+subject: "AGRICULTURE"
+section_group: "Agriculture & Farm Dynamics"
+microtopic: "Major Crops, cropping patterns, and regional agriculture production styles"
+subtopic: "Cropping pattern"
+card_title: "Major Crops & Cropping Patterns"
+card_type: structured
+sections: [quote, introduction, examples, conclusion, image]
+flags: [has_image]
+status: polished
+---
+
+:::quote
+"Agriculture is not just a means of livelihood, it’s the backbone of Bharat."
+:::
+
+:::introduction
+India has **diverse agro-climatic zones**, and its cropping patterns reflect that. But the patterns no longer fit water and soil sustainability. A move towards **“agro-ecological planning for nutritional security”** is now crucial.
+:::
+
+:::examples
+- Under diversification schemes, paddy area in Punjab has fallen and been replaced by **maize and pulses**.
+- After the push of the **International Year of Millets**, **millet cultivation** rose sharply in dry zones.
+- **Oilseed promotion** spread in arid zones through targeted cluster development.
+:::
+
+:::conclusion
+To keep agriculture resilient and sustainable, cropping choices must match **climate, soil and market linkages**.
+:::
+
+:::image
+https://pub-cfb8b9095d7d4914990dbb6f73afeb92.r2.dev/syllabus_hierarchy/gs3/images/diagram_p10.png
+:::
+
+---
+id: GS3-AGRI-0364
+paper: "GS-3"
+subject: "AGRICULTURE"
+section_group: "Agriculture & Farm Dynamics"
+microtopic: "Major Crops, cropping patterns, and regional agriculture production styles"
+subtopic: "Organic Farming"
+card_title: "ORGANIC FARMING"
+card_type: structured
+sections: [introduction, data]
+flags: []
+status: polished
+---
+
+:::introduction
+- **Definition:** A sustainable approach to agriculture that avoids synthetic inputs and stresses **soil health, biodiversity and natural processes**.
+- **Government steps:**
+  - 1. **PGS-India certification.**
+  - 2. **Paramparagat Krishi Vikas Yojana (PKVY).**
+  - 3. **NMSA.**
+- An awareness campaign like the **SBM** is recommended for **“Swachh Food”**.
+:::
+
+:::data
+- 1. In organic agricultural land, India ranks **8th** in the world.
+- 2. In the total number of producers, India stands **1st** (2020).
+- Organic food exports have risen by **51%** in value.
+- Organic farming covers only **2%** of the **140 mn ha** net sown area.
+:::
+
+---
+id: GS3-AGRI-0365
+paper: "GS-3"
+subject: "AGRICULTURE"
+section_group: "Agriculture & Farm Dynamics"
+microtopic: "Public Distribution System (PDS) management, buffer stock dynamics, food security missions, and economics of animal rearing"
+subtopic: "Buffer stock & food security"
+card_title: "SUSTAINABLE FOOD SYSTEMS"
+card_type: structured
+sections: [introduction, conclusion]
+flags: []
+status: polished
+---
+
+:::introduction
+- **Definition:** A sustainable food system delivers food security and nutrition for all, and it is:
+- **Economically sustainable:** profitable.
+- **Socially sustainable:** gives broad-based benefits to society.
+- **Environmentally sustainable:** has a positive or neutral impact.
+- **Efforts:**
+  - 1. NMSA.
+  - 2. Per Drop More Crop.
+  - 3. **Paramparagat Krishi Vikas Yojana.**
+:::
+
+:::conclusion
+**Precision agriculture + agro-climatic agriculture + use of technology.**
+:::
+
+---
+id: GS3-AGRI-0366
+paper: "GS-3"
+subject: "AGRICULTURE"
+section_group: "Agriculture & Farm Dynamics"
+microtopic: "Public Distribution System (PDS) management, buffer stock dynamics, food security missions, and economics of animal rearing"
+subtopic: "Non-Farm Activities (Livestock)"
+card_title: "Animal Rearing & Livestock Economics"
+card_type: structured
+sections: [quote, introduction, examples, conclusion]
+flags: []
+status: polished
+---
+
+:::quote
+"The strength of rural India lies beyond crops—in hooves, fins, and wings."
+:::
+
+:::introduction
+Over **30% of agri-GVA** comes from animal husbandry, which is key for **income diversification and nutritional security.** The new focus is **“blue, white, and pink revolutions 2.0.”**
+:::
+
+:::examples
+- Under the Rashtriya Gokul Mission, **dairy cooperatives** were modernised digitally.
+- **PM Matsya Sampada Yojana** expanded fishery clusters in coastal belts.
+- Through the **NLM**, livestock insurance cover was extended in high-risk states.
+:::
+
+:::conclusion
+A **vibrant allied agri-economy** needs stronger **value chains, veterinary access** and insurance.
+:::
+
+---
+id: GS3-AGRI-0367
+paper: "GS-3"
+subject: "AGRICULTURE"
+section_group: "Agriculture & Farm Dynamics"
+microtopic: "Public Distribution System (PDS) management, buffer stock dynamics, food security missions, and economics of animal rearing"
+subtopic: "PDS"
+card_title: "Food Security & PDS"
+card_type: structured
+sections: [quote, introduction, examples, conclusion]
+flags: []
+status: polished
+---
+
+:::quote
+"No one should go hungry in the land that grows food."
+:::
+
+:::introduction
+India’s food security system, built on **NFSA, PDS and buffer norms**, ensures inclusive access. But leakages and overstocking challenge the vision of a **“hunger-free, waste-free Bharat.”**
+:::
+
+:::examples
+- **One Nation One Ration Card** now works fully across states (full portability).
+- Digitising the PDS cut the number of ghost beneficiaries in high-leakage districts.
+- Buffer stock norms were reset to deal with seasonal and climate shocks.
+:::
+
+:::conclusion
+Reforming the PDS through **technology, Aadhaar and community audit** can make food security efficient and demand-based.
+:::
+
+---
+id: GS3-AGRI-0368
+paper: "GS-3"
+subject: "AGRICULTURE"
+section_group: "Agriculture & Farm Dynamics"
+microtopic: "Storage, transport, and marketing of agricultural produce along with digital e-technology interventions"
+subtopic: "Agri-Marketing"
+card_title: "Agri Marketing & APMC Reforms"
+card_type: structured
+sections: [quote, introduction, examples, conclusion]
+flags: []
+status: polished
+---
+
+:::quote
+"Farmer incomes rise not just from what they grow, but how and where they sell."
+:::
+
+:::introduction
+Reforms in agricultural marketing are needed to move from **price support to price realisation.** **e-NAM, Model APMC Acts and GrAMs** aim to build a **“One Nation, One Market”** ecosystem.
+:::
+
+:::examples
+- More than **1,400 mandis** are linked with e-NAM to allow inter-state trade.
+- **Madhya Pradesh** and other states adopted APMC Act reforms to allow private markets.
+- **GrAMs** have started working, with digital kiosks and warehousing linkages.
+:::
+
+:::conclusion
+India needs a **unified agri-market architecture**, with strong logistics, digital access and transparent pricing.
+:::
+
+---
+id: GS3-AGRI-0369
+paper: "GS-3"
+subject: "AGRICULTURE"
+section_group: "Agriculture & Farm Dynamics"
+microtopic: "Storage, transport, and marketing of agricultural produce along with digital e-technology interventions"
+subtopic: "Agri-Marketing"
+card_title: "Post-Harvest Infrastructure & Cold Chains"
+card_type: structured
+sections: [quote, introduction, examples, conclusion, image]
+flags: [has_image]
+status: polished
+---
+
+:::quote
+"A farm’s true value is realized only after the harvest."
+:::
+
+:::introduction
+Nearly **15–20% of India’s agri produce** is lost after harvest, because of gaps in cold chains and logistics. Fixing this is key to **“farm to fork efficiency.”**
+:::
+
+:::examples
+- Under PMFME, **Mega Food Parks** received fresh capital for cold storage and processing.
+- A pilot of **ONDC integration** was run for direct farm-to-retail logistics.
+- **NABARD** backed **warehouse projects** through agri infra funds.
+:::
+
+:::conclusion
+Post-harvest infrastructure should be **local, tech-integrated** and linked to farmer producer organisations.
+:::
+
+:::image
+https://pub-cfb8b9095d7d4914990dbb6f73afeb92.r2.dev/syllabus_hierarchy/gs3/images/diagram_p11.png
+:::
+
+---
+id: GS3-AGRI-0370
+paper: "GS-3"
+subject: "AGRICULTURE"
+section_group: "Agriculture & Farm Dynamics"
+microtopic: "Storage, transport, and marketing of agricultural produce along with digital e-technology interventions"
+subtopic: "Agri-Marketing"
+card_title: "FPOs & Agri Startups"
+card_type: structured
+sections: [quote, introduction, examples, conclusion]
+flags: []
+status: polished
+---
+
+:::quote
+"From marginal farmers to market makers—FPOs are rural India’s startups."
+:::
+
+:::introduction
+FPOs and agri startups strengthen smallholders by improving their bargaining power, market access and scale. They show a shift towards **“cooperative enterprise for competitive advantage.”**
+:::
+
+:::examples
+- Under the Central Sector Scheme, over **10,000 FPOs** have been registered.
+- Startups like **Agrowave** and **DeHaat** have built end-to-end digital platforms.
+- FPOs in Bihar and MP have started **contract farming for organic exports**.
+:::
+
+:::conclusion
+With supportive policy and a digital ecosystem, FPOs and startups can become the **backbone of rural industrial revival.**
+:::
+
+---
+id: GS3-AGRI-0371
+paper: "GS-3"
+subject: "AGRICULTURE"
+section_group: "Agriculture & Farm Dynamics"
+microtopic: "Storage, transport, and marketing of agricultural produce along with digital e-technology interventions"
+subtopic: "Tech in Agri Production and Marketing"
+card_title: "Agri-Tech & Digital Farming"
+card_type: structured
+sections: [quote, introduction, examples, conclusion]
+flags: []
+status: polished
+---
+
+:::quote
+"From bullock carts to drones—Indian farming is flying into the future."
+:::
+
+:::introduction
+New technologies like **Kisan drones, AI and precision farming** are driving the move to **“smart agriculture.”** They raise productivity, reduce misuse of inputs and empower farmers.
+:::
+
+:::examples
+- **Kisan Drones** have been used for pesticide spraying over 80,000 hectares.
+- Pilots of Agri-stack have been started for **farm-level data-driven advisories**.
+- Under the **Digital Agriculture Mission**, AI-based soil sensors have been set up in clusters.
+:::
+
+:::conclusion
+Inclusive, future-ready farming needs **affordable, vernacular and accessible agri-tech** at scale.
+:::
+
+---
+id: GS3-AGRI-0372
+paper: "GS-3"
+subject: "AGRICULTURE"
+section_group: "Agriculture & Farm Dynamics"
+microtopic: "Storage, transport, and marketing of agricultural produce along with digital e-technology interventions"
+subtopic: "Tech in Farm Productivity and Income"
+card_title: "AGRITECH"
+card_type: structured
+sections: [introduction]
+flags: []
+status: polished
+---
+
+:::introduction
+- **MMS:** Agriculture suffers from **"technological fatigue"**.
+- Goal: **Grow smarter and more sustainably, not just grow more**.
+- Applications: see all the individual tech cards above.
+:::
+
+---
+id: GS3-AGRI-0373
+paper: "GS-3"
+subject: "AGRICULTURE"
+section_group: "Food Processing Industry"
+microtopic: "Food processing and related industries (scope, significance, structural locations, and supply chain management)"
+subtopic: "Food Processing Sector"
+card_title: "Food Processing in Rural Economy"
+card_type: structured
+sections: [quote, introduction, examples, conclusion]
+flags: []
+status: polished
+---
+
+:::quote
+"Turning grain into gain—food processing multiplies farm value."
+:::
+
+:::introduction
+Food processing can double farmer incomes, create rural jobs and reduce wastage. It is the **missing link between farms and formal markets**, and it strengthens the **“value from the village”** model through local entrepreneurship.
+:::
+
+:::examples
+- Over **10% of manufacturing GVA** comes from the food processing sector.
+- Mega Food Parks have given **over 60,000 rural jobs** directly.
+- More demand for **processed millets and organic produce** has helped rural enterprise grow.
+:::
+
+:::conclusion
+To unlock the sector’s potential, India needs a **rural-centric industrial policy** and **skill-linked infrastructure.**
+:::
+
+---
+id: GS3-AGRI-0374
+paper: "GS-3"
+subject: "AGRICULTURE"
+section_group: "Food Processing Industry"
+microtopic: "Food processing and related industries (scope, significance, structural locations, and supply chain management)"
+subtopic: "Food Processing Sector"
+card_title: "Pradhan Mantri Kisan SAMPADA Yojana"
+card_type: structured
+sections: [quote, introduction, examples, conclusion]
+flags: []
+status: polished
+---
+
+:::quote
+"From field to factory to fork—SAMPADA builds the bridge."
+:::
+
+:::introduction
+The **PM Kisan SAMPADA Yojana** aims to build a strong processing ecosystem. It promotes **value addition and cluster-based growth** and reduces agri-waste. It reflects the spirit of **“processing-led prosperity.”**
+:::
+
+:::examples
+- **Over 900 processing units** across states have received financial assistance.
+- Agro Processing Clusters have been approved in **Maharashtra and Assam**.
+- Targeted zones have reported waste reduction of up to **10–15%**.
+:::
+
+:::conclusion
+The scheme will have more impact if it focuses on **ease of credit, backward linkages** and export integration.
+:::
+
+---
+id: GS3-AGRI-0375
+paper: "GS-3"
+subject: "AGRICULTURE"
+section_group: "Food Processing Industry"
+microtopic: "Food processing and related industries (scope, significance, structural locations, and supply chain management)"
+subtopic: "Food Processing Sector"
+card_title: "Supply Chain Management & Logistics"
+card_type: structured
+sections: [quote, introduction, examples, conclusion]
+flags: []
+status: polished
+---
+
+:::quote
+"A strong supply chain is the artery of agro-industrial India."
+:::
+
+:::introduction
+Efficient logistics, from the farm gate to the processing hub, is essential to reduce spoilage and keep quality. Agri supply chains should follow the approach of **“From surplus to seamless.”**
+:::
+
+:::examples
+- **ONDC connected farmer produce** with retail logistics networks.
+- Railways started **Kisan Rails** to move perishables faster.
+- Logistics hubs funded by NABARD supported FPO-led aggregation.
+:::
+
+:::conclusion
+**Cold-logistics and multimodal supply networks**, working together, are critical for rural industrialisation.
+:::
+
+---
+id: GS3-AGRI-0376
+paper: "GS-3"
+subject: "AGRICULTURE"
+section_group: "Food Processing Industry"
+microtopic: "Food processing and related industries (scope, significance, structural locations, and supply chain management)"
+subtopic: "Food Processing Sector"
+card_title: "Upstream & Downstream Linkages"
+card_type: structured
+sections: [quote, introduction, examples, conclusion]
+flags: []
+status: polished
+---
+
+:::quote
+"The strength of a food economy lies in its entire chain, not just one link."
+:::
+
+:::introduction
+Through good upstream and downstream linkages, **producers are joined to processors, and processors to markets.** This creates a **“farm-to-factory-to-market” continuum** that multiplies rural incomes.
+:::
+
+:::examples
+- Downstream tie-ups with global retailers were created by **agri export hubs**.
+- Primary collection centres connect farmer groups to **Mega Food Parks**.
+- Blockchain helped startups give **traceable supply chain assurance.**
+:::
+
+:::conclusion
+A competitive rural value chain needs stronger **last-mile aggregation and first-mile distribution**.
+:::
+
+---
+id: GS3-AGRI-0377
+paper: "GS-3"
+subject: "AGRICULTURE"
+section_group: "Food Processing Industry"
+microtopic: "Food processing and related industries (scope, significance, structural locations, and supply chain management)"
+subtopic: "Food Processing Sector"
+card_title: "Challenges in Food Processing Sector"
+card_type: structured
+sections: [quote, introduction, examples, conclusion]
+flags: []
+status: polished
+---
+
+:::quote
+"An unprocessed crop is an opportunity lost."
+:::
+
+:::introduction
+Rural processing is held back by gaps in cold chains, complex licensing and weak access to finance. Removing these hurdles is key to a **“farm-to-fork without friction”** ecosystem.
+:::
+
+:::examples
+- The FSSAI made **compliance norms** easier for micro food enterprises.
+- Cold chain capacity still meets less than **15% of demand** in perishables.
+- Under **CGTMSE**, more credit support is now available for agri-processing units.
+:::
+
+:::conclusion
+Simpler regulations, **customised rural finance** and targeted infra support can unlock growth in the sector.
+:::
+
+---
+id: GS3-AGRI-0378
+paper: "GS-3"
+subject: "AGRICULTURE"
+section_group: "Land Reforms"
+microtopic: "Land Reforms in India and legislative frameworks"
+subtopic: "Contract farming & Land leasing"
+card_title: "Land Leasing Reforms"
+card_type: structured
+sections: [quote, introduction, examples, conclusion]
+flags: []
+status: polished
+---
+
+:::quote
+"Unrecorded tenancies breed insecurity; formal leasing fosters productivity."
+:::
+
+:::introduction
+Modern land leasing frameworks protect landowners and cultivators alike. This supports **“ownership without alienation.”** States are now moving towards reforms inspired by the **Model Land Leasing Act.**
+:::
+
+:::examples
+- Andhra Pradesh and Uttarakhand have adopted **Model Land Leasing policies**.
+- Digitised lease records gave sharecroppers **access to credit.**
+- Pilot leases had **climate clauses** to share the risk of crop failure.
+:::
+
+:::conclusion
+To unlock land productivity, India needs a leasing framework that is **uniform, flexible and legally secure**.
+:::
+
+---
+id: GS3-AGRI-0379
+paper: "GS-3"
+subject: "AGRICULTURE"
+section_group: "Land Reforms"
+microtopic: "Land Reforms in India and legislative frameworks"
+subtopic: "Land Reforms"
+card_title: "Zamindari Abolition & Tenancy Reforms"
+card_type: structured
+sections: [quote, introduction, examples, conclusion]
+flags: []
+status: polished
+---
+
+:::quote
+"The land question is the heart of rural justice."
+:::
+
+:::introduction
+**Zamindari abolition, tenancy regulation and ceiling limits** were land reforms meant to spread land ownership more widely and **“redistribute dignity”** in rural India. But implementation gaps remain in several states.
+:::
+
+:::examples
+- Land redistributed under ceiling laws is still below **2% of net sown area** nationally.
+- Odisha and UP **updated their tenancy laws** to make sharecropping legal.
+- Land rights of **forest dwellers** have been regularised in tribal belts.
+:::
+
+:::conclusion
+Future reforms must keep a balance between **social equity and agricultural viability**, with legal clarity and inclusiveness.
+:::
+
+---
+id: GS3-AGRI-0380
+paper: "GS-3"
+subject: "AGRICULTURE"
+section_group: "Land Reforms"
+microtopic: "Land Reforms in India and legislative frameworks"
+subtopic: "Land Reforms"
+card_title: "Digital Land Records"
+card_type: structured
+sections: [quote, introduction, examples, conclusion]
+flags: []
+status: polished
+---
+
+:::quote
+"Jo zameen ka malik, wahi vikas ka adhikari."
+:::
+
+:::introduction
+**SVAMITVA and DILRMP** digitise land records. This improves **ownership, dispute resolution and the flow of rural credit**, in line with the vision of **“smart villages with secure titles.”**
+:::
+
+:::examples
+- SVAMITVA has issued over **2 crore rural property cards**.
+- Karnataka and Maharashtra have fully digitised their land records.
+- In hilly regions, **GIS mapping** has been used to settle claims by many parties.
+:::
+
+:::conclusion
+To keep up the momentum, India must build land records systems that are **interoperable, tamper-proof and citizen-friendly**.
+:::
+
+---
+id: GS3-AGRI-0381
+paper: "GS-3"
+subject: "AGRICULTURE"
+section_group: "Land Reforms"
+microtopic: "Land Reforms in India and legislative frameworks"
+subtopic: "Land Reforms"
+card_title: "Agrarian Structure & Farmer Ownership"
+card_type: structured
+sections: [quote, introduction, examples, conclusion]
+flags: []
+status: polished
+---
+
+:::quote
+"True empowerment is tilling your own land with your own rights."
+:::
+
+:::introduction
+**Small and marginal holdings** dominate India’s agrarian structure, which makes scale and investment difficult. Empowering farmers through **land ownership and collective models** is key to rural transformation.
+:::
+
+:::examples
+- Small and marginal farmers hold **86.2% of total operational landholdings**. They control only about **47% of the total crop area (10th Agriculture Census / 2024 DIU Estimates)**.
+- In Kerala, SHG federations have started **community farming on pooled land**.
+- Joint land titles under **PMAY-Gramin** gave women better access to land.
+:::
+
+:::conclusion
+The rural landscape can change if India moves towards **secure tenure, group farming** and women’s land rights.
+:::
+
+---
+id: GS3-AGRI-0382
+paper: "GS-3"
+subject: "AGRICULTURE"
+section_group: "Land Reforms"
+microtopic: "Land Reforms in India and legislative frameworks"
+subtopic: "Land Reforms"
+card_title: "LAND — Statistics & Land Leasing"
+card_type: structured
+sections: [introduction, data]
+flags: []
+status: polished
+---
+
+:::introduction
+- On just **2.5% of the geographical area**, India supports **16% of the world’s population** and **20% of its livestock**.
+- Agriculture uses most of the land, but its share in national GVA has settled at around **17-18% over the past few years**. This points to ongoing structural shifts.
+- The **average land holding size** is **1.08 ha**.
+- **Property disputes:** According to NITI Aayog, it takes an average of **20 years** to settle a dispute.
+- The **T. Haque Committee** recommended the **Model Land Leasing Act**.
+:::
+
+:::data
+- The average landholding is **1.08 ha**.
+- Settling a property dispute takes **20 years on average**, says NITI Aayog.
+:::
+
+---
+id: GS3-AGRI-0383
+paper: "GS-3"
+subject: "AGRICULTURE"
+section_group: "Land Reforms"
+microtopic: "Land Reforms in India and legislative frameworks"
+subtopic: "Miscellaneous"
+card_title: "Urbanisation & Land Use Policy"
+card_type: structured
+sections: [quote, introduction, examples, conclusion]
+flags: []
+status: polished
+---
+
+:::quote
+"Land is not just for farming—it’s the foundation of rural futures."
+:::
+
+:::introduction
+Pressure from urbanisation is changing rural land use. A land use policy that is **balanced, zoned and inclusive** must tie rural growth to the idea of **“planned prosperity.”**
+:::
+
+:::examples
+- The **National Geo-Spatial Policy** brought in tools for planning rural land use.
+- Gujarat and some other states used **village land use zoning** for agro-processing clusters.
+- **Urban clusters and MSME hubs** now have land banks.
+:::
+
+:::conclusion
+India must plan land use smartly (**smart land-use planning**), so that agri-ecosystems are preserved and rural industrialisation is encouraged.
+:::
+
+---
+id: GS3-SCIE-0384
+paper: "GS-3"
+subject: "SCIENCE & TECHNOLOGY"
+section_group: "Everyday Science & Innovations"
+microtopic: "Science and Technology- developments and their effects in everyday life"
+subtopic: "General Science"
+card_title: "S&T Applications"
+card_type: structured
+sections: [quote, introduction, examples, conclusion]
+flags: []
+status: polished
+---
+
+:::quote
+"Science is not only a tool for discovery—it is a lever for national development."
+:::
+
+:::introduction
+India is applying science in a planned way in sectors like **defence, healthcare, education and energy**. This strengthens governance and citizen services and builds a **“Techade-ready Bharat”** that links knowledge with national priorities.
+:::
+
+:::examples
+- The **i-Drone platform** was used to deliver vaccines in remote areas.
+- **BrahMos-NG** and indigenous radar systems increased self-reliance in defence.
+- AI-based models were added to the **DIKSHA and NPTEL** platforms.
+:::
+
+:::conclusion
+Innovation across sectors and **citizen-centric applications** are key to spreading the benefits of scientific progress.
+:::
+
+---
+id: GS3-SCIE-0385
+paper: "GS-3"
+subject: "SCIENCE & TECHNOLOGY"
+section_group: "Everyday Science & Innovations"
+microtopic: "Science and Technology- developments and their effects in everyday life"
+subtopic: "General Science"
+card_title: "GENERAL S&T — Overview"
+card_type: structured
+sections: [quote, introduction, data, conclusion, detail]
+flags: [placeholder_blank]
+status: needs_review
+---
+
+:::quote
+"The future depends on what we do in the present." — Mahatma Gandhi
+:::
+
+:::quote
+"Jai Jawan, Jai Vigyan, Jai Anusandhan." — PM Modi
+:::
+
+:::introduction
+- **RELEVANCE:** These technologies matter a great deal for India at a time when ____ (IR 4.0).
+- India has a solid **research base and workforce**, backed by reliable government support. It can use **innovative applications** to stimulate economic growth and create jobs.
+- **RESPONSIBILITY:** Use the power of ____ responsibly, keeping **ethical, safety and environmental implications** in mind.
+- **Issues:** Skill, Money, IPR, Security, Privacy, Divide, Ethics, Employment and Environment.
+:::
+
+:::data
+- The **IMF (2024)** estimates that almost **40% of global employment is exposed to AI**, and this rises to **60% in advanced economies**.
+:::
+
+:::conclusion
+- **Balasya Mulam Vigyanam** (Science is the root of strength).
+- Technology cannot be **uninvented**, so it must be managed responsibly.
+:::
+
+:::detail label="Attached points"
+- Take technology from lab to field through **industry-academia collaboration**, incentives for adoption and **PPP in R&D**.
+- Follow a **regulatory sandbox** approach.
+:::
+
+---
+id: GS3-SCIE-0386
+paper: "GS-3"
+subject: "SCIENCE & TECHNOLOGY"
+section_group: "Everyday Science & Innovations"
+microtopic: "Science and Technology- developments and their effects in everyday life"
+subtopic: "General Science"
+card_title: "Template 5: GENERAL S&T — Benefits of ___ Technology"
+card_type: detail
+sections: [detail, detail]
+flags: [placeholder_blank]
+status: needs_review
+---
+
+:::detail label="Fill-in-the-Blank Intro"
+- "The benefits of **__** are especially meaningful for India at a time when **____**. (IR 4.0)"
+:::
+
+:::detail label="Fill-in-the-Blank Conclusion"
+- "As we continue to harness the power of **____**, we must do so responsibly, considering **ethical, safety and environmental implications**."
+:::
+
+---
+id: GS3-SCIE-0387
+paper: "GS-3"
+subject: "SCIENCE & TECHNOLOGY"
+section_group: "Everyday Science & Innovations"
+microtopic: "Science and Technology- developments and their effects in everyday life"
+subtopic: "Innovative Technologies"
+card_title: "Role of Startups & R&D"
+card_type: structured
+sections: [quote, introduction, examples, conclusion]
+flags: []
+status: polished
+---
+
+:::quote
+"The next trillion-dollar ideas will come from India’s labs and lanes."
+:::
+
+:::introduction
+India has an abundance of **STEM talent**, and policies like **Startup India** and **Anusandhan NRF** support it. By bringing together academia, private capital and grassroots startups, India wants to become a **“global R&D powerhouse by 2047.”**
+:::
+
+:::examples
+- **National Quantum Mission hubs** have started at IISER and the IITs.
+- DST-BIRAC accelerators have supported over **1000 DeepTech startups**.
+- Private labs have helped with **mRNA and AI diagnostics** in public health.
+:::
+
+:::conclusion
+A **risk-tolerant, innovation-friendly ecosystem** is essential to keep R&D going for the long term.
+:::
+
+---
+id: GS3-SCIE-0388
+paper: "GS-3"
+subject: "SCIENCE & TECHNOLOGY"
+section_group: "Everyday Science & Innovations"
+microtopic: "Science and Technology- developments and their effects in everyday life"
+subtopic: "Innovative Technologies"
+card_title: "Emerging Frontier Technologies"
+card_type: structured
+sections: [quote, introduction, examples, conclusion, image]
+flags: [has_image]
+status: polished
+---
+
+:::quote
+"Emerging tech is the infrastructure of the invisible."
+:::
+
+:::introduction
+India is using **AI, IoT, Blockchain and Quantum** to power the next generation of governance and innovation. This marks a shift to a **“Techade of Trust and Transformation”**, where data drives delivery and inclusion.
+:::
+
+:::examples
+- The **IndiaAI Mission** was launched with an outlay of ₹10,000 crore.
+- A **Quantum Simulator** was unveiled at IISc to give access for research.
+- **IoT sensors** are used in the Jal Jeevan Mission for real-time monitoring.
+:::
+
+:::conclusion
+India’s leap into leadership in emerging technology must rest on scalable pilots and **ethical frameworks**.
+:::
+
+:::image
+https://pub-cfb8b9095d7d4914990dbb6f73afeb92.r2.dev/syllabus_hierarchy/gs3/images/diagram_p21.png
+:::
+
+---
+id: GS3-SCIE-0389
+paper: "GS-3"
+subject: "SCIENCE & TECHNOLOGY"
+section_group: "Everyday Science & Innovations"
+microtopic: "Science and Technology- developments and their effects in everyday life"
+subtopic: "Innovative Technologies"
+card_title: "INDUSTRY REVOLUTION 4.0 (IR 4.0)"
+card_type: structured
+sections: [quote, introduction]
+flags: []
+status: polished
+---
+
+:::quote
+"In the fourth industrial revolution, it's not about the big eating the small, it's about the fast eating the slow."
+:::
+
+:::introduction
+- **Definition:** An ongoing era of technological advancement marked by the **fusion of digital, biological and physical technologies**, known as the **“disruptive dozen”**.
+- **Balasya Mulam Vigyanam**.
+:::
+
+---
+id: GS3-SCIE-0390
+paper: "GS-3"
+subject: "SCIENCE & TECHNOLOGY"
+section_group: "Everyday Science & Innovations"
+microtopic: "Science and Technology- developments and their effects in everyday life"
+subtopic: "Innovative Technologies"
+card_title: "DRONES"
+card_type: structured
+sections: [introduction]
+flags: []
+status: polished
+---
+
+:::introduction
+- **Definition:** A drone is an aircraft that flies without a human pilot, also called an **Unmanned Aerial Vehicle (UAV)**.
+- The **Drone (Amendment) Rules 2022** were recently notified and removed the requirement of a **drone pilot license**.
+- **Steps:**
+  - 1. **Digital Sky platform.**
+  - 2. PLI scheme.
+  - 3. **Mission Drone Shakti (DrAAS).**
+  - 4. **Anti-Drone Tech by DRDO.**
+  - 5. Drone corridors.
+- **Applications:**
+  - 1. Healthcare (**TL 'Medicine from Sky'**).
+  - 2. **KISAN Drones, SWAMITVA.**
+  - 3. Law and order.
+  - 4. Delivery (**Amazon Prime Air**).
+  - 5. Disaster management (DM) (2022 Assam floods).
+  - 6. Security (swarm drones, loitering munition).
+  - 7. Law enforcement (illegal mining).
+:::
+
+---
+id: GS3-SCIE-0391
+paper: "GS-3"
+subject: "SCIENCE & TECHNOLOGY"
+section_group: "Frontier Technologies & IPR"
+microtopic: "Awareness in the fields of IT, Computers, and robotics"
+subtopic: "Artificial Intelligence"
+card_title: "Data Governance & IndiaAI Mission"
+card_type: structured
+sections: [quote, introduction, examples, conclusion]
+flags: []
+status: polished
+---
+
+:::quote
+"Data is the new oil—if governed, not spilled."
+:::
+
+:::introduction
+Policies like the **National Data Governance Framework** and **IndiaAI** aim to open up datasets to all while protecting privacy. This builds a **“Digital Democracy with Responsible Intelligence.”**
+:::
+
+:::examples
+- Open innovation got a boost with the launch of the **India Datasets Platform**.
+- Tier-II cities have been approved for **AI Centres of Excellence**.
+- Health analytics has seen pilots of data anonymisation protocols.
+:::
+
+:::conclusion
+India’s digital capital can be used well only by balancing **open access with secure boundaries**.
+:::
+
+---
+id: GS3-SCIE-0392
+paper: "GS-3"
+subject: "SCIENCE & TECHNOLOGY"
+section_group: "Frontier Technologies & IPR"
+microtopic: "Awareness in the fields of IT, Computers, and robotics"
+subtopic: "Artificial Intelligence"
+card_title: "ARTIFICIAL INTELLIGENCE (AI)"
+card_type: structured
+sections: [introduction, data, conclusion]
+flags: []
+status: polished
+---
+
+:::introduction
+- **AI** is the simulation of human intelligence, the capacity to **learn and make decisions** (pattern recognition, predictive analysis).
+- **Machine Learning:** A subset of AI that uses statistical learning algorithms.
+- **Deep Learning:** An ML technique inspired by the human brain, which relies on **Artificial Neural Networks**.
+- **3 Cognitive Skills:** Learning, Reasoning and Self-correcting.
+- **Applications:**
+  - 1. Health (3Nethra eye scanner).
+  - 2. Agriculture (autonomous farming, pest attack prediction, KN APMC price forecasting).
+  - 3. Education (Robokart adaptive learning).
+  - 4. Smart cities.
+  - 5. Marketing (Alexa).
+  - 6. Supply chain management (SCM).
+- The **ASILOMAR Principles** guide the development of AI.
+- **AI for ALL** principle.
+:::
+
+:::data
+- AI is projected to contribute **$500 Bn** to GDP by 2025.
+:::
+
+:::conclusion
+**AI could add $500 Bn to India’s GDP by 2025**, which is 10% of the $5 Trillion target. Regulation needs to balance **innovation and unintended consequences** (privacy, digital divide).
+:::
+
+---
+id: GS3-SCIE-0393
+paper: "GS-3"
+subject: "SCIENCE & TECHNOLOGY"
+section_group: "Frontier Technologies & IPR"
+microtopic: "Awareness in the fields of IT, Computers, and robotics"
+subtopic: "Artificial Intelligence"
+card_title: "GENERATIVE AI"
+card_type: structured
+sections: [introduction, data, conclusion]
+flags: []
+status: polished
+---
+
+:::introduction
+- **Definition:** A type of AI that produces **realistic content** (text, images, audio) based on its training data.
+- It is powered by **GAN (Generative Adversarial Networks)**, **Transformers, LLMs and Deep Learning**.
+- **Examples:** ChatGPT and DALL·E.
+- **Applications:**
+  - 1. ChatBots.
+  - 2. DeepFakes.
+  - 3. Dubbing.
+  - 4. Product demonstration.
+  - 5. Designing.
+- **India Inequality Report (CMIE):** In the **IAMAI-Kantar 2024 Report**, urban internet penetration is **72%** against **53%** in rural areas.
+:::
+
+:::data
+- Internet penetration is **72%** in urban areas and **53%** in rural areas.
+:::
+
+:::conclusion
+**"Tech is a double-edged sword."** — Alan Moore. Clerical jobs face the greatest risk. This calls for **discussion at the international high table**.
+:::
+
+---
+id: GS3-SCIE-0394
+paper: "GS-3"
+subject: "SCIENCE & TECHNOLOGY"
+section_group: "Frontier Technologies & IPR"
+microtopic: "Awareness in the fields of IT, Computers, and robotics"
+subtopic: "IT"
+card_title: "IT in Governance"
+card_type: structured
+sections: [quote, introduction, examples, conclusion]
+flags: []
+status: polished
+---
+
+:::quote
+"When governance becomes digital, dignity becomes universal."
+:::
+
+:::introduction
+Governance is becoming **faceless, paperless and cashless** through **Digital India**, **DBT** and e-Gov platforms like **UMANG**. **“Minimum government, maximum governance”** is thus becoming a lived reality.
+:::
+
+:::examples
+- Through DBT, ₹30+ lakh crore has reached over 90 crore beneficiaries.
+- **DigiLocker** has made 230+ crore document issuances possible.
+- Additional services have been integrated under the **UMANG app**.
+:::
+
+:::conclusion
+As digital public infrastructure grows, interoperability and **citizen trust** must stay at the centre.
+:::
+
+---
+id: GS3-SCIE-0395
+paper: "GS-3"
+subject: "SCIENCE & TECHNOLOGY"
+section_group: "Frontier Technologies & IPR"
+microtopic: "Awareness in the fields of IT, Computers, and robotics"
+subtopic: "IT"
+card_title: "SEMICONDUCTOR"
+card_type: structured
+sections: [introduction, data, conclusion]
+flags: []
+status: polished
+---
+
+:::introduction
+- **Definition:** Materials whose conductivity lies between conductors and insulators. They are the **heart and brain of all modern electronics**.
+- Currently, India **imports all its chips**.
+- **Steps:**
+  - 1. **India Semicon Mission.**
+  - 2. **PLI and DLI** schemes.
+- **Issues:** The global supply chain is highly concentrated (**47% with the US**).
+- **Suggestions:**
+  - 1. BEL and HAL can work as fab foundries.
+  - 2. Focus on **ATP** (Assembly, Testing and Packaging).
+  - 3. Use the **QUAD semiconductor supply chain initiative** for technology transfer.
+:::
+
+:::data
+- The **India Electronics and Semiconductor Association** projects that India’s semiconductor market will reach **$109 Bn by 2030**.
+:::
+
+:::conclusion
+India has taken steps like the India Semicon Mission and PLI and DLI schemes, and **implementation will be key**.
+:::
+
+---
+id: GS3-SCIE-0396
+paper: "GS-3"
+subject: "SCIENCE & TECHNOLOGY"
+section_group: "Frontier Technologies & IPR"
+microtopic: "Awareness in the fields of IT, Computers, and robotics"
+subtopic: "IT"
+card_title: "CYBER PHYSICAL SYSTEMS (CPS)"
+card_type: structured
+sections: [introduction, conclusion]
+flags: []
+status: polished
+---
+
+:::introduction
+- **Definition:** In these systems, **computer-based algorithms control or monitor mechatronic systems**.
+- **Features:**
+  - 1. Miniaturisation.
+  - 2. Communication networks (devices talking).
+  - 3. Computation ability.
+  - 4. **IoT.**
+- **Examples:**
+  - 1. Autonomous cars (collision avoidance).
+  - 2. Robotic surgery (precision).
+  - 3. Smart grids.
+:::
+
+:::conclusion
+The **National Mission on Interdisciplinary Cyber Physical Systems** will help extend human capabilities (prosthetics) and bring efficiency at scale.
+:::
+
+---
+id: GS3-SCIE-0397
+paper: "GS-3"
+subject: "SCIENCE & TECHNOLOGY"
+section_group: "Frontier Technologies & IPR"
+microtopic: "Awareness in the fields of IT, Computers, and robotics"
+subtopic: "IT"
+card_title: "5G / 6G"
+card_type: structured
+sections: [introduction, data, conclusion]
+flags: [format_fixed]
+status: polished
+---
+
+:::introduction
+- **Definition:** **5th/6th generation wireless communication technology** built to **link everyone and everything**.
+- **Steps:**
+  - 1. **National Digital Communication Technology Policy 2018**.
+  - 2. **NOFN.**
+- **Applications:**
+  - 1. Smart cities.
+  - 2. EGov.
+  - 3. Automated factories.
+  - 4. Seamless coordination (NATGRID).
+  - 5. Entertainment and multimedia (Immersive Multiverse).
+- **Issues:**
+  - 1. Weak fibre backhaul (**80% of towers rely on microwave backhaul**).
+  - 2. IPR restricts access to technology.
+  - 3. Hardware depends on imported phones.
+  - 4. Security concerns.
+:::
+
+:::data
+- The cost of data has fallen from **₹300 to ₹10 per GB**.
+:::
+
+:::conclusion
+Success depends on whether the government can bridge the **digital divide** and whether telecom companies are financially able to invest.
+:::
+
+---
+id: GS3-SCIE-0398
+paper: "GS-3"
+subject: "SCIENCE & TECHNOLOGY"
+section_group: "Frontier Technologies & IPR"
+microtopic: "Awareness in the fields of IT, Computers, and robotics"
+subtopic: "IT"
+card_title: "QUANTUM COMPUTING"
+card_type: structured
+sections: [introduction, data]
+flags: []
+status: polished
+---
+
+:::introduction
+- **Definition:** Quantum computing uses collective quantum properties (**superimposition and entanglement**) and **Qubits** to do things far beyond traditional capacity.
+- **Steps:**
+  - 1. **Quantum research facility at Mhow.**
+  - 2. **QUEST** (Quantum Enabled Science and Technology Programme 2018).
+- **Advantages (SSSP):** Speed, Storage, Simulation and Privacy.
+- **Applications:**
+  - 1. Research (Genome India).
+  - 2. Secure Communication (**MICIUS — China**).
+  - 3. Pharma.
+  - 4. Meteorology.
+  - 5. Data processing (consumer behaviour, financial markets).
+:::
+
+:::data
+- **Google Sycamore:** It took 200 seconds, against **10,000 years** for supercomputers. This is Quantum Supremacy.
+:::
+
+---
+id: GS3-SCIE-0399
+paper: "GS-3"
+subject: "SCIENCE & TECHNOLOGY"
+section_group: "Frontier Technologies & IPR"
+microtopic: "Awareness in the fields of IT, Computers, and robotics"
+subtopic: "IT"
+card_title: "BLOCKCHAIN"
+card_type: structured
+sections: [introduction]
+flags: []
+status: polished
+---
+
+:::introduction
+- **Definition:** A shared digital ledger that is **decentralised and immutable**. It runs across a network, and transactions are anonymous and secure **without a 3rd party**.
+- **Steps:**
+  - 1. **IndiaChain by NITI Aayog.**
+  - 2. **National Strategy on Blockchain 2021 (MeitY).**
+  - 3. Dubai experience.
+- **Applications:**
+  - 1. Supply chain management (SCM) (IBM Food Trust).
+  - 2. Medical records (**ABDM**).
+  - 3. Property records (**NRLMP**).
+  - 4. Asset protection (**NFT**).
+  - 5. Good governance.
+  - 6. Anti-corruption (procurement, DBT).
+  - 7. Voting.
+:::
+
+---
+id: GS3-SCIE-0400
+paper: "GS-3"
+subject: "SCIENCE & TECHNOLOGY"
+section_group: "Frontier Technologies & IPR"
+microtopic: "Awareness in the fields of IT, Computers, and robotics"
+subtopic: "IT"
+card_title: "WEB 3.0 & METAVERSE"
+card_type: structured
+sections: [introduction]
+flags: []
+status: polished
+---
+
+:::introduction
+- **Web 3.0** is the next version of the World Wide Web.
+- **Metaverse** means 360° immersive experiences that merge **physical, augmented and virtual reality** in a shared online space.
+:::
+
+---
+id: GS3-SCIE-0401
+paper: "GS-3"
+subject: "SCIENCE & TECHNOLOGY"
+section_group: "Frontier Technologies & IPR"
+microtopic: "Awareness in the fields of IT, Computers, and robotics"
+subtopic: "IT"
+card_title: "CRYPTOCURRENCY"
+card_type: structured
+sections: [introduction, data, conclusion]
+flags: []
+status: polished
+---
+
+:::introduction
+- **Definition:** Money in **digital or virtual** form that is secured by **cryptography** and does not depend on **traditional financial institutions** (e.g., Bitcoin).
+- **Features (ABCDEF):** **A**nonymous, **B**lockchain-based, **C**ross-border, **D**ecentralised, **E**ncrypted, **F**ast.
+- **Suggestions:**
+  - 1. Regulatory sandbox.
+  - 2. Stablecoin.
+  - 3. **FSB international collaboration.**
+:::
+
+:::data
+- The **RBI** says the next global crisis may start from crypto.
+:::
+
+:::conclusion
+Regulation must strike a balance… and **CBDC is heading in the right direction**.
+:::
+
+---
+id: GS3-SCIE-0402
+paper: "GS-3"
+subject: "SCIENCE & TECHNOLOGY"
+section_group: "Frontier Technologies & IPR"
+microtopic: "Awareness in the fields of IT, Computers, and robotics"
+subtopic: "IT"
+card_title: "NFT (Non-Fungible Token)"
+card_type: structured
+sections: [introduction, conclusion]
+flags: [same_as_above]
+status: needs_review
+---
+
+:::introduction
+**Definition:** **Unique digital assets** that show ownership of a specific item or content, and use **blockchain technology** to verify authenticity.
+:::
+
+:::conclusion
+Same as Cryptocurrency card.
+:::
+
+---
+id: GS3-SCIE-0403
+paper: "GS-3"
+subject: "SCIENCE & TECHNOLOGY"
+section_group: "Frontier Technologies & IPR"
+microtopic: "Awareness in the fields of IT, Computers, and robotics"
+subtopic: "IT"
+card_title: "CBDC (Central Bank Digital Currency)"
+card_type: structured
+sections: [introduction, conclusion]
+flags: []
+status: polished
+---
+
+:::introduction
+- **Definition:** A CBDC is **legal tender** that the Central Bank issues in digital form on a **blockchain platform**.
+- **Applications:**
+  - 1. Financial inclusion.
+  - 2. Smart contracts.
+:::
+
+:::conclusion
+The **RBI** should involve more **stakeholders** in a careful analysis of the pilot project outcomes. This will help CBDC become fully operational in the near future.
+:::
+
+---
+id: GS3-SCIE-0404
+paper: "GS-3"
+subject: "SCIENCE & TECHNOLOGY"
+section_group: "Frontier Technologies & IPR"
+microtopic: "Awareness in the fields of IT, Computers, and robotics"
+subtopic: "IT"
+card_title: "IT (Information Technology)"
+card_type: structured
+sections: [introduction, conclusion]
+flags: [placeholder_blank]
+status: needs_review
+---
+
+:::introduction
+- **Definition:** Using computers, software and networks to **handle and share information efficiently**.
+- **IT + IT = IT** (Indian Talent + Information Technology = India Tomorrow).
+:::
+
+:::conclusion
+The vision of a **developed & digitally empowered India by 2047** calls for urgent investments in _____.
+:::
+
+---
+id: GS3-SCIE-0405
+paper: "GS-3"
+subject: "SCIENCE & TECHNOLOGY"
+section_group: "Frontier Technologies & IPR"
+microtopic: "Awareness in the fields of IT, Computers, and robotics"
+subtopic: "IT"
+card_title: "Template 7: S&T — IT Conclusion"
+card_type: detail
+sections: [detail]
+flags: [placeholder_blank]
+status: needs_review
+---
+
+:::detail label="Fill-in-the-Blank Conclusion"
+- "The vision of a **developed & digitally empowered India by 2047** calls for urgent investments in **_____**."
+:::
+
+---
+id: GS3-SCIE-0406
+paper: "GS-3"
+subject: "SCIENCE & TECHNOLOGY"
+section_group: "Frontier Technologies & IPR"
+microtopic: "Awareness in the fields of Space and Defence technologies"
+subtopic: "Defence Technology"
+card_title: "DEFENCE INDIGENISATION"
+card_type: structured
+sections: [introduction, data, conclusion]
+flags: []
+status: polished
+---
+
+:::introduction
+- **Definition:** Developing and producing essential military capabilities **inside the country’s own borders**.
+- **SIPRI:** India is still the **world’s largest arms importer (SIPRI 2024)**. Even so, domestic defence exports reached a record **₹21,083 crore in FY2023-24**.
+- According to the CAG, **60% of weapons are of foreign origin**.
+- **Steps:**
+  - 1. Defence Corridors (Brahmos in Lucknow).
+  - 2. **AK-203 MII.**
+  - 3. **DPEPP 2020** (Defence Production and Export Promotion Policy).
+  - 4. **DAC.**
+  - 5. **FDI 74% automatic.**
+- **Issues:**
+  - 1. INS Vikrant delay (**2009–2021**).
+  - 2. DRDO lacks specialisation.
+  - 3. **Acquisition Trilemma** (time, cost, quality).
+  - 4. The private sector has only a **20% share**, against **80%** for DPSUs.
+  - 5. Capex is only **25% of the defence budget.**
+- **Solutions:**
+  - 1. **Dhirendra Singh Committee:** Give priority to Buy (Indian IDDM).
+  - 2. Make long-term perspective plans.
+:::
+
+:::data
+- Domestic defence exports hit a record **₹21,083 crore in FY2023-24**, even though India remains the **world’s largest arms importer (SIPRI 2024)**.
+:::
+
+:::conclusion
+India faces a looming **two-front war threat**, so **Atmanirbharta** in defence is an urgent necessity. The balance to strike is **urgency vs autonomy**.
+:::
+
+---
+id: GS3-SCIE-0407
+paper: "GS-3"
+subject: "SCIENCE & TECHNOLOGY"
+section_group: "Frontier Technologies & IPR"
+microtopic: "Awareness in the fields of Space and Defence technologies"
+subtopic: "Defence Technology"
+card_title: "SPACE DEFENCE"
+card_type: structured
+sections: [introduction, conclusion]
+flags: []
+status: polished
+---
+
+:::introduction
+- The recently launched **Mission DefSPACE** brings in private participation in space defence.
+- The USA already has a dedicated **Space Force**.
+:::
+
+:::conclusion
+India should build credible **defensive and offensive capabilities**. It should also push for a **comprehensive and binding international agreement** on the peaceful use of Outer Space.
+:::
+
+---
+id: GS3-SCIE-0408
+paper: "GS-3"
+subject: "SCIENCE & TECHNOLOGY"
+section_group: "Frontier Technologies & IPR"
+microtopic: "Awareness in the fields of Space and Defence technologies"
+subtopic: "Space Technology"
+card_title: "SPACE SECTOR"
+card_type: structured
+sections: [introduction, data]
+flags: []
+status: polished
+---
+
+:::introduction
+- The government recently released the **Indian Space Policy 2023**.
+- The vision is to make India the **“launchpad of the world”**.
+- **95% of the global space economy** is in **ground-based operations and space-based services**. India has neglected this because of too much focus on launch and manufacturing (**5%**).
+:::
+
+:::data
+- India’s space economy is about **$8 Bn (2% of the global share)**, and it is projected to rise to **$44 Bn by 2033 (IN-SPACe 2023 Vision)**.
+:::
+
+---
+id: GS3-SCIE-0409
+paper: "GS-3"
+subject: "SCIENCE & TECHNOLOGY"
+section_group: "Frontier Technologies & IPR"
+microtopic: "Awareness in the fields of Space and Defence technologies"
+subtopic: "Space Technology"
+card_title: "PRIVATE PLAYERS IN SPACE"
+card_type: structured
+sections: [introduction, data, conclusion]
+flags: []
+status: polished
+---
+
+:::introduction
+- ISRO’s **2% share ($5 Bn)** of the **global space economy of $450 Bn** is small, which shows huge potential for private participation.
+- Example: **Agnikul**, a private space startup.
+- **Draft Space Activities Bill 2017**.
+- 1. **INSPACE** is the interface between private players, ISRO and the regulator.
+- 2. **NSIL** (aggregator).
+- **ISRO Budget:** just **$1.5 Bn**.
+:::
+
+:::data
+- 1. There are currently **30K satellites** in orbit.
+- 2. The number is projected to be **80K by 2032.**
+- ISRO costs **$50K/kg**, against **$3K/kg** for SpaceX.
+- The private sector has had access since **2000**.
+:::
+
+:::conclusion
+India’s space economy will grow to **$60 Bn by 2030**, which is a golden opportunity.
+:::
+
+---
+id: GS3-SCIE-0410
+paper: "GS-3"
+subject: "SCIENCE & TECHNOLOGY"
+section_group: "Frontier Technologies & IPR"
+microtopic: "Awareness in the fields of Space and Defence technologies"
+subtopic: "Space Technology"
+card_title: "INDIAN SPACE POLICY 2023"
+card_type: structured
+sections: [introduction, data]
+flags: []
+status: polished
+---
+
+:::introduction
+- It was released recently and targets a **$60 Bn space economy**, up from the present **$5 Bn**.
+- **Private participation:** NSIL acts as aggregator.
+- **Regulatory body:** InSPACE.
+- **Nodal Department:** **DOS**, which gives policy guidelines.
+- **ISRO’s role is rationalised**, with focus on R&D.
+- Private players can do end-to-end activities: ground stations, launch vehicles, etc.
+:::
+
+:::data
+- The target is a **$60 Bn** space economy.
+:::
+
+---
+id: GS3-SCIE-0411
+paper: "GS-3"
+subject: "SCIENCE & TECHNOLOGY"
+section_group: "Frontier Technologies & IPR"
+microtopic: "Awareness in the fields of Space and Defence technologies"
+subtopic: "Space Technology"
+card_title: "SPACE DEBRIS"
+card_type: structured
+sections: [introduction, data]
+flags: []
+status: polished
+---
+
+:::introduction
+- **Definition:** Dead human-made objects and fragments **orbiting the Earth**.
+- India’s **NETRA** is for space situational awareness.
+- **UK:** the **RemoveDEBRIS mission**.
+- The **Indian ASAT test** produced **400 pieces** of space debris.
+:::
+
+:::data
+- There are **100 million pieces** of debris larger than 1mm in space.
+- **2009 accident:** a US and a Russian satellite collided.
+:::
+
+---
+id: GS3-SCIE-0412
+paper: "GS-3"
+subject: "SCIENCE & TECHNOLOGY"
+section_group: "Frontier Technologies & IPR"
+microtopic: "Awareness in the fields of Space and Defence technologies"
+subtopic: "Space Technology"
+card_title: "ADITYA L1"
+card_type: structured
+sections: [introduction, conclusion]
+flags: []
+status: polished
+---
+
+:::introduction
+- A **space-based solar observatory** placed at **Lagrange Point L1**.
+- **Payloads:**
+  - 1. SUIT (Solar Ultraviolet Imaging Telescope).
+  - 2. ASPEX.
+- **Applications:**
+  - 1. Nuclear energy.
+  - 2. GPS.
+  - 3. Satellite radio communication (solar storm monitoring).
+:::
+
+:::conclusion
+The mission is about more than **unravelling cosmic mysteries**. It is also important for India’s **vision of space leadership**.
+:::
+
+---
+id: GS3-SCIE-0413
+paper: "GS-3"
+subject: "SCIENCE & TECHNOLOGY"
+section_group: "Frontier Technologies & IPR"
+microtopic: "Awareness in the fields of Space and Defence technologies"
+subtopic: "Space Technology"
+card_title: "CHANDRAYAAN-3"
+card_type: structured
+sections: [introduction, data]
+flags: []
+status: polished
+---
+
+:::introduction
+- India made a **successful soft landing on the South Pole**, becoming the **4th nation** to land on the Moon (after US, Russia, China).
+- **PM Modi**: "Win for humanity & science".
+- The **ARTEMIS mission** gives an opportunity for collaboration.
+- **Why South Pole?**
+  - 1. Unexplored regions.
+  - 2. Permanently shadowed (possible water ice).
+  - 3. Cryo-preserved evidence.
+- **Payloads:**
+  - 1. ChaSTE (thermal mapping).
+  - 2. RAMBHA (plasma density).
+  - 3. ILSA (lunar seismic activity).
+- **Components:** Propulsion module, Vikram (lander) and Pragyan (rover).
+- **Improvements over C2:**
+  - 1. "Failure-based design" from "success-based design".
+  - 2. Wider landing area.
+  - 3. Strengthened legs.
+  - 4. Increased fuel.
+  - 5. Additional instruments.
+:::
+
+:::data
+- India has become the **4th nation** to achieve a lunar soft landing.
+:::
+
+---
+id: GS3-SCIE-0414
+paper: "GS-3"
+subject: "SCIENCE & TECHNOLOGY"
+section_group: "Frontier Technologies & IPR"
+microtopic: "Awareness in the fields of Space and Defence technologies"
+subtopic: "Space Technology"
+card_title: "GAGANYAAN"
+card_type: structured
+sections: [introduction, data, conclusion]
+flags: []
+status: needs_review
+---
+
+:::introduction
+- ISRO has confirmed an **unmanned mission**, which will make India the **4th nation** to send humans to space.
+- **Features:**
+  - 1. Circle the Earth for **5–7 days at LEO (300–400 km).**
+  - 2. **3 flights** in total (**2 unmanned + 1 human** with 3 astronauts).
+  - 3. Crew, habitable orbital module, life support, **Human-rated GSLV Mk 3**, and a re-entry, recovery and escape/abort system.
+:::
+
+:::data
+- The orbit is **300–400 km LEO**.
+:::
+
+:::conclusion
+(No specific conclusion provided — same template as Aditya L1)
+:::
+
+---
+id: GS3-SCIE-0415
+paper: "GS-3"
+subject: "SCIENCE & TECHNOLOGY"
+section_group: "Frontier Technologies & IPR"
+microtopic: "Awareness in the fields of Space and Defence technologies"
+subtopic: "Space Technology"
+card_title: "Template 6: ADITYA L1 / GAGANYAAN — Mission Conclusion"
+card_type: detail
+sections: [detail]
+flags: [placeholder_blank]
+status: needs_review
+---
+
+:::detail label="Fill-in-the-Blank Conclusion"
+- "The **__** mission is not just about **unraveling cosmic mysteries** but also **pivotal to India's vision of space leadership**."
+:::
+
+---
+id: GS3-SCIE-0416
+paper: "GS-3"
+subject: "SCIENCE & TECHNOLOGY"
+section_group: "Frontier Technologies & IPR"
+microtopic: "Awareness in the fields of nano-technology, bio-technology and issues relating to intellectual property rights"
+subtopic: "Bio-Technology"
+card_title: "BIOTECHNOLOGY"
+card_type: structured
+sections: [introduction, data, conclusion]
+flags: [format_fixed]
+status: polished
+---
+
+:::introduction
+- **Definition:** Biotechnology means using **biological systems and living organisms** to develop products.
+- **India:**
+  - 1. India has administered **220 crore vaccines.**
+  - 2. India has eliminated smallpox and polio.
+- **Best Practice:** The **COVID Suraksha Program** produced the world’s **first COVID nasal vaccine (BB)**, which shows the success of state-led R&D.
+- **Steps:**
+  - 1. **BIRAC**.
+  - 2. **National Biotech Development Strategy 2015–2020.**
+  - 3. **National Biopharma Mission.**
+- **Applications:**
+  - 1. Agriculture (GM, sex-sorted semen).
+  - 2. Nutrition (bio-fortification).
+  - 3. Environment (bioremediation, Biodigestor).
+  - 4. Industry (biodegradable plastics, biofuels, enzymes).
+  - 5. Health (vaccines, ELISA, stem cell therapy, **recombinant DNA tech**).
+- **Issues:**
+  - 1. Biological weapons/bioterrorism.
+  - 2. Biopiracy.
+  - 3. Biosafety.
+  - 4. Patents.
+:::
+
+:::data
+- **220 crore vaccines** have been administered in India.
+- India’s bioeconomy reached **$150 Bn in 2023**, and the target is **$300 Bn by 2030**.
+:::
+
+:::conclusion
+Even with this growth, India’s share is only **3% of the global biotech industry**, which shows huge potential.
+:::
