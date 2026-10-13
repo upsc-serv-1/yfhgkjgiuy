@@ -326,3 +326,22 @@ Work Log:
 Stage Summary:
 - Progress: 620 of 789. Next: batch 32 = 777-789 (13 cards, final Ethics batch). Then GS-1 (1-156).
 - Queue flags: Justice Kurien spelling, Vajpayee/MLK/Palkhivala attributions, 30,000-officials audit figure, Volvo example.
+
+---
+Task ID: 19
+Agent: Super Z (main)
+Task: Batch 32 polish (777-789, final Ethics batch); push "batch-32". Continuous mode.
+
+Work Log:
+- Converted 777-789 (13 cards); wrote tools/build_batch32_example.py. 5 untouched (quote-only/quoted blocks).
+- Verify rounds: 7 -> 6 -> 5 warnings; 0 errors throughout.
+- Fixed: 0777 conclusion restructure, 0781 name-caps restored (Clearly/Evolution/Gives/Enshrines), w-/thru expansions, 0784 broken bold repair.
+- Final: 0 errors, 5 accepted warnings (0781 fixed comparison list 0.88).
+- 0778 flagged: source labels for dowry/marital-rape examples look swapped; kept as written (quoted text protected).
+- Merged: MERGED_cards157-789.md (633 cards, 0 errors); deleted MERGED_cards157-776.md.
+- PLAN/review_queue/worklog updated; zipped; pushed "batch-32".
+
+Stage Summary:
+- MILESTONE: cards 157-789 (GS-2 + GS-3 + GS-4) ALL polished = 633 of 789.
+- Next: batch 33 = GS-1 cards 1-20 (History). 156 GS-1 cards remain (History 1-85, Society 86-105, Geography 106-156).
+- Queue flags: 0778 label swap, ECJ attribution, unattributed farmer quote.

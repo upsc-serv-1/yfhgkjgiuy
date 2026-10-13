@@ -769,3 +769,26 @@ Append to this file after every batch. Format: card id | issue.
 
 ### Facts or numbers worth checking (kept as written)
 - 0759 "social audit in Andhra Pradesh exposed 30,000 officials"; 0771 "60%/16% vaccine figures"; 0769 "Volvo 3-button seat belt IP giveaway"; 0775 "Brazil Hanuman illustration".
+
+## Batch 32 (cards 777-789: Ethics final batch) — needs_review / flags
+
+### Statuses
+- 8 polished; 5 untouched (quote-only cards 0779, 0780, 0787, 0789; fully-quoted blocks card 0778).
+
+### Fixes made
+- 0781 "w/" and "thru" expanded; capitalized comparison words kept (Clearly/Punishment/Fixed/Evolution/Gives/Enshrines/Vague/Social sanction); 0.88 similarity accepted (fixed Law-vs-Ethics comparison structure).
+- 0784 broken bold "**Code of **Ethics****" repaired to "**Code of Ethics**"; CEC bolded.
+- 0785 SMART expansion kept; hyphenated "tech-savvy".
+
+### Kept as written (please confirm)
+- 0778 "Unethical, but illegal in India: 'to take dowry.'" — the source's labels look swapped (dowry IS illegal and unethical; marital rape is unethical but not criminalised). KEPT AS WRITTEN — please review; verifier protects the quoted lines.
+- 0787 quote attributed to "European Commission of Justice" (usually "European Court of Justice"); kept as written.
+- 0789 farmer quote has no attribution (usually Will Rogers); kept as written.
+- 0786 "Asit Kumar Pandey" river-cleaning example — name kept as written.
+- 0788 "Sehmat Khan" spy example kept (spying as an ethical dilemma case).
+
+### Term-list / concept cards with accepted similarity (0.71-0.88)
+- 0777 examples/conclusion (reworked), 0781 (0.88 fixed comparison list), 0782, 0783, 0788.
+
+### MILESTONE
+- Cards 157-789 (GS-2, GS-3, GS-4) are now ALL polished: 633 of 789. Remaining: GS-1 cards 1-156 (History 1-85, Society 86-105, Geography 106-156).
