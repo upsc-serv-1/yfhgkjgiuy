@@ -742,3 +742,30 @@ Append to this file after every batch. Format: card id | issue.
 
 ### Term-list / concept cards with accepted similarity (0.71-0.79)
 - 0750, 0752, 0753, 0755 conclusion, 0756 intro (short concept lines; 0752 is a 5-item inline list, reads long — accepted).
+
+## Batch 31 (cards 757-776: Ethics — Accountability/Corporate/IR) — needs_review / flags
+
+### Statuses
+- 14 polished; 6 untouched (formula card 0758; quoted lines 0759, 0766, 0767; quote-only 0768, 0771).
+
+### Fixes made
+- 0761 typo "Acccountability" corrected to "Accountability" (common-word spelling fix).
+- 0763 "fw" expanded to "framework", "w/" expanded; 4Rs + 5 Steps + conclusion items all kept (12 items).
+- 0769 Hindi shorthand "sabko de diye" written out in English ("the IP rights were opened to all for safety"); "3 button" kept.
+- 0775 "Ctries" expanded to "Countries"; "w/" expanded; "=>" written out; NPT/NFU kept.
+
+### Kept as written (please confirm)
+- 0763 "Sunlight is the best disinfectant" conclusion kept (famous Brandeis line, unattributed in source).
+- 0764 'Panchayat' TV-series example kept; "Justice Kurien" spelling kept (usually "Justice Kurian Joseph" — verify).
+- 0771 quoted vaccine-nationalism line with "60% vaccines despite only 16% population" figures kept exactly.
+- 0772 "Ethiopia - Oromo-Tigray conflict" kept.
+- 0758 formula "Answerability + Enforceability + Responsiveness → Accountability" kept exactly.
+
+### Quote attributions (flag only; quotes never edited)
+- 0770 "A just world order must be rooted in values, not just power." – Atal Bihari Vajpayee (verify).
+- 0768 "those who create wealth are nation's wealth" attributed to "our FM" (kept generic).
+- 0757 MLK Jr. quote ("Morality cannot be legislated...") — verify wording.
+- 0776 Nani Palkhivala quote (verify).
+
+### Facts or numbers worth checking (kept as written)
+- 0759 "social audit in Andhra Pradesh exposed 30,000 officials"; 0771 "60%/16% vaccine figures"; 0769 "Volvo 3-button seat belt IP giveaway"; 0775 "Brazil Hanuman illustration".

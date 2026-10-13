@@ -309,3 +309,20 @@ Work Log:
 Stage Summary:
 - Progress: 600 of 789. Next: batch 31 = 757-776 (Ethics).
 - Queue flags: Gandhi "customer" quote apocryphal, Drucker attribution, digi bonds term, SPARSH platform, Pulkit Singh example.
+
+---
+Task ID: 18
+Agent: Super Z (main)
+Task: Batch 31 polish (757-776 Ethics); push "batch-31". Continuous mode.
+
+Work Log:
+- Converted 757-776; wrote tools/build_batch31_example.py. 6 cards untouched (formula/quoted/quote-only).
+- Verify rounds: 14 -> 12 warnings; 0 errors throughout.
+- Fixed: 0761 'Acccountability' typo, 0763 fw/w- expansions (12 items kept), 0769 Hindi shorthand written out, 0775 Ctries/w- expansions, 0776 intro split.
+- 0763 framework card similarity 0.85 accepted (fixed 4Rs/Steps mnemonic list).
+- Merged: MERGED_cards157-776.md (620 cards, 0 errors); deleted MERGED_cards157-756.md.
+- PLAN/review_queue/worklog updated; zipped; pushed "batch-31".
+
+Stage Summary:
+- Progress: 620 of 789. Next: batch 32 = 777-789 (13 cards, final Ethics batch). Then GS-1 (1-156).
+- Queue flags: Justice Kurien spelling, Vajpayee/MLK/Palkhivala attributions, 30,000-officials audit figure, Volvo example.
