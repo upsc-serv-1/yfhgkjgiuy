@@ -495,3 +495,33 @@ Append to this file after every batch. Format: card id | issue.
 
 ### Term-list / concept cards with accepted similarity (0.70-0.79)
 - 0566, 0567, 0568, 0569, 0572, 0573, 0574 (definition/concept/short-example cards).
+
+## Batch 22 (cards 577-596: Ethics) — needs_review / flags
+
+### Statuses
+- 15 polished; 5 untouched (quote-only cards 0577, 0581, 0582, 0595; bare 5-E term list 0596).
+
+### Expansions / fixes made
+- 0583: repaired the original's missing-space defect ("struggles,**It bridges") while rewriting; Empathy definition follows the approved pilot phrasing.
+- 0584: repaired "Compassion is not charity it is moral responsiveness." (missing semicolon).
+- 0590: repaired broken bullet "…analytical aptitude and emotional / - discipline." → one item "analytical aptitude and emotional discipline"; "decision- making" → "decision-making"; "•" bullets normalised.
+- 0593: repaired broken bullet "…tolerant democratic / - amework." → "tolerant democratic framework"; "•" bullets normalised.
+- British spellings applied: behaviour, modelling, practise (verb), institutionalised, favouritism, harmonising (earlier), learnt.
+
+### Kept as written (please confirm)
+- 0577 quote block carries two speaker labels inside one quote (Gandhi + Vivekananda) — kept exactly as converted.
+- 0581/0582 quotes have a stray double period ('".'.") and a leading "Thus," — kept (quote-only cards, untouched).
+- 0585 "Tamboli Ayyaj — hospital for adivasis in Maoist areas" kept as a note fragment (no verb added).
+- 0594 Sanskrit phrases '**Ekam sat viprah Bahudha vadanti**' and '**Sarva dharma sam bhava**' kept exactly (spellings as in original; usually "samabhava").
+- 0592 "IAS Armstrong Pame built roads in Manipur" — original said "road-building mission in Manipur"; same fact, plainer wording.
+
+### Quote attributions (flag only; quotes never edited)
+- 0583 "Leadership is not about being in charge…" – Narendra Modi (verify wording).
+- 0584 "A nation's greatness is measured by how it treats its weakest members." – Mahatma Gandhi (commonly attributed to Hubert Humphrey / FDR; verify).
+- 0590 Kalam, 0591 Nehru ("Facts are sacred; opinion is free" — usually The Guardian's motto; verify), 0592 Gandhi, 0593 Bose (verify).
+
+### Facts or numbers worth checking (kept as written)
+- 0583 Rohini Sindhuri manual-scavenger work; 0586 Kiran Bedi Tihar reforms; 0588 Nagendra Prasad (Rural Dept, UP) Bawariya uplift; 0590 Pradeep Singh example.
+
+### Term-list / concept cards with accepted similarity (0.71-0.79)
+- 0579, 0580, 0583, 0584, 0586, 0588, 0592, 0593, 0594 (short example/concept lines).

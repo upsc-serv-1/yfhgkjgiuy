@@ -150,3 +150,22 @@ Work Log:
 Stage Summary:
 - Progress: 420 of 789. Next: batch 22 = 577-596 (Ethics).
 - Queue flags: Bhishm Pitamah spelling, Vivekananda quote attribution, 0561 protected quoted blocks, 0572 header reword.
+
+---
+Task ID: 9
+Agent: Super Z (main)
+Task: Batch 22 polish (577-596 Ethics); push "batch-22". Continuous mode.
+
+Work Log:
+- Converted 577-596; wrote tools/build_batch22_example.py.
+- Verify rounds: 28 -> 19 -> 16 -> 15 warnings; 0 errors throughout.
+- Fixed high-similarity blocks (0580, 0583, 0584, 0585, 0586, 0589, 0590, 0591, 0592, 0593) and name-check caps (Aptitude/District).
+- Repaired broken bullets from format_fixed cards: 0590 (emotional discipline split, "decision- making"), 0593 ("amework"), 0583 (missing space), 0584 (missing semicolon).
+- Final: 0 errors, 15 accepted warnings (0.71-0.79).
+- Statuses: 15 polished, 5 untouched (quote-only 0577/0581/0582/0595, bare term list 0596).
+- Merged: MERGED_cards157-596.md (440 cards, 0 errors); deleted MERGED_cards157-576.md.
+- PLAN/review_queue/worklog updated; zipped; pushed "batch-22".
+
+Stage Summary:
+- Progress: 440 of 789. Next: batch 23 = 597-616 (Ethics).
+- Queue flags: Gandhi-attributed "nation's greatness" quote (usually Humphrey), Nehru "Facts are sacred" (usually Guardian motto), Bose tolerance quote, Ekam sat spellings.
