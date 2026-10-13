@@ -792,3 +792,37 @@ Append to this file after every batch. Format: card id | issue.
 
 ### MILESTONE
 - Cards 157-789 (GS-2, GS-3, GS-4) are now ALL polished: 633 of 789. Remaining: GS-1 cards 1-156 (History 1-85, Society 86-105, Geography 106-156).
+
+## Batch 33 (cards 1-20: GS-1 Art & Culture) — needs_review / flags
+
+### Statuses
+- 17 polished; 3 needs_review: 0011 (same_as_above conclusion "(Same as above)"; dangling "**Golden period**." intro fragment kept), 0013 (template card with ____ blanks), 0014 (truncated source card; missing end punctuation completed).
+
+### Fixes made
+- 0002: state codes RJ/TN/KN/JK/MH expanded (name-check warnings accepted as expansions); CES → CE; "wrt" removed.
+- 0005: CG/MP/AP/KN/TL expanded to Chhattisgarh/Madhya Pradesh/Andhra Pradesh/Karnataka/Telangana.
+- 0009: "pe raya gopurams" written out ("gopurams on all sides"); OD expanded to Odisha.
+- 0014: run-on university list split into per-state bullets; "b/w" expanded.
+- 0018: 'fosters' replaced; mnemonic line kept exactly (quoted).
+
+### Kept as written (please confirm)
+- 0002 "MH JNET (Abhang)" — JNET likely Jnaneshwar/Jnandev; kept as written, please confirm.
+- 0003 "Siddharta Gautama" spelling (usually Siddhartha); "Aichi Ladakh" monastery (usually Alchi) — kept as written.
+- 0005 "V K Vakankar" (usually V.S. Wakankar) — kept as written.
+- 0009 name spellings kept: Dropadi ratha, Panchpandav, Rajsimhavarman, Narsimha, Lingraj, Rajarasjeshwara, Vijaynagar, Vithalswami.
+- 0010 spellings kept: foresightening (usually foreshortening), Arcuade/trabeat (usually arcuate/trabeate), Quadam Rasul, Sharqui, Tuglaq, Adhai din ka jhopra.
+- 0012 "Shadanga - 6 parts of poetry" — Shadanga is the 6 limbs of PAINTING; source says poetry. KEPT AS WRITTEN, please confirm.
+- 0017 "rupiah" (usually rupiya) kept.
+- 0019 "Kathakalli" spelling (usually Kathakali); "Dara Sikoh" (usually Dara Shikoh) kept.
+- 0007 stray source heading "II. Modern Indian History (Mid-18th Century to Present)" left at the end of the conclusion — recommend deleting; kept as written.
+
+### Quote attributions (flag only; quotes never edited)
+- 0001 Kabir line attributed to Rabindranath Tagore — almost certainly misattributed (known issue from PLAN section 9).
+- 0003 PM Modi quote; 0004 John Marshall quote; 0008 three PM Modi quotes; 0020 Tagore quote — verify.
+- 0016 "2,000-year-old craft heritage... 3,000 unique arts and crafts" (no attribution); 0018 intangible-heritage quote (no attribution).
+
+### Facts or numbers worth checking (kept as written)
+- 0002 dates "7-12th CE South, 15th CE North"; 0003 "2600 years (600-400 BC)"; 0006 "2700-1900 BC", "SDG 11"; 0016 "2,000-year heritage, 3,000 crafts"; 0017 coinage details; 0018 UNESCO list items; 0020 Shanghai/World Tourism Expo examples.
+
+### Term-list cards with accepted similarity (0.71-0.98)
+- 0002, 0009, 0010, 0012 (name-dense data lists), 0015 (0.94 site list), 0017 (0.80), 0018 (0.96 fixed UNESCO list + 39-word official item name), 0019, 0020.

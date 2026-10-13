@@ -345,3 +345,20 @@ Stage Summary:
 - MILESTONE: cards 157-789 (GS-2 + GS-3 + GS-4) ALL polished = 633 of 789.
 - Next: batch 33 = GS-1 cards 1-20 (History). 156 GS-1 cards remain (History 1-85, Society 86-105, Geography 106-156).
 - Queue flags: 0778 label swap, ECJ attribution, unattributed farmer quote.
+
+---
+Task ID: 20
+Agent: Super Z (main)
+Task: Batch 33 polish (GS-1 cards 1-20, Art & Culture); push "batch-33". Continuous mode. GS-1 phase begins.
+
+Work Log:
+- Converted 1-20 (prefix GS1-HIST-, 4-digit); wrote tools/build_batch33_example.py.
+- Verify: 2 errors caught (0009 "only 1 vimana" -> "a single vimana" dropped number 1; 0014 "2 centres" -> "two centres" dropped 2) -> fixed by restoring original number forms. Final: 0 errors, 39 accepted warnings.
+- Name-dense term lists (0002/0009/0010/0012/0018) carry high similarity (0.74-0.98) - accepted kinds; state codes expanded with accepted name warnings.
+- 3 needs_review: 0011 (same-as-above), 0013 (template blanks), 0014 (truncated).
+- Flags: JNET, Siddharta, Aichi (Alchi?), V K Vakankar, Dropadi/Rajarasjeshwara/Vijaynagar spellings, foresightening/Arcuade/trabeat, Shadanga "6 parts of poetry" (likely painting), Kathakalli, Dara Sikoh, 0007 stray heading, 0001 Kabir-Tagore misattribution.
+- Merged: MERGED_cards157-789.md refreshed; GS-1 batch file kept separate until 1-156 done.
+- PLAN/review_queue/worklog updated; zipped; pushed "batch-33".
+
+Stage Summary:
+- Progress: 653 of 789. Next: batch 34 = GS-1 cards 21-40 (History).
