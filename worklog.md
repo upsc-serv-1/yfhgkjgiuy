@@ -132,3 +132,21 @@ Stage Summary:
 - Progress: 400 of 789. Internal Security subject COMPLETE (505-543).
 - Next: batch 21 = 557-576 (Ethics, GS4-ETHI-).
 - Queue flags: Narawane spelling, 3 unattributed quotes, SUSI, stray-w removal, British respelling.
+
+---
+Task ID: 8
+Agent: Super Z (main)
+Task: Batch 21 polish (557-576 Ethics); push "batch-21". Continuous mode.
+
+Work Log:
+- Converted 557-576; wrote tools/build_batch21_example.py (all GS4-ETHI-).
+- Verify rounds: 27 -> 17 (2 errors: 0572 nesting added list items/numbers -> reverted to flat 3-item structure, trimmed wording) -> 16 warnings; 0 errors final.
+- Fixed: 0570 restructure, 0571 'Social' capital, 0572 names (Breakdown/Cooperation/Emotional/Fear/Increased/Loneliness/Suspicion), 0573 similarity + 'fosters' hard word, 0563 conclusion, 0566, 0575 split + 'Citizens/Values' caps.
+- Final: 0 errors, 16 accepted warnings (0.70-0.79 concept cards; 0572 semicolon list line).
+- Statuses: 19 polished, 1 untouched (0561 — both blocks quoted in original = protected).
+- Merged: MERGED_cards157-576.md (420 cards, 0 errors); deleted MERGED_cards157-556.md.
+- PLAN/review_queue/worklog updated; zipped; pushed "batch-21".
+
+Stage Summary:
+- Progress: 420 of 789. Next: batch 22 = 577-596 (Ethics).
+- Queue flags: Bhishm Pitamah spelling, Vivekananda quote attribution, 0561 protected quoted blocks, 0572 header reword.

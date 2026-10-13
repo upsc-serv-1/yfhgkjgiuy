@@ -465,3 +465,33 @@ Append to this file after every batch. Format: card id | issue.
 
 ### Term-list / concept cards with accepted similarity (0.70-0.78)
 - 0540 conclusion, 0544, 0547/0549/0551 example lines, 0552, 0553, 0554, 0555 (definition/concept detail cards, hard to reword further without losing terms).
+
+## Batch 21 (cards 557-576: Ethics) — needs_review / flags
+
+### Statuses
+- 19 polished; 1 untouched: 0561 (both its blocks are wrapped in quotation marks in the original, so they are treated as protected text).
+
+### Expansions / fixes made
+- 0546-style shorthand: none this batch; "B'desh" expanded to "Bangladesh" (0575).
+- 0575 "+ve" written as "Positive" (0576); "&" replaced with "and" throughout.
+- 0563 "harmonizing" → "harmonising", 0551-style British spellings applied.
+- 0557/0558 detail lines lightly reworded; all diagram/image URLs untouched.
+
+### Kept as written (please confirm)
+- 0571 "**Bhishm Pitamah**" spelling kept as written (usually "Bhishma Pitamah").
+- 0565 "^^ ends justify means" note rewritten as a plain sentence ("Here the ends justify the means..."); all items kept.
+- 0572 "Consequences of decline in trust deficit" header rewritten as "What follows when the trust deficit grows" (meaning kept); all Personal/Societal items kept; Societal line is a 5-item semicolon list and reads long (accepted).
+- 0574 thin detail card kept terse (original is one line).
+- 0566 bold "**Welfare of the state most important**" reworded to "comes first" (meaning kept).
+
+### Quote attributions (flag only; quotes never edited)
+- 0559 Kalam, 0560 Patel, 0563 Radhakrishnan, 0568 Ambedkar, 0569 Gandhi (abridged with ellipsis in original), 0573 "Swami Vivekananda" — the character-education line is widely misattributed; please verify.
+- 0561 quoted example line "Eg. case of IPS beating his wife. (MP)" kept exactly (protected).
+
+### Facts or numbers worth checking (kept as written)
+- 0575 "1971 Bangladesh war" framing; "Gift of GITA by PM"; Japan/Taoism-Buddhism; Confucian diplomacy.
+- 0576 "Sonam Wangchuk" as innovative-teaching role model.
+- 0564 "Deontological theory (Kant)" kept with bare attribution.
+
+### Term-list / concept cards with accepted similarity (0.70-0.79)
+- 0566, 0567, 0568, 0569, 0572, 0573, 0574 (definition/concept/short-example cards).
