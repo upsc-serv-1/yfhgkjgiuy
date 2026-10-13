@@ -258,3 +258,19 @@ Work Log:
 Stage Summary:
 - Progress: 540 of 789. Next: batch 28 = 697-716 (Ethics).
 - Queue flags: Gandhi "Be the change" attribution, Seshan quote, saintlihood spelling, duplicate Plato quotes.
+
+---
+Task ID: 15
+Agent: Super Z (main)
+Task: Batch 28 polish (697-716 Ethics, quote collection); push "batch-28". Continuous mode.
+
+Work Log:
+- Converted 697-716; wrote tools/build_batch28_example.py. 13 of 20 cards are quote-only -> untouched.
+- Verify: 3 warnings -> 2 after 'Courage' capital fix; 0 errors.
+- Final: 0 errors, 2 accepted warnings (0.71-0.72 concept lines).
+- Merged: MERGED_cards157-716.md (560 cards, 0 errors); deleted MERGED_cards157-696.md.
+- PLAN/review_queue/worklog updated; zipped; pushed "batch-28".
+
+Stage Summary:
+- Progress: 560 of 789. Next: batch 29 = 717-736 (Ethics).
+- Queue flags: Madhyammarga spelling, Bhagvad Geeta spelling, Voltaire apocryphal attribution, Rosa Parks second line.

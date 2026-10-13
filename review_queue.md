@@ -662,3 +662,23 @@ Append to this file after every batch. Format: card id | issue.
 
 ### Term-list / concept cards with accepted similarity (0.71-1.00)
 - 0686, 0688 (1.00 markup-fix card), 0690, 0691, 0692, 0693.
+
+## Batch 28 (cards 697-716: Ethics — Teachings of Great Leaders, quote collection) — needs_review / flags
+
+### Statuses
+- 7 polished; 13 untouched (quote-only cards 0700, 0702, 0704, 0705, 0706, 0707, 0708, 0710, 0712, 0713, 0714, 0715, 0716).
+
+### Kept as written (please confirm)
+- 0697 "'Madhyammarga'" transliteration kept exactly (usually "Madhyamarga"); "Puttaswamy 3 point categorisation" kept.
+- 0699 bold label "**Improve quality of life of people - Eg**" kept as written; "milk revolution" phrasing kept.
+- 0701 "Prof Mohd Yunus" quote attribution kept (usually "Muhammad Yunus").
+- 0708 "Bhagvad Geeta" spelling kept as written (usually "Bhagavad Gita").
+- 0704 three Rousseau quotes inside one quote block kept as converted; "British citizens are free only once in 5 years" kept.
+
+### Quote attributions (flag only; quotes never edited)
+- 0700 Edmund Burke paraphrase ("goodmen" spelling as written; usually "good men").
+- 0706 Rosa Parks line ("Today's mighty oak is yesterday's nut that held its ground") — second sentence usually attributed to others; verify.
+- 0715 Voltaire line — famously apocryphal (actually Beatrice Hall); kept as written.
+
+### Term-list / concept cards with accepted similarity (0.71-0.72)
+- 0709, 0711 (single-concept definition lines).
