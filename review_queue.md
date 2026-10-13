@@ -826,3 +826,32 @@ Append to this file after every batch. Format: card id | issue.
 
 ### Term-list cards with accepted similarity (0.71-0.98)
 - 0002, 0009, 0010, 0012 (name-dense data lists), 0015 (0.94 site list), 0017 (0.80), 0018 (0.96 fixed UNESCO list + 39-word official item name), 0019, 0020.
+
+## Batch 34 (cards 21-40: GS-1 Art & Culture II) — needs_review / flags
+
+### Statuses
+- 17 polished; 3 needs_review: 0023 (truncated + same_as_above), 0030 (truncated run-on, restructured), 0035 (truncated run-on, restructured).
+
+### Expansions (name warnings accepted)
+- 0022/0023 folk-dance and folk-theatre state codes (RJ/GJ/AP/KN/PB/HP/MP/SK/AS) expanded to state names in 0022; 0023 keeps original codes.
+- 0032 "SL chronicles" → "Sri Lankan chronicles"; 0034/0035 "H, B, J" kept plus expansions in parentheses.
+
+### Kept as written (please confirm)
+- 0022/0023 "Kuchipuri" (usually Kuchipudi), "Burakatha" (usually Burra Katha), "Tarangmal" (usually Tarangmel), "Abhinay Darpan" (usually Abhinaya Darpana), "Sangeet Natak Academy" vs "Akademi" (both forms appear in source) — kept as written.
+- 0030 "table" (usually tabla) kept; Hindustani-Carnatic comparison kept.
+- 0032 "Sab polished" written as "all polished" (source shorthand); "Piprawaha" (usually Piprahwa), "Mukrarakshasa" (usually Mudrarakshasa) kept.
+- 0033 "2nd CE BC to 3rd CE AD" unusual dating kept as written; "Vima Kadphises" kept.
+- 0034/0035 "Huein Tsang", "Harisen", "Kalidas", "Vishakhadutta", "Aryabhatt", "Surya Siddhantika", "Vijaywada", "Ankapallee" spellings kept; "34-HBJ" abbreviation kept.
+- 0022 classification line kept as written: "1. ritualistic vs narrative, 3. classical vs folk" (source numbering jumps 1→3).
+
+### Quote attributions (flag only; quotes never edited)
+- 0024 Ravi Shankar, 0025 Nehru ("A nation's folk music is its heartbeat" — verify), 0026 Habib Tanvir, 0027 Satyajit Ray, 0028 Bruce Lee, 0037 Radhakrishnan, 0038 A.K. Ramanujan (em-dash missing in source), 0039 Mahavira, 0040 Muzaffar Alam — kept as converted; several look invented by the source compiler, verify.
+- 0031 Tagore "The Taj is a tear on the cheek of time" — verify wording.
+
+### Facts or numbers worth checking (kept as written)
+- 0022 "11K dancers Bihu world record"; "Sitabena, Jogimara — world's oldest amphitheatres".
+- 0029 "2600 years (600-400 BC)", "23 previous tirthankaras"; 0032 "4th to 2nd CE BC"; 0033 "2nd CE BC to 3rd CE AD"; 0034 "8 types of coins (Samudragupta)", "34-HBJ Ellora".
+- 0021 G20 Bihu evening; Culture Mapping Portal; 0024 Dekho Apna Desh; 0026 SVEEP; 0027 Tholu Bommalata AR exhibitions; 0028 Sankalp Scheme.
+
+### Term-list cards with accepted similarity (0.70-0.98)
+- 0022 data (dance/music/theatre inventory, 33-word folk-theatre line accepted), 0023, 0029, 0032-0035 (kingdom inventories), 0037-0040 light prose.

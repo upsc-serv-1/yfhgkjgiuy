@@ -364,3 +364,20 @@ Stage Summary:
 - Progress: 653 of 789. Next: batch 34 = GS-1 cards 21-40 (History).
 
 - Note: merge_batches.py scans all polished/ files, so the merged output now includes GS-1 1-20; file renamed to MERGED_partial_1-20_plus_157-789.md to reflect content.
+
+---
+Task ID: 21
+Agent: Super Z (main)
+Task: Batch 34 polish (GS-1 cards 21-40); push "batch-34". Continuous mode.
+
+Work Log:
+- Converted 21-40; wrote tools/build_batch34_example.py.
+- Verify: 0 errors first build, 46 -> 44 warnings after 'India' restore, 0023 cap restores (Mythology/Natraja/Abhinay/Dance/Drama), 0021/0024 rewords.
+- Expansion warnings accepted (state codes RJ/GJ/AP/KN/PB/HP/MP/SK/AS; SL; H/B/J).
+- 3 needs_review: 0023, 0030, 0035 (truncated run-ons, restructured).
+- Merged: MERGED_partial_1-40_plus_157-789.md (673 cards, 0 errors); deleted previous partial.
+- PLAN/review_queue/worklog updated; zipped; pushed "batch-34".
+
+Stage Summary:
+- Progress: 673 of 789. Next: batch 35 = GS-1 cards 41-60 (History).
+- Flags: Kuchipuri/Burakatha/Tarangmal/Abhinay Darpan spellings; "Sab polished"; dating oddities "4th to 2nd CE BC"; several likely-invented quotes (0024-0028) for verification.
