@@ -638,3 +638,27 @@ Append to this file after every batch. Format: card id | issue.
 
 ### Term-list / concept cards with accepted similarity (0.71-0.79)
 - 0661 conclusion, 0664 intro/examples/conclusion, 0673 conclusion.
+
+## Batch 27 (cards 677-696: Ethics — Moral Thinkers/Leaders) — needs_review / flags
+
+### Statuses
+- 12 polished; 8 untouched (quote-only cards 0678, 0679, 0680, 0682, 0683, 0684, 0685, 0687).
+
+### Fixes made
+- 0673/0686-style broken bold repaired: 0688 "****Vivekananda**'s** **Karmayoga**" → "**Vivekananda**'s **Karmayoga**" (markup only; similarity 1.00 accepted, fixed-name card).
+- 0689 "Daridra Narayana / Daridranarayana / Daridra Narayan" variant spellings kept (all three listed as in source); sentence restructured; truncation "wanderings..." kept with ellipsis as in original.
+- 0692 "•" bullets normalised.
+- 0694 conclusion reordered; 0695 intro split; 0696 intro split (28→2 sentences).
+
+### Kept as written (please confirm)
+- 0677 "**Ram Rajya idea of Gandhi**" kept.
+- 0681 quoted phrase 'Knowledge is the true virtue' kept exactly.
+- 0689 "late-19th century" hyphenation normalised to "late-19th-century" (style).
+
+### Quote attributions (flag only; quotes never edited)
+- 0690 "Be the change you wish to see in the world." – Gandhi (commonly disputed attribution; verify).
+- 0692 quote attributed to T.N. Seshan (verify).
+- 0685 Socrates, 0687 "saintlihood & manhood" (spelling "saintlihood" as written; usually "sainthood"), 0682/0684 duplicate Plato law quotes (both kept).
+
+### Term-list / concept cards with accepted similarity (0.71-1.00)
+- 0686, 0688 (1.00 markup-fix card), 0690, 0691, 0692, 0693.

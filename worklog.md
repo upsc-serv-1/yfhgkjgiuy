@@ -241,3 +241,20 @@ Work Log:
 Stage Summary:
 - Progress: 520 of 789. Next: batch 27 = 677-696 (Ethics).
 - Queue flags: Aristotle "Moral excellence" quote (usually Will Durant), MLK/Kalam stray quote marks, "well being" unhyphenated in protected quote.
+
+---
+Task ID: 14
+Agent: Super Z (main)
+Task: Batch 27 polish (677-696 Ethics); push "batch-27". Continuous mode.
+
+Work Log:
+- Converted 677-696; wrote tools/build_batch27_example.py. 8 quote-only cards -> untouched.
+- Verify rounds: 18 -> 9 -> 8 warnings; 0 errors throughout.
+- Fixed: 0686 conclusion, 0692 'T.N' name placement, 0693/0694/0695/0696 example reorders, 0696 intro split, 0688 broken-bold markup repair (1.00 accepted).
+- Final: 0 errors, 8 accepted warnings.
+- Merged: MERGED_cards157-696.md (540 cards, 0 errors); deleted MERGED_cards157-676.md.
+- PLAN/review_queue/worklog updated; zipped; pushed "batch-27".
+
+Stage Summary:
+- Progress: 540 of 789. Next: batch 28 = 697-716 (Ethics).
+- Queue flags: Gandhi "Be the change" attribution, Seshan quote, saintlihood spelling, duplicate Plato quotes.
