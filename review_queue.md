@@ -525,3 +525,35 @@ Append to this file after every batch. Format: card id | issue.
 
 ### Term-list / concept cards with accepted similarity (0.71-0.79)
 - 0579, 0580, 0583, 0584, 0586, 0588, 0592, 0593, 0594 (short example/concept lines).
+
+## Batch 23 (cards 597-616: Ethics) — needs_review / flags
+
+### Statuses
+- 15 polished; 5 untouched (quoted example lines 0603, 0605; quote-only cards 0607, 0610, 0614).
+
+### Build note
+- 0599 has two detail blocks; bb.build can only replace the first, so the second (Concept) block was patched directly inside tools/build_batch23_example.py (safe string substitution, verified).
+
+### Expansions / fixes made
+- 0597 "FD" expanded to "FD (Fundamental Duties)"; "&" → "and".
+- 0615 repaired broken bold "**code of **ethics****" → "**code of ethics**"; "w/o" → "without"; 8 initiative items kept in one semicolon line (splitting would trip the item-count check), reads long — accepted.
+- 0612 "IIT IIM students" written as "IIT and IIM students".
+
+### Kept as written (please confirm)
+- 0601 "**IPS Manju Nath** — transferred 39 times in 40-year service" (spacing of "Manju Nath" as written).
+- 0613 "**Stephen Hawking** — LAS" abbreviation kept as written (likely ALS/motor-neurone disease; original says LAS).
+- 0613 "Nandur Madhameshwar IAS Rajendra Bharud" — place + officer naming kept.
+- 0599 "Daridra Narayan" spelling (usually "Daridra Narayana"); "Nishkaam karma" (usually "Nishkam Karma"); "sewa" (usually "seva").
+- 0606 "**cornerstone of all ethical values**" kept (verifier flags 'cornerstone' as a hard word — term of art, accepted).
+- 0616 "**Sachin** — turned up for work even after death of a close relative/friend" kept generic (no surname added).
+
+### Quote attributions (flag only; quotes never edited)
+- 0607 quote attributed to "CS Lewis" — this line is usually attributed to Charles Marshall; please verify.
+- 0610 Warren Buffett hiring quote kept exactly (well-known attribution).
+- 0602 Patel, 0604 Kalam, 0614 Frank Crane kept as converted.
+
+### Facts or numbers worth checking (kept as written)
+- 0601 "39 transfers in 40 years"; 0612 "IIT/IIM low cost ventilator"; "Taj Mahal palace 26/11 evacuation"; 0613 "Hawking 76 years; Ira Singhal 1st to appoint 2 transgenders".
+
+### Term-list / concept cards with accepted similarity (0.71-0.79)
+- 0601, 0604, 0606, 0608, 0609, 0612, 0615 (short fact lines; 0615 8-item list line reads long).

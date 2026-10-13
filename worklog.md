@@ -169,3 +169,22 @@ Work Log:
 Stage Summary:
 - Progress: 440 of 789. Next: batch 23 = 597-616 (Ethics).
 - Queue flags: Gandhi-attributed "nation's greatness" quote (usually Humphrey), Nehru "Facts are sacred" (usually Guardian motto), Bose tolerance quote, Ekam sat spellings.
+
+---
+Task ID: 10
+Agent: Super Z (main)
+Task: Batch 23 polish (597-616 Ethics); push "batch-23". Continuous mode.
+
+Work Log:
+- Converted 597-616; wrote tools/build_batch23_example.py.
+- Build hit assertion: 0599 has two detail blocks (bb.build replaces only the first) -> dropped examples= key, patched second detail via direct string substitution in the script.
+- Verify rounds: 23 -> 19 -> 17 -> 16 -> 15 -> 14 warnings; 0 errors throughout.
+- Fixed: 0602 intro/examples/conclusion restructures, 0604 examples, 0606, 0609, 0611, 0613 (0.95 -> restructured), 0615 name caps (Harmony/Keep/Serve/Set/Show/Transparent), 0616, 0601 'Lady' capital.
+- Final: 0 errors, 14 accepted warnings.
+- Statuses: 15 polished, 5 untouched (0603/0605 quoted lines; 0607/0610/0614 quote-only).
+- Merged: MERGED_cards157-616.md (460 cards, 0 errors); deleted MERGED_cards157-596.md.
+- PLAN/review_queue/worklog updated; zipped; pushed "batch-23".
+
+Stage Summary:
+- Progress: 460 of 789. Next: batch 24 = 617-636 (Ethics).
+- Queue flags: CS Lewis attribution (usually Charles Marshall), Hawking "LAS" abbreviation, Daridra Narayan/Nishkaam spellings, 39-transfers figure.
