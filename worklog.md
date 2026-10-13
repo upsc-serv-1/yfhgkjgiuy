@@ -206,3 +206,21 @@ Work Log:
 Stage Summary:
 - Progress: 480 of 789. Next: batch 25 = 637-656 (Ethics).
 - Queue flags: Bhagavad Gita attribution (usually Robert Brault), 'Weekday rules' mnemonic, karmanyevaadhikaaraste transliteration.
+
+---
+Task ID: 12
+Agent: Super Z (main)
+Task: Batch 25 polish (637-656 Ethics); push "batch-25". Continuous mode.
+
+Work Log:
+- Converted 637-656; wrote tools/build_batch25_example.py.
+- Verify rounds: 27 -> 21 -> 20 warnings; 0 errors throughout.
+- Fixed: 0643 intro split, 0644 intro split + examples rework, 0645/0646 examples rework, 0649 reorder, 0653 name-caps restored + envi/<=> fixes.
+- Term-list cards 0648/0651/0653/0655 kept polished with accepted 0.92-0.96 warnings (fixed names; shorthand expansions applied).
+- Statuses: 16 polished, 4 untouched (0638 quoted blocks; 0647/0656 quote-only; 0650 fixed list).
+- Merged: MERGED_cards157-656.md (500 cards, 0 errors); deleted MERGED_cards157-636.md.
+- PLAN/review_queue/worklog updated; zipped; pushed "batch-25".
+
+Stage Summary:
+- Progress: 500 of 789. Next: batch 26 = 657-676 (Ethics).
+- Queue flags: "Mayor" vs "Mayer" spelling, Nehru head/heart quote attribution, Buffet spelling, duplicate Gandhi quote 0592/0645.

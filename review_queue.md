@@ -583,3 +583,35 @@ Append to this file after every batch. Format: card id | issue.
 
 ### Term-list / concept cards with accepted similarity (0.71-0.79)
 - 0617-0619, 0620-0629, 0632, 0634-0636 (concept cards); 0627 Cognitive line is a 5-item semicolon list and reads long (accepted).
+
+## Batch 25 (cards 637-656: Ethics) — needs_review / flags
+
+### Statuses
+- 16 polished; 4 untouched (quoted blocks card 0638; quote-only cards 0647, 0656; fixed 6-item Goleman list 0650).
+
+### Expansions / fixes made
+- 0640 "mgmt" → "management" (crowd management); 0655 "mgmt" → "management" (Relationship management, Stress management).
+- 0637 truncated conclusion completed with a period; "value- based" → "value-based"; intro punctuation repaired after the bold phrase.
+- 0641/0644 examples were word-fragments across lines; re-joined into the 3 real items each.
+- 0648/0651 "Mayor & Salovey" written as "Mayor and Salovey" (style: "and" over "&"); spelling "Mayor" kept exactly as the source has it.
+- 0653 "envi" → "environment"; "<=>" symbol written out ("leading to personal growth"); "&" → "and"; item lead-words keep original capitalization (Resolve/Positive/Balancing/Able/Taking/Conflict/Stable/Intrinsic...).
+
+### Kept as written (please confirm)
+- 0648/0651 "**Mayor** and Salovey" — the psychologist's name is normally spelled "Mayer"; source spells "Mayor" in body text (title uses MAYER). Flagging only.
+- 0639 "**Geeta Phogat - won in 3rd round**" phrasing kept; "light weight" → "light-weight" only.
+- 0652 "**Mayor & Salovey model**" kept with "&" inside the bold model name.
+- 0647/0656 Mark Twain / Warren Buffet quotes kept exactly ("Buffet" spelling as written, usually "Buffett").
+
+### Quote attributions (flag only; quotes never edited)
+- 0641 "To handle yourself, use your head; to handle others, use your heart." – Nehru (often attributed to Eisenhower; verify).
+- 0642 Kalam quote ("recognize your role in creating it") — verify.
+- 0644 Kalam dreams quote — verify wording ("Dreams are not what you see in sleep...").
+- 0645 Gandhi quote duplicates 0592's quote (same source line reused; kept in both).
+
+### Facts or numbers worth checking (kept as written)
+- 0639 Edison awareness / Wilma Rudolph motivation / Geeta Phogat 3rd round / Kalam team prosthetics / Anna Hazare Ralegan water harvesting.
+- 0640 Aligarh IPS crowd management; "PM declared lockdown — chose lives over livelihood".
+- 0641 Chandrayaan-3 composure example.
+
+### Term-list / concept cards with accepted similarity (0.71-0.96)
+- 0643/0644/0645 (0.71-0.77 after rework); 0648 (0.94), 0651 (0.96), 0655 (0.92) — fixed-name term lists with only shorthand/style fixes; 0653 (0.93) 3 packed semicolon list lines (9+5+3 items), reads long — accepted.
