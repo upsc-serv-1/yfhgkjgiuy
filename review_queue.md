@@ -183,3 +183,133 @@ Append to this file after every batch. Format: card id | issue.
 
 ### Duplicate or overlapping cards
 - 0408, 0409, 0410 (space sector, private players, policy 2023). 0401, 0402, 0403 (crypto, NFT, CBDC). 0405 and 0404; 0415 and 0412/0414.
+
+## Batch 14: cards 417 to 436 (Sci and Tech 417-427, Environment 428-436)
+
+### Template, placeholder or cross-reference cards
+- 0424 | Conclusion is an instruction note "(No specific conclusion provided — refer general S&T template)". Left as written; the rest of the card was polished. needs_review.
+- 0426 | "Template 8" — fill-in-the-blank intro/conclusion for scientific personalities ("____", "___"). Text untouched. needs_review.
+- 0427 | "Template 10" — cross-reference ("Refer General S&T Template (TEMPLATE 5)"); its application list repeats card 0424. Untouched. needs_review. Please decide: keep these template cards, or remove them from the book?
+- 0425 | Card holds only one intro line (Ritu Karidhal). If you want a fuller card, please supply more content — nothing was invented.
+
+### Shorthand expanded (assumptions, please confirm)
+- 0417 "Govt" → Government; "AP & GJ" → Andhra Pradesh and Gujarat.
+- 0433 "ES 2018" → Economic Survey 2018; "CC" → climate change (kept "(CC)" once so the abbreviation is not lost).
+
+### Formatting fixed (formatting only, no wording)
+- 0420 | stray `**` around "Nano Mission 2007" and "Visheswaraya PhD Scholarships". 0422 | broken bold around "Strategic Technology Boards" and the "design in India" quote. 0431 | stray `**` before CDRI. 0434 | stray `**` around PAT line.
+
+### Spelling kept as written
+- 0420 "Visheswaraya PhD Scholarships" (the usual spelling is Visvesvaraya). Kept; please check the scheme name.
+
+### Quote attributions I could not confirm (flag only; quotes are never edited)
+- 0418 "Innovation without regulation is chaos; regulation without trust is paralysis." (no attribution)
+- 0421 "Aatmanirbharta in science is the cornerstone of strategic autonomy." (no attribution)
+- 0422 "Innovation isn't just imitation with delay—it is ownership with intent." (no attribution)
+- 0423 "Good science needs great policy to thrive." (no attribution)
+- 0425 "Our thinking is not merely to empower women through science..." (no attribution; reads like a PM speech line)
+- 0435 conclusion "A brief and rapidly closing window of opportunity..." (no attribution; it matches the IPCC AR6 phrase)
+- 0436 "Climate action is not charity—it is enlightened self-interest." (no attribution)
+
+### Facts or numbers worth checking (kept as written)
+- 0418 "38th of the 139 economies, Global Innovation Index (GII) 2025" (the 139-economy count and the rank/year pairing should be verified).
+- 0422 "semiconductor fabs with $10B outlay".
+- 0430 "10th rank in CCPI for 2025 (Germanwatch)"; "1 person in USA = 108 people in Ethiopia"; "#1 in fatalities, #2 in monetary losses" (CRI).
+- 0435 "4 mn disaster-induced displacements in India, 2019".
+- 0433 and 0417 share the same GM figures (29/170, 90% in 5 countries, 5th largest area) — both kept.
+
+### Duplicate or overlapping cards
+- 0424 and 0427 (cryogenics applications listed twice).
+- 0417 and 0433 (GM crops data). 0430, 0431, 0432 (net zero 2070 and NDC figures repeat across cards). 0431 data repeats its own intro (2070).
+- Data blocks that repeat the introduction: 0424 (–153°C), 0428, 0431, 0433.
+
+### Batch 14 corrected after review (user's section 16 rules)
+- 0435 data | back to the original unit: "**4 mn disaster-induced displacements**" (was "4 mn people were displaced").
+- 0431 intro | label "Steps announced" changed back to "**Steps**" (labels stay as written).
+- 0420 intro | back to "**A field of research** at the scale of atoms and molecules" (was "science of matter at a very small scale").
+- Also removed words that added meaning (section 16, rule 1): 0421 dropped "now"; 0422 "has got the nod" → "has been cleared"; 0429 dropped "warning" ("IPCC warning:" → "The IPCC finds") and "runs its course" → "moves ahead". Re-verified: 0 errors, 8 accepted warnings.
+
+## Batch 15: cards 437 to 456 (Environment)
+
+### Shorthand expanded (assumptions, please confirm)
+- 0439 "RBI Dy. Governor" → "RBI Deputy Governor".
+- 0452 "no nukes" → "no nuclear weapons".
+- 0449 "temp rise" → "temperature rise".
+- 0439 "co-relation" → "correlation" (spelling fix only).
+
+### Kept as written (please confirm)
+- 0448 "Agri" inside **MATTIE** (Mining, Agri, Transport, Tourism, Industry, HEP) kept so the acronym mapping stays; "agri run-off" also kept.
+- 0446 "GRM" (Kasturirangan Committee) — abbreviation unclear, kept. Please expand it.
+- 0449 "PHEE WASH" — unclear term (PHE + WASH?), kept exactly. Please check.
+- 0437 "1,700 casualties" — "casualties" kept as the unit noun (per section 16, rule 2).
+
+### Term-list cards with accepted high similarity
+- 0443 (place names, body names), 0448 (threat terms, MATTIE), 0449 (four-sphere impact terms), 0450 (remedy terms: Paris Agreement, Secure Himalayas, ESZ, drones...) — these are inventories of protected terms; almost nothing can be reworded. Similarity 0.91-0.97 accepted.
+
+### Quote attributions I could not confirm (flag only; quotes are never edited)
+- 0440 "We do not inherit the Earth from our children..." (no attribution)
+- 0441 "Forests are not just carbon sinks—they are cultural lifelines." (no attribution)
+- 0442 Mark Dowie (conservation-refugees line) — plausible but please verify wording.
+- 0445 "Environment regulation is not anti-growth—it is pro-survival." (no attribution)
+- 0451 Antonio Guterres "collective action or collective suicide" — real in spirit; please verify wording.
+
+### Facts or numbers worth checking (kept as written)
+- 0439 Copenhagen Accord "$100 bn p.a. by 2020, <2% given"; India "$10 trillion" for net zero; "3/4th of adaptation projects no direct correlation".
+- 0440 "98+ ESZs"; Project Cheetah "70+ years".
+- 0441 "24.6% forest area"; "₹60,000+ crore CAMPA".
+- 0443 "India home to 30% of corals"; "50 crore people depend"; "14% reefs lost since 2010 (6th Status of Corals report)".
+- 0446 Vadvan Port EIA "only 1 season's data"; "41% of NGT cases faulty EIA".
+- 0451 FSI "21.7% vs NFP 33%"; "3 lakh ha diverted in 15 years".
+- 0444 Gadgil "100% ESA" vs Kasturirangan "37%" — both kept.
+
+### Duplicate or overlapping cards
+- 0440, 0441, 0442 all biodiversity/conservation and share ESZ/WPA references.
+- 0444 (Western Ghats) repeats the Kasturirangan Committee from 0446 (EIA card, GRM points).
+- 0455 (PPV&FR Act) holds only the PepsiCo case line — a very thin card; more content would help (not invented).
+
+## Batch 16 (cards 457-476, Environment) — polished, 0 errors, 13 accepted warnings
+
+### needs_review (template/placeholder cards; text untouched)
+- 0460 conclusion starts with "___ is not just an option but a necessity for a sustainable future." — fill-in-the-blank kept as is; rest of the card polished.
+- 0462 whole card is a fill-in-the-blank template ("Fill-in-the-Blank") — left untouched, needs_review.
+
+### Shorthand expansions (kept meaning; please confirm)
+- 0459 "Art. 48A / 21 / 51A" expanded to "Article ...".
+- 0459 "**LT** Low Carbon Development Strategy (COP 27)" expanded to "**Long-Term** Low Carbon Development Strategy (COP 27)" — please confirm this is the intended scheme name.
+- 0469 "(TN)" expanded to "(Tamil Nadu)".
+- 0471 "AP" expanded to "Andhra Pradesh"; "MP" expanded to "Madhya Pradesh" (both before place-specific best-practice names).
+- 0476 "**WB**" expanded to "**World Bank**" (data block already said World Bank).
+
+### Kept as written (please confirm)
+- 0471 "**Plas Tax**" (Ireland) — informal name kept exactly.
+- 0471 "**Bhartan Bhandar**" (MP) and "**Main Indoori Jholadhari**" — unclear names, kept exactly; please verify spelling.
+- 0475 "**Jal Shakti Mission**" — kept as written; the usual name is Jal Jeevan Mission (not fixed silently).
+- 0465 "+" bullet before "sewerage projects" treated as "as well" (list continuation).
+- 0473 "20 T/day → 200 T/day" arrow form kept exactly.
+
+### Term-list / number-dense cards with accepted similarity (0.71-0.82)
+- 0459 (protected labels + principle inventory; slogan conclusion kept at 1.00 — slogans stay untouched), 0461 (>80%/2028 lines), 0463 (map place list), 0464 (6m/7 lakh/1/3rd lines), 0469 (MT figures), 0471 (SUP numbers + 7 best practices), 0472 (scheme-name list), 0473 (colour codes, arrow figure), 0474 (coastline figures), 0475 (m³ series).
+
+### Quote attributions I could not confirm (flag only; quotes are never edited)
+- 0458 "Justice delayed in ecology is extinction in slow motion." (no attribution)
+- 0461 "LiFE does not look at which country is in coalition..." and "Mission LiFE is an important step towards renewed and reimagined multilateralism." (no attribution)
+- 0465 "What we breathe and drink today decides who we become tomorrow." (no attribution)
+
+### Facts or numbers worth checking (kept as written)
+- 0460 "99th out of 167 on the 2025 SDG Index"; "176th among 180 in the 2024 EPI".
+- 0461 ">80% of RLB and ULB environment-friendly by 2028".
+- 0463 ISFR 2019 "~5,000 sq km, up 1.1%".
+- 0465 "NCAP cities 25-30% PM2.5 reduction in 5 years"; "23 crore+ soil health cards".
+- 0466 "14 of 15 most polluted cities (WHO)"; "63% fly ash utilisation"; "transport 23% of CO2"; "2.5 years life expectancy (CSE)"; "90% / >51% TPP non-compliance as of 2020".
+- 0467 "30% land degradation (ISRO)"; "2.5% of GDP lost (MoEFCC)"; "3x cropland since 1850s".
+- 0469 "65 MT/year vs 63 MT breakdown (43 collected / 13 treated)" — the 65 vs 63 mismatch is in the original; not fixed silently.
+- 0470 "3rd largest generator, ~4.1 MT in 2023"; "under 25% formally recycled".
+- 0471 "9.3 MT/yr"; "43% SUP"; "OECD: 3x plastic waste by 2060".
+- 0473 "COVID BMW 20 T/day → 200 T/day (CPCB)"; "only 15% of BMW hazardous".
+- 0474 "40% of coastline eroding (MoEFCC)"; "7,500 km + 1,200+ islands".
+- 0475 "4% freshwater vs 17% population"; "5177 / 1545 / 1300 m3 series"; "70% contaminated"; "NITI Aayog 2030".
+- 0476 "0.4 m/year depletion (World Bank)"; "80% rural / 50% urban / 90% agriculture".
+
+### Duplicate or overlapping cards
+- 0457 conclusion overlaps card 0442 conclusion (both Global Biodiversity Framework); worded differently on purpose.
+- 0462 repeats 0460's blank line and Guterres slogan (template card).

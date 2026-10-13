@@ -7553,3 +7553,1858 @@ status: polished
 :::conclusion
 Even with this growth, India’s share is only **3% of the global biotech industry**, which shows huge potential.
 :::
+
+---
+id: GS3-SCIE-0417
+paper: "GS-3"
+subject: "SCIENCE & TECHNOLOGY"
+section_group: "Frontier Technologies & IPR"
+microtopic: "Awareness in the fields of nano-technology, bio-technology and issues relating to intellectual property rights"
+subtopic: "Bio-Technology"
+card_title: "GM CROPS"
+card_type: structured
+sections: [introduction, data]
+flags: []
+status: polished
+---
+
+:::introduction
+- The Government has recently cleared the **environmental release of GM Mustard Hybrid DMH-11**.
+- **Definition:** An organism's characteristics can be changed by **transferring DNA from another organism** into it.
+- In area under GM cultivation, India holds the **5th largest** position.
+- Every GM decision must follow the **Precautionary Principle**.
+- The alternative path: "**Safe agri-ecological solutions**" — for example, System of Mustard Intensification.
+:::
+
+:::data
+- **DMH-11:** delivers **20–25% higher yield** (India's present yield is ½ of the global average).
+- **BT Cotton:** insecticide use fell by **over 50%** in Andhra Pradesh and Gujarat.
+- 1. Only **29/170 countries** grow GM crops.
+- 2. **5 countries alone hold 90%.**
+:::
+
+---
+id: GS3-SCIE-0418
+paper: "GS-3"
+subject: "SCIENCE & TECHNOLOGY"
+section_group: "Frontier Technologies & IPR"
+microtopic: "Awareness in the fields of nano-technology, bio-technology and issues relating to intellectual property rights"
+subtopic: "Intellectual Property Rights"
+card_title: "IPR & Deep Tech Regulation"
+card_type: structured
+sections: [quote, introduction, examples, conclusion]
+flags: []
+status: polished
+---
+
+:::quote
+"Innovation without regulation is chaos; regulation without trust is paralysis."
+:::
+
+:::introduction
+India is updating its **IPR, localisation and deep tech frameworks** so that creators stay protected and new technology remains safe to build. The aim is a **“sandbox governance model”** suited to AI, blockchain and the tech frontiers of the future.
+:::
+
+:::examples
+- In the **Global Innovation Index (GII) 2025**, India placed **38th of the 139 economies** ranked.
+- Fintech and health apps must follow India's **data localisation norms**.
+- To prepare the policy roadmap, DPIIT has formed a **DeepTech Task Force**.
+:::
+
+:::conclusion
+For India’s digital rise to last, agile rules, **global alignment and innovation autonomy** must move forward together.
+:::
+
+---
+id: GS3-SCIE-0419
+paper: "GS-3"
+subject: "SCIENCE & TECHNOLOGY"
+section_group: "Frontier Technologies & IPR"
+microtopic: "Awareness in the fields of nano-technology, bio-technology and issues relating to intellectual property rights"
+subtopic: "Intellectual Property Rights"
+card_title: "IPR (Intellectual Property Rights)"
+card_type: structured
+sections: [introduction, conclusion]
+flags: []
+status: polished
+---
+
+:::introduction
+**Definition:** Legal rights that give protection to **original creations, inventions and ideas**.
+:::
+
+:::conclusion
+IPR reform should strike a balance between **incentives for advanced research** and the **larger public good**.
+:::
+
+---
+id: GS3-SCIE-0420
+paper: "GS-3"
+subject: "SCIENCE & TECHNOLOGY"
+section_group: "Frontier Technologies & IPR"
+microtopic: "Awareness in the fields of nano-technology, bio-technology and issues relating to intellectual property rights"
+subtopic: "Nano Technology"
+card_title: "NANOTECHNOLOGY"
+card_type: structured
+sections: [introduction, conclusion]
+flags: [format_fixed]
+status: polished
+---
+
+:::introduction
+- **Definition:**
+  - 1. A field of research at the scale of **atoms and molecules**, in the **nanometre range (1–100 nm)**.
+  - 2. 1 nm is 1 billionth of a metre.
+- **Steps:**
+  - 1. **Nano S&T Initiative (NSTI).**
+  - 2. **Nano Mission 2007.**
+  - 3. **Visheswaraya PhD Scholarships.**
+- **Applications:**
+  - 1. Farming (nanosensors, **nano urea**, precision farming, nanogels).
+  - 2. Healthcare (controlled drug delivery, remote monitoring, **nanobots**).
+  - 3. Space applications.
+  - 4. Energy needs (solar paints, nanogenerators).
+  - 5. Building construction.
+  - 6. Electronics (nano batteries).
+  - 7. **Defence (stealth).**
+:::
+
+:::conclusion
+A **lab to field** approach is what will carry this research to the ground.
+:::
+
+---
+id: GS3-SCIE-0421
+paper: "GS-3"
+subject: "SCIENCE & TECHNOLOGY"
+section_group: "Indigenous Tech & Achievements"
+microtopic: "Achievements of Indians in S&T; Indigenisation of technology & developing new technology"
+subtopic: "Achievements of Indians in S&T"
+card_title: "Indigenous Innovations (DRDO, ISRO)"
+card_type: structured
+sections: [quote, introduction, examples, conclusion]
+flags: []
+status: polished
+---
+
+:::quote
+"Aatmanirbharta in science is the cornerstone of strategic autonomy."
+:::
+
+:::introduction
+**DRDO, ISRO and CSIR** are leading India toward **indigenous R&D ecosystems**. Their innovations serve both security needs and society — a shift toward **“lab-to-field”** excellence for a self-reliant India.
+:::
+
+:::examples
+- DRDO's **Agni-5 MIRV missile** strengthens the country's credible deterrence.
+- ISRO's **INSAT-3DS** gives advanced weather data.
+- **Bio-based nanofertilizers** developed at CSIR make farming more sustainable.
+:::
+
+:::conclusion
+When these institutions work in step with each other, and **tech-commercial linkages** grow, India’s standing in global science will rise.
+:::
+
+---
+id: GS3-SCIE-0422
+paper: "GS-3"
+subject: "SCIENCE & TECHNOLOGY"
+section_group: "Indigenous Tech & Achievements"
+microtopic: "Achievements of Indians in S&T; Indigenisation of technology & developing new technology"
+subtopic: "Achievements of Indians in S&T"
+card_title: "Indigenisation of Technology"
+card_type: structured
+sections: [quote, introduction, examples, conclusion]
+flags: []
+status: polished
+---
+
+:::quote
+"Innovation isn't just imitation with delay—it is ownership with intent."
+:::
+
+:::introduction
+The push for **tech indigenisation** now covers semiconductors as well as defence platforms. It runs through Make in India, Strategic Technology Boards and FDI-linked innovation hubs. The goal matches the vision of **“design in India, for the world.”**
+:::
+
+:::examples
+- **Semiconductor fabs** with a **$10B outlay** have been approved under the Digital India push.
+- **IoT agriculture pilots** now run on indigenous **LoRa-based** chips.
+- HAL has been cleared to produce **Tejas Mk-1A fighter jets**.
+:::
+
+:::conclusion
+Real tech sovereignty will rest on strong IP ecosystems and **capacity built within the country**.
+:::
+
+---
+id: GS3-SCIE-0423
+paper: "GS-3"
+subject: "SCIENCE & TECHNOLOGY"
+section_group: "Indigenous Tech & Achievements"
+microtopic: "Achievements of Indians in S&T; Indigenisation of technology & developing new technology"
+subtopic: "Achievements of Indians in S&T"
+card_title: "Government R&D Policies"
+card_type: structured
+sections: [quote, introduction, examples, conclusion]
+flags: []
+status: polished
+---
+
+:::quote
+"Good science needs great policy to thrive."
+:::
+
+:::introduction
+India’s **STI Policy**, **National R&D Policy** and rising budget support show a clear commitment to **science-led governance**. The push is toward **“Jan Bhagidari in Innovation”** and fairness in research opportunity.
+:::
+
+:::examples
+- **STIP 2020 draft:** it makes science more inclusive and backs open-access platforms.
+- The Union Budget has doubled the money for **R&D in clean energy**.
+- **Innovation Clusters** have begun under State S&T councils.
+:::
+
+:::conclusion
+R&D policy should combine **public accountability** with **private agility** so that the benefits reach the real world.
+:::
+
+---
+id: GS3-SCIE-0424
+paper: "GS-3"
+subject: "SCIENCE & TECHNOLOGY"
+section_group: "Indigenous Tech & Achievements"
+microtopic: "Achievements of Indians in S&T; Indigenisation of technology & developing new technology"
+subtopic: "Achievements of Indians in S&T"
+card_title: "CRYOGENICS"
+card_type: structured
+sections: [introduction, data, conclusion]
+flags: []
+status: needs_review
+---
+
+:::introduction
+- **Definition:** How materials act and are produced at **very low temperatures** (below **–153°C**).
+- **Applications:**
+  - 1. MRI.
+  - 2. Freeze drying.
+  - 3. Cryosurgery.
+  - 4. Cold treatment of tools (metallurgy).
+  - 5. **Cryo engines** (liquid H₂, O₂).
+:::
+
+:::data
+- Temperatures count as cryogenic when they fall below **–153°C**.
+:::
+
+:::conclusion
+(No specific conclusion provided — refer general S&T template)
+:::
+
+---
+id: GS3-SCIE-0425
+paper: "GS-3"
+subject: "SCIENCE & TECHNOLOGY"
+section_group: "Indigenous Tech & Achievements"
+microtopic: "Achievements of Indians in S&T; Indigenisation of technology & developing new technology"
+subtopic: "Achievements of Indians in S&T"
+card_title: "WOMEN IN STEM"
+card_type: structured
+sections: [quote, introduction]
+flags: []
+status: polished
+---
+
+:::quote
+"Our thinking is not merely to empower women through science but also empower science by the contribution of women."
+:::
+
+:::introduction
+Known as the "Rocket Woman of India", **Ritu Karidhal** played a key role in the **Chandrayaan** mission.
+:::
+
+---
+id: GS3-SCIE-0426
+paper: "GS-3"
+subject: "SCIENCE & TECHNOLOGY"
+section_group: "Indigenous Tech & Achievements"
+microtopic: "Achievements of Indians in S&T; Indigenisation of technology & developing new technology"
+subtopic: "Achievements of Indians in S&T"
+card_title: "Template 8: S&T — Scientific Personality Intro"
+card_type: detail
+sections: [detail, detail]
+flags: [placeholder_blank]
+status: needs_review
+---
+
+:::detail label="Fill-in-the-Blank Intro"
+- "**____** was a great scientific luminary, whose profound contributions in the field of **___** have reshaped our understanding and spurred unprecedented advancements."
+:::
+
+:::detail label="Fill-in-the-Blank Conclusion"
+- "**___**'s contributions have left an **indelible mark** in the field of **___** and continue to influence countless advancements & innovations that shape our modern world."
+:::
+
+---
+id: GS3-SCIE-0427
+paper: "GS-3"
+subject: "SCIENCE & TECHNOLOGY"
+section_group: "Indigenous Tech & Achievements"
+microtopic: "Achievements of Indians in S&T; Indigenisation of technology & developing new technology"
+subtopic: "Achievements of Indians in S&T"
+card_title: "Template 10: CRYOGENICS — General S&T Template Reference"
+card_type: detail
+sections: [detail, detail]
+flags: []
+status: needs_review
+---
+
+:::detail label="Fill-in-the-Blank"
+- Refer General S&T Template (TEMPLATE 5) for intro/conclusion.
+:::
+
+:::detail label="Applications to fill in"
+- 1. MRI.
+- 2. Freeze drying.
+- 3. Cryosurgery.
+- 4. Cold treatment for metallurgy.
+- 5. **Cryo engines (liquid H₂, O₂).**
+:::
+
+---
+id: GS3-ENVI-0428
+paper: "GS-3"
+subject: "ENVIRONMENT"
+section_group: "Climate Change"
+microtopic: "Global warming, climate change, and international frameworks"
+subtopic: "Climate Change"
+card_title: "CRYOSPHERE"
+card_type: structured
+sections: [introduction, data]
+flags: []
+status: polished
+---
+
+:::introduction
+- **Definition:** The frozen parts of the Earth system, found on land and under the ocean surface — for example, **permafrost**.
+- **Permafrost holds 2× as much carbon** as the atmosphere holds.
+- Glaciers in danger: **Thwaites (Antarctica), Larsen C, Okjökull (Iceland)**.
+:::
+
+:::data
+- **10% of the world’s people** live in high mountain areas.
+- Per the **IPCC**, **80% of glaciers** could vanish by **2100**.
+:::
+
+---
+id: GS3-ENVI-0429
+paper: "GS-3"
+subject: "ENVIRONMENT"
+section_group: "Climate Change"
+microtopic: "Global warming, climate change, and international frameworks"
+subtopic: "Climate Change"
+card_title: "OCEANS — Acidification & AMOC"
+card_type: structured
+sections: [introduction, data]
+flags: []
+status: polished
+---
+
+:::introduction
+- **Ocean Acidification:** ocean pH falling **below 8** as the seas take up **CO₂**.
+- **AMOC** (Atlantic Meridional Overturning Circulation) is the Atlantic arm of the global **ocean conveyor belt**, which carries heat and nutrients across the seas.
+:::
+
+:::data
+- The **IPCC** finds the AMOC **"very likely to decline"** as the 21st century moves ahead.
+:::
+
+---
+id: GS3-ENVI-0430
+paper: "GS-3"
+subject: "ENVIRONMENT"
+section_group: "Climate Change"
+microtopic: "Global warming, climate change, and international frameworks"
+subtopic: "Climate Change"
+card_title: "CLIMATE CHANGE — Overview & India's Commitments"
+card_type: structured
+sections: [quote, introduction, data, detail]
+flags: []
+status: polished
+---
+
+:::quote
+"If solutions within the system are so impossible to find, we should change the system itself." — Greta Thunberg
+:::
+
+:::quote
+"IPCC reports are code red for humanity." — Antonio Guterres
+:::
+
+:::introduction
+- **Definition:** Long-term changes in the world's temperature, rainfall and wind patterns, unfolding over **several decades**.
+- **Panchamrit (India’s 5 commitments):**
+  - 1. Reach net zero by **2070**.
+  - 2. **500 GW of non-fossil energy by 2030**.
+  - 3. **Renewables to meet 50% of energy by 2030**.
+  - 4. **Cut total carbon emissions by 1 bn tonnes by 2030**.
+  - 5. **Cut carbon intensity by 45% by 2030**.
+- **Climate Paradox:** China emits the most, yet sits in the G77.
+- **Energy Trilemma:** Energy equity + Energy security + Environmental sustainability.
+- **Key Keywords:**
+  - 1. **6th mass extinction.**
+  - 2. **DALY.**
+  - 3. **Degrowth.**
+  - 4. **LiFE.**
+  - 5. **Circular economy.**
+  - 6. **Carbon colonialism.**
+  - 7. **Climate denialism.**
+  - 8. **Greenwashing.**
+  - 9. **Hothouse.**
+  - 10. **Tipping point.**
+:::
+
+:::data
+- **Atlas of Energy:**
+  - 1. China — **10 Gt CO₂.**
+  - 2. USA — **5 Gt.**
+  - 3. India — **2.3 Gt.**
+- **Per capita:**
+  - 1. US — **14 MT.**
+  - 2. China — **7 MT.**
+  - 3. India — **1.78 MT.**
+- India has the **10th rank in the Climate Change Performance Index (CCPI) for 2025** (Germanwatch).
+- 1. The Climate Risk Index (CRI) puts India **7th among the most vulnerable** countries.
+- 2. **#1 in fatalities, #2 in monetary losses.**
+- **1 person in the USA emits as much as 108 people in Ethiopia.**
+- **Carbon-negative countries:** Bhutan.
+- **IPCC:** for the **1.5°C goal**, GHG emissions must fall **43% by 2030** (from 2019 levels).
+- **MoES Assessment:**
+  - 1. Heatwaves could turn **3–4× more common by 2100.**
+  - 2. Droughts could **double in frequency within the next decade.**
+  - 3. The sea level could climb at **3.3 mm/year.**
+- The healthcare cost of climate change: **8.5% of GDP**.
+- **ILO:** productivity losses equal **34 million full-time jobs**.
+- Rising seas expose **20% of global assets**.
+:::
+
+:::detail label="Best Practice — Meenangadi Village (KL)"
+  - 1. A panchayat that is carbon-neutral.
+  - 2. A GHG inventory.
+  - 3. **Tree Bank Project** — loans are given against the trees a person plants, with no collateral.
+  - 4. Interest is paid by the panchayat.
+- **Adaptation — NEED**: build the **North European Enclosure Dam**.
+:::
+
+---
+id: GS3-ENVI-0431
+paper: "GS-3"
+subject: "ENVIRONMENT"
+section_group: "Climate Change"
+microtopic: "Global warming, climate change, and international frameworks"
+subtopic: "Climate Change"
+card_title: "NET ZERO"
+card_type: structured
+sections: [introduction, data]
+flags: [format_fixed]
+status: polished
+---
+
+:::introduction
+- **Definition:** Net zero is the point where GHG put into the air are **absorbed back in equal measure**.
+- **India’s net zero deadline:** **2070**.
+- **New NDCs:**
+  - 1. Emission intensity to fall **at least 45%**.
+  - 2. **50% non-fossil fuel energy**.
+  - 3. An added carbon sink of **2.5–3 bn tonnes**.
+- **Steps:**
+  - 1. **OSOWOG.**
+  - 2. **IRIS** (Infrastructure for Resilient Island States).
+  - 3. **CDRI.**
+:::
+
+:::data
+- The net zero year for India: **2070**.
+:::
+
+---
+id: GS3-ENVI-0432
+paper: "GS-3"
+subject: "ENVIRONMENT"
+section_group: "Climate Change"
+microtopic: "Global warming, climate change, and international frameworks"
+subtopic: "Climate Change"
+card_title: "LT-LEDS (Long-Term Low Emission Development Strategy)"
+card_type: structured
+sections: [introduction]
+flags: []
+status: polished
+---
+
+:::introduction
+- It sets out the path to **net zero by 2070**:
+- 1. **Low carbon electricity:** 50% from non-fossil sources; RPOs; nuclear capacity up **3× by 2032**.
+- 2. **Transport:** 20% ethanol blending; **railways net zero by 2030**.
+- 3. **Urban efficiency:** via the National Urban Policy Framework.
+- 4. **Innovation and low emission industry:** Green H₂; National Mission for Enhanced Energy Efficiency.
+- 5. **CO₂ removal:** through **CCUS**.
+- 6. **Forest cover:** NDC target — **2.5–3 bn tonnes CO₂ equivalent by 2030**; Green India Mission.
+- 7. **Economic and financial:** low-carbon strategies for business.
+:::
+
+---
+id: GS3-ENVI-0433
+paper: "GS-3"
+subject: "ENVIRONMENT"
+section_group: "Climate Change"
+microtopic: "Global warming, climate change, and international frameworks"
+subtopic: "Climate Change"
+card_title: "AGRICULTURE & CLIMATE CHANGE"
+card_type: structured
+sections: [introduction, data]
+flags: []
+status: polished
+---
+
+:::introduction
+- Farming produces **18% of GHG emissions**.
+- Irrigation alone takes **70% of the energy used in agriculture**.
+- Per the **Economic Survey 2018**, climate change could cut farmer incomes by **15–18%** in irrigated areas and **20–25%** in unirrigated ones.
+- **GM Crops context:**
+  - 1. Only **29/170 countries** grow GM crops.
+  - 2. **90% of the area lies in 5 countries** (USA, Canada, Brazil, Argentina, India).
+  - 3. India holds the **5th largest area** under GM cultivation — **11 mn ha**.
+:::
+
+:::data
+- Farming’s share of GHG emissions: **18%**.
+- Climate change (CC) may cut farm incomes by **15–25%**.
+:::
+
+---
+id: GS3-ENVI-0434
+paper: "GS-3"
+subject: "ENVIRONMENT"
+section_group: "Climate Change"
+microtopic: "Global warming, climate change, and international frameworks"
+subtopic: "Climate Change"
+card_title: "CARBON TRADING MARKET"
+card_type: structured
+sections: [introduction, conclusion]
+flags: [format_fixed]
+status: polished
+---
+
+:::introduction
+- **Definition:** A market-based way to cut GHG emissions — industries get an **economic reason** to keep their emissions down.
+- **Issues:**
+  - 1. Double counting.
+  - 2. Poor transparency in the market.
+  - 3. **Greenwashing.**
+- **India:**
+  - 1. **REC (Renewable Energy Certificates)**.
+  - 2. **Energy Saving Certificates** under **PAT (Perform Achieve Trade)**.
+:::
+
+:::conclusion
+India should shift step by step from **PAT to a Cap and Trade** system.
+:::
+
+---
+id: GS3-ENVI-0435
+paper: "GS-3"
+subject: "ENVIRONMENT"
+section_group: "Climate Change"
+microtopic: "Global warming, climate change, and international frameworks"
+subtopic: "IPCC Reports"
+card_title: "IPCC REPORT — Key Findings"
+card_type: structured
+sections: [introduction, data, conclusion]
+flags: []
+status: polished
+---
+
+:::introduction
+- Yearly emissions in **2010–19 were higher than in any decade before** — but the speed of growth has come down.
+- The **urban share** of world emissions keeps rising.
+- **Suggestions:**
+  - 1. Place mitigation within the **wider development context**.
+  - 2. Form **equitable partnerships** — civil society, political actors, businesses and youth.
+  - 3. Avoid **Maladaptation** — through inclusive planning, biodiversity and autonomous adaptation.
+  - 4. Work toward **climate resilient development**.
+- **Impact on food production:**
+  - 1. **CC affects 69% of Indian marine fisheries**.
+  - 2. Rice output could fall **10–30%**.
+  - 3. Maize output could fall **25–70%**.
+:::
+
+:::data
+- **2019 — India:** **4 mn disaster-induced displacements**.
+- Rice:
+  - 1. **10–30%** decline.
+  - 2. Maize: **25–70%** decline.
+:::
+
+:::conclusion
+**"A brief and rapidly closing window of opportunity to secure a liveable and sustainable future for all."**
+:::
+
+---
+id: GS3-ENVI-0436
+paper: "GS-3"
+subject: "ENVIRONMENT"
+section_group: "Climate Change"
+microtopic: "Global warming, climate change, and international frameworks"
+subtopic: "UNFCCC"
+card_title: "Climate Agreements & UNFCCC"
+card_type: structured
+sections: [quote, introduction, examples, conclusion, image]
+flags: [has_image]
+status: polished
+---
+
+:::quote
+"Climate action is not charity—it is enlightened self-interest."
+:::
+
+:::introduction
+Through its **Panchamrit pledges**, its role in **COPs** and the **LiFE Mission**, India is pointing toward **“pro-planet lifestyles”**. Its climate diplomacy stands for **climate justice for the Global South**.
+:::
+
+:::examples
+- The **International Solar Alliance** took shape with India as a co-leader, alongside the **CEM missions**.
+- Schools and colleges — more than **1 lakh+** of them — now run LiFE campaigns.
+- A **45% emissions intensity cut** was added when the **INDCs** were updated.
+:::
+
+:::conclusion
+In the decades to come, low-carbon growth must stay at the heart of India’s **development-climate alignment**.
+:::
+
+:::image
+https://pub-cfb8b9095d7d4914990dbb6f73afeb92.r2.dev/syllabus_hierarchy/gs3/images/diagram_p23.png
+:::
+
+---
+id: GS3-ENVI-0437
+paper: "GS-3"
+subject: "ENVIRONMENT"
+section_group: "Climate Change"
+microtopic: "Global warming, climate change, and international frameworks"
+subtopic: "UNFCCC"
+card_title: "CLIMATE JUSTICE"
+card_type: structured
+sections: [introduction, data]
+flags: []
+status: polished
+---
+
+:::introduction
+- **Pakistan floods** — the bill crossed **$30 billion**, and **1,700 casualties** were counted.
+- **58 climate-vulnerable countries** — together they cause **5% of global emissions**.
+:::
+
+:::data
+- Pakistan floods: a cost of **more than $30 billion**, with **1,700 casualties**.
+- The **58 vulnerable countries** put out **5% of emissions**.
+:::
+
+---
+id: GS3-ENVI-0438
+paper: "GS-3"
+subject: "ENVIRONMENT"
+section_group: "Climate Change"
+microtopic: "Global warming, climate change, and international frameworks"
+subtopic: "UNFCCC"
+card_title: "COP 27 — Sharm El-Sheikh"
+card_type: structured
+sections: [introduction]
+flags: []
+status: polished
+---
+
+:::introduction
+- **Sharm El-Sheikh Implementation Plan:**
+- 1. A breakthrough on **L&D** (Loss and Damage).
+- 2. A proposal to cover the whole population with the **EWS**.
+- 3. **FAST** — Food and Agriculture for Sustainable Transformation.
+- 4. **Koronivia Joint Work for Agriculture**.
+- 5. **ENACT** — Enhancing Nature-based Solutions for Accelerated Climate Transformation.
+- 6. **Mangrove Breakthrough** — protect **15 mn ha by 2030**.
+- 7. Called the **"African COP"**.
+- **Contentions:**
+  - 1. No promise to phase out all fossil fuels.
+  - 2. Climate finance falls short.
+  - 3. L&D still lacks clarity.
+  - 4. Greenwashing.
+  - 5. Fossil fuel lobby.
+- **Indian Concerns:**
+  - 1. A gap in equity and climate justice.
+  - 2. The global carbon budget keeps shrinking.
+  - 3. Development needs of developing countries.
+  - 4. **CBAM (discriminatory).**
+  - 5. Scope of mitigation in agriculture.
+  - 6. A shortage of climate finance.
+:::
+
+---
+id: GS3-ENVI-0439
+paper: "GS-3"
+subject: "ENVIRONMENT"
+section_group: "Climate Change"
+microtopic: "Global warming, climate change, and international frameworks"
+subtopic: "UNFCCC"
+card_title: "CLIMATE FINANCE"
+card_type: structured
+sections: [introduction, data]
+flags: []
+status: polished
+---
+
+:::introduction
+- **Definition:** Funding from local, national or transnational sources — public, private and alternative — for **climate change mitigation and adaptation**.
+- **Keywords:**
+  - 1. Carbon leakage.
+  - 2. Coal cess.
+  - 3. **CBAM by EU.**
+  - 4. CBDR.
+  - 5. Zero-sum game.
+- **Efforts:**
+  - 1. **GEF.**
+  - 2. **GCF.**
+  - 3. **Adaptation Fund.**
+  - 4. **Catastrophe bonds.**
+- **RBI Deputy Governor suggestions:**
+- Set up **GIIT** — Green Infrastructure Investment Trust (on the lines of REIT/InvIT).
+- A taxonomy for **green finance** so that greenwashing can be avoided.
+- Expert input to judge **climate risks** in green loan portfolios.
+:::
+
+:::data
+- Developing countries will need **$70–100 bn/yr** for adaptation (2010–2050).
+- **Copenhagen Accord:** **$100 bn p.a. by 2020** — but **under 2% of the promised funds** arrived in the last 10 years.
+- India will need **$10 trillion** of investment to reach net zero by 2070.
+- Opportunities:
+  - 1. **Every $1 invested brings a $4 return.**
+  - 2. **65 mn new green jobs** could be created.
+- **3/4th** of adaptation projects show no direct correlation.
+:::
+
+---
+id: GS3-ENVI-0440
+paper: "GS-3"
+subject: "ENVIRONMENT"
+section_group: "Conservation & Ecosystems"
+microtopic: "Conservation and environmental impact assessment"
+subtopic: "Biodiversity"
+card_title: "Biodiversity Conservation"
+card_type: structured
+sections: [quote, introduction, examples, conclusion]
+flags: []
+status: polished
+---
+
+:::quote
+"We do not inherit the Earth from our ancestors; we borrow it from our children."
+:::
+
+:::introduction
+Through the **Wildlife Protection (Amendment) Act, eco-sensitive zones and corridor connectivity**, India's conservation thinking has moved to **“coexistence over conflict”**. This is a basic principle of its ecological governance.
+:::
+
+:::examples
+- **98+ Eco-Sensitive Zones** stand notified around protected areas.
+- After **70+ years** of extinction, **Project Cheetah** has rewilded the species.
+- Riverine and forest corridors are being linked under the **Kaziranga landscape project**.
+:::
+
+:::conclusion
+For biodiversity gains that last, conservation must combine **community stewardship with scientific planning**.
+:::
+
+---
+id: GS3-ENVI-0441
+paper: "GS-3"
+subject: "ENVIRONMENT"
+section_group: "Conservation & Ecosystems"
+microtopic: "Conservation and environmental impact assessment"
+subtopic: "Biodiversity"
+card_title: "Forest Cover & CAMPA Funds"
+card_type: structured
+sections: [quote, introduction, examples, conclusion]
+flags: []
+status: polished
+---
+
+:::quote
+"Forests are not just carbon sinks—they are cultural lifelines."
+:::
+
+:::introduction
+India pursues forest conservation through the **State of Forest Reports**, **CAMPA Funds** and afforestation schemes. The idea is a **“green GDP”** balance between development and natural wealth.
+:::
+
+:::examples
+- The latest report puts **24.6% of India's area** under forest.
+- **CAMPA** has been allotted **more than ₹60,000 crore** for compensatory afforestation.
+- **Nagar Van Yojana** has created forests inside cities.
+:::
+
+:::conclusion
+Green cover must grow in **quality, and support local livelihoods**, not just in numbers.
+:::
+
+---
+id: GS3-ENVI-0442
+paper: "GS-3"
+subject: "ENVIRONMENT"
+section_group: "Conservation & Ecosystems"
+microtopic: "Conservation and environmental impact assessment"
+subtopic: "Biodiversity"
+card_title: "BIODIVERSITY"
+card_type: structured
+sections: [quote, introduction, data, conclusion]
+flags: []
+status: polished
+---
+
+:::quote
+"The only thing that displaced more people than war is wildlife conservation." — Mark Dowie
+:::
+
+:::introduction
+- 1. India, a **megadiverse country**, holds **7–8% of all recorded species** on **2.4% of land.**
+- 2. **36 biodiversity hotspots** — India has **4.**
+- **Triple Planetary Crisis:** CC + Pollution (DALY) + Biodiversity loss (**6th mass extinction**).
+- **Amur Falcon Model** — "Predators to Protectors" — awareness drives against poaching.
+- **Millet Sisters Network** — keeps indigenous crop diversity alive.
+- **Evil Quartet:**
+  - 1. **Habitat loss and fragmentation** — CC, desertification, developmental projects.
+  - 2. **Over-exploitation** — extinction (Steller's sea cow); illegal trade.
+  - 3. **Invasive species** — for example, lantana; **10 invasive species in India — damage above ₹8 trillion**.
+  - 4. **Co-extinction.**
+- **ESZ (Eco-Sensitive Zones)** — ecologically fragile areas that ring protected areas, under the **EPA 1986**.
+:::
+
+:::data
+- **IUCN:** **1/3rd of species** face the threat of extinction.
+- **Living Planet Report:** **70% of wildlife populations** have declined since 1970.
+:::
+
+:::conclusion
+**Human survival rests on biodiversity** — the world must work together to meet the **Global Biodiversity Framework** targets.
+:::
+
+---
+id: GS3-ENVI-0443
+paper: "GS-3"
+subject: "ENVIRONMENT"
+section_group: "Conservation & Ecosystems"
+microtopic: "Conservation and environmental impact assessment"
+subtopic: "Biodiversity"
+card_title: "CORAL REEFS"
+card_type: structured
+sections: [introduction, data]
+flags: [format_fixed]
+status: polished
+---
+
+:::introduction
+- **Definition:** Large underwater structures of **calcium carbonate** built from coral skeletons — the **"tropical rainforests of the oceans"**.
+- **Map:** Malvan, Mannar, Kutch, A&N, Lakshadweep.
+- Key bodies:
+  - 1. **ICMAM** (Integrated Coastal and Marine Area Management).
+  - 2. **INCOIS** — Coral Bleaching Alert System.
+  - 3. **BioRock.**
+  - 4. **Reefwatch.**
+- **Best Practice:** **Cryomesh** technology for coral restoration.
+:::
+
+:::data
+- 1. **30% of corals** are found in India.
+- 2. The livelihoods and cultural identity of **50 crore people** rest on corals.
+- The **6th Status of the Corals of the World Report** says **14% of coral reefs have been lost since 2010**.
+:::
+
+---
+id: GS3-ENVI-0444
+paper: "GS-3"
+subject: "ENVIRONMENT"
+section_group: "Conservation & Ecosystems"
+microtopic: "Conservation and environmental impact assessment"
+subtopic: "Biodiversity"
+card_title: "WESTERN GHATS"
+card_type: structured
+sections: [introduction]
+flags: []
+status: polished
+---
+
+:::introduction
+- A **UNESCO World Heritage Site** along India's western coast, known for rich biodiversity and unique ecosystems.
+- **Gadgil Committee:** recommended **100% of it as ESA** (Ecologically Sensitive Area).
+- **Kasturirangan Panel:** recommended **37% as ESA**.
+:::
+
+---
+id: GS3-ENVI-0445
+paper: "GS-3"
+subject: "ENVIRONMENT"
+section_group: "Conservation & Ecosystems"
+microtopic: "Conservation and environmental impact assessment"
+subtopic: "EIA"
+card_title: "EIA & Eco-Sensitive Zones"
+card_type: structured
+sections: [quote, introduction, examples, conclusion, image]
+flags: [has_image]
+status: polished
+---
+
+:::quote
+"Environment regulation is not anti-growth—it is pro-survival."
+:::
+
+:::introduction
+Through its **EIA notifications**, **CRZ rules** and **eco-zonal buffers**, India takes a calibrated approach to development. The idea: **“green clearance, not green compromise”** in project governance.
+:::
+
+:::examples
+- Revised **CRZ norms** allow coastal tourism within ecological safeguards.
+- The online **PARIVESH portal** has made EIA clearances faster while keeping the scrutiny.
+- Over **200 projects** were modified on the basis of ESZ impact assessments.
+:::
+
+:::conclusion
+**EIAs** must be **transparent and science-led** everywhere, not just in a few cases.
+:::
+
+:::image
+https://pub-cfb8b9095d7d4914990dbb6f73afeb92.r2.dev/syllabus_hierarchy/gs3/images/diagram_p24.png
+:::
+
+---
+id: GS3-ENVI-0446
+paper: "GS-3"
+subject: "ENVIRONMENT"
+section_group: "Conservation & Ecosystems"
+microtopic: "Conservation and environmental impact assessment"
+subtopic: "EIA"
+card_title: "ENVIRONMENTAL LAWS — EIA"
+card_type: structured
+sections: [introduction, data]
+flags: []
+status: polished
+---
+
+:::introduction
+- **Definition:**
+  - 1. A process/study that **predicts the impact** a proposed project will have on the environment.
+  - 2. It stops approval when the impact has not been considered.
+  - 3. It compares alternatives so that harm stays minimal.
+- **Flow:** Screening → Scoping → Impact Analysis → Mitigation → Draft EIA Report → **Public Hearing** → Revision and Approval → Implementation → Monitoring.
+- **Negative Examples:**
+  - 1. LG Polymers — ran for decades with no EIA.
+  - 2. Vadvan Port EIA — considered **only 1 season's data**.
+- **Kasturirangan Committee:**
+  - 1. GRM for violation compliance.
+  - 2. Capacity building.
+  - 3. No activity in ESZ.
+- **Way Forward:** **SEA (Strategic Environment Assessment)**.
+:::
+
+:::data
+- Faulty EIA lies behind **41% of the cases** in the NGT.
+:::
+
+---
+id: GS3-ENVI-0447
+paper: "GS-3"
+subject: "ENVIRONMENT"
+section_group: "Conservation & Ecosystems"
+microtopic: "Conservation and environmental impact assessment"
+subtopic: "Environment"
+card_title: "ENVIRONMENT — Importance"
+card_type: structured
+sections: [introduction]
+flags: []
+status: polished
+---
+
+:::introduction
+- **Highly productive** — it supports **Biodiversity** and gives shelter to many species.
+- Works as a **carbon sink**.
+- **Regulating services:** purification, micro climate, control of soil and coastal erosion, **biogeochemical cycles and nutrient recycling**, disease regulation.
+- **Provisioning services:** fuelwood, local economy — **Fisheries, eco-tourism**.
+- **Cultural services:** aesthetic, recreational, spiritual, tribal identity.
+- Serves as **natural barriers** against disasters.
+- Functions as a **Bioindicator** of ecosystem health.
+:::
+
+---
+id: GS3-ENVI-0448
+paper: "GS-3"
+subject: "ENVIRONMENT"
+section_group: "Conservation & Ecosystems"
+microtopic: "Conservation and environmental impact assessment"
+subtopic: "Environment"
+card_title: "ENVIRONMENT — Challenges (Threats)"
+card_type: structured
+sections: [introduction]
+flags: []
+status: polished
+---
+
+:::introduction
+- **Natural Threats:** Cyclone, Forest fire, Floods, **El Niño / Land use change**.
+- **Manmade Threats:**
+  - 1. **Deforestation** — land use change / encroachment.
+  - 2. **Habitat destruction** from **MATTIE** — Mining, Agri, Transport, Tourism, Industry, HEP.
+  - 3. **Unsustainable tourism**.
+  - 4. **Waste dumping / pollution** — agri run-off; industry; sewage; municipal solid waste; plastic.
+  - 5. **Unsustainable urbanisation** — population explosion, consumerism, concretisation, linear economy.
+  - 6. **Tragedy of commons / over-harvesting**.
+  - 7. **Climate change**.
+  - 8. **Invasive species**.
+:::
+
+---
+id: GS3-ENVI-0449
+paper: "GS-3"
+subject: "ENVIRONMENT"
+section_group: "Conservation & Ecosystems"
+microtopic: "Conservation and environmental impact assessment"
+subtopic: "Environment"
+card_title: "ENVIRONMENT — Impact (All Spheres)"
+card_type: structured
+sections: [introduction]
+flags: []
+status: polished
+---
+
+:::introduction
+- **Hydrosphere impacts:**
+  - Surface water: **eutrophication, dead zones, contamination**.
+  - Groundwater: **depletion**.
+  - Open oceans: **sea level rise, acidification, de-oxygenation, temperature rise, stratification, pollution, increased cyclones, AMOC disruption**.
+  - Coastal: **receding/emerging coasts, saltwater intrusion**.
+- **Atmosphere impacts:**
+  - Extreme weather events, **global warming**, heat islands, **acid rain**, smog, **air pollution / AQI**.
+- **Biosphere impacts:**
+  - **6th mass extinction**, man-animal conflict, changing migration patterns, pest attacks, **bio-magnification and bio-accumulation**, co-extinction.
+- **Lithosphere impacts:**
+  - **Desertification**, erosion, salinity, soil moisture depletion.
+- **Anthroposphere impacts:**
+  - Food security, loss of livelihood, disaster (GLOF), pandemics/diseases, permafrost, refugee crisis.
+  - **Social — PHEE WASH**, agri distress, loss of productivity, human health, water security.
+:::
+
+---
+id: GS3-ENVI-0450
+paper: "GS-3"
+subject: "ENVIRONMENT"
+section_group: "Conservation & Ecosystems"
+microtopic: "Conservation and environmental impact assessment"
+subtopic: "Environment"
+card_title: "ECOSYSTEM — General Remedies"
+card_type: structured
+sections: [introduction]
+flags: []
+status: polished
+---
+
+:::introduction
+- **Remedy for all ecosystems:**
+- Policy:
+  - 1. **Paris Agreement.**
+  - 2. **Landscape approach.**
+  - 3. **Secure Himalayas.**
+- Human-centred: **ESZ, eco-tourism, community participation, Kasturirangan Committee, sustainable agriculture**.
+- Technology: **drones, satellite monitoring, EWS**.
+:::
+
+---
+id: GS3-ENVI-0451
+paper: "GS-3"
+subject: "ENVIRONMENT"
+section_group: "Conservation & Ecosystems"
+microtopic: "Conservation and environmental impact assessment"
+subtopic: "Environment"
+card_title: "FORESTS"
+card_type: structured
+sections: [quote, introduction, data]
+flags: []
+status: polished
+---
+
+:::quote
+"We have a choice — collective action or collective suicide." — Antonio Guterres
+:::
+
+:::introduction
+- **FSI:** forest cover stands at **21.7%**, against the **NFP 1988** target of **33%**.
+- **3 lakh ha** of forest land was diverted over 15 years — mostly for **mining, roads, irrigation**.
+- **Best Practices:**
+- **Eco-feminism:** the Piplanatri model.
+- **JFM (Joint Forest Management)** — Maldharis.
+:::
+
+:::data
+- The Earth lost **45%** of its original forest within the last century.
+- **UNFCCC:** agriculture drives **80% of deforestation** in tropical countries.
+- Forest cover per FSI: **21.7%**, against the **33%** NFP target.
+:::
+
+---
+id: GS3-ENVI-0452
+paper: "GS-3"
+subject: "ENVIRONMENT"
+section_group: "Conservation & Ecosystems"
+microtopic: "Conservation and environmental impact assessment"
+subtopic: "Environment"
+card_title: "ANTARCTICA"
+card_type: structured
+sections: [introduction, data]
+flags: []
+status: polished
+---
+
+:::introduction
+- **Antarctica Treaty 1959:**
+  - 1. It keeps the continent free of military activity, nuclear weapons and territorial claims.
+  - 2. **Scientific research allowed.**
+- India's own domestic law: the **Indian Antarctica Bill 2021**.
+- Indian research stations: **Dakshin Gangotri, Maitri, Bharati**.
+:::
+
+:::data
+- **90% of the world's ice** and **70% of its freshwater** sit in Antarctica.
+:::
+
+---
+id: GS3-ENVI-0453
+paper: "GS-3"
+subject: "ENVIRONMENT"
+section_group: "Conservation & Ecosystems"
+microtopic: "Conservation and environmental impact assessment"
+subtopic: "Environmental Laws"
+card_title: "ENVIRONMENTAL LAWS — FRA (Forest Rights Act)"
+card_type: structured
+sections: [introduction, conclusion]
+flags: []
+status: polished
+---
+
+:::introduction
+- **2023 Amendment:**
+- 1. It gives an **objective definition** of forest.
+- 2. **No prior approval** needed for **strategic/security/defence projects** within **100 km of the international border**.
+- 1. The act, as it stands, creates **hurdles in the way of development.**
+- 2. Even so, any change must respect the **symbiotic relationship between forest, biodiversity and stakeholders.**
+:::
+
+:::conclusion
+Any change will work only if it respects the symbiosis of **forest, biodiversity and stakeholders**.
+:::
+
+---
+id: GS3-ENVI-0454
+paper: "GS-3"
+subject: "ENVIRONMENT"
+section_group: "Conservation & Ecosystems"
+microtopic: "Conservation and environmental impact assessment"
+subtopic: "Environmental Laws"
+card_title: "ENVIRONMENTAL LAWS — NGT (National Green Tribunal)"
+card_type: structured
+sections: [introduction]
+flags: [format_fixed]
+status: polished
+---
+
+:::introduction
+- The **PoNJ** (Principle of Natural Justice) is what the tribunal stands on.
+- 1. In the **Ennore Oil Spill**, **more than 1 lakh fishermen** were hit.
+- 2. The **NGT made the shipping company pay ₹240 crore as compensation.**
+- Criticisms:
+  - 1. **Green hurdle.**
+  - 2. **Selective adjudication.**
+:::
+
+---
+id: GS3-ENVI-0455
+paper: "GS-3"
+subject: "ENVIRONMENT"
+section_group: "Conservation & Ecosystems"
+microtopic: "Conservation and environmental impact assessment"
+subtopic: "Environmental Laws"
+card_title: "ENVIRONMENTAL LAWS — PPV&FR Act"
+card_type: structured
+sections: [introduction]
+flags: []
+status: polished
+---
+
+:::introduction
+The **PepsiCo case** is the landmark instance here — it set farmers' rights against corporate IP.
+:::
+
+---
+id: GS3-ENVI-0456
+paper: "GS-3"
+subject: "ENVIRONMENT"
+section_group: "Conservation & Ecosystems"
+microtopic: "Conservation and environmental impact assessment"
+subtopic: "Environmental Laws"
+card_title: "ENVIRONMENTAL LAWS — WPA (Wildlife Protection Act)"
+card_type: structured
+sections: [introduction]
+flags: []
+status: polished
+---
+
+:::introduction
+- India has been the **cradle of wildlife** since **IVC** times — people worshipped wild animals as gods and goddesses.
+- **WPA 1972** came into being to **preserve and promote wildlife** of India.
+- Proposed amendments remain under consideration.
+:::
+
+---
+id: GS3-ENVI-0457
+paper: "GS-3"
+subject: "ENVIRONMENT"
+section_group: "Conservation & Ecosystems"
+microtopic: "Conservation and environmental impact assessment"
+subtopic: "Environmental Laws"
+card_title: "ENVIRONMENTAL LAWS — BDA (Biological Diversity Act)"
+card_type: structured
+sections: [introduction, conclusion]
+flags: []
+status: polished
+---
+
+:::introduction
+- The Act was enacted to **conserve** India's biodiversity and allow its **sustainable use**, with **benefit sharing**. This aligns with the **CBD** and its protocols — **Cartagena (biosafety)** and **Nagoya (ABS)**.
+- **Issues:**
+  - 1. Commerce gets priority over conservation.
+  - 2. The Act allows too many exceptions.
+  - 3. **ABS** — the **Divya Pharmacy** case controversy.
+:::
+
+:::conclusion
+**Biodiversity keeps humanity alive** — countries must therefore act together to turn the **Global Biodiversity Framework** targets into reality.
+:::
+
+---
+id: GS3-ENVI-0458
+paper: "GS-3"
+subject: "ENVIRONMENT"
+section_group: "Conservation & Ecosystems"
+microtopic: "Conservation and environmental impact assessment"
+subtopic: "Sustainable Development"
+card_title: "Role of Tribunals (NGT, FRA)"
+card_type: structured
+sections: [quote, introduction, examples, conclusion]
+flags: []
+status: polished
+---
+
+:::quote
+"Justice delayed in ecology is extinction in slow motion."
+:::
+
+:::introduction
+The **National Green Tribunal** and the **Forest Rights Act** have grown into key institutions that balance ecology with equity. Together they carry forward India's vision of **“Green Governance with Tribal Inclusion.”**
+:::
+
+:::examples
+- Illegal mining near **critical elephant corridors** was stayed by the **NGT**.
+- **1.8 million tribal land titles** now stand recognised under the **FRA**, with livelihood security.
+- Several states faced **NGT** penalties over **solid waste non-compliance**.
+:::
+
+:::conclusion
+Stronger institutional capacity will carry **environmental justice to the last forest-dweller**.
+:::
+
+---
+id: GS3-ENVI-0459
+paper: "GS-3"
+subject: "ENVIRONMENT"
+section_group: "Conservation & Ecosystems"
+microtopic: "Conservation and environmental impact assessment"
+subtopic: "Sustainable Development"
+card_title: "ENVIRONMENT — Solutions"
+card_type: structured
+sections: [introduction, conclusion]
+flags: [format_fixed]
+status: polished
+---
+
+:::introduction
+- **One Health** approach.
+- **Practices (Bottom-up):**
+  - **Government:**
+    - 1. **ESIA**.
+    - 2. Article 48A.
+    - 3. Article 21.
+  - **Individual:**
+    - 1. **5R** (Refuse, Reduce, Reuse, Recycle, Repair).
+    - 2. **LiFE**.
+    - 3. Article 51A.
+  - **Business:**
+    - 1. **SDG 12**.
+    - 2. **Triple Bottom Line** (People, Profit, Planet).
+    - 3. **Pay for Ecosystem Services**.
+    - 4. **ESG**.
+- **Key Principles:**
+  - Policy: **Wise use, Precautionary, Ecocentric**.
+  - Justice: **CBDR-RC, L&D, Absolute Liability, Polluter Pays**.
+  - Corporate: Triple Bottom Line, ESIA, **Access and Benefit Sharing** (fair earth share).
+- **Long-Term Low Carbon Development Strategy (COP 27)** — multi-sector measures for **net zero and climate resilience**.
+:::
+
+:::conclusion
+- **Collective action vs collective suicide** — Antonio Guterres.
+- **Saptrishi — Green Growth**.
+- **Think Global, Act Local**.
+- **Lab to Street**.
+:::
+
+---
+id: GS3-ENVI-0460
+paper: "GS-3"
+subject: "ENVIRONMENT"
+section_group: "Conservation & Ecosystems"
+microtopic: "Conservation and environmental impact assessment"
+subtopic: "Sustainable Development"
+card_title: "SUSTAINABLE DEVELOPMENT"
+card_type: structured
+sections: [quote, introduction, data, conclusion]
+flags: [placeholder_blank]
+status: needs_review
+---
+
+:::quote
+"The greatest threat to our planet is the belief that someone else will save it." — Robert Swan
+:::
+
+:::quote
+"We won't have a society if we destroy the environment." — Margaret Mead
+:::
+
+:::introduction
+- **Sustainable development** means a balanced relationship between **development, social equity and the environment**.
+- At the **UNGA**, India voted to recognise the **right to a clean, healthy and sustainable environment** as a human right.
+- **Triple Emergency**: CC + biodiversity loss + pollution.
+:::
+
+:::data
+- On the **2025 SDG Index**, India ranks **99th out of 167 countries**.
+- India stood **176th among 180 countries** in the **2024 Environment Performance Index**.
+:::
+
+:::conclusion
+- ___ is not just an option but a **necessity for a sustainable future**.
+- **Collective action vs collective suicide** — Antonio Guterres.
+:::
+
+---
+id: GS3-ENVI-0461
+paper: "GS-3"
+subject: "ENVIRONMENT"
+section_group: "Conservation & Ecosystems"
+microtopic: "Conservation and environmental impact assessment"
+subtopic: "Sustainable Development"
+card_title: "MISSION LiFE"
+card_type: structured
+sections: [quote, introduction, data]
+flags: []
+status: polished
+---
+
+:::quote
+"LiFE does not look at which country is in coalition but brings everyone together."
+:::
+
+:::quote
+"Mission LiFE is an important step towards renewed and reimagined multilateralism."
+:::
+
+:::introduction
+- **Objective:** an environmentally conscious way of life, with **"mindful & deliberate" utilisation** replacing "wasteful & mindless" consumption.
+- India leads this **global mass movement**, which nudges both individual and collective action.
+- **Over 80%** of all **RLB and ULB** (rural and urban local bodies) are to become environment-friendly by **2028**.
+- **Change in demand → Change in supply → Change in policy**.
+- **Best Practice:** the solar-powered village of **Modhera**.
+:::
+
+:::data
+- **Over 80%** of **RLB and ULB** (rural and urban local bodies) to become environment-friendly by **2028**.
+:::
+
+---
+id: GS3-ENVI-0462
+paper: "GS-3"
+subject: "ENVIRONMENT"
+section_group: "Conservation & Ecosystems"
+microtopic: "Conservation and environmental impact assessment"
+subtopic: "Sustainable Development"
+card_title: "Template 1: COMMON INTRO/CONCLUSION — Any Topic"
+card_type: detail
+sections: [detail]
+flags: [placeholder_blank]
+status: needs_review
+---
+
+:::detail label="Fill-in-the-Blank"
+- "**___ is not just an option but a necessity for a sustainable future.**"
+- **Collective action vs collective suicide.** — Antonio Guterres
+- **Saptrishi — Green Growth**.
+:::
+
+---
+id: GS3-ENVI-0463
+paper: "GS-3"
+subject: "ENVIRONMENT"
+section_group: "Conservation & Ecosystems"
+microtopic: "Conservation and environmental impact assessment"
+subtopic: "Wetlands"
+card_title: "MANGROVES"
+card_type: structured
+sections: [introduction, data]
+flags: []
+status: polished
+---
+
+:::introduction
+- **Definition:** vegetation that tolerates salt and grows in **intertidal estuaries**.
+- Key initiatives:
+  - 1. **Mangroves for Future**.
+  - 2. **Mangroves Atlas**.
+- **Map:** Sunderbans, A&N, Cauvery, KG basin, Mahanadi basin, Ratnagiri, Goa, Kori Creek, Kutch.
+- **SAMIE Initiative** — **Sustainable Aquaculture in Mangrove Ecosystem**. Mangroves are planted around shrimp ponds, so no fish feed is needed and conservation stays active.
+:::
+
+:::data
+- **ISFR 2019:** mangrove cover in the Indian subcontinent is **~5,000 sq km** (a rise of **1.1%**).
+:::
+
+---
+id: GS3-ENVI-0464
+paper: "GS-3"
+subject: "ENVIRONMENT"
+section_group: "Conservation & Ecosystems"
+microtopic: "Conservation and environmental impact assessment"
+subtopic: "Wetlands"
+card_title: "WETLANDS"
+card_type: structured
+sections: [introduction, data]
+flags: []
+status: polished
+---
+
+:::introduction
+- **Definition (RAMSAR):** submerged lands — marshes, swamps, bogs and fens — usually up to **6m water depth**.
+- India has **7 lakh wetlands**.
+- **Deepor Beel** — **1/3rd of it is encroached**.
+- **Key Principle:** **Wise Use**.
+- **Best Practice:** **Keshopur Maini Community Reserve**.
+- **Way Forward:** wetlands need scientific criteria for identification, a data bank, and cooperative, decentralised efforts.
+:::
+
+:::data
+- **65% of wetlands have disappeared** over the past **100 years**.
+- India's wetland count stands at **7 lakh**.
+:::
+
+---
+id: GS3-ENVI-0465
+paper: "GS-3"
+subject: "ENVIRONMENT"
+section_group: "Pollution & Degradation"
+microtopic: "Environmental pollution and degradation"
+subtopic: "Air Pollution and Related Issues"
+card_title: "Pollution Control & NCAP"
+card_type: structured
+sections: [quote, introduction, examples, conclusion]
+flags: []
+status: polished
+---
+
+:::quote
+"What we breathe and drink today decides who we become tomorrow."
+:::
+
+:::introduction
+India fights pollution in mission mode through the **National Clean Air Programme**, **Namami Gange** and **Soil Health Cards**. The guiding vision: **“right to life is a right to clean environment”**.
+:::
+
+:::examples
+- Within **5 years**, **NCAP cities** brought **PM2.5 down by 25–30%**.
+- Sewerage projects were launched under **Namami Gange** as well.
+- The Soil Health Card scheme has crossed **23 crore+ cards**.
+:::
+
+:::conclusion
+Only **decentralised monitoring** and **changed behaviour** will give pollution control its deep-rooted impact.
+:::
+
+---
+id: GS3-ENVI-0466
+paper: "GS-3"
+subject: "ENVIRONMENT"
+section_group: "Pollution & Degradation"
+microtopic: "Environmental pollution and degradation"
+subtopic: "Air Pollution and Related Issues"
+card_title: "AIR POLLUTION"
+card_type: structured
+sections: [introduction, data]
+flags: [format_fixed]
+status: polished
+---
+
+:::introduction
+- India stands **5th** among the most polluted countries.
+- **WHO:** **14 of the 15** cities ranked most polluted in the world sit in India.
+- **Steps taken:**
+  - 1. NCAP.
+  - 2. CAQM.
+  - 3. EPCA.
+  - 4. Smog towers.
+  - 5. **Fly Ash Management Rules 2016** (only **63%** of India's fly ash gets used).
+- **Best Practices:** the London and Beijing models.
+- **Transport sector:**
+  - 1. The sector emits **23% of CO₂**.
+  - 2. It ranks **3rd** among CO₂-emitting sectors.
+  - 3. Road transport accounts for **90%** of these emissions.
+  - 4. The vehicle fleet should **double to 200 million by 2030**.
+  - 5. Supporting schemes — **FAME, BS-VI**.
+- **Agriculture and livestock:** together **18% of GHG**.
+- **Cities add 60% of GHGs** while generating **70% of GDP**.
+:::
+
+:::data
+- **CSE:** air pollution has cut India's life expectancy by **2.5 years**.
+- As of 2020:
+  - 1. **90% of TPPs** do not meet the sulphur standards.
+  - 2. **More than 51%** do not meet the PM standards.
+:::
+
+---
+id: GS3-ENVI-0467
+paper: "GS-3"
+subject: "ENVIRONMENT"
+section_group: "Pollution & Degradation"
+microtopic: "Environmental pollution and degradation"
+subtopic: "Mining and Erosion"
+card_title: "DESERTIFICATION"
+card_type: structured
+sections: [introduction, data]
+flags: [format_fixed]
+status: polished
+---
+
+:::introduction
+- **Desertification** is the decline in the quality and productivity of land, caused by **climatic variation and human activity**.
+- Key frameworks:
+  - 1. **UNCCD**.
+  - 2. **30×30 target**.
+  - 3. **Bonn Challenge**.
+- Government schemes:
+  - 1. **CAMPA**.
+  - 2. **Green India Mission**.
+  - 3. **Urban Forestry** — the Pune Wajre Forest Model.
+  - 4. **iForest Model**.
+- International initiative: the **Great Green Wall** — Sahel region.
+- **Best Practice:** **Project BOLD / Bamboonomics** — a bamboo oasis on arid and semi-arid lands that supports tribal livelihoods and checks erosion.
+:::
+
+:::data
+- **30% of total land** faces the threat of degradation — **ISRO**.
+- **MoEFCC:** desertification has already cost **2.5% of GDP**.
+- Since the 1850s, land under cultivation has grown **3×**.
+:::
+
+---
+id: GS3-ENVI-0468
+paper: "GS-3"
+subject: "ENVIRONMENT"
+section_group: "Pollution & Degradation"
+microtopic: "Environmental pollution and degradation"
+subtopic: "Mining and Erosion"
+card_title: "LAND SUBSIDENCE"
+card_type: structured
+sections: [introduction]
+flags: []
+status: polished
+---
+
+:::introduction
+- **Definition:** the ground shrinks when underground material moves — a gradual settling or a sudden sinking.
+- The **Mishra Committee 1976** is the key committee on land subsidence.
+- **Best Practice:** the **Vetiver system** to control soil erosion.
+:::
+
+---
+id: GS3-ENVI-0469
+paper: "GS-3"
+subject: "ENVIRONMENT"
+section_group: "Pollution & Degradation"
+microtopic: "Environmental pollution and degradation"
+subtopic: "Solid wastes"
+card_title: "SOLID WASTE MANAGEMENT — General"
+card_type: structured
+sections: [introduction, data]
+flags: [format_fixed]
+status: polished
+---
+
+:::introduction
+- **Waste generated:**
+  - 1. **65 MT/year** at present.
+  - 2. It could touch **165 MT by 2030**.
+- Of **63 MT**:
+  - 1. **43 MT** gets collected.
+  - 2. A mere **13 MT** gets treated.
+- Principle: **Waste to Wealth**.
+- **Best Practices (Waste Water):**
+  - 1. Kolkata Sewage-Fed Aquaculture.
+  - 2. Avadi Sewage Plant (Tamil Nadu).
+:::
+
+:::data
+- 1. **65 MT/yr** is generated.
+- 2. The **2030** projection is **165 MT**.
+:::
+
+---
+id: GS3-ENVI-0470
+paper: "GS-3"
+subject: "ENVIRONMENT"
+section_group: "Pollution & Degradation"
+microtopic: "Environmental pollution and degradation"
+subtopic: "Solid wastes"
+card_title: "E-WASTE"
+card_type: structured
+sections: [introduction, data]
+flags: [format_fixed]
+status: polished
+---
+
+:::introduction
+- **Definition:** covers every item of **electric and electronic equipment (EEE)** and its parts once discarded.
+- 1. India holds the **3rd spot** among e-waste generators, producing roughly **4.1 MT in 2023**.
+- 2. Formal collection and recycling stays below **25%**.
+- **Best Practices:**
+  - 1. **LIAM** (Apple recycling robot).
+  - 2. **EU Right to Repair**.
+  - 3. **Bhopal eWaste Clinic**.
+  - 4. **EPR** (Extended Producer Responsibility).
+- Under the **Basel Convention**, the **transboundary movement** of hazardous waste — e-waste included — is controlled.
+:::
+
+:::data
+- As an e-waste generator, India ranks **3rd** — roughly **4.1 MT in 2023**.
+- Formal channels collect and recycle under **25%**.
+:::
+
+---
+id: GS3-ENVI-0471
+paper: "GS-3"
+subject: "ENVIRONMENT"
+section_group: "Pollution & Degradation"
+microtopic: "Environmental pollution and degradation"
+subtopic: "Solid wastes"
+card_title: "PLASTIC POLLUTION"
+card_type: structured
+sections: [introduction, data]
+flags: []
+status: polished
+---
+
+:::introduction
+- 1. India's plastic waste output is **9.3 MT/year**.
+- 2. **43%** of it comes from **Single-Use Plastic (SUP)**.
+- Recycling covers only **30%**.
+- China and Malaysia no longer take **illegal plastic imports** from the USA, Canada and the UK.
+- **Steps:**
+  - 1. Plastic Waste Management Amendment Rules 2021.
+  - 2. India Plastic Challenge Hackathon 2021.
+  - 3. **Puneet Sagar Abhiyan**.
+  - 4. **EPR on plastic packaging**.
+- **Best Practices:**
+  - 1. Andhra Pradesh — Rice for Plastic.
+  - 2. Ireland — the **Plas Tax**.
+  - 3. Precycling.
+  - 4. South Korea — reusables.
+  - 5. Madhya Pradesh — **Bhartan Bhandar**.
+  - 6. **Wayanad** — plastic used in road construction.
+  - 7. **Main Indoori Jholadhari**.
+:::
+
+:::data
+- 1. Plastic waste in India: **9.3 MT/yr**.
+- 2. Share of **SUP**: **43%**.
+- **OECD Global Plastics Outlook:** plastic waste will go up **3× by 2060**.
+:::
+
+---
+id: GS3-ENVI-0472
+paper: "GS-3"
+subject: "ENVIRONMENT"
+section_group: "Pollution & Degradation"
+microtopic: "Environmental pollution and degradation"
+subtopic: "Solid wastes"
+card_title: "CIRCULAR ECONOMY"
+card_type: structured
+sections: [introduction, conclusion]
+flags: []
+status: polished
+---
+
+:::introduction
+- **Definition:** products here are designed for **durability, reuse and recyclability**.
+- **6R Framework:** **Reduce, Reuse, Recycle, Refurbish, Recover, Repair**.
+- **Government Steps:**
+  - 1. Vehicle Scrappage Policy.
+  - 2. Right to Repair Bill.
+  - 3. A push from the **National Productivity Council**.
+  - 4. **India-Australia Circular Economy Hackathon (I-ACE)**.
+  - 5. Digital India (with an e-waste recycling component).
+- **International:**
+  - 1. China has a **Circular Economy Promotion Law**.
+  - 2. Germany and Japan follow binding principles.
+  - 3. **SDG 12**.
+:::
+
+:::conclusion
+The **"Take, Make, Dispose"** mindset must give way to the **6R** approach.
+:::
+
+---
+id: GS3-ENVI-0473
+paper: "GS-3"
+subject: "ENVIRONMENT"
+section_group: "Pollution & Degradation"
+microtopic: "Environmental pollution and degradation"
+subtopic: "Solid wastes"
+card_title: "BIO-MEDICAL WASTE"
+card_type: structured
+sections: [introduction, data]
+flags: []
+status: polished
+---
+
+:::introduction
+- **Definition:**
+  - 1. Human and animal anatomical waste.
+  - 2. Treatment apparatus such as needles and syringes.
+- **Colour-coded categorisation:** Blue, Red, Yellow, White.
+- It is governed by the **BMW Rules 2016**.
+- In general, only **15% of BMW is hazardous**.
+:::
+
+:::data
+- **Drastic increase during COVID** — **CPCB** counted **20 T/day → 200 T/day**.
+:::
+
+---
+id: GS3-ENVI-0474
+paper: "GS-3"
+subject: "ENVIRONMENT"
+section_group: "Pollution & Degradation"
+microtopic: "Environmental pollution and degradation"
+subtopic: "Water Pollution and Related Issues"
+card_title: "COASTAL ECOSYSTEMS & EROSION"
+card_type: structured
+sections: [introduction, data, conclusion]
+flags: []
+status: polished
+---
+
+:::introduction
+- Indian coastline:
+  - 1. **7,500 km** plus **1,200+ islands**.
+  - 2. **1/5th of the population** and **3 metro cities**.
+- **Coastal Erosion** is the wearing away of land by high winds, drainage, wave action and tidal currents.
+- The **Kerala Coastal Zone Management Project** takes up integrated coastal zone management for erosion control, sustainable development and conservation.
+- Technology: **geo-textiles** for stabilisation.
+- **Climate Action Plan:** a detailed framework to measure, plan and reduce **GHG emissions**, along with preventive measures.
+- The **BMC** is drafting the **Mumbai Climate Action Plan (MCAP)**.
+- Government steps:
+  - 1. **NAPCC**.
+  - 2. **CRZ**.
+  - 3. **National Coastal Mission**.
+:::
+
+:::data
+- As per the **MoEFCC**, **40%** of the **Indian** coastline faces erosion — high, medium or low.
+:::
+
+:::conclusion
+**Climate change** strikes coastal areas with **strategic, economic and political repercussions**.
+:::
+
+---
+id: GS3-ENVI-0475
+paper: "GS-3"
+subject: "ENVIRONMENT"
+section_group: "Pollution & Degradation"
+microtopic: "Environmental pollution and degradation"
+subtopic: "Water Pollution and Related Issues"
+card_title: "WATER — General Overview"
+card_type: structured
+sections: [quote, introduction, data]
+flags: []
+status: polished
+---
+
+:::quote
+"We never know the worth of water until the well is dry." — Thomas Fuller
+:::
+
+:::introduction
+- Of the world's freshwater, India holds only **4%**, yet it holds **17% of the population**.
+- **Per capita availability:**
+  - 1. 1951 — **5177 m³**.
+  - 2. 2011 — **1545 m³**.
+  - 3. 2030 projected — **1300 m³**.
+- **70% of water is contaminated** with heavy metals.
+- Pakistan — **domestic violence** has grown with water insecurity and heat-led aggression.
+- Sahel — conflicts arise as **water stress** reduces the land's fertility.
+- Social issue: the **water wives** phenomenon.
+- **Government steps:**
+  - 1. Jal Shakti Mission.
+  - 2. MGNREGA (recharging aquifers).
+  - 3. **Atal Bhujal**.
+  - 4. River Interlinking.
+  - 5. Water Act.
+:::
+
+:::data
+- **NITI Aayog:** supply will fall short of demand by **2030**.
+:::
+
+---
+id: GS3-ENVI-0476
+paper: "GS-3"
+subject: "ENVIRONMENT"
+section_group: "Pollution & Degradation"
+microtopic: "Environmental pollution and degradation"
+subtopic: "Water Pollution and Related Issues"
+card_title: "GROUNDWATER"
+card_type: structured
+sections: [introduction, data]
+flags: []
+status: polished
+---
+
+:::introduction
+- **World Bank:** **0.4 m** of groundwater is lost in India every year.
+- It supplies **80% of rural domestic water needs**; for urban water needs, the share is **50%**.
+- Agriculture takes **90%** of it.
+- **Government efforts:** **CGWB / CGWA**.
+:::
+
+:::data
+- **World Bank:** India's groundwater table drops **0.4 m** each year.
+:::
