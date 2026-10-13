@@ -396,3 +396,40 @@ Append to this file after every batch. Format: card id | issue.
 
 ### Term-list / fixed-list cards with accepted similarity (0.72-0.78)
 - 0497 (definition + 4-item effects list), 0498/0499 (definition + scheme names), 0508 (4Ps strategy list), 0512 (border facts).
+
+## Batch 19 (cards 517-536: Internal Security) — needs_review / flags
+
+### Statuses
+- 15 polished; 3 untouched (quote-only/template cards 0517, 0523, 0530, 0534 — 4 cards); 2 needs_review: 0533, 0536 (placeholder "__" blanks left untouched).
+- Net polished content cards this batch: 14.
+
+### Expansions made (please confirm)
+- 0524 "RJ" expanded to "Rajasthan (RJ) Protection from Lynching Bill 2019".
+- 0525 "PB" expanded to "Punjab" (Mansa Village).
+- 0533 "w.r.t." expanded to "in relation to".
+- 0536 "Econ" → "Economy", "intl" → "international" in the SECURITY mnemonic.
+
+### Kept as written (please confirm)
+- 0536 "Infra" and "Govt" kept (capitalized tokens; "Infra" not expanded, "Whole of Govt" kept inside the bold catchphrase).
+- 0528 SAMADHAN doctrine letter-lines kept nearly verbatim (mnemonic; 0.86 similarity accepted, same kind as 0482).
+- 0531 "**SUSI**" — unclear shorthand (likely Sovereignty, Unity and Integrity of India); kept as written, please confirm.
+- 0535 "Bhartiya" spellings kept as written (some official texts use "Bharatiya").
+- 0521 "NCRB 2024" year kept as written (NCRB's latest published report year may differ).
+- 0529/0531 "Antonio Guterres quote on underdevelopment" cross-reference lines kept as pointers.
+
+### Quote attributions (flag only; quotes never edited)
+- 0528 quote merges a statement with "Tribal Panchsheel principles" and is attributed to Antonio Guterres — please verify wording/attribution.
+- 0520 "A secure cyberspace is non-negotiable in a digital republic." (no attribution).
+- 0535 conclusion quote attributed to "MoHA" — kept exactly.
+
+### Facts or numbers worth checking (kept as written)
+- 0518 "7,517 km coastline; >1,200 islands".
+- 0520 "6-hour breach reporting"; "300+ officers trained"; "Data Fiduciary & Principal" pairing kept.
+- 0521 "India 3rd most vulnerable"; "NCRB 17% surge, 1 lakh cases, 72% financial fraud".
+- 0525 "Operation Samudragupta ₹15,000 crore (NCB + Navy, Arabian Sea)".
+- 0526 "IMF: 2-5% of world GDP laundered".
+- 0528 "53-55% reduction in LWE casualties" (appears in data and conclusion, as in original).
+- 0535 "S.110/S.111; mob lynching 7 years; chargesheet 90 days; judgement 30 days".
+
+### Term-list / fixed-list cards with accepted similarity (0.73-0.86)
+- 0518 data (number line), 0521 data, 0524/0525/0526 (scheme lists), 0528 (SAMADHAN mnemonic), 0529, 0531 conclusion, 0535 (statute lists; conclusion 1.00 = protected MoHA quote).

@@ -96,3 +96,20 @@ Stage Summary:
 - Deliverable: polished/GS3_DISA-INTE_batch18_cards497-516.md.
 - Progress: 360 of 789. Next: batch 19 = 517-536 (all Internal Security, GS3-INTE-).
 - Queue flags: "SL" model name, "UK Chamoli" read as Uttarakhand, CC expanded, Mission Pehal spelling, markup fixes 0498/0499.
+
+---
+Task ID: 6
+Agent: Super Z (main)
+Task: Batch 19 polish (517-536 INTE); push "batch-19". User switched to continuous mode (no per-batch confirmation).
+
+Work Log:
+- Converted 517-536; wrote tools/build_batch19_example.py (all GS3-INTE-).
+- Verify round 1: 0 errors, 24 warnings; round 2: 1 error (0535 "3 new bills" -> "Three" dropped a number token; restored "3") + 14 warnings; fixed 0518 conclusion split + 'International' capital, 0527 long sentence, name checks (Mobile/Joint Task Force/Tech/Good/Infra/Whole of Govt).
+- Final: 0 errors, 11 accepted warnings (SAMADHAN mnemonic 0528 at 0.86, protected MoHA quote 0535 at 1.00, fact/scheme lists 0.73-0.79).
+- Statuses: 14 polished, 2 needs_review (0533, 0536 placeholder blanks), 4 untouched (quote-only 0517/0523/0530, fill-in template 0534).
+- Merged: MERGED_cards157-536.md (380 cards, 0 errors); deleted MERGED_cards157-516.md.
+- PLAN.md/review_queue.md/worklog updated; zipped; pushed "batch-19".
+
+Stage Summary:
+- Progress: 380 of 789. Next: batch 20 = 537-543 (INTE) + 544-556 (ETHI, new prefix GS4-ETHI-).
+- Queue flags: SUSI shorthand, Guterres quote wording, NCRB 2024 year, Bhartiya spelling, RJ/PB expansions.
