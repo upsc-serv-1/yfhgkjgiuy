@@ -461,3 +461,23 @@ Work Log:
 
 Stage Summary:
 - Progress: 773 of 789. Next: batch 40 = cards 141-156 (FINAL 16, Geography), then full merge MERGED_full_1-789.md.
+
+---
+Task ID: 27
+Agent: Super Z (main)
+Task: Batch 40 polish (GS-1 cards 141-156, FINAL) + full merge; push "batch-40". PROJECT COMPLETE.
+
+Work Log:
+- Converted 141-156 (16 cards); wrote tools/build_batch40_example.py.
+- Verify: 0 errors first build, 37 warnings all accepted.
+- 4 needs_review: 0144, 0147, 0148 (same_as_above cross-refs), 0156 (truncated + "Same as above").
+- 0153 broken quote-mark conclusion repaired; "Three ppl" expanded; 0141 "undg" expanded.
+- FULL MERGE: polished/MERGED_full_1-789.md — 789 cards, 0 errors, 772 accepted warnings.
+- PLAN marked PROJECT COMPLETE; review_queue closed with final batch section + completion banner; worklog updated.
+- Zipped download/batches40_final_update.zip; pushed "batch-40".
+
+Stage Summary:
+- PROJECT COMPLETE: 789 of 789 cards polished across 40 batches + pilot.
+- Deliverables: 40 batch files in polished/ + MERGED_full_1-789.md (0 errors) + PLAN.md + review_queue.md + worklog.md + tools.
+- All pushed to GitHub (upsc-serv-1/yfhgkjgiuy) with per-batch commits.
+- Outstanding user actions: review review_queue.md flags (spellings, quote attributions, truncated cards, template/blank cards, same_as_above cross-refs).
