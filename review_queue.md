@@ -682,3 +682,35 @@ Append to this file after every batch. Format: card id | issue.
 
 ### Term-list / concept cards with accepted similarity (0.71-0.72)
 - 0709, 0711 (single-concept definition lines).
+
+## Batch 29 (cards 717-736: Ethics — Probity in Governance) — needs_review / flags
+
+### Statuses
+- All 20 polished (0722 quote-only block sits inside a card whose other blocks were polished).
+
+### Build note
+- 0727 has two detail blocks; the second (Concept) was patched directly inside tools/build_batch29_example.py (same method as 0599).
+
+### Fixes made
+- 0717 broken bold "[****Vivekananda**'s** **Karmayoga** philosophy]" repaired to "[**Vivekananda**'s **Karmayoga** philosophy]"; long item split-safe reworded (23 words).
+- 0725 broken bold "**sanskritisation of **corruption****" repaired.
+- 0733/0734 broken bold "**Code of **ethics****" repaired to "**Code of Ethics**".
+- 0718 "govt" expanded to "government"; diagram line "Govt <-> Citizens (Powers <-> Rights)" kept exactly.
+- 0727 formula "**Monopoly + Discretion - Accountability** — Corruption" kept exactly.
+- 0729 "₹67,000 cr" kept; 0724 "85/180" kept.
+- 0731 "w/" and "stds" expanded.
+
+### Kept as written (please confirm)
+- 0719 "Savitri Bai Phule" (usually "Savitribai Phule"); 0719/0720 "Chhavi Rajawat" vs "Chhavi Rajavat" — source spells both ways; please confirm the correct one.
+- 0724 quote 'People's indifference is best breeding ground for corruption' (no attribution; usually Robert Klitgaard-adjacent phrasing — verify).
+- 0729 "Orb media survey" capitalisation as written.
+- 0735 fixed-name line "Civil service (Conduct) Rules, 1964" kept (0.86 accepted, name card).
+
+### Quote attributions (flag only; quotes never edited)
+- 0721 "Corruption is worse than prostitution..." – Baba Ramdev (verify).
+- 0722 Pope Francis two-line quote kept (all-caps first line as written).
+- 0730 Chanakya quote, 0732 Potter Stewart quote, 0736 Margaret Chase Smith quote — all kept as converted (0736's line overlaps 0560's Patel quote wording; different attribution, verify both).
+
+### Facts or numbers worth checking (kept as written)
+- 0724 "CPI (TI) rank 85/180"; 0729 "₹67,000 cr in 2019 general elections (Lokniti Survey)".
+- 0731 "6 Principles: CSAT QV" mnemonic kept; 0734 "Repealing Article 311" recommendation kept; "CCSA" name kept.

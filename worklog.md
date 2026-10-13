@@ -274,3 +274,21 @@ Work Log:
 Stage Summary:
 - Progress: 560 of 789. Next: batch 29 = 717-736 (Ethics).
 - Queue flags: Madhyammarga spelling, Bhagvad Geeta spelling, Voltaire apocryphal attribution, Rosa Parks second line.
+
+---
+Task ID: 16
+Agent: Super Z (main)
+Task: Batch 29 polish (717-736 Ethics, Probity); push "batch-29". Continuous mode.
+
+Work Log:
+- Converted 717-736; wrote tools/build_batch29_example.py; 0727 second detail block patched directly (0599 method).
+- Verify rounds: 24 -> 21 warnings; 0 errors throughout.
+- Fixed: 0728 diagram line reword; 0731 charter lines reworded; 0734 'Repealing' capital; 0735 'Eg:' prefix; 0736 intro split.
+- Broken bolds repaired: 0717, 0725, 0733, 0734.
+- Final: 0 errors, 21 warnings all accepted.
+- Merged: MERGED_cards157-736.md (580 cards, 0 errors); deleted MERGED_cards157-716.md.
+- PLAN/review_queue/worklog updated; zipped; pushed "batch-29".
+
+Stage Summary:
+- Progress: 580 of 789. Next: batch 30 = 737-756 (Ethics).
+- Queue flags: Rajawat/Rajavat dual spelling, Baba Ramdev quote, Chanakya/Potter Stewart/Margaret Chase Smith attributions, CSAT QV mnemonic, Article 311 recommendation.
