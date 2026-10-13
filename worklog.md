@@ -429,3 +429,19 @@ Work Log:
 Stage Summary:
 - Progress: 733 of 789. GS-1 History COMPLETE (1-85). Next: batch 38 = cards 101-120 (Society 101-105 + Geography 106-120; prefix switch SOCI->GEOG).
 - Flags: khalisatn/Kaktiya/Dropadi-Draupadi spellings; stray AI fragments in 0083/0091/0092/0094/0095.
+
+---
+Task ID: 25
+Agent: Super Z (main)
+Task: Batch 38 polish (GS-1 cards 101-120, Society end + Energy Geography); push "batch-38". Continuous mode. User refreshed browser mid-run; reassured + status given.
+
+Work Log:
+- Converted 101-120 (prefix switch SOCI->GEOG at 106); wrote tools/build_batch38_example.py.
+- Verify: 0 errors first build; 48 -> 44 warnings (0101/0102/0103 rewords + splits).
+- 7 needs_review: 0104, 0113 (same_as_above), 0115 (fragment card), 0116-0119 (truncated duplicates of 0108/0109).
+- Flags: gas-share inconsistency (0109 "3.9% (2026)" vs 0119 "6%"), GIBI/GIB, Shanqxi, throium, Proliferation x easy, Vidharba.
+- Merged: MERGED_partial_1-120_plus_157-789.md (753 cards, 0 errors); deleted previous partial.
+- PLAN/review_queue/worklog updated; zipped; pushed "batch-38".
+
+Stage Summary:
+- Progress: 753 of 789. Next: batch 39 = cards 121-140 (all Geography).

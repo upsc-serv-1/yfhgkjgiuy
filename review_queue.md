@@ -930,3 +930,35 @@ Append to this file after every batch. Format: card id | issue.
 
 ### Facts or numbers worth checking (kept as written)
 - 0088 "8.6% tribals; 11.28% MPI; 75% dropouts; 4 GoI secretaries"; 0089 "Articles 15/16/25-28/44, 338A, 5/6th schedule, 29-30,46"; 0092 "over 70% SHG women"; 0097 "13-item globalisation inventory".
+
+## Batch 38 (cards 101-120: GS-1 Regionalism/Secularism/Urbanisation + Energy Geography) — needs_review / flags
+
+### Statuses
+- 13 polished; 7 needs_review: 0104 (truncated + stray "Urban Governance" heading), 0113 (same_as_above cross-ref "rest same as NG"), 0115 (all three blocks are fragments: "RE, drawn from sunlight," / "India is the 3rd largest" / quote fragment), 0116, 0117, 0118, 0119 (truncated duplicates of 0108/0109 content).
+
+### Fixes made
+- 0101/0102 duplicate regionalism cards polished with different wording (per duplicate rule).
+- 0106 "Godav" expanded to "Godavari valleys" (flagged); Shanqxi/Aust/S Af kept as written.
+- 0114 "Guargum" → "guar gum" (spacing), "Upper AS" → "Upper Assam", "availab" → "availability".
+- 0112 "SK President" → "South Korean President", "sustainab." → "sustainability", "indig" → "indigenous", "b/w" → "between".
+- 0119 glued "KaveriAndaman" → "Kaveri-Andaman" (format fix).
+
+### Kept as written (please confirm)
+- 0101/0102 "Vidharba" (usually Vidarbha), "nagalim" lowercase, "khalistan" lowercase (0102).
+- 0106 "Shanqxi" (usually Shanxi); "Natl Coal Gasification Mission — 100 MT 2030" token form kept.
+- 0107 "Panchamrut" spelling; "4cr/MW vs 6 cr/MW" spacing kept as source.
+- 0108/0116 "GIBI issue" (usually GIB — Great Indian Bustard).
+- 0109/0119 INCONSISTENCY flagged: present gas share "3.9% (2026)" in 0109 vs "6%" in 0119 — both kept as written; please confirm which is correct.
+- 0111 "Proliferation x easy" unclear shorthand kept; "throium" typo kept (2nd instance).
+- 0113 "Khambat", "Vyzag" spellings kept.
+- 0110 "March 2026" dating kept as written.
+
+### Quote attributions (flag only; quotes never edited)
+- 0103 Rajendra Prasad, 0104 Enrique Peñalosa, 0105 E. Sreedharan, 0107 Tim Wirth, 0085 Santayana (earlier), 0120 "Resources are not, they become." (Zimmermann, unattributed) — verify.
+
+### Facts or numbers worth checking (kept as written)
+- 0106 "4th largest reserves; TPPs 42.5%; ~70% generation; ash 20-30%; sulphur 3-7%; 2x emissions; Coal India 80%; 100 MT 2030".
+- 0107 "4th largest RE; 3rd largest oil importer; 2x import bill by 2030; 4cr vs 6 cr per MW".
+- 0108 "Solar 60GW/750GW; Wind 40GW/120GW; 4th largest wind producer".
+- 0109 "gas 15% by 2030 from 3.9% (2026); bridge fuel 6-15%"; 0110 "533 GW Mar 2026; 47.7/52.3%; 271.9/140.6/54.6 GW; 3.9% gas; double by 2040".
+- 0111 "2% uranium vs 25% thorium"; 0112 "5th largest; 1.7%; 8.78 GW; ~3%; 33-50%; SK 30% by 2030"; 0119 "15% by 2030 from 6%; 45% imports; GAIL 70%".
