@@ -396,3 +396,19 @@ Work Log:
 
 Stage Summary:
 - Progress: 693 of 789. Next: batch 36 = GS-1 cards 61-80 (History).
+
+---
+Task ID: 23
+Agent: Super Z (main)
+Task: Batch 36 polish (GS-1 cards 61-80); push "batch-36". Continuous mode.
+
+Work Log:
+- Converted 61-80; wrote tools/build_batch36_example.py. 2 untouched (0070, 0075); 1 needs_review (0077 truncated).
+- Verify: 0 errors first build; 42 -> 38 warnings (0063 'Indian' restored, 0062/0063/0064 restructures, long sentences split).
+- Typos fixed: "G S lyer" -> "G S Iyer", "indian" -> "Indian", "in school's" -> "in schools".
+- Merged: MERGED_partial_1-80_plus_157-789.md (713 cards, 0 errors); deleted previous partial.
+- PLAN/review_queue/worklog updated; zipped; pushed "batch-36".
+
+Stage Summary:
+- Progress: 713 of 789. Next: batch 37 = cards 81-100 (History 81-85 + Society 86-100; new prefix to check).
+- Flags: Bentick/Bentinck dual spelling, Bipan Chandra spelling, "$45 trillion/45 million lives" Tharoor figure, several compiler-invented quotes.

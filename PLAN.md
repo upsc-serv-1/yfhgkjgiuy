@@ -2,8 +2,8 @@
 
 # START HERE (status at handoff, written when the previous agent stopped)
 
-**Done:** 653 cards (157-789) plus GS-1 cards 1-60 (batches 33-35). Total 693 of 789. `MERGED_partial_1-60_plus_157-789.md` covers cards 1-60 + 157-789 (GS-1 61-156 pending, so it is partial). **GS-2, GS-3 and GS-4 are fully done.**. All pass `verify_protected.py` with **0 errors** (no quote, number or data item lost or changed). About 456 warnings remain; they are the accepted kinds explained in section 14 (short fact lines, term-list cards, expanded abbreviations).
-**Not done:** cards 1 to 156 (GS-1: History 1-85, Society 86-105, Geography 106-156) and cards 61 to 156 (GS-1: History 61-85, Society 86-105, Geography 106-156). Batch 36 (cards 61-80, GS-1 History) has **not been started**; start there. **The user wants every batch pushed to GitHub** (repo `upsc-serv-1/yfhgkjgiuy`, token supplied in chat) with a commit named after the batch; batches 14-corrections, 15 through 35 are already pushed.
+**Done:** 653 cards (157-789) plus GS-1 cards 1-80 (batches 33-36). Total 713 of 789. `MERGED_partial_1-80_plus_157-789.md` covers cards 1-80 + 157-789 (GS-1 81-156 pending, so it is partial). **GS-2, GS-3 and GS-4 are fully done.**. All pass `verify_protected.py` with **0 errors** (no quote, number or data item lost or changed). About 456 warnings remain; they are the accepted kinds explained in section 14 (short fact lines, term-list cards, expanded abbreviations).
+**Not done:** cards 1 to 156 (GS-1: History 1-85, Society 86-105, Geography 106-156) and cards 81 to 156 (GS-1: History 81-85, Society 86-105, Geography 106-156). Batch 37 (cards 81-100, GS-1 History end + Society start) has **not been started**; start there. **The user wants every batch pushed to GitHub** (repo `upsc-serv-1/yfhgkjgiuy`, token supplied in chat) with a commit named after the batch; batches 14-corrections, 15 through 36 are already pushed.
 
 **What the user needs from you:** (1) continue polishing in batches of 20 using the method in sections 5, 7, 11, 14, 15; (2) after every batch run `verify_protected.py`, then update section 8, section 12 and `review_queue.md`; (3) keep replies short, because long replies get cut off by the chat; (4) never invent facts, never change quotes or numbers.
 
@@ -169,8 +169,8 @@ Card numbers are 1-based positions in the original JSON list. Ranges below were 
 | Paper / subject | Cards (range) | Count | Polished | Notes |
 |---|---|---|---|---|
 | Pilot | 5 cards | 5 | done | style reference only |
-| GS-1 History | 1-85 | 85 | 60 done (1-60) | NEXT: 61-80 in batch 36 |
-| GS-1 Society | 86-105 | 20 | 0 | TO DO |
+| GS-1 History | 1-85 | 85 | 80 done (1-80) | NEXT: 81-85 in batch 37 |
+| GS-1 Society | 86-105 | 20 | 0 | NEXT: 86-100 in batch 37 |
 | GS-1 Geography | 106-156 | 51 | 0 | TO DO; flat duplicate cards near 154-156 |
 | GS-2 Polity | 157-220 | 64 | 64 DONE | batches 01 to 04 |
 | GS-2 Governance | 221-272 | 52 | 52 DONE | batches 04 to 06 |
@@ -184,7 +184,7 @@ Card numbers are 1-based positions in the original JSON list. Ranges below were 
 | GS-3 Internal Security | 505-543 | 39 | 39 DONE | batches 18 to 20 |
 | GS-4 Ethics, Integrity and Aptitude | 544-789 | 246 | 246 DONE | batches 20, 31, 32 |
 
-**Totals so far: 693 of 789 (157-789 plus GS-1 1-60).** NEXT BATCH: batch 36 = cards 61-80 (GS-1 History, IDs `GS1-HIST-`).
+**Totals so far: 713 of 789 (157-789 plus GS-1 1-80).** NEXT BATCH: batch 37 = cards 81-100 (GS-1 History 81-85 then Society 86-100, IDs `GS1-HIST-` then Society prefix).
 
 ## 9. Open questions still to ask the user
 - One big Markdown file, or one file per paper or subject? (Per subject suggested for the designer's script.)
@@ -262,11 +262,12 @@ Never alter quotes or data. Never invent. Never remove a card. Never reorder car
 | 33 | GS-1 Art & Culture 1-20 | `polished/GS1_HIST_batch33_cards0001-0020.md` | 0 errors; 39 warnings, all accepted (name-dense lists 0002/0009/0010/0012, fixed UNESCO list 0018); 3 needs_review (0011 same-as-above, 0013 template, 0014 truncated); 2 numeric errors caught and fixed (0009 '1 vimana', 0014 '2 centres'); pushed to GitHub as `batch-33`; see `review_queue.md` |
 | 34 | GS-1 Art & Culture 21-40 | `polished/GS1_HIST_batch34_cards0021-0040.md` | 0 errors; 44 warnings, all accepted (state-code expansions, name-dense inventories); 3 needs_review (0023, 0030, 0035 truncated); pushed to GitHub as `batch-34`; see `review_queue.md` |
 | 35 | GS-1 Modern History 41-60 | `polished/GS1_HIST_batch35_cards0041-0060.md` | 0 errors; 27 warnings, all accepted (epigram list 0044, framework 0056); 4 needs_review (0041-0043, 0048 truncated); 5 untouched quote-only; Gandhi quote typo 'noy' flagged; pushed to GitHub as `batch-35`; see `review_queue.md` |
+| 36 | GS-1 61-80 (Colonial Rule, 1857, Post-Independence) | `polished/GS1_HIST_batch36_cards0061-0080.md` | 0 errors; 38 warnings, all accepted (prose 0.70-0.82); 2 untouched (0070, 0075); 1 needs_review (0077 truncated); typos fixed (lyer/Iyer, school's); pushed to GitHub as `batch-36`; see `review_queue.md` |
 
 ## 13. How to resume (for the next agent)
 1. Read this file fully, then `review_queue.md`, then look at the last batch file as the style reference.
 2. Ask the user for the original JSON if it is not attached; set `SRC` in `convert.py`.
-3. Do the next batch (next is batch 36: cards 61-80, GS-1 History; prefix `GS1-HIST-`). GS-1 cards are notes-style; expect shorthand and state codes: compute the subject's index range, convert 20 cards, write the polish dict, build, verify, deliver, update sections 8, 12 and `review_queue.md`, then push to GitHub with a commit named `batch-36` (remote already has the token in the clone at /home/z/ghrepo — refresh files from /home/z/my-project first).
+3. Do the next batch (next is batch 37: cards 81-100 — History 81-85 then Society 86-100; check the Society ID prefix on a converted card before writing the dict): compute the subject's index range, convert 20 cards, write the polish dict, build, verify, deliver, update sections 8, 12 and `review_queue.md`, then push to GitHub with a commit named `batch-37` (remote already has the token in the clone at /home/z/ghrepo — refresh files from /home/z/my-project first).
 4. Always end your reply with the three files the user must keep: `PLAN.md`, the latest batch `.md`, and `review_queue.md` (plus `convert.py` and `verify_protected.py`).
 
 ## 14. Lessons from batches 03 to 07 (read these too)
@@ -312,4 +313,4 @@ These came from checking the second AI's batch 14. Follow them in all remaining 
 - After fixing, save the file and mention the fix in `review_queue.md` ("batch 14 corrected after review").
 
 ## 17. Final merge (when everything is done, or at any checkpoint)
-Run `python3 tools/merge_batches.py polished/MERGED_cards<first>-<last>.md` from the folder containing `polished/`. The merged file currently on disk is `polished/MERGED_partial_1-60_plus_157-789.md` (partial: cards 1-60 + 157-789, because GS-1 61-156 are still pending). When all 789 are done, merge into `MERGED_full_1-789.md`. Delete older merged files so the user does not open an outdated one.
+Run `python3 tools/merge_batches.py polished/MERGED_cards<first>-<last>.md` from the folder containing `polished/`. The merged file currently on disk is `polished/MERGED_partial_1-80_plus_157-789.md` (partial: cards 1-80 + 157-789, because GS-1 81-156 are still pending). When all 789 are done, merge into `MERGED_full_1-789.md`. Delete older merged files so the user does not open an outdated one.

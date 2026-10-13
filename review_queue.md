@@ -880,3 +880,30 @@ Append to this file after every batch. Format: card id | issue.
 
 ### Term-list cards with accepted similarity (0.70-1.00)
 - 0044 data (epigram list 0.78 + untouched intro 1.00 placeholder), 0047, 0056 (framework card).
+
+## Batch 36 (cards 61-80: GS-1 Colonial Rule, 1857, Post-Independence) — needs_review / flags
+
+### Statuses
+- 17 polished; 2 untouched (quote-collection cards 0070, 0075 — 0075 has placeholder intro); 1 needs_review: 0077 (truncated one-liner "Nehru — neither Indian, nor Civil, nor a service").
+
+### Fixes made
+- 0062 broken bullets repaired ("Treaty of. / - Bassein." merged; Plassey/Buxar/Mysore/Maratha lines restructured).
+- 0067 "G S lyer" → "G S Iyer", "indian" → "Indian" (typo fixes; matches 0070's "G. S. Iyer").
+- 0079 "in school's" → "in schools" (typo fix).
+- 0064/0063/0062 long sentences split; packed battle lines restructured.
+
+### Kept as written (please confirm)
+- 0062 "Orissa" spelling kept (officially Odisha since 2011, but period term).
+- 0063 "non-violent" in scare quotes kept (source's irony).
+- 0067/0070 economist quotes duplicated across both cards (kept in both).
+- 0073 historian verdicts kept: RC Majumdar / V D Savarkar / S B Choudhary / Stanley Wolpert; "R, M, Z" abbreviations kept.
+- 0074 "Awake, arise and educate. Smash traditions – liberate." – Savitribai Phule (verify wording).
+
+### Quote attributions (flag only; quotes never edited)
+- 0061 Warren Hastings, 0062 Ramachandra Guha, 0063 Bipan Chandra (usually "Bipan" spelling kept), 0064 Tagore, 0065 Dadabhai Naoroji, 0066 Vivekananda, 0067/0070 Bentick/Bentinck (spelled both ways across cards), Tharoor "$45 trillion / 45 million lives", 0068 Tilak, 0071 Gandhi, 0072 MLK Jr. + Ellen Wilkinson, 0074 Phule, 0076 Nehru, 0078 Nehru, 0079 Ambedkar, 0080 Rajagopalachari — several look compiler-invented; verify.
+
+### Facts or numbers worth checking (kept as written)
+- 0062 Plassey 1757, Buxar 1764, Diwani rights; 0063 Jhansi/Satara/Nagpur annexations; 0067/0070 "$45 trillion, 45 million lives" (Tharoor); 0073 1857 verdicts; 0078 "over 560 princely states"; 0079 "1975 Emergency", "Emergency@50"; 0080 "States Reorganisation Act, 1956", SRC, Bundelkhand demand.
+
+### Term-list cards with accepted similarity (0.70-0.82)
+- 0061-0066, 0071-0074, 0076, 0078-0080 (prose cards reworked to 0.70-0.82).
