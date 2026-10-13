@@ -855,3 +855,28 @@ Append to this file after every batch. Format: card id | issue.
 
 ### Term-list cards with accepted similarity (0.70-0.98)
 - 0022 data (dance/music/theatre inventory, 33-word folk-theatre line accepted), 0023, 0029, 0032-0035 (kingdom inventories), 0037-0040 light prose.
+
+## Batch 35 (cards 41-60: GS-1 Modern History) — needs_review / flags
+
+### Statuses
+- 11 polished; 4 needs_review (0041 truncated + stray "Topic C: Architecture" fragment; 0042 truncated + same_as_above; 0043 truncated, "Statute of unity/Hyd" spellings kept per name-check; 0048 truncated single-line card); 5 untouched quote-only (0054, 0057, 0058, 0059, 0060).
+
+### Kept as written (please confirm)
+- 0041 stray heading fragment "Topic C: Architecture" left at end of conclusion — recommend deleting.
+- 0042 fragmentary examples restructured; "Vasudev Kutumbakam" quote kept; "YUVA 2.0" expansion kept as written.
+- 0043 "Statute of unity/Statute of Equality" kept (usually "Statue"); "Ramanujacharya Hyd" kept with Hyd; "Shashandevi", "Poophnar", "Chausa", "Akota" spellings kept.
+- 0044 epithets kept: "na appeal, na vakeel, na daleel" (Rowlatt); Nehru's car-brakes line; Linlithgow reply; "dead as a door-nail" (August Offer); "Post dated cheque on a failing bank" (Cripps) — punctuation lightly normalised.
+- 0053/0059 Bose quote duplication kept (both cards carry it).
+- 0056 "socialistics" typo corrected to "socialists" (grammar fix); 12MPRO framework items kept; "noy" typo in Gandhi quote NOT touched (quote protected — flag: "noy just the British" should read "not just the British").
+
+### Quote attributions (flag only; quotes never edited)
+- 0053/0059 "Extremism in the pursuit of liberty..." attributed to Bhagat Singh — usually Barry Goldwater; verify.
+- 0054 "L Risley" (Herbert Risley) kept as written; 0055 atomic-plant quote unattributed; "Gokhale lightning conductor" unattributed.
+- 0056 Gandhi quote contains typo "noy" — flagged; not corrected (protected quote).
+- 0041 Tagore, 0045/0046 Bose, 0047 Bipin Chandra Pal + PM Modi, 0049 Gokhale, 0050 Gandhi, 0051 Bhagat Singh, 0052 Gandhi quotes — verify several look compiler-invented.
+
+### Facts or numbers worth checking (kept as written)
+- 0044 GOI Acts 1909/1919/1935 characterisations; 0045 PM Janman Yojana & PVTGs; 0047 Adivasi Gaurav Diwas, Aadi Mahotsav; 0049 "1857 First War of Independence" ICHR studies; 0051 HSRA manifestos; 0052 Santhal/Bhil revolts; 0055 R.P. Dutt conspiracy theory.
+
+### Term-list cards with accepted similarity (0.70-1.00)
+- 0044 data (epigram list 0.78 + untouched intro 1.00 placeholder), 0047, 0056 (framework card).

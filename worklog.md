@@ -381,3 +381,18 @@ Work Log:
 Stage Summary:
 - Progress: 673 of 789. Next: batch 35 = GS-1 cards 41-60 (History).
 - Flags: Kuchipuri/Burakatha/Tarangmal/Abhinay Darpan spellings; "Sab polished"; dating oddities "4th to 2nd CE BC"; several likely-invented quotes (0024-0028) for verification.
+
+---
+Task ID: 22
+Agent: Super Z (main)
+Task: Batch 35 polish (GS-1 cards 41-60, Modern History); push "batch-35". Continuous mode.
+
+Work Log:
+- Converted 41-60; wrote tools/build_batch35_example.py. 5 quote-only untouched; 4 truncated -> needs_review (0041, 0042, 0043, 0048).
+- Verify: 0 errors first build, 32 -> 27 warnings after name restores (0042 'Lit', 0043 'Stone'/'Statute'/'Hyd', 0044 'It'/'Post dated').
+- Flags: Bose "Extremism in pursuit of liberty" likely Goldwater; Gandhi quote typo "noy" (protected, flagged not fixed); 0041 stray "Topic C: Architecture" fragment.
+- Merged: MERGED_partial_1-60_plus_157-789.md (693 cards, 0 errors); deleted previous partial.
+- PLAN/review_queue/worklog updated; zipped; pushed "batch-35".
+
+Stage Summary:
+- Progress: 693 of 789. Next: batch 36 = GS-1 cards 61-80 (History).
