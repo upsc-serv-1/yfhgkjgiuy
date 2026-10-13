@@ -188,3 +188,21 @@ Work Log:
 Stage Summary:
 - Progress: 460 of 789. Next: batch 24 = 617-636 (Ethics).
 - Queue flags: CS Lewis attribution (usually Charles Marshall), Hawking "LAS" abbreviation, Daridra Narayan/Nishkaam spellings, 39-transfers figure.
+
+---
+Task ID: 11
+Agent: Super Z (main)
+Task: Batch 24 polish (617-636 Ethics); push "batch-24". Continuous mode.
+
+Work Log:
+- Converted 617-636; wrote tools/build_batch24_example.py.
+- Verify rounds: 34 -> 25 -> 18 -> 17 warnings; 0 errors throughout.
+- Name-check caps restored (0627 Cognitive/Affective/Behavioural items); 0630/0633 marked untouched (fixed descriptor lists, caps must stay); 0622 'navigate' -> 'move through'; 0625 'Weekday rules' kept + flagged; 0636 word-fragment bullets re-joined into 3 items.
+- Final: 0 errors, 17 accepted warnings.
+- Statuses: 17 polished, 3 untouched (0630, 0633).
+- Merged: MERGED_cards157-636.md (480 cards, 0 errors); deleted MERGED_cards157-616.md.
+- PLAN/review_queue/worklog updated; zipped; pushed "batch-24".
+
+Stage Summary:
+- Progress: 480 of 789. Next: batch 25 = 637-656 (Ethics).
+- Queue flags: Bhagavad Gita attribution (usually Robert Brault), 'Weekday rules' mnemonic, karmanyevaadhikaaraste transliteration.

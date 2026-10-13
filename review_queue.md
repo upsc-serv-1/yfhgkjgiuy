@@ -557,3 +557,29 @@ Append to this file after every batch. Format: card id | issue.
 
 ### Term-list / concept cards with accepted similarity (0.71-0.79)
 - 0601, 0604, 0606, 0608, 0609, 0612, 0615 (short fact lines; 0615 8-item list line reads long).
+
+## Batch 24 (cards 617-636: Ethics) — needs_review / flags
+
+### Statuses
+- 17 polished; 3 untouched (term-list detail cards 0630 Ethos/Pathos/Logos, 0633 Rhetorical Appeals all-caps list; 0630/0633 kept verbatim to preserve capitalized descriptors).
+
+### Expansions / fixes made
+- 0618 "w/" expanded to "with"; 0627 "ctries" → "countries", "govt" → "government"; 0631 "govt" → "government".
+- 0620/0621/0636 broken bullets repaired: 0620 "…voluntarily teach / - underprivileged students." merged; 0621 "…discriminatory / - behavior." merged; 0636 examples were word-fragments across 9 lines — re-joined into the 3 real items.
+- British spellings: socialisation, labour, polarised, recognising, behaviour(1 instances kept as "behavioral" where part of fixed term "attitude-behavior gap" → written "attitude-behaviour gap").
+
+### Kept as written (please confirm)
+- 0625 "**Weekday rules**" — unclear mnemonic name (c: myth, a: fear, b: past experience); kept exactly.
+- 0619 "Significance:" label actually lists *challenges*, and "Attitude defines one's altitude" rhyme kept as written.
+- 0634 "karmanyevaadhikaaraste" transliteration kept exactly.
+- 0616/0625 CAB letters (c/a/b) kept lowercase as in original.
+
+### Quote attributions (flag only; quotes never edited)
+- 0622 quote attributed to "Bhagavad Gita" ("We are kept from our goal not by obstacles…") — this line is usually attributed to Robert Brault; please verify.
+- 0624 Napoleon Hill, 0629 Kalam ("touching their hearts"), 0620/0628 Gandhi (abridged) kept as converted.
+
+### Facts or numbers worth checking (kept as written)
+- 0620 "Arunraj K teaching underprivileged students"; 0626 "Manjunath and Satyendra Dubey"; 0629 "UPI adoption nudge"; 0631 "Bihar campaign: Goddess Saraswati punishment".
+
+### Term-list / concept cards with accepted similarity (0.71-0.79)
+- 0617-0619, 0620-0629, 0632, 0634-0636 (concept cards); 0627 Cognitive line is a 5-item semicolon list and reads long (accepted).
