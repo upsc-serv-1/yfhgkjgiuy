@@ -358,3 +358,41 @@ Append to this file after every batch. Format: card id | issue.
 - 0494 "GSI 12% land"; "182 landslides in 10 states (2022)"; "70 HEPs Himalayan states".
 - 0495 "IMD thresholds 40/27/30°C, 5-6° above normal"; "2015 Delhi 1,800 deaths"; "2022 >20,000 deaths"; "WB 75% labour heat-exposed".
 - 0496 "plains <10°C + 4.5° below normal, 2 days"; "IMD 3x cold-wave days 2017-20".
+
+## Batch 18 (cards 497-516: Disaster Mgmt 497-504 + Internal Security 505-516) — needs_review / flags
+
+### Statuses
+- 19 polished; 1 needs_review: 0509 (conclusion is a "Template —" note; intro polished; "govt" expanded to "government" inside it).
+
+### Expansions made (please confirm)
+- 0501 "CC" expanded to "Climate change".
+- 0501 data: original "2021 — UK Chamoli disaster" written as "the Chamoli disaster in Uttarakhand (UK), 2021" — "UK" read as Uttarakhand; please confirm (not United Kingdom).
+- 0509 "OC" expanded to "Organised crime (OC)".
+- 0508 "esp." expanded to "especially of".
+
+### Kept as written (please confirm)
+- 0506 "**SL Restorative Justice Model**" — "SL" kept as written (likely Sri Lanka); please confirm.
+- 0506 "**Mission Pehal**" spelling kept exactly.
+- 0505 "**Aqaba Process (Jordan)**" kept as written.
+- 0515 "neighbour" respelled British style (original had "neighbor").
+- 0507 "New Bills replacing IPC, CrPC" kept generic — new code names (BNS etc.) NOT added (not in original).
+- EQ abbreviation kept (0503 "EQ/volcanoes"), consistent with earlier batches.
+
+### Markup fixes (format only, no words changed)
+- 0498 intro: broken bold "****FF Alert System**.**" and "****i-Forest initiative." fixed to "**FF Alert System**." / "**i-Forest initiative**.".
+- 0499 data: broken bold "**Cost **$7 Bn." fixed to "Cost — **$7 Bn**.".
+
+### Facts or numbers worth checking (kept as written)
+- 0497 "cooling effect" listed as a positive effect of volcanoes.
+- 0498 "FSI: 36% forests vulnerable"; "cost $1.5 Bn"; "Kullu Valley 2021".
+- 0499 "40 mn ha flood-prone"; "cost $7 Bn"; "80% rain in 3 months"; "12% of India"; "1/5th of global flood deaths"; Jabalpur RWH tax rebate.
+- 0500 "1.85 crore strikes 2020-21"; "LRIC aim <1,200/annum"; "Damini 3-hour warning".
+- 0502 "22 functioning reactors"; "2 nuclear states"; "Kalpakkam NPP flooded by 2004 tsunami".
+- 0503 "2004 Tsunami: 2.3 lakh died"; "DOARS / ITWEC / Sagar Vani" names kept.
+- 0511 ">15,000 km land border with 7 countries" (intro and data repeat the same figure, as in the original).
+- 0512 "3,488 km China border"; "Ladakh standoff"; "Vibrant Village Program"; "Cartographic and Nomenclatural aggression".
+- 0514 "FMR 16 km either side"; "4 NE states".
+- 0515 "Radcliffe Award of 1947"; "Madhukar Gupta Committee"; "Village Defence Guards; CIBMS".
+
+### Term-list / fixed-list cards with accepted similarity (0.72-0.78)
+- 0497 (definition + 4-item effects list), 0498/0499 (definition + scheme names), 0508 (4Ps strategy list), 0512 (border facts).

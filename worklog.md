@@ -76,3 +76,23 @@ Stage Summary:
 - Deliverable: polished/GS3_ENVI-DISA_batch17_cards477-496.md; pushed to GitHub as commit "batch-17" (after docs update).
 - Progress: 340 of 789. Next: batch 18 = 497-504 (DISA) + 505-516 (INTE, prefix GS3-INTE-).
 - Queue flags: Seechwal Model / Rein Bashera spellings, Sendai $1-$7 quote wording, 0484 share figures, 0480 keyword regrouping.
+
+---
+Task ID: 5
+Agent: Super Z (main)
+Task: Batch 18 polish (497-504 DISA + 505-516 INTE); GitHub push "batch-18".
+
+Work Log:
+- Converted 497-516 (prefix rule: GS3-DISA- <=504, GS3-INTE- >=505, mirroring build_batch17 pattern).
+- Wrote tools/build_batch18_example.py; first verify: 0 errors, 24 warnings.
+- Rewrote long sentences (0498, 0508 conclusion) and high-similarity blocks; fixed 0508 4Ps wording; 24 -> 5 warnings.
+- Final: 0 errors, 5 accepted warnings (0.72-0.78 on definition + fixed-list cards 0497/0498/0499/0508/0512).
+- Statuses: 19 polished, 1 needs_review (0509 template conclusion).
+- Merged file refreshed: MERGED_cards157-516.md (360 cards, 0 errors); deleted MERGED_cards157-496.md.
+- Updated PLAN.md (START HERE, tracker Disaster 25/25 done, batch log 18, next = batch 19) and review_queue.md (batch 18 section).
+- Zipped download/batches18_update.zip; pushed to GitHub commit "batch-18".
+
+Stage Summary:
+- Deliverable: polished/GS3_DISA-INTE_batch18_cards497-516.md.
+- Progress: 360 of 789. Next: batch 19 = 517-536 (all Internal Security, GS3-INTE-).
+- Queue flags: "SL" model name, "UK Chamoli" read as Uttarakhand, CC expanded, Mission Pehal spelling, markup fixes 0498/0499.
