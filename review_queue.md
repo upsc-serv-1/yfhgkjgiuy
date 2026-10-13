@@ -313,3 +313,48 @@ Append to this file after every batch. Format: card id | issue.
 ### Duplicate or overlapping cards
 - 0457 conclusion overlaps card 0442 conclusion (both Global Biodiversity Framework); worded differently on purpose.
 - 0462 repeats 0460's blank line and Guterres slogan (template card).
+
+## Batch 17 (cards 477-479 Environment + 480-496 Disaster Management) — polished, 0 errors, 21 accepted warnings
+
+### needs_review
+- 0483 whole card is a template (Fill-in-the-Blank intro/conclusion + WF mnemonic) — left untouched.
+
+### Shorthand expansions (kept meaning; please confirm)
+- 0479 "KL's Suchitwa Mission" expanded to "Kerala's Suchitwa Mission".
+- 0482 "OD SATARK Mobile App" expanded to "Odisha SATARK Mobile App".
+- 0485 data "JK 2010" expanded to "Jammu and Kashmir, 2010".
+- 0487 "OD (Odisha) Model" written as "Odisha Model".
+- 0492 data "GJ 2001 / SK 2011" expanded to "Gujarat, 2001 / Sikkim, 2011".
+- 0493 "Palghar, MH" expanded to "Palghar, Maharashtra" (name-check flags 'MH'; accepted).
+- 0494 "MH — geo-textile" expanded to "Maharashtra — geo-textile"; data "NE" expanded to "the Northeast" (name-check flags; accepted).
+- 0495 data "N. America" expanded to "North America" (name-check flags 'N'; accepted); "**WB**" expanded to "**World Bank**".
+- 0480 "infra" expanded to "infrastructure" (Sendai list).
+- 0490/0495 "Temp >27°C", ">40°C" style written as "Temperature above 27°C", "Above 40°C" (numbers kept).
+
+### Kept as written (please confirm)
+- 0482 mnemonic "**RW wants LES VAT LSD**" and its 11 letter-pairs kept exactly (memory aid).
+- 0481 "**241/273 days**" form kept exactly; 0484 "**5700/7500 km**" form kept exactly.
+- 0480 keyword list re-grouped into 3 items (the original bold ran together: "...First responders, 3R's (Relief. / Rehabilitation. / Reconstruction), BBB..."); every term kept, count stays 3.
+- 0491 "**Seechwal Model**" — unclear name, kept exactly; please verify spelling.
+- 0496 "**Rein Bashera**" (night shelters) — unclear name, kept exactly; please verify spelling.
+- 0484 share figures "EQ 60% / Cyclones 12% / Floods 12% / Drought 68%" kept as written (they are share-of-vulnerability figures from the original).
+- 0492 "National Retrofit Program 2014" kept ("Program" spelling as written).
+
+### Term-list / quote cards with accepted similarity (0.71-0.88)
+- 0480 (framework inventory), 0481 (protected IPCC definition line), 0482 intro (mnemonic letter lines) + conclusion (protected quotes, 0.93) + data ($1→$7 line), 0485-0496 definition/number lines.
+
+### Quote attributions I could not confirm (flag only; quotes are never edited)
+- 0480 "Disasters are inevitable, but their impact is not." and "Prepare and prevent, not repair and repent" (no attribution).
+- 0482 "Every $1 spent on mitigation saves $7 on response and recovery" — attributed to Sendai; please verify wording.
+
+### Facts or numbers worth checking (kept as written)
+- 0477 "23% budget increase"; "WHO: 4 lakh diarrhoea deaths avertable".
+- 0479 "8 MT plastic/yr"; "80% of marine debris".
+- 0481 "CSE 2022: EWEs on 241/273 days"; "75% districts".
+- 0482 "mitigation ROI $1→$7".
+- 0484 "30 disaster types"; "5700/7500 km coastline".
+- 0487 "10% of world's tropical cyclones"; "13 states/UTs"; "2% of GDP"; "Nivar 23,000 acres".
+- 0492 "Japan 80% compliance"; "60% land / 80% population vulnerable".
+- 0494 "GSI 12% land"; "182 landslides in 10 states (2022)"; "70 HEPs Himalayan states".
+- 0495 "IMD thresholds 40/27/30°C, 5-6° above normal"; "2015 Delhi 1,800 deaths"; "2022 >20,000 deaths"; "WB 75% labour heat-exposed".
+- 0496 "plains <10°C + 4.5° below normal, 2 days"; "IMD 3x cold-wave days 2017-20".

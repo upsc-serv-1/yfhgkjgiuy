@@ -57,3 +57,22 @@ Stage Summary:
 - Deliverable: polished/GS3_ENVI_batch16_cards457-476.md; merged file now covers 157-476.
 - Progress: 320 of 789. Next: batch 17 = 477-479 (ENVI) + 480-496 (DISA, prefix GS3-DISA-).
 - Queue flags: LT expansion, Jal Shakti Mission name, Plas Tax/Bhartan Bhandar/Main Indoori Jholadhari spellings, 65 vs 63 MT mismatch kept, 4 unattributed quotes.
+
+---
+Task ID: 4
+Agent: Super Z (main)
+Task: Batch 17 polish (477-479 ENVI + 480-496 DISA); set up GitHub pushes on user request.
+
+Work Log:
+- User supplied GitHub PAT; cloned upsc-serv-1/yfhgkjgiuy to /home/z/ghrepo and pushed 3 commits: batch-14-corrections, batch-15, batch-16 (removed stale MERGED_cards157-416.md).
+- Converted 477-496 (IDs: ENVI <=479, DISA >=480 — custom prefix rule in build script).
+- Wrote tools/build_batch17_example.py; built; verifier 36 warnings -> fixed name-checks (Governance/SATARK Mobile App/EQs/UAV) and rewrote number-dense data blocks; 0496 intro restructured.
+- Final: 0 errors, 21 warnings (mnemonic card 0482, quote-dense conclusion 0.93, term lists, 3 accepted expansions MH/NE/N).
+- 19 polished, 1 needs_review (0483 template card).
+- Merged file refreshed: MERGED_cards157-496.md (340 cards, 0 errors).
+- Updated PLAN.md (START HERE incl. GitHub-push instruction, tracker, batch log 17, next = batch 18) and review_queue.md.
+
+Stage Summary:
+- Deliverable: polished/GS3_ENVI-DISA_batch17_cards477-496.md; pushed to GitHub as commit "batch-17" (after docs update).
+- Progress: 340 of 789. Next: batch 18 = 497-504 (DISA) + 505-516 (INTE, prefix GS3-INTE-).
+- Queue flags: Seechwal Model / Rein Bashera spellings, Sendai $1-$7 quote wording, 0484 share figures, 0480 keyword regrouping.

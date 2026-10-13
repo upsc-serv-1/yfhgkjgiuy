@@ -2,8 +2,8 @@
 
 # START HERE (status at handoff, written when the previous agent stopped)
 
-**Done:** cards 157 to 476 of 789 (320 cards) are polished, in `polished/` (16 batch files; `MERGED_cards157-476.md` covers 157-476). All pass `verify_protected.py` with **0 errors** (no quote, number or data item lost or changed). About 246 warnings remain; they are the accepted kinds explained in section 14 (short fact lines, term-list cards, expanded abbreviations).
-**Not done:** cards 1 to 156 (GS-1: History 1-85, Society 86-105, Geography 106-156) and cards 477 to 789 (Environment 477-479, Disaster Management 480-504, Internal Security 505-543, Ethics 544-789). Batch 17 (cards 477-496) has **not been started**; start there. Environment ends at 479, so batch 17 crosses into Disaster Management (prefix rule: GS3-ENVI- up to 479, GS3-DISA- from 480; see `build_batch16_example.py` and `build_batch04_example.py` for cross-subject handling).
+**Done:** cards 157 to 496 of 789 (340 cards) are polished, in `polished/` (17 batch files; `MERGED_cards157-496.md` covers 157-496). All pass `verify_protected.py` with **0 errors** (no quote, number or data item lost or changed). About 267 warnings remain; they are the accepted kinds explained in section 14 (short fact lines, term-list cards, expanded abbreviations).
+**Not done:** cards 1 to 156 (GS-1: History 1-85, Society 86-105, Geography 106-156) and cards 497 to 789 (Disaster Management 497-504, Internal Security 505-543, Ethics 544-789). Batch 18 (cards 497-516) has **not been started**; start there. **The user now wants every batch pushed to GitHub** (repo `upsc-serv-1/yfhgkjgiuy`, token supplied in chat) with a commit named after the batch; batches 14-corrections, 15, 16 and 17 are already pushed.
 
 **What the user needs from you:** (1) continue polishing in batches of 20 using the method in sections 5, 7, 11, 14, 15; (2) after every batch run `verify_protected.py`, then update section 8, section 12 and `review_queue.md`; (3) keep replies short, because long replies get cut off by the chat; (4) never invent facts, never change quotes or numbers.
 
@@ -179,12 +179,12 @@ Card numbers are 1-based positions in the original JSON list. Ranges below were 
 | GS-3 Indian Economy | 329-359 | 31 | 31 DONE | batches 09 to 11 |
 | GS-3 Agriculture | 360-383 | 24 | 24 DONE | batches 11, 12 |
 | GS-3 Science and Technology | 384-427 | 44 | 44 DONE | batches 12 to 14 |
-| GS-3 Environment | 428-479 | 52 | 49 done (428-476) | NEXT: 477-479 |
-| GS-3 Disaster Management | 480-504 | 25 | 0 | TO DO; batch 17 starts here after 477-479 |
+| GS-3 Environment | 428-479 | 52 | 52 DONE | batches 14 to 17 |
+| GS-3 Disaster Management | 480-504 | 25 | 17 done (480-496) | NEXT: 497-504 in batch 18 |
 | GS-3 Internal Security | 505-543 | 39 | 0 | TO DO |
 | GS-4 Ethics, Integrity and Aptitude | 544-789 | 246 | 0 | TO DO; heavier bold style; check carefully |
 
-**Totals so far: cards 157 to 476 are polished (320 of 789).** NEXT BATCH: batch 17 = cards 477-479 (last Environment, IDs `GS3-ENVI-`) + cards 480-496 (Disaster Management, IDs `GS3-DISA-`).
+**Totals so far: cards 157 to 496 are polished (340 of 789).** NEXT BATCH: batch 18 = cards 497-504 (Disaster Management, IDs `GS3-DISA-`) + cards 505-516 (Internal Security, IDs `GS3-INTE-`).
 
 ## 9. Open questions still to ask the user
 - One big Markdown file, or one file per paper or subject? (Per subject suggested for the designer's script.)
@@ -243,11 +243,12 @@ Never alter quotes or data. Never invent. Never remove a card. Never reorder car
 | 14 | Sci and Tech 417-427 + Environment 428-436 | `polished/GS3_SCITECH-ENVI_batch14_cards417-436.md` | 0 errors; 8 accepted warnings; 0424, 0426, 0427 needs_review; corrected after review (see queue) |
 | 15 | Environment 437 to 456 | `polished/GS3_ENVI_batch15_cards437-456.md` | 0 errors; 17 accepted warnings (term-list cards 0443, 0448, 0449, 0450 cannot be reworded more); see `review_queue.md` |
 | 16 | Environment 457 to 476 | `polished/GS3_ENVI_batch16_cards457-476.md` | 0 errors; 13 accepted warnings (term-list cards 0459, 0472; number-dense lines 0461, 0469, 0475); 0460, 0462 needs_review; see `review_queue.md` |
+| 17 | Environment 477-479 + Disaster Mgmt 480-496 | `polished/GS3_ENVI-DISA_batch17_cards477-496.md` | 0 errors; 21 accepted warnings (mnemonic/quote cards 0482, term lists); 0483 needs_review; pushed to GitHub as `batch-17`; see `review_queue.md` |
 
 ## 13. How to resume (for the next agent)
 1. Read this file fully, then `review_queue.md`, then look at the last batch file as the style reference.
 2. Ask the user for the original JSON if it is not attached; set `SRC` in `convert.py`.
-3. Do the next batch (next is batch 17: cards 477-479 Environment + 480-496 Disaster Management; IDs `GS3-ENVI-` then `GS3-DISA-`): compute the subject's index range, convert 20 cards, write the polish dict, build, verify, deliver, update sections 8, 12 and `review_queue.md`.
+3. Do the next batch (next is batch 18: cards 497-504 Disaster Management + 505-516 Internal Security; IDs `GS3-DISA-` then `GS3-INTE-`): compute the subject's index range, convert 20 cards, write the polish dict, build, verify, deliver, update sections 8, 12 and `review_queue.md`, then push to GitHub with a commit named `batch-18` (remote already has the token in the clone at /home/z/ghrepo — refresh files from /home/z/my-project first).
 4. Always end your reply with the three files the user must keep: `PLAN.md`, the latest batch `.md`, and `review_queue.md` (plus `convert.py` and `verify_protected.py`).
 
 ## 14. Lessons from batches 03 to 07 (read these too)
@@ -293,4 +294,4 @@ These came from checking the second AI's batch 14. Follow them in all remaining 
 - After fixing, save the file and mention the fix in `review_queue.md` ("batch 14 corrected after review").
 
 ## 17. Final merge (when everything is done, or at any checkpoint)
-Run `python3 tools/merge_batches.py polished/MERGED_cards<first>-<last>.md` from the folder containing `polished/`. The merged file currently on disk is `polished/MERGED_cards157-476.md` and covers cards 157 to 476. Delete older merged files so the user does not open an outdated one.
+Run `python3 tools/merge_batches.py polished/MERGED_cards<first>-<last>.md` from the folder containing `polished/`. The merged file currently on disk is `polished/MERGED_cards157-496.md` and covers cards 157 to 496. Delete older merged files so the user does not open an outdated one.
