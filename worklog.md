@@ -412,3 +412,20 @@ Work Log:
 Stage Summary:
 - Progress: 713 of 789. Next: batch 37 = cards 81-100 (History 81-85 + Society 86-100; new prefix to check).
 - Flags: Bentick/Bentinck dual spelling, Bipan Chandra spelling, "$45 trillion/45 million lives" Tharoor figure, several compiler-invented quotes.
+
+---
+Task ID: 24
+Agent: Super Z (main)
+Task: Batch 37 polish (GS-1 cards 81-100, World History + Society); push "batch-37". Continuous mode.
+
+Work Log:
+- Converted 81-100 (prefix switch HIST->SOCI at 86); wrote tools/build_batch37_example.py.
+- Verify: 2 errors caught and fixed (0089 "29-30,46" token split; 0097 item count 13->14 from un-gluing "religion:"). Final: 0 errors, 37 warnings all accepted.
+- 7 needs_review (0083, 0090, 0091, 0092, 0094, 0095, 0098 — truncated; stray AI-artifact fragments kept verbatim and flagged).
+- Typos fixed in 0089 (grooves, genital, made snana).
+- Merged: MERGED_partial_1-100_plus_157-789.md (733 cards, 0 errors); deleted previous partial.
+- PLAN/review_queue/worklog updated; zipped; pushed "batch-37".
+
+Stage Summary:
+- Progress: 733 of 789. GS-1 History COMPLETE (1-85). Next: batch 38 = cards 101-120 (Society 101-105 + Geography 106-120; prefix switch SOCI->GEOG).
+- Flags: khalisatn/Kaktiya/Dropadi-Draupadi spellings; stray AI fragments in 0083/0091/0092/0094/0095.

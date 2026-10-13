@@ -907,3 +907,26 @@ Append to this file after every batch. Format: card id | issue.
 
 ### Term-list cards with accepted similarity (0.70-0.82)
 - 0061-0066, 0071-0074, 0076, 0078-0080 (prose cards reworked to 0.70-0.82).
+
+## Batch 37 (cards 81-100: GS-1 World History + Society) — needs_review / flags
+
+### Statuses
+- 13 polished; 7 needs_review (0083, 0090, 0091, 0092, 0094, 0095, 0098 — truncated cards; 0083/0094/0095 contain stray AI-artifact/heading fragments kept verbatim: "Great! Here's a continuation...", "Perfect! Continuing...", "11-A.Social Empowerment").
+
+### Fixes made
+- 0089 typos fixed: "Sacred grooves"→"groves", "geneital"→"genital", "made made snana"→"made snana" (common-word/duplicate-word fixes); article numbers kept as "29-30,46" (original token form).
+- 0097 numeric/list error caught: "religion:" was glued to the remake line in source — restored glue to keep item count 13.
+- 0087/0088 shorthand kept: "naga mvmt", "khalisatn" (usually Khalistan), "Dropadi murmu" vs "Draupadi Murmu" (source spells both ways), "+ve".
+
+### Kept as written (please confirm)
+- 0087 "khalisatn" spelling; "Dropadi murmu: 1st tribal women president".
+- 0088 "Kaktiya mission" (usually Kakatiya); "rayagada model"; "75% dropouts in class 10"; "8.6% tribals"; "11.28% MPI"; "Only 4 GoI secretaries (Xaxa commission)".
+- 0089 "devdasi", "sabrimala", "narender Dabholkar", "Gauri lankesh" spellings kept.
+- 0096/0097/0098 "forest gump", "laal singh chaddha" lowercase kept.
+- 0083/0091/0092/0094/0095 stray heading fragments kept verbatim — recommend deleting.
+
+### Quote attributions (flag only; quotes never edited)
+- 0081 Mandela, 0082 Tharoor, 0083 Churchill, 0084 Gandhi, 0085 Santayana, 0086 Nehru, 0088 Gandhi, 0091 Malthus, 0092 Vivekananda, 0093 Steinem, 0094 Gandhi, 0095 Geddes, 0096 Ambedkar, 0099 Nehru, 0100 Sardar Patel — several look compiler-invented; verify.
+
+### Facts or numbers worth checking (kept as written)
+- 0088 "8.6% tribals; 11.28% MPI; 75% dropouts; 4 GoI secretaries"; 0089 "Articles 15/16/25-28/44, 338A, 5/6th schedule, 29-30,46"; 0092 "over 70% SHG women"; 0097 "13-item globalisation inventory".
