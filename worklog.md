@@ -362,3 +362,5 @@ Work Log:
 
 Stage Summary:
 - Progress: 653 of 789. Next: batch 34 = GS-1 cards 21-40 (History).
+
+- Note: merge_batches.py scans all polished/ files, so the merged output now includes GS-1 1-20; file renamed to MERGED_partial_1-20_plus_157-789.md to reflect content.
