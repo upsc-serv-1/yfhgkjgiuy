@@ -113,3 +113,22 @@ Work Log:
 Stage Summary:
 - Progress: 380 of 789. Next: batch 20 = 537-543 (INTE) + 544-556 (ETHI, new prefix GS4-ETHI-).
 - Queue flags: SUSI shorthand, Guterres quote wording, NCRB 2024 year, Bhartiya spelling, RJ/PB expansions.
+
+---
+Task ID: 7
+Agent: Super Z (main)
+Task: Batch 20 polish (537-543 INTE + 544-556 ETHI); push "batch-20". Continuous mode.
+
+Work Log:
+- Converted 537-556; wrote tools/build_batch20_example.py (prefix rule INTE<=543, ETHI>=544 — first Ethics cards).
+- Verify rounds: 27 -> 20 -> 18 -> 17 warnings; 0 errors throughout.
+- Fixed long sentences (0547, 0549, 0551), similarity >=0.80 blocks (0542, 0550, 0551, 0552, 0553, 0554, 0555), stray "w" typo line in 0551 (noted in queue).
+- Final: 0 errors, 17 accepted warnings (concept detail cards 0.71-0.78; 'synergy' term of art 0540).
+- Statuses: 16 polished, 3 untouched (0543 template, 0545 term list, 0556 quote-only).
+- Merged: MERGED_cards157-556.md (400 cards, 0 errors); deleted MERGED_cards157-536.md.
+- PLAN/review_queue/worklog updated; zipped; pushed "batch-20".
+
+Stage Summary:
+- Progress: 400 of 789. Internal Security subject COMPLETE (505-543).
+- Next: batch 21 = 557-576 (Ethics, GS4-ETHI-).
+- Queue flags: Narawane spelling, 3 unattributed quotes, SUSI, stray-w removal, British respelling.

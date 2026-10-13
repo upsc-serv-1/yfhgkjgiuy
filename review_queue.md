@@ -433,3 +433,35 @@ Append to this file after every batch. Format: card id | issue.
 
 ### Term-list / fixed-list cards with accepted similarity (0.73-0.86)
 - 0518 data (number line), 0521 data, 0524/0525/0526 (scheme lists), 0528 (SAMADHAN mnemonic), 0529, 0531 conclusion, 0535 (statute lists; conclusion 1.00 = protected MoHA quote).
+
+## Batch 20 (cards 537-543 Internal Security + 544-556 Ethics) — needs_review / flags
+
+### Statuses
+- 16 polished; 3 untouched (template fill-in card 0543, bare term list 0545, quote-only 0556); 0 needs_review.
+
+### Expansions / fixes made
+- 0542 "Govt" expanded to "government"; sentence passivised to avoid copying original structure.
+- 0546 "Envi" expanded to "environment"; "Jain/ Buddhist" written as "(Jain and Buddhist roots)".
+- 0548 "envi destruction" expanded to "environmental destruction"; "Ends >> means ->" symbol chain written out in words (all listed outcomes kept); "Selfcentredness" respelled "Self-centredness" (common-word spelling fix).
+- 0551 stray stray "w" fragment line in the original examples block removed (single-letter typo, not a list item); image URL untouched.
+- 0551 "humanizes/behavior" respelled British style (humanises/behaviour) per style guide.
+- 0539 "w.r.t." expanded to "on the" (4 F kept).
+
+### Kept as written (please confirm)
+- 0539/0531 "**SUSI**" shorthand kept (see batch 19 note).
+- 0537 detail: "$1.5 billion vs $500 billion" appears in both data and detail (as in the original) — kept.
+- 0537 quote attributed to "General Manoj Narawane" — spelling as written (usually "Naravane"); please confirm.
+- 0539 quote "The implementation is more important than their legislation." (no attribution).
+- 0551 quote "Ethics is doing the right thing, even when no one is watching." (no attribution).
+- 0556 quote "Army of principles can go where an army of men can not" (no attribution; "can not" as written).
+- 0540 "synergy" kept (defence term of art from the original; verifier flags it as a hard word — accepted).
+- 0553 Sanskrit/IAST renderings (मात्स्यन्याय; mātsyanyāya) kept exactly.
+
+### Facts or numbers worth checking (kept as written)
+- 0537 "defence budget 5th largest"; "exports $1.5 Bn vs $500 Bn global market".
+- 0540 ">70 countries have a CDS equivalent"; COSC/DAC/NCA roles kept.
+- 0542 "Agnipath: 4 years".
+- 0551 "Armstrong Pame 100-km road via crowdfunding".
+
+### Term-list / concept cards with accepted similarity (0.70-0.78)
+- 0540 conclusion, 0544, 0547/0549/0551 example lines, 0552, 0553, 0554, 0555 (definition/concept detail cards, hard to reword further without losing terms).
