@@ -445,3 +445,19 @@ Work Log:
 
 Stage Summary:
 - Progress: 753 of 789. Next: batch 39 = cards 121-140 (all Geography).
+
+---
+Task ID: 26
+Agent: Super Z (main)
+Task: Batch 39 polish (GS-1 cards 121-140, Forests/Minerals + Geophysical Phenomena); push "batch-39". Continuous mode.
+
+Work Log:
+- Converted 121-140; wrote tools/build_batch39_example.py.
+- Verify: 0 errors first build; 56 -> 50 warnings (0121 intro/conclusion splits, 0122 'BP' kept, 0123 'Wind' capital).
+- 6 needs_review: 0126 (same_as_above), 0129 (template), 0130 (truncated dup of 0122), 0132 (truncated), 0138 (truncated+blank), 0139 (truncated, "same").
+- 0125 placeholder quote attribution "Source Text" flagged (quote kept exactly).
+- Merged: MERGED_partial_1-140_plus_157-789.md (773 cards, 0 errors); deleted previous partial.
+- PLAN/review_queue/worklog updated; zipped; pushed "batch-39".
+
+Stage Summary:
+- Progress: 773 of 789. Next: batch 40 = cards 141-156 (FINAL 16, Geography), then full merge MERGED_full_1-789.md.

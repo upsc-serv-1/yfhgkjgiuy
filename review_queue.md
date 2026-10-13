@@ -962,3 +962,31 @@ Append to this file after every batch. Format: card id | issue.
 - 0108 "Solar 60GW/750GW; Wind 40GW/120GW; 4th largest wind producer".
 - 0109 "gas 15% by 2030 from 3.9% (2026); bridge fuel 6-15%"; 0110 "533 GW Mar 2026; 47.7/52.3%; 271.9/140.6/54.6 GW; 3.9% gas; double by 2040".
 - 0111 "2% uranium vs 25% thorium"; 0112 "5th largest; 1.7%; 8.78 GW; ~3%; 33-50%; SK 30% by 2030"; 0119 "15% by 2030 from 6%; 45% imports; GAIL 70%".
+
+## Batch 39 (cards 121-140: GS-1 Forests/Minerals/Resources + Geophysical Phenomena) — needs_review / flags
+
+### Statuses
+- 14 polished; 6 needs_review: 0126 (same_as_above conclusion), 0129 (template with ____ blanks), 0130 (truncated duplicate of 0122), 0132 (truncated), 0138 (truncated + blank + same_as_above), 0139 (truncated, conclusion "same").
+
+### Fixes made
+- 0130 "encrochment" → "encroachment" (typo).
+- 0122/0130 "BP" abbreviation kept (name-check); "best practice" expansion avoided.
+- 0128 broken intro "The region of located holds..." rewritten as "Such regions hold..." (garble flagged).
+- 0138 truncated sentence kept mid-way with "..." (not completed — flagged for user).
+- 0123 "Wind" capital restored; 0121 intro/conclusion splits.
+
+### Kept as written (please confirm)
+- 0121 "ISFR 2021 / GFRA 2025", "24.62%", "33%", "9th globally", "NDC 2.5-3 billion tonnes", "net 0 by 2070".
+- 0123 "100% imports", "KABIL", "MSP (USA)", "PMN"; 0124 "7/12", "Chinese control 95%", "6% reserves but 1% output".
+- 0125 quote attributed to "Source Text" (placeholder attribution — converter flagged; quote kept exactly); "4 Chinese firms control 75%"; "AB(Boliv)C triangle"; "RUCCA".
+- 0126 "50% Chinese control on refining"; 0127 "380 mn tonnes; 10% ... 100 years"; "NE peninsula — 90% iron, 80% coal".
+- 0131/0132 "1.7 Earths" (0132 says "over 1.7" — slight variance kept as written).
+- 0136 "90% volcanoes / 81% devastating earthquakes in Ring of Fire".
+- 0140 "LP" abbreviation kept; "behaviour" British respelling.
+
+### Quote attributions (flag only; quotes never edited)
+- 0125 lithium quote attributed to "Source Text" — placeholder; please supply real source or delete quote.
+- 0131 Bruce Lipton quote; 0133 Ronald Reagan ("Industries go where they are wanted..." — verify); 0134 Native American Proverb.
+
+### Facts or numbers worth checking (kept as written)
+- 0121 forest stats; 0124 rare-earth stats; 0125 lithium stats; 0127 ocean resource potential; 0136 Ring of Fire percentages; 0135 "71%/97%" ocean figures; 0134 "200 drought-prone districts".
