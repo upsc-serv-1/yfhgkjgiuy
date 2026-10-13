@@ -714,3 +714,31 @@ Append to this file after every batch. Format: card id | issue.
 ### Facts or numbers worth checking (kept as written)
 - 0724 "CPI (TI) rank 85/180"; 0729 "₹67,000 cr in 2019 general elections (Lokniti Survey)".
 - 0731 "6 Principles: CSAT QV" mnemonic kept; 0734 "Repealing Article 311" recommendation kept; "CCSA" name kept.
+
+## Batch 30 (cards 737-756: Ethics — Governance & Probity II) — needs_review / flags
+
+### Statuses
+- 17 polished; 3 untouched (quoted example lines 0740, 0744; quote-only 0743).
+
+### Fixes made
+- 0748 "•" bullets normalised; 0745 "cf:" → "cf." and "self disclosure" → "self-disclosure"; 0752 hyphenation of rule-based/merit-based.
+- 0750 note reworded for a conclusion use; 0755 broken punctuation "restraint— has" repaired and sentence split.
+
+### Kept as written (please confirm)
+- 0745 "digi bonds" — unclear term (digital bonds?); kept as written.
+- 0747 diagram flow words (Communication, Openness, Accountability → Transparency → Ethical Gov, Participative Gov → GOOD GOVERNANCE) kept exactly with arrows.
+- 0752 Weber's five points kept inline with original numbering "1)...5)".
+- 0753 "post WW2" kept.
+- 0749 "ethos" kept (source term; verifier flags it as hard word — accepted).
+
+### Quote attributions (flag only; quotes never edited)
+- 0739 "The customer is the most important visitor on our premises." – Gandhi (apocryphal; usually attributed to a hotel sign / Kenneth Blanchard variants; verify).
+- 0748 "Public money must be treated with the same sacredness as temple offerings." – Chanakya (verify).
+- 0749 "Culture eats strategy for breakfast." – Peter Drucker (attribution disputed; verify).
+- 0755 Kalam quote; 0756 Nehru quote ("Power must always be accompanied by responsibility") — verify.
+
+### Facts or numbers worth checking (kept as written)
+- 0748 "CAG audits: MPLADS and MNREGA misuse"; "PFMS real-time fund flows"; 0749 "SPARSH platform"; 0751 "Kiran Aggarwal committee"; 0754 "IAS Pulkit Singh newspaper-photo innovation"; 0755 "Vyapam and coal block cases".
+
+### Term-list / concept cards with accepted similarity (0.71-0.79)
+- 0750, 0752, 0753, 0755 conclusion, 0756 intro (short concept lines; 0752 is a 5-item inline list, reads long — accepted).

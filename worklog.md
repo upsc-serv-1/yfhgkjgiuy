@@ -292,3 +292,20 @@ Work Log:
 Stage Summary:
 - Progress: 580 of 789. Next: batch 30 = 737-756 (Ethics).
 - Queue flags: Rajawat/Rajavat dual spelling, Baba Ramdev quote, Chanakya/Potter Stewart/Margaret Chase Smith attributions, CSAT QV mnemonic, Article 311 recommendation.
+
+---
+Task ID: 17
+Agent: Super Z (main)
+Task: Batch 30 polish (737-756 Ethics, Governance & Probity II); push "batch-30". Continuous mode.
+
+Work Log:
+- Converted 737-756; wrote tools/build_batch30_example.py. 3 quoted cards untouched (0740, 0743, 0744).
+- Verify rounds: 26 -> 21 warnings; 0 errors throughout.
+- Fixed: 0750/0751 'Professional' caps + reword, 0752 'Bureaucratic' cap + hyphenation, 0755 intro split + examples rework, 0756 examples reorder.
+- Final: 0 errors, 21 warnings all accepted ('ethos' source term; 0752 5-item inline list).
+- Merged: MERGED_cards157-756.md (600 cards, 0 errors); deleted MERGED_cards157-736.md.
+- PLAN/review_queue/worklog updated; zipped; pushed "batch-30".
+
+Stage Summary:
+- Progress: 600 of 789. Next: batch 31 = 757-776 (Ethics).
+- Queue flags: Gandhi "customer" quote apocryphal, Drucker attribution, digi bonds term, SPARSH platform, Pulkit Singh example.
