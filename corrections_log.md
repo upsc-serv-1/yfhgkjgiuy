@@ -351,3 +351,35 @@ Addendum to C10: 0430 Meenangadi block — the stray "Adaptation — NEED" line 
 is the acronym for the North European Enclosure Dam (a real published sea-level-rise
 proposal); line now reads "**Adaptation at mega-scale — the NEED proposal:** the **North
 European Enclosure Dam** — closing the North Sea against sea-level rise."
+
+---
+## C11 — QUOTE-ATTRIBUTION VERIFICATION PASS (Edition 2 hardening, October 2026)
+Scope: every quote flagged in `review_queue.md` "### Quote attributions..." sections, plus
+the C10 "Not done (no safe fix without user decision)" list (~147 quote-attribution
+questions). Pass 1 of 3: Tier A only.
+Method: web-search each unique quote text; classify into VERIFIED_AUTHENTIC /
+QUOTE_EXISTS_ATTR_DOUBTFUL / SOCIAL_MEDIA_ONLY / BOOKLET_ONLY / NOT_FOUND.
+Quote text is protected; only the attribution label (`— Author`) is editable, and only
+when web evidence shows a clear misattribution.
+Per user rule: "remove source only in extreme case" — apply no edit unless the evidence
+is unambiguous. Tier A had no such extreme case.
+
+### Tier A (72 cards, 75 unique quote texts) — NO EDITS APPLIED
+Per-quote evidence written to `/home/z/my-project/download/tier_A_classified.md`.
+Summary:
+- VERIFIED_AUTHENTIC: ~5 (e.g., 0003 PM Modi on Buddha's teachings — The Hindu 20 Apr 2023;
+  0008 Modi slogans "Vikas Bhi Virasat Bhi", "Four Cs" — PIB/Hindustan Times/Aug 2023).
+  These attributions are already correct in the book. No edit needed.
+- QUOTE_EXISTS_ATTR_DOUBTFUL: ~16 (quote text appears in non-scholarly independent sources
+  but those sources don't confirm the claimed author).
+- BOOKLET_ONLY: 1 (only the X-IAS booklet mirror on Scribd contains the quote).
+- NOT_FOUND: 46 (web search returned zero results; quote may be a compiler paraphrase
+  or a real quote with variant wording that the search engine missed).
+
+### Tier A action: NONE
+After web-verification of all 75 unique Tier A quotes, no attribution change was
+unambiguous enough to apply. Per the user's "no mistakes" mandate, every flagged
+attribution remains untouched and is documented in `tier_A_classified.md` for human
+review. The verifier still reports 0 errors; warning count unchanged at 697.
+
+### Tier B and Tier C pending — to be applied in the next commits.
