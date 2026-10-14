@@ -1,0 +1,80 @@
+[
+  {
+    "card_id": "0184",
+    "full_card_id": "GS2-POLI-0184",
+    "batch": "Batch 02: GS-2 Polity, cards 177 to 196",
+    "raw_bullet": "0184: \"Like a cancer, eating into the vitals of a democracy.\" (Delhi HC 2018)",
+    "review_queue_attribution": "Delhi HC 2018",
+    "review_queue_quote": "Like a cancer, eating into the vitals of a democracy.",
+    "quote_blocks": [
+      {
+        "label": "",
+        "text": "\"Like a cancer, eating into the vitals of a democracy.\" — Delhi HC 2018"
+      }
+    ]
+  },
+  {
+    "card_id": "0230",
+    "full_card_id": "GS2-GOVE-0230",
+    "batch": "Batches 03 to 07: cards 197 to 296 (flag only, nothing was changed)",
+    "raw_bullet": "0230 \"ARC 2\" and \"Woodrow Wilson\"",
+    "review_queue_attribution": "and \"Woodrow Wilson\"",
+    "review_queue_quote": "ARC 2",
+    "quote_blocks": [
+      {
+        "label": "",
+        "text": "\"RTI is the most important legislation since independence. It marks the beginning of an era of dawn & ends the era of darkness.\" — ARC 2"
+      },
+      {
+        "label": "",
+        "text": "\"Sunlight is the best disinfectant.\" — 2nd ARC"
+      },
+      {
+        "label": "",
+        "text": "\"Corruption thrives in secret places — avoids open spaces.\" — Woodrow Wilson"
+      }
+    ]
+  },
+  {
+    "card_id": "0263",
+    "full_card_id": "GS2-GOVE-0263",
+    "batch": "Batches 03 to 07: cards 197 to 296 (flag only, nothing was changed)",
+    "raw_bullet": "0263 Second ARC",
+    "review_queue_attribution": "Second ARC",
+    "review_queue_quote": "",
+    "quote_blocks": [
+      {
+        "label": "",
+        "text": "\"Good policies fail with bad implementation; bad policies fail faster.\" – Second ARC"
+      }
+    ]
+  },
+  {
+    "card_id": "0295",
+    "full_card_id": "GS2-SOCI-0295",
+    "batch": "Batches 03 to 07: cards 197 to 296 (flag only, nothing was changed)",
+    "raw_bullet": "0295 UN Women.",
+    "review_queue_attribution": "UN Women.",
+    "review_queue_quote": "",
+    "quote_blocks": [
+      {
+        "label": "",
+        "text": "\"A budget tells us what we value as a society.\" — UN Women"
+      }
+    ]
+  },
+  {
+    "card_id": "0346",
+    "full_card_id": "GS3-INDI-0346",
+    "batch": "Batches 08 to 10: cards 297 to 356 (flag only, nothing was changed unless stated)",
+    "raw_bullet": "0346 World Bank.",
+    "review_queue_attribution": "World Bank.",
+    "review_queue_quote": "",
+    "quote_blocks": [
+      {
+        "label": "",
+        "text": "\"Employment is not just about income—it’s about identity and dignity.\" — World Bank"
+      }
+    ]
+  }
+]

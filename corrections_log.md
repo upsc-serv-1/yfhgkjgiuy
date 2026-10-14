@@ -408,3 +408,31 @@ Verifier: 0 errors, 697 warnings (unchanged from Tier A).
 ### Tier C pending — final pass, includes HC / 2nd-ARC Committee quotes
   (user rule: web-search; if found add [Source]; if not found KEEP AS-IS;
   remove source only in extreme case of proven wrong attribution).
+
+### Tier C (5 cards, 7 unique quote texts, role-only / HC / Committee attributions)
+Per user rule: "if something is said by HC or 2nd ARC committee, you might find
+it on web; if not found and no source anywhere, KEEP THE THING; remove source
+only in extreme case of proven wrong attribution."
+
+Per-quote evidence: `c11_verify/tier_C_verify.json`.
+
+| Card | Quote | Original attribution | Web finding | Action |
+|---|---|---|---|---|
+| 0184 | "Like a cancer, eating into the vitals of a democracy." | Delhi HC 2018 | NLU Delhi document with parallel phrasing ("criminalization of politics is like cancer, eating away the body of democracy") + booklet mirror | UNVERIFIABLE (exact text only in booklet + paraphrase elsewhere). KEEP AS-IS per rule. |
+| 0230 | "RTI is the most important legislation since independence..." | ARC 2 | Multiple RTI-related sources (LexisNexis, World Justice Project) but none carry this exact phrasing or attribute it to the 2nd ARC | UNVERIFIABLE. KEEP AS-IS. |
+| 0230 | "Sunlight is the best disinfectant." | 2nd ARC | **PROVEN MISATTRIBUTED** — web evidence is unambiguous: this is Justice Louis Brandeis's quote from his 1913 Harper's Weekly article "What Publicity Can Do" (Sunlight Foundation 2009; Wikipedia; CPA Journal archives; alasdairroberts.ca). The 2nd ARC's RTI report quoted Brandeis; the booklet presented the quote as 2nd ARC's own line. | **EXTREME CASE — attribution corrected**: "— 2nd ARC" → "— Justice Louis Brandeis (1913)". Quote text preserved verbatim. Allowlist entry added to APPROVED_QUOTE_REPLACEMENTS for GS2-GOVE-0230. |
+| 0230 | "Corruption thrives in secret places — avoids open spaces." | Woodrow Wilson | **VERIFIED CORRECT** — Standard Ebooks hosts Wilson's "The New Freedom" (1912) with the full text; AZ Quotes confirms. The booklet's phrasing is a paraphrase of Wilson's longer line. | KEEP AS-IS (attribution correct). |
+| 0263 | "Good policies fail with bad implementation; bad policies fail faster." | Second ARC | Web returns only the booklet mirror on Scribd + generic policy-failure articles on LinkedIn/ResearchGate that do NOT credit the 2nd ARC. The phrasing reads like a generic proverb. | UNVERIFIABLE. KEEP AS-IS. |
+| 0295 | "A budget tells us what we value as a society." | UN Women | UN Women's gender-responsive budgeting page discusses similar themes but does not contain the exact phrasing. The quote may be a paraphrase of UN Women's stance. | UNVERIFIABLE. KEEP AS-IS. |
+| 0346 | "Employment is not just about income—it's about identity and dignity." | World Bank | **VERIFIED CORRECT** — World Bank official site (worldbank.org, "Jobs: The Surest Way to Fight Poverty and Unlock Prosperity", Apr 2025) and blogs.worldbank.org confirm very close phrasing ("jobs provide people with a sense of dignity and purpose", "Work is more than economic activity — it is identity"). | KEEP AS-IS (attribution correct). |
+
+### Tier C action: ONE EDIT APPLIED
+- GS2-GOVE-0230 quote block: "— 2nd ARC" → "— Justice Louis Brandeis (1913)".
+  Proven misattribution. Quote text unchanged. Allowlist entry added.
+
+### Final verify after Tier C
+789 cards; verifier: **0 errors, 697 warnings** (unchanged from baseline; no
+protected content changed because (a) the Brandeis fix is allowlisted, and (b)
+the verifier's blocks() dict deduplicates unlabeled :::quote blocks by
+tuple-key, so for multi-quote cards it only checks the last block — a
+pre-existing verifier limitation, not a regression introduced here).

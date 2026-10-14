@@ -253,3 +253,21 @@ APPROVED_NUMBER_ADDITIONS.update({'GS3-INDI-0348': {'164': 'Vande Bharat service
                                                     '2025': 'December 2025 milestone',
                                                     '7.5': '7.5 crore passengers carried (Indian Railways)'}})
 APPROVED_NUMBER_REMOVALS.update({'GS3-INDI-0348': {'60': 'outdated 2024 snapshot replaced with Dec 2025 figure'}})
+
+
+# ---------------------------------------------------------------------------
+# C11 - QUOTE-ATTRIBUTION VERIFICATION (Edition 2 hardening, October 2026)
+# Web-verified attributions; quote text never changed. Only the attribution
+# label after the em-dash is replaced, and only when web evidence is
+# unambiguous (the "extreme case" the user authorized).
+APPROVED_QUOTE_REPLACEMENTS.update({
+    'GS2-GOVE-0230': {'quote': (
+        '"Sunlight is the best disinfectant." \u2014 2nd ARC',
+        '"Sunlight is the best disinfectant." \u2014 Justice Louis Brandeis (1913)',
+        "C11: 2nd-ARC attribution proven wrong; Brandeis is the actual author. Verified via "
+        "Sunlight Foundation (2009), Wikipedia, CPA Journal archives \u2014 original 1913 "
+        "Harper's Weekly article 'What Publicity Can Do'. The 2nd ARC's RTI report "
+        "quoted Brandeis; the booklet presented it as 2nd ARC's own line, which is the "
+        "extreme case the user authorized for source correction. Quote text preserved verbatim."
+    )},
+})

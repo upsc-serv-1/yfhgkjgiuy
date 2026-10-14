@@ -7051,7 +7051,7 @@ status: polished
 :::
 
 :::quote
-"Sunlight is the best disinfectant." — 2nd ARC
+"Sunlight is the best disinfectant." — Justice Louis Brandeis (1913)
 :::
 
 :::quote
