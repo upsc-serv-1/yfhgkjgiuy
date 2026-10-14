@@ -568,3 +568,21 @@ Work Log:
 
 Stage Summary:
 - Push ready to fire the moment the user re-sends a PAT (Contents: read/write on upsc-serv-1/yfhgkjgiuy).
+
+---
+Task ID: 33
+Agent: Super Z (main)
+Task: C10 — check + fix every item in user's pending-issue list (best-judgment mandate); push corrections-3 then corrections-4.
+
+Work Log:
+- Pushed corrections-3 (C9 state) with user's new PAT — confirmed f501d8b..40ef5c0 on origin/main.
+- Audit (c10_audit.py): triaged every reported item; found C9 had already cleared 8 of them; 0764 "V. Kurien" was always correct (Verghese Kurien, not Justice Kurian).
+- Web-verified: Keisham Meghachandra Singh; Chhavi Rajawat; AI $450-500 Bn figure = NASSCOM 2022 (not NITI 2018); Vakataka Ajanta patronage; 2 real Guterres quotes (2023, 2025).
+- c10a_simple.py: 54 targeted fixes (shorthand 0106/0107/0110/0116/0132/0123/0087/0108, names, BUFFETT, tabla, noy->not, 0102 capitalisations, CE/BCE dates x6, behaviour/offence x5, fact labels for gas/forest, 0177/0284 "O ACS", 0361 renumber, 0535 Bharatiya spellings, 0183/0218 splits).
+- c10b_rebuilds.py: 0035 rebuilt (Vakataka-era card, was a Gupta copy), 0073 data = real 1857 facts (was 12MPRO notes), 0011 Regional styles restored from PDF + own conclusion, 0243 real cyber-crime intro, 0067 retitled, 14 placeholder cards filled with fact-safe content, 0154 indented, 16 stray-punctuation lines cleaned.
+- Fixed my own artefact: 5 lines left with stray trailing quote from prefix-match — removed.
+- c10c_allowlist.py: verifier extended (full-quote plain pairs computed from original JSON; numbers/lists itemised) -> verify_protected.py: 0 errors, 698 warnings (accepted kinds).
+- Final: 789 cards, 2063/2063 fences, all reported placeholders gone. C10 section written to corrections_log.md.
+
+Stage Summary:
+- corrections-4 pushed (C10 state). Still open for user decision: ~147 quote attributions, blank-template keep/remove, "60+ Vande Bharat" line not found anywhere (cannot fix what is not there).

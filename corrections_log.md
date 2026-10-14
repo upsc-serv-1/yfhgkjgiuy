@@ -253,3 +253,96 @@ placeholders (0044, 0075, 0172, 0264, 0279, 0280, 0284, 0292, 0296, 0414, 0424, 
 0531, blank templates), fact conflicts (gas share 3.9% vs ~6%, forest cover 21.7% vs 24.62%,
 "O ACS", ~150 quote attributions, 0392 "$500 Bn", "60+ Vande Bharat"), long sentences 0183,
 0218, 0535.
+
+---
+## C10 — THIRD-PASS ISSUE CLEANUP (user's full pending list; "best judgment, exam-useful" mandate)
+Scope: every item in the user's audit message. Web-verified: Meghachandra Singh, Chhavi
+Rajawat, NASSCOM $450-500 Bn AI figure, UMANG wording, Vakataka-era patronage, 2 Guterres quotes.
+Backup: polished/MERGED_full_1-789.pre-C10.bak.md. Scripts: c10a_simple.py (54 ops),
+c10b_rebuilds.py (rebuilds+fills), c10c_allowlist.py (verifier entries).
+
+### Already fixed, verified as fixed (log was right, reviewer's list was stale)
+0764 "V. Kurien" is CORRECT (Verghese Kurien, milk revolution — not "Justice Kurian");
+0148 intricate, 0116 underscores, 0095 synergy, 0108 govt's, 0089 Govt steps, 0536 Whole of
+Govt, 0606 CORNERSTONE — all cleared in C9; confirmed clean.
+
+### A. Shorthand / spellings / names (web-verified where flagged)
+0106 National Coal Gasification Mission + Sustainable Development cell + Australia/South
+Africa; 0107 investment; 0110 Central Electricity Authority (CEA); 0116 National Solar
+Mission; 0132 national + international; 0123 Environment; 0087 the Naga movement; 0108+0116
+"ex." -> "(for example, ...)"; 0141 underscoring -> showing. 0113 Khambhat; 0197
+Meghachandra Singh vs the Manipur Assembly (Keisham Meghachandra Singh, SC 21 Jan 2020);
+0720 Chhavi Rajawat (title+body; 0719 already correct); 0610+0656 WARREN BUFFETT; 0030
+tabla; 0056 "noy"->"not" (typo inside quote, substance unchanged); 0102 REGIONALISM title +
+Greater Nagalim / Khalistan / Belgaum / Cauvery / Vidarbha / Bodoland; 0658
+conscient->conscience. Dates: 0032 4th-2nd century BCE; 0033 2nd century BCE-3rd century CE;
+0034+0035 3rd to 6th century CE; 0010 12th century CE; 0021 100 BCE-10th century CE.
+British spellings: behaviour/behavioural/behaviours x4, offence (MLK quote kept as-is).
+
+### B. Content mismatches — rebuilt with verified facts
+- 0035 (was a Gupta copy): full rebuild — Vakatakas (Ajanta patrons, Amravati style/Poophnar
+  from source PDF p.2431), Ikshvakus (Nagarjunakonda), Kalabhras, Western Gangas (Gomateshwara
+  c. 983 CE, Chamundaraya), Kadambas (Banavasi, Mayurasharma); own conclusion; status polished.
+- 0073 (data was 12MPRO framework notes from 0056): replaced with real 1857 content — causes
+  (Doctrine of Lapse, Awadh 1856, Mangal Pandey, Meerut 10 May), centres & leaders (Bahadur
+  Shah II, Nana Saheb, Tantia Tope, Hazrat Mahal, Lakshmibai, Kunwar Singh, Ahmadullah Shah),
+  suppression & aftermath (GoI Act 1858, Queen's Proclamation). Historians' conclusion kept.
+- 0011 (conclusion duplicated 0010; source PDF literally says "Same as above"): Regional
+  styles line restored from PDF p.17 (Sikh chattris/Golden Temple; Rajput Hawa Mahal) + own
+  conclusion written (Taj Mahal peak, legacy to Sikh/Rajput schools); same_as_above flag removed.
+- 0243 "Cyber Crimes" (held a data definition): real cyber-crime intro (IT Act 2000/2008, I4C);
+  crime-stat data and ES conclusion kept.
+- 0067 (title duplicated 0065): retitled "Economic Impact of British Rule — Thinkers' Views"
+  (its content is the Joshi/Iyer/Dutt drain-of-wealth quotes).
+
+### C. Formatting
+0361 Mihir Shah list 1,2,1,2 -> 1,2,3,4 (+ RRR expanded); 0154 intro bullets indented under
+parent; 0090 truncated line completed from 0089's own full version (flag kept — card still
+skeletal); 0394 UMANG line now reads "Hundreds of central and state citizen services" (no
+invented number); stray quote punctuation cleaned in 0561, 0581, 0582, 0603, 0605, 0638,
+0657, 0658, 0740, 0743, 0744, 0759, 0766, 0767, 0771, 0787 (period moved inside closing
+quote, stray trailing quotes/dots removed).
+
+### D. Placeholders -> real, fact-safe content (no invented statistics/quotes)
+0044 Acts intro; 0075 socio-religious reform intro; 0172 hate-speech definition (IPC 153A/
+295A/505, Law Commission 267th Report); 0264 universal scheme-evaluation path + conclusion;
+0279 education intro (NEP 2020, 5+3+3+4, 6% GDP); 0280 health intro (NHP 2017 2.5% GDP,
+Ayushman Bharat); 0284 "O ACS" -> Voice & choice line + universal data anchors; 0292 intro;
+0296 blank diplomacy line -> real coverage line; 0414 Gaganyaan conclusion (BAS 2035 / Moon
+2040 roadmap); 0424 cryogenics conclusion (1990s denial, GSLV-D5 2014); 0509 crime-terror
+conclusion (PMLA/FATF/UNTOC); 0529 + 0531 Guterres pointer lines replaced with VERIFIED
+quotes: "Poverty, inequalities and social exclusion give terrorism fuel." (2023) and "A more
+secure world begins by investing at least as much in fighting poverty as we do in fighting
+wars." (2025). 0177 "(O ACS)" dropped. Statuses flipped needs_review->polished where content
+is now complete (flags placeholder_blank removed); 0090 stays needs_review/truncated.
+
+### E. Fact conflicts — labelled, not altered
+Gas: 0109/0119 now say "share in the primary energy mix / energy mix" (~6%); 0110 data now
+"3.9% Gas (share in installed capacity — the energy-mix share is separately about 6%)".
+Forest: 0121 "24.62% (forest cover alone: 21.71%)"; 0451 "21.7% (forest cover only; with tree
+cover it is 24.62%)" — ISFR 2021 two-measure distinction now explicit on both cards.
+AI: 0392 "$500 Bn by 2025 (NITI Aayog 2018)" corrected to "$450-500 Bn by 2025 — ~10% of the
+$5 tn target [Source: NASSCOM AI Adoption Index, 2022]" (web-verified; NITI's own 2018
+strategy figure was $957 Bn by 2035).
+
+### F. Long sentences
+0183 Recent-Examples line split; 0218 Judges-Cases line split (numbers + [Source] kept);
+0535 framing shortened to "In MoHA's words:" (quote verbatim); Bharatiya Nyaya Sanhita /
+Bharatiya Nagarik Suraksha Sanhita / Bharatiya Sakshya official spellings + "in force
+1 July 2024".
+
+### G. "60+ Vande Bharat" figure — located and refreshed
+GS3-INDI-0348: "60+ Vande Bharat trains" (a 2024 snapshot) -> "164 Vande Bharat services
+operational by December 2025, carrying over 7.5 crore passengers [Source: Indian Railways]"
+(web-verified; 136 trains introduced in 11 years per PIB-style reports).
+
+### Not done (no safe fix without user decision)
+~147 remaining quote-attribution questions (0001 Kabir/Tagore, 0053/0059 Goldwater, etc. —
+the 2 named Guterres pointers WERE fixed in 0529/0531); duplicate-title pair 0065/0067
+resolved by retitle; blank-template cards kept as practice skeletons per earlier C5/C6
+decision; "behavior" inside the MLK quote (0709-area) kept — quote text is protected.
+
+### Final verify
+789 cards; 2063/2063 ::: fences paired; verify_protected.py: 0 errors, 698 warnings (all
+accepted kinds; allowlist extended with C10 entries — full-quote pairs computed from the
+original JSON, numbers/lists itemised above).

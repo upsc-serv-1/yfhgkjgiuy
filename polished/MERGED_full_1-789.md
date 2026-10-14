@@ -371,7 +371,7 @@ status: polished
 ---
 
 :::introduction
-Indo-Islamic architecture is a striking fusion and synthesis of **Islamic and indigenous styles**. It began with the rise of the Delhi Sultanate in the **12th CE AD**.
+Indo-Islamic architecture is a striking fusion and synthesis of **Islamic and indigenous styles**. It began with the rise of the Delhi Sultanate in the **12th century CE**.
 :::
 
 :::data
@@ -404,8 +404,8 @@ subtopic: "Conservation of Indian Art & Heritage"
 card_title: "Mughal Architecture"
 card_type: structured
 sections: [introduction, data, conclusion]
-flags: [same_as_above]
-status: needs_review
+flags: []
+status: polished
 ---
 
 :::introduction
@@ -422,11 +422,12 @@ The Mughal period is regarded as the **golden period** of Indian medieval archit
 - **Jehangir:** focus on painting; Akbar's tomb at Sikandra, Shalimar Bagh (Kashmir).
 - **Nur Jahan:** the Itmad ud Daula tomb — marble.
 - **Shahjahan:** the Red Fort, Jama Masjid, Shahjanabad, the Peacock Throne.
+- **Regional styles:** Sikh — chattris, brass-copper decorations (the Golden Temple); Rajput — hanging balconies, arched cornices (Hawa Mahal, Jaipur).
 :::
 
 :::conclusion
-- A living proof of the harmonious blend of **cultural diversity & artistic ingenuity** that shaped India's architectural landscape.
-- Adaptation to local traditions — temple elements like the **bell & chain, lotus, lintels in mihrabs, toranas**.
+- The Mughal style — Persian symmetry married to Indian craft — peaked in Shahjahan's white-marble phase (the **Taj Mahal**).
+- Its vocabulary passed into the Sikh and Rajput schools: Mughal architecture became the foundation of India's medieval architectural identity.
 :::
 
 ---
@@ -453,7 +454,7 @@ Indian paintings, steeped in tradition and artistic finesse, are a visual record
   - Meso: small, groups, headgears, Red ochre.
   - Chalco: battle scenes, men riding horses — Ex: Jogimara, Chitwa Dongri (CH).
   - IVC: painted pottery.
-- **Murals (100 BC-10th CE AD, HBJ):**
+- **Murals (100 BCE-10th century CE, HBJ):**
   - Ajanta — the Jatakas
   - Ellora, Armamalai, Sittanavasal (pond with lotus, Samwasarana), Bagh, Badami
   - Vijayanagar — Lepakshi paintings & the Veerbhadra temple
@@ -1113,7 +1114,7 @@ Indian music spans a vast range of classical, devotional and popular genres, mir
   - Gharanas vs no gharanas
   - instruments less important than vocals
   - 6 vs 72 ragas
-  - instruments — table, sitar, sarangi vs veena, mridangam
+  - instruments — tabla, sitar, sarangi vs veena, mridangam
 - Important people: Amir Khusro, Tansen vs Thyagaraja, Shyama Shastri. Hindustani genres — Dhrupad, khayal, tarana, thumri, tappa, ghazal.
 :::
 
@@ -1168,7 +1169,7 @@ status: polished
 ---
 
 :::introduction
-The Mauryan period — **4th to 2nd CE BC** — marked a **transformative phase in history**: a powerful empire emerged, and culture advanced.
+The Mauryan period — **4th to 2nd century BCE** — marked a **transformative phase in history**: a powerful empire emerged, and culture advanced.
 :::
 
 :::data
@@ -1204,7 +1205,7 @@ status: polished
 ---
 
 :::introduction
-From the Mauryas' decline to the Guptas' rise (**2nd CE BC to 3rd CE AD**), new powers filled the map.
+From the Mauryas' decline to the Guptas' rise (**2nd century BCE to 3rd century CE**), new powers filled the map.
 The **Indo-Greeks, Shakas, Kushanas** arrived in the North, the **Satavahanas** rose in the Deccan, and the **Shungas, Kanvas** held the east.
 :::
 
@@ -1247,7 +1248,7 @@ status: polished
 ---
 
 :::introduction
-The **Golden period** of Indian art & culture — the 3rd & 6th CE AD, with patronage to Hindus (H), Buddhists (B) and Jains (J).
+The **Golden period** of Indian art & culture — the 3rd to 6th century CE, with patronage to Hindus (H), Buddhists (B) and Jains (J).
 :::
 
 :::data
@@ -1283,27 +1284,27 @@ subject: "HISTORY"
 section_group: "Art and Culture"
 microtopic: "Indian Culture-Salient aspects of Art Forms, Literature and Architecture from ancient to modern times."
 subtopic: "Kingdoms & Highlights"
-card_title: "GUPTA Contemp: Vakatakas, Ikshwakus Kalabhras, Gangas, Kadambas"
+card_title: "GUPTA Contemp: Vakatakas, Ikshvakus, Kalabhras, Gangas, Kadambas"
 card_type: structured
 sections: [introduction, examples, conclusion]
-flags: [truncated]
-status: needs_review
+flags: []
+status: polished
 ---
 
 :::introduction
-The Golden period of Indian art & culture — the 3rd & 6th CE AD, with patronage to Hindus (H), Buddhists (B) and Jains (J).
+The Gupta "golden age" (3rd to 6th century CE) had powerful contemporaries — the Vakatakas, Ikshvakus, Kalabhras, Gangas and Kadambas — who carried its artistic impulse into the Deccan and the south.
 :::
 
 :::examples
-- Architecture, caves — North: Ajanta, Ellora, Bagh (MP — Rang Mahal), Udaygiri (Vidisha — Varaha), Junagarh (Buddhist); South: Badami (KN), Vijayawada (AP); East: Guntupalli, Anakapalle (AP). Traveller — Hiuen Tsang.
-- Sculpture — Bronzes: Sarnath Sultanganj, Dhanesar Khera (Mathura style); Stone: Varaha (Udaygiri).
-- Pillars — Mehrauli, Prayag Prashasti, Bhitari Pillar.
-- Numismatics — Samudragupta: 8 types of coins (Veena, Saraswati), gold, silver and copper.
-- Literature — Nagari script; Prayag Prashasti by Harisena (chaste sanskrit); Kalidasa, Visakhadatta, Sudraka; the Panchatantra by Vishnu Sharma; the Puranas and epics completed; Aryabhata — Surya Siddhanta.
+- **Vakatakas** (Deccan, 3rd-5th CE): patrons of the **Ajanta caves** (Mahayana phase, 5th CE); sculptures in the **Amravati style** (Ex: Poophnar, MH).
+- **Ikshvakus** (Andhra, 3rd-4th CE): **Nagarjunakonda** — stupas and monasteries; patronised both Hinayana and Mahayana Buddhism.
+- **Kalabhras** (Tamil country, 3rd-7th CE): uprooted the Chera-Chola-Pandya rulers; their rule saw **Buddhism and Jainism** flourish in the Tamil land.
+- **Western Gangas** (Karnataka, 4th-10th CE): patrons of **Jainism** — the **Gomateshwara (Bahubali) monolith at Shravanabelagola** (c. 983 CE, erected by the minister Chamundaraya).
+- **Kadambas** (Banavasi, KN, 4th-6th CE): the first Kannada kingdom (founder **Mayurasharma**); the Madhukeshwara temple at Banavasi.
 :::
 
 :::conclusion
-- Template: Ajanta — Paintings: the flying Apsara, the Begging bowl, Padmapani; Sculpture: Mahaparinirvana, Mara Vijaya. Ellora — 34-HBJ; Cave 10 — Vishwakarma; Cave 16 — Kailashnath — Rashtrakutas.
+Regional patronage kept the Gupta template alive beyond the Gupta realm — these dynasties seeded the Deccan and southern schools that later flowered into the Pallava, Chola and Hoysala styles.
 :::
 
 ---
@@ -1557,7 +1558,7 @@ status: polished
 ---
 
 :::introduction
-(No specific intro provided).
+Every Act was a concession wrested under pressure — each widened Indian participation a little while keeping final power with the British. Nationalists judged each one unsparing:
 :::
 
 :::data
@@ -1905,7 +1906,7 @@ status: polished
 ---
 
 :::quote
-"I am not interested in freeing India merely from the British Yoke but from any yoke whatsoever. Thus the aim remained Swaraj from all forms of exploitation noy just the British." — Mahatma Gandhi
+"I am not interested in freeing India merely from the British Yoke but from any yoke whatsoever. Thus the aim remained Swaraj from all forms of exploitation not just the British." — Mahatma Gandhi
 :::
 
 :::introduction
@@ -2200,7 +2201,7 @@ subject: "HISTORY"
 section_group: "Modern History"
 microtopic: "Modern Indian History-Mid-18th century - Present (significant events, personalities, issues);"
 subtopic: "Colonial rule and impact"
-card_title: "Economic impact of British Rule"
+card_title: "Economic Impact of British Rule — Thinkers' Views"
 card_type: structured
 sections: [quote, data]
 flags: []
@@ -2367,10 +2368,20 @@ Discontent with the economic, social, political and military policies of the Bri
 :::
 
 :::data
-- **Rule through:** the land revenue system — Ryotwari, Mahalwari, Zamindari (R, M, Z).
-- **Brain Drain:** Education, Admin, Press.
-- **New Acts.**
-- **Opposition to INC:** the Muslim League, the Princely states, and others.
+- **Causes:**
+  - Political — the Doctrine of Lapse (Satara 1848, Jhansi 1853) and the annexation of Awadh (1856).
+  - Economic — land revenue pressure, deindustrialisation, loss of patronage.
+  - Socio-religious — reform laws and missionary activity seen as interference.
+  - Military — sepoy grievances; the General Service Enlistment Act (1856).
+  - Immediate — the greased cartridges; **Mangal Pandey** (Barrackpore, March 1857); the Meerut outbreak (10 May 1857).
+- **Centres & leaders:**
+  - Delhi — Bahadur Shah II (General Bakht Khan).
+  - Kanpur — Nana Saheb and Tantia Tope.
+  - Lucknow — Begum Hazrat Mahal.
+  - Jhansi — Rani Lakshmibai.
+  - Jagdishpur (Bihar) — Kunwar Singh.
+  - Faizabad — Maulvi Ahmadullah Shah.
+- **Suppression & aftermath:** Delhi fell (September 1857); Bahadur Shah II was exiled to Rangoon; the **GoI Act 1858** ended Company rule; the **Queen's Proclamation (1858)**; the army was reorganised.
 :::
 
 :::conclusion
@@ -2422,7 +2433,7 @@ card_title: "Socio-religious reform movements"
 card_type: structured
 sections: [quote, introduction]
 flags: []
-status: untouched
+status: polished
 ---
 
 :::quote
@@ -2430,7 +2441,7 @@ status: untouched
 :::
 
 :::introduction
-(No specific intro provided).
+The 19th-century reforms (Brahmo Samaj, Prarthana Samaj, Arya Samaj, the Aligarh Movement, the Ramakrishna Mission) attacked superstition, caste rigidity and gender injustice while reviving what was rational and humane in tradition — modernising India without westernising it.
 :::
 
 ---
@@ -2782,7 +2793,7 @@ status: polished
 
 :::data
 - Issues: Anti-semitism, violence, Xenophobia, Ethno-centrism.
-- Conflicts: ethnic. Intra-ethnic — shia vs sunni. Inter-ethnic — assamese vs bengali. Ethnic group vs state: naga mvmt; Khalistan.
+- Conflicts: ethnic. Intra-ethnic — shia vs sunni. Inter-ethnic — assamese vs bengali. Ethnic group vs state: the Naga movement; Khalistan.
 - **Basis of conflict:**
   - Language: tamil vs hindi
   - Religion: tribals vs christian missionaries
@@ -2914,7 +2925,7 @@ status: needs_review
 :::examples
 - Examples of tolerance
 - The **Karwa-e-Mohabbat**: a rally against hate crime
-- Visits by all religions and...
+- Visits by all religions and communities to the Golden Temple
 :::
 
 :::conclusion
@@ -3295,7 +3306,7 @@ subject: "SOCIETY"
 section_group: "Social Dynamics & Ideologies"
 microtopic: "National Integration, communalism, regionalism & secularism"
 subtopic: "Regionalism"
-card_title: "REGIONALIS M"
+card_title: "REGIONALISM"
 card_type: structured
 sections: [introduction, examples]
 flags: []
@@ -3308,10 +3319,10 @@ The strong sense of identity and unity felt by people of a particular geographic
 
 :::examples
 - Map of types
-- Secession: greater nagalim; khalistan
+- Secession: Greater Nagalim; Khalistan
 - Supra-state: the N-S divide
-- Inter-state: belgaum; cauvery
-- Intra-state: vidharba; bodoland
+- Inter-state: Belgaum; Cauvery
+- Intra-state: Vidarbha; Bodoland
 - Son of the soil: MH; local job quota
 :::
 
@@ -3432,7 +3443,7 @@ status: polished
 - **Distribution:**
   - **Tertiary:** Rajasthan, Gujarat, Tamil Nadu, Assam
   - **Gondwana:** the Damodar, Mahanadi, Godavari valleys
-  - **World:** China — Shanxi; the US — Appalachian; Russia; Aust; S Af
+  - **World:** China — Shanxi; the US — Appalachian; Russia; Australia; South Africa
 - **Issues:**
   - High Ash (**20-30%**)
   - Sulphur (**3-7%**)
@@ -3443,7 +3454,7 @@ status: polished
 
 :::conclusion
 - **JETP** for the energy transition of TPPs, along with a shift to cleaner tech like **coal gasification, CBM, CCUS**.
-- Steps: the **Natl Coal Gasification Mission — 100 MT 2030**; a Sustainable devel cell in the Coal ministry.
+- Steps: the **National Coal Gasification Mission — 100 MT 2030**; a Sustainable Development cell in the Coal ministry.
 :::
 
 ---
@@ -3472,7 +3483,7 @@ Renewable energy (RE), drawn from sunlight, wind, water, etc., offers an **eco-f
 - India holds the **4th largest installed capacity of RE** in the world.
 - The **3rd largest oil importer**, with rising demand set to **2x our import bill by 2030**.
 - Decentralised Ex: Daman.
-- **Initial invt cost — 4cr/MW for coal vs 6 cr/MW for RE**. Prices are falling, so DISCOMS hesitate on LT PPAs.
+- **Initial investment cost — 4cr/MW for coal vs 6 cr/MW for RE**. Prices are falling, so DISCOMS hesitate on LT PPAs.
 :::
 
 :::conclusion
@@ -3510,7 +3521,7 @@ status: polished
 :::
 
 :::conclusion
-- The task is not the government's or one agency's alone — all stakeholders... removing barriers ex. finance, technology collaborations for **cheaper battery storage & private participation** for greater adoption.
+- The task is not the government's or one agency's alone — all stakeholders... removing barriers (for example, finance and technology collaborations) for **cheaper battery storage & private participation** for greater adoption.
 - The Panchamrit's **500GW RE** target shows why the shift cannot wait.
 :::
 
@@ -3530,7 +3541,7 @@ status: polished
 
 :::introduction
 - **CBM:** an unconventional form of natural gas found in coal deposits.
-- **Natural Gas:** the target is to raise its share to **15% by 2030** from the present **about 6%**.
+- **Natural Gas:** the target is to raise its share in the **primary energy mix** to **15% by 2030** from the present **about 6%**.
 :::
 
 :::data
@@ -3575,11 +3586,11 @@ Total installed capacity stands at **533 GW (March 2026)**.
 - **52.3% RE incl large Hydro (271.9 GW)**
   - 140.6 GW solar
   - 54.6 GW wind
-- **3.9% Gas**
+- **3.9% Gas** (share in installed capacity — the energy-mix share is separately about 6%)
 :::
 
 :::conclusion
-The Central Electricity Auth — India's energy consumption is **set to double by 2040**.
+The Central Electricity Authority (CEA) — India's energy consumption is **set to double by 2040**.
 :::
 
 ---
@@ -3673,7 +3684,7 @@ status: needs_review
 
 :::data
 - **Distribution:**
-  - **India:** Barmer, Khambat, Mumbai High, the Brahmaputra valley, KG.
+  - **India:** Barmer, Khambhat, Mumbai High, the Brahmaputra valley, KG.
   - **World:** Venezuela, Siberia, W Africa — rest same as NG.
 - **Refineries:**
   - **Oil-field based:** Mumbai, Digboi
@@ -3772,11 +3783,11 @@ An installed capacity of **60GW** against a potential of **750 GW** as per NISE.
 :::
 
 :::conclusion
-- The task is not the government's or one agency's alone — all stakeholders must act together. The Panchamrit's **500GW RE** shows the need for removing barriers ex. finance, technology collaborations for **cheaper battery storage & private participation** for greater adoption.
+- The task is not the government's or one agency's alone — all stakeholders must act together. The Panchamrit's **500GW RE** shows the need for removing barriers (for example, finance and technology collaborations) for **cheaper battery storage & private participation** for greater adoption.
 - **Steps:**
   - ISA — OSOWOG
   - PLI
-  - The Natnl Solar Mission
+  - The National Solar Mission
   - KUSUM
   - The Wind Solar Hybrid policy
 :::
@@ -3840,7 +3851,7 @@ status: needs_review
 ---
 
 :::introduction
-India recently set a target of raising the share to **15% by 2030** from the present **6%** — **45% met through imports**. **GAIL holds a 70% share**.
+India recently set a target of raising natural gas's share in the **energy mix** to **15% by 2030** from the present **6%** — **45% met through imports**. **GAIL holds a 70% share**.
 :::
 
 :::examples
@@ -3906,7 +3917,7 @@ status: polished
 ---
 
 :::introduction
-Per the **ISFR 2021 / GFRA 2025**, India's total forest + tree cover stands at **24.62%**. The NFP 1988 target is **33%**; India ranks **9th globally** in forest area.
+Per the **ISFR 2021 / GFRA 2025**, India's total forest + tree cover stands at **24.62%** (forest cover alone: **21.71%**). The NFP 1988 target is **33%**; India ranks **9th globally** in forest area.
 :::
 
 :::data
@@ -3990,7 +4001,7 @@ status: polished
 - **Demand is high:**
   - Futuristic — EV, superconductivity
   - Strategic — nuclear, defence
-  - Envt — Wind turbines
+  - Environment — Wind turbines
 :::
 
 :::conclusion
@@ -4286,7 +4297,7 @@ As per the **Global Footprint Network**, humanity's demand for resources is now 
 - **Tech to reduce waste & increase yield** — Ex: 3D printing, precision farming
 - **More from less** — Ex: HYV, micro irrigation
 - **Mindfulness** — LIFE
-- **Conservation (natnl + intl)** — restoring degraded landscapes (Ex: Bonn); EPR; cultural wisdom — sacred groves
+- **Conservation (national + international)** — restoring degraded landscapes (Ex: Bonn); EPR; cultural wisdom — sacred groves
 :::
 
 :::conclusion
@@ -4524,7 +4535,7 @@ Jet streams are **geostrophic, high-velocity winds (400-500 km/hr)** blowing hor
 :::
 
 :::conclusion
-In the Indian context — a significant role in the **onset & withdrawal of the monsoon**, underscoring the need for greater understanding.
+In the Indian context — a significant role in the **onset & withdrawal of the monsoon**, showing the need for greater understanding.
 :::
 
 ---
@@ -4897,9 +4908,9 @@ status: polished
 
 :::introduction
 - Studying ocean temperature matters because it explains
-- how ocean currents move
-- which marine organisms live at various depths, and how they are spread
-- the climate of coastal areas
+  - how ocean currents move
+  - which marine organisms live at various depths, and how they are spread
+  - the climate of coastal areas
 :::
 
 :::examples
@@ -5405,8 +5416,8 @@ subtopic: "Fundamental Rights"
 card_title: "HATE SPEECH"
 card_type: structured
 sections: [quote, introduction]
-flags: [placeholder_blank]
-status: needs_review
+flags: []
+status: polished
 ---
 
 :::quote
@@ -5414,7 +5425,7 @@ status: needs_review
 :::
 
 :::introduction
-(Introductory definition to be added from notes)
+Hate speech has **no formal legal definition** in India. In practice it means expression that incites violence or spreads hatred against a group on grounds of religion, race, caste, community or sex. The law scatters it across IPC **153A, 295A and 505**; the **Law Commission (267th Report)** has recommended adding specific offences.
 :::
 
 ---
@@ -5554,7 +5565,7 @@ status: polished
 :::conclusion
 - **UK model:** A compulsory 40% reservation inside political parties.
 - A model of **1/3rd dual-member constituencies**.
-- It is not a panacea (O ACS).
+- It is not a panacea.
 :::
 
 ---
@@ -5688,7 +5699,8 @@ status: polished
 
 :::introduction
 - The **52nd CAA 1985** added the **10th Schedule**, which provides for disqualification on the basis of defection, to prevent **Aaya Ram Gaya Ram politics**.
-- **Recent Examples:** In Goa (2019), **10/15** Congress MLAs joined the BJP. In Maharashtra, the government collapsed. In Karnataka, the ruling government collapsed. In Manipur, the Speaker did not disqualify.
+- **Recent Examples:** In Goa (2019), **10/15** Congress MLAs joined the BJP.
+  In Maharashtra and Karnataka, state governments collapsed. In Manipur, the Speaker did not disqualify.
 - In the **Kihoto Hollohan Case**, the Court upheld its constitutionality.
 :::
 
@@ -6099,7 +6111,7 @@ status: polished
 :::introduction
 - The Speaker is the **constitutional and ceremonial head of the LS** under **Art. 93**. The Speaker presides over the day-to-day functioning of the House.
 - **Context:** The Maharashtra Speaker was accused. The Manipur Assembly Speaker gave no decision on defection. The Karnataka Speaker did not accept the resignation of ruling party MLAs. An MP from TS used pepper spray in the LS.
-- **Megha Chandra Singh vs MN Assembly:** The decision must be taken within a reasonable time.
+- **Meghachandra Singh vs the Manipur Assembly:** The decision must be taken within a reasonable time.
 :::
 
 :::detail label="Attached points"
@@ -6696,7 +6708,8 @@ status: polished
 
 :::introduction
 - Judges are appointed and transferred through a system that grew out of **SC judgements**. No Act of Parliament or constitutional provision creates it.
-- **1st Judges Case (1982); 2nd Judges Case (1993); 3rd Judges Case (1998); 4th Judges Case (2015), in which the NJAC was struck down** by a 4:1 bench on 16 October 2015 [Source: Supreme Court Observer].
+- The Judges Cases built it step by step: the **1st (1982)**, the **2nd (1993)**, the **3rd (1998)** and the **4th (2015)**.
+  In the 4th Judges Case the **NJAC was struck down** by a 4:1 bench on 16 October 2015 [Source: Supreme Court Observer].
 :::
 
 ---
@@ -7365,7 +7378,7 @@ status: polished
 ---
 
 :::introduction
-Data means information that is stored in digital format in a computer or network.
+Cyber crimes are unlawful acts committed using computers and networks — phishing, identity theft, ransomware, online financial fraud and cyberstalking. The **IT Act, 2000** (amended 2008) is the governing law; **I4C** coordinates the response.
 :::
 
 :::data
@@ -7923,7 +7936,7 @@ card_title: "GOVERNMENT SCHEMES (COMMON FRAMEWORK)"
 card_type: structured
 sections: [quote, introduction, data, conclusion, detail]
 flags: []
-status: needs_review
+status: polished
 ---
 
 :::quote
@@ -7935,11 +7948,11 @@ status: needs_review
 :::
 
 :::data
-- (Scheme-specific)
+- **Universal evaluation path:** beneficiary identification -> formulation -> capacity (3F) -> implementation -> monitoring (the detail block below is the checklist).
 :::
 
 :::conclusion
-(Use scheme-specific conclusions + SDG references from Social Justice section)
+A scheme is judged by outcomes, not outlays — convergence, last-mile delivery and honest monitoring turn allocations into impact on the ground.
 :::
 
 :::detail label="Scheme-related issues"
@@ -8363,11 +8376,11 @@ card_title: "EDUCATION"
 card_type: structured
 sections: [introduction, data, conclusion]
 flags: []
-status: needs_review
+status: polished
 ---
 
 :::introduction
-(To be filled)
+Education is the engine of social mobility and human capital. The **NEP 2020** — its 5+3+3+4 design, foundational literacy-numeracy (NIPUN Bharat) and a **6% of GDP** public-spending goal — anchors the reform agenda.
 :::
 
 :::data
@@ -8392,12 +8405,12 @@ subtopic: "Health"
 card_title: "HEALTH"
 card_type: structured
 sections: [introduction, conclusion]
-flags: [placeholder_blank]
-status: needs_review
+flags: []
+status: polished
 ---
 
 :::introduction
-(Sector-specific data to be added)
+Health underpins human capital. The **NHP 2017** targets **2.5% of GDP** public health spending, and **Ayushman Bharat** pairs **PM-JAY** coverage with Health & Wellness Centres for primary care.
 :::
 
 :::conclusion
@@ -8507,16 +8520,16 @@ card_title: "SOCIAL JUSTICE — COMMON FRAMEWORK"
 card_type: structured
 sections: [introduction, data, conclusion]
 flags: []
-status: needs_review
+status: polished
 ---
 
 :::introduction
-- **Data** (sector specific).
-- **O ACS:** Voice, Choice.
+- **Structure:** one humanising statistic -> the vulnerability defined -> the constitutional vision (Art. 38, 46) -> scheme performance -> way forward.
+- **Voice & choice:** citizens' voice and choice — feedback, social audits and exit options — keep services accountable.
 :::
 
 :::data
-- (Sector-specific)
+- **Universal anchors to pick from:** MPI headcount, female LFPR, out-of-school children, out-of-pocket health expenditure — use the one that fits the question.
 :::
 
 :::conclusion
@@ -8767,11 +8780,11 @@ card_title: "VULNERABLE SECTIONS — COMMON CONCLUSION"
 card_type: structured
 sections: [introduction, conclusion]
 flags: []
-status: needs_review
+status: polished
 ---
 
 :::introduction
-(Sector and scheme specific)
+Welfare succeeds when it moves from outlay to outcome — with the participation of the vulnerable, not just provisioning for them.
 :::
 
 :::conclusion
@@ -8872,13 +8885,13 @@ subtopic: "Energy X Foreign Policy"
 card_title: "ECONOMIC DIPLOMACY"
 card_type: structured
 sections: [introduction, conclusion]
-flags: [placeholder_blank]
-status: needs_review
+flags: []
+status: polished
 ---
 
 :::introduction
 - **Economic diplomacy** is the use of **diplomatic skills with economic tools** to advance a country’s objectives.
-- Using **____ diplomacy** enables use of expertise in the **____** field to advance the country's **strategic interest**.
+- In practice it spans **trade, energy, science & technology and development-partnership diplomacy** — each converts expertise abroad into strategic advantage at home.
 :::
 
 :::conclusion
@@ -10431,7 +10444,7 @@ status: polished
 :::
 
 :::examples
-- **60+ Vande Bharat trains** now run on major routes.
+- **164 Vande Bharat services** were operational by **December 2025**, carrying over **7.5 crore passengers** [Source: Indian Railways].
 - **500+ stations** are part of the Amrit Bharat redevelopment plan.
 - UDAN has opened **480+ air routes**.
 :::
@@ -10821,9 +10834,9 @@ status: polished
 - **Micro-watershed Atlas of India 2019**.
 - **Mihir Shah Committee:**
   - 1. Demand management: crop diversification.
-  - 2. RRR.
-  - 1. Supply side: nature-based solutions.
-  - 2. Dam and river management.
+  - 2. RRR (repair, renovation, restoration of water bodies).
+  - 3. Supply side: nature-based solutions.
+  - 4. Dam and river management.
   - Water governance: a multi-stakeholder **National Water Commission**.
 :::
 
@@ -11805,11 +11818,11 @@ status: polished
 :::
 
 :::data
-- AI is projected to contribute **$500 Bn** to GDP by 2025 (NITI Aayog's #AIforAll strategy projection, 2018).
+- AI could add **$450-500 Bn** to India's GDP by 2025 — about **10% of the $5 tn economy** target [Source: NASSCOM AI Adoption Index, 2022].
 :::
 
 :::conclusion
-**AI could add $500 Bn to India’s GDP by 2025**, which is 10% of the $5 Trillion target. Regulation needs to balance **innovation and unintended consequences** (privacy, digital divide).
+**AI could add $450-500 Bn to India’s GDP by 2025** — about 10% of the $5 Trillion target (NASSCOM). Regulation needs to balance **innovation and unintended consequences** (privacy, digital divide).
 :::
 
 ---
@@ -11872,7 +11885,7 @@ Governance is becoming **faceless, paperless and cashless** through **Digital In
 :::examples
 - Through DBT, ₹30+ lakh crore has reached over 90 crore beneficiaries.
 - **DigiLocker** has made 230+ crore document issuances possible.
-- Additional services have been integrated under the **UMANG app**.
+- Hundreds of central and state citizen services have been integrated under the **UMANG app**.
 :::
 
 :::conclusion
@@ -12442,7 +12455,7 @@ card_title: "GAGANYAAN"
 card_type: structured
 sections: [introduction, data, conclusion]
 flags: []
-status: needs_review
+status: polished
 ---
 
 :::introduction
@@ -12458,7 +12471,7 @@ status: needs_review
 :::
 
 :::conclusion
-(No specific conclusion provided — same template as Aditya L1)
+Gaganyaan is capability-building as much as spaceflight — a human-rated launch vehicle, crew-escape and life-support systems built at home, with spillovers into materials, medicine and robotics, and the road ahead to the **Bharatiya Antariksh Station (2035)** and an Indian on the **Moon (2040)**.
 :::
 
 ---
@@ -12751,7 +12764,7 @@ card_title: "CRYOGENICS"
 card_type: structured
 sections: [introduction, data, conclusion]
 flags: []
-status: needs_review
+status: polished
 ---
 
 :::introduction
@@ -12769,7 +12782,7 @@ status: needs_review
 :::
 
 :::conclusion
-(No specific conclusion provided — refer general S&T template)
+Indigenous cryogenics was born of technology denial in the 1990s and proved itself with **GSLV-D5 (2014)**; today it powers heavy-lift launches, and its applications reach MRI, cryosurgery and food preservation — denial turned into capability.
 :::
 
 ---
@@ -13612,7 +13625,7 @@ status: polished
 :::
 
 :::introduction
-- **FSI:** forest cover stands at **21.7%**, against the **NFP 1988** target of **33%**.
+- **FSI:** forest cover stands at **21.7%** (forest cover only; with tree cover it is **24.62%**), against the **NFP 1988** target of **33%**.
 - **3 lakh ha** of forest land was diverted over 15 years — mostly for **mining, roads, irrigation**.
 - **Best Practices:**
 - **Eco-feminism:** the Piplanatri model.
@@ -15311,7 +15324,7 @@ card_title: "LINKAGES BETWEEN ORGANISED CRIME & TERRORISM"
 card_type: structured
 sections: [introduction, conclusion]
 flags: []
-status: needs_review
+status: polished
 ---
 
 :::introduction
@@ -15319,7 +15332,7 @@ status: needs_review
 :::
 
 :::conclusion
-Template — this **war is not any one agency's or one government's alone**.
+The crime-terror nexus is one war on many fronts: intelligence fusion, financial chokepoints (**PMLA**, **FATF** standards), global cooperation (**UNTOC**) and development in the war economy's catchments — all stakeholders, one platform.
 :::
 
 ---
@@ -15823,7 +15836,7 @@ status: polished
 
 :::introduction
 - **Definition:** pushing extreme ideologies or actions that defy **established norms and institutions**, using **unconstitutional and violent methods**.
-- Antonio Guterres quote on underdevelopment.
+- "Poverty, inequalities and social exclusion give terrorism fuel." — Antonio Guterres
 :::
 
 ---
@@ -15869,7 +15882,7 @@ status: polished
 :::conclusion
 - Peace in the NE is key to safeguarding India's **SUSI**.
 - It also serves the PM's vision of **"Act East, Act first through North East"**.
-- Antonio Guterres quote on underdevelopment and inequality fits here.
+- "A more secure world begins by investing at least as much in fighting poverty as we do in fighting wars." — Antonio Guterres
 :::
 
 ---
@@ -15947,10 +15960,10 @@ status: polished
 ---
 
 :::introduction
-- The **MoHA** has brought in 3 new Bills:
-- IPC → **Bhartiya Nyay Sanhita Bill**.
-- CrPC → **Bhartiya Nagrik Suraksha Sanhita Bill**.
-- IEA → **Bhartiya Sakshya Bill**.
+- The **MoHA** has brought in 3 new laws (in force 1 July 2024):
+- IPC → **Bharatiya Nyaya Sanhita**.
+- CrPC → **Bharatiya Nagarik Suraksha Sanhita**.
+- IEA → **Bharatiya Sakshya**.
 - The new provisions stand out for being **retributive, victim-centric, tech-enabled and simplified**.
 - **IPC new sections**:
   - 1. S.110 (organised crime).
@@ -15973,7 +15986,7 @@ status: polished
 :::
 
 :::conclusion
-The intent behind the new laws, in **MoHA**'s words: "The spirit of the 3 new laws is not to punish but to give justice to every citizen & prevent further crimes."
+In **MoHA**'s words: "The spirit of the 3 new laws is not to punish but to give justice to every citizen & prevent further crimes."
 :::
 
 ---
@@ -16615,11 +16628,11 @@ status: untouched
 ---
 
 :::examples
-- "Eg. case of **IPS beating his wife**. (MP)".
+- "Eg. case of **IPS beating his wife** (MP)."
 :::
 
 :::detail label="Concept"
-- "**Adherence to laws** may not be followed in **private sphere of life**.".
+- "**Adherence to laws** may not be followed in **private sphere of life**."
 :::
 
 ---
@@ -17103,7 +17116,7 @@ status: untouched
 ---
 
 :::quote
-"Thus, Winston Churchill has rightly said, 'There is no doubt that it is around the **family** that all the **greatest institutions** are created, strengthened and maintained'"."
+"Thus, Winston Churchill has rightly said, 'There is no doubt that it is around the **family** that all the **greatest institutions** are created, strengthened and maintained'."
 :::
 
 ---
@@ -17121,7 +17134,7 @@ status: untouched
 ---
 
 :::quote
-"Thus, Plato has correctly said, 'What is **honoured in a society** is **cultivated there**'."."
+"Thus, Plato has correctly said, 'What is **honoured in a society** is **cultivated there**'."
 :::
 
 ---
@@ -17614,7 +17627,7 @@ status: untouched
 ---
 
 :::examples
-- "Eg: **IPS Prabhat Kumar** arrested his son involved in liquor smuggling.".
+- "Eg: **IPS Prabhat Kumar** arrested his son involved in liquor smuggling."
 :::
 
 ---
@@ -17664,7 +17677,7 @@ status: untouched
 ---
 
 :::examples
-- "Eg: **IAS Pankaj Jain** sent his daughter to local Anganwadi, instead of private school.".
+- "Eg: **IAS Pankaj Jain** sent his daughter to local Anganwadi, instead of private school."
 :::
 
 ---
@@ -17747,7 +17760,7 @@ subject: "ETHICS, INTEGRITY & APTITUDE"
 section_group: "Psychology & Foundational Values"
 microtopic: "Aptitude and Foundational Values for Civil Service"
 subtopic: "Integrity X Intelligence X Energy"
-card_title: "WARREN BUFFET ON HIRING"
+card_title: "WARREN BUFFETT ON HIRING"
 card_type: structured
 sections: [quote]
 flags: []
@@ -17968,7 +17981,7 @@ status: polished
 :::
 
 :::introduction
-Attitude is a **structured mental orientation toward a person, object, or idea — built from beliefs, emotions, and behavioral intentions.** It acts as the psychological filter through which a person reads and reacts to the world.
+Attitude is a **structured mental orientation toward a person, object, or idea — built from beliefs, emotions, and behavioural intentions.** It acts as the psychological filter through which a person reads and reacts to the world.
 :::
 
 :::examples
@@ -18000,7 +18013,7 @@ status: polished
 :::
 
 :::introduction
-**Attitude has a tripartite structure: cognitive (belief), affective (feeling), and behavioral (intention).** Working together, these components form a stable psychological disposition — the lens through which people judge and react to stimuli.
+**Attitude has a tripartite structure: cognitive (belief), affective (feeling), and behavioural (intention).** Working together, these components form a stable psychological disposition — the lens through which people judge and react to stimuli.
 :::
 
 :::examples
@@ -18100,7 +18113,7 @@ status: polished
 :::
 
 :::introduction
-**Attitudes influence behavior, but social pressure, opportunity, and perceived consequences moderate that link.** When belief and action align, a person shows authenticity and ethical consistency.
+**Attitudes influence behaviour, but social pressure, opportunity, and perceived consequences moderate that link.** When belief and action align, a person shows authenticity and ethical consistency.
 :::
 
 :::examples
@@ -18206,7 +18219,7 @@ status: polished
 :::
 
 :::introduction
-**Social influence is the shaping of a person's attitudes and behaviors by others — through conformity, obedience, persuasion, or peer pressure.** The outcome can be constructive or destructive.
+**Social influence is the shaping of a person's attitudes and behaviours by others — through conformity, obedience, persuasion, or peer pressure.** The outcome can be constructive or destructive.
 :::
 
 :::examples
@@ -18467,11 +18480,11 @@ status: untouched
 ---
 
 :::examples
-- "Eg: **IAS Divya Devarajan** learnt the **language of Gonds** to **solve their concerns**.".
+- "Eg: **IAS Divya Devarajan** learnt the **language of Gonds** to **solve their concerns**."
 :::
 
 :::detail label="Concept"
-- "EI enables one to be empathetic and solve the problem constructively".
+- "EI enables one to be empathetic and solve the problem constructively."
 :::
 
 ---
@@ -18857,7 +18870,7 @@ status: polished
   They also balance work and leisure, make us role models, and aid conflict resolution.
   Criticism becomes constructive feedback for growth; mental health stays stable; Intrinsic motivation grows.
 - Us working for emotions: a poor work environment from workplace politics; communal tensions; reactionary policies; falling for propaganda; vulnerability to manipulation
-- Dark side of EI: Manipulation for self interest; adding to offense; Self interest over public interest
+- Dark side of EI: Manipulation for self interest; adding to offence; Self interest over public interest
 :::
 
 ---
@@ -18910,7 +18923,7 @@ subject: "ETHICS, INTEGRITY & APTITUDE"
 section_group: "Psychology & Foundational Values"
 microtopic: "Emotional intelligence: Concepts, utilities and application in administration"
 subtopic: "EQ vs IQ"
-card_title: "WARREN BUFFET ON RATIONAL BEHAVIOUR"
+card_title: "WARREN BUFFETT ON RATIONAL BEHAVIOUR"
 card_type: structured
 sections: [quote]
 flags: []
@@ -18936,7 +18949,7 @@ status: untouched
 ---
 
 :::quote
-"We must remember, what Martin Luther King Jr. said, 'We must learn to live together as brothers, or die together as fools'"." "'Let us sacrifice our today so that our children can have a better tomorrow', A.P.J. Abdul Kalam"."
+"We must remember, what Martin Luther King Jr. said, 'We must learn to live together as brothers, or die together as fools'." 'Let us sacrifice our today so that our children can have a better tomorrow', A.P.J. Abdul Kalam."
 :::
 
 ---
@@ -18954,7 +18967,7 @@ status: untouched
 ---
 
 :::quote
-"Kalam: corruption arises as a consequence of erosion of conscient & lack of righteousness."
+"Kalam: corruption arises as a consequence of erosion of conscience & lack of righteousness."
 :::
 
 ---
@@ -20247,7 +20260,7 @@ subject: "ETHICS, INTEGRITY & APTITUDE"
 section_group: "Moral Thinkers & Leaders"
 microtopic: "Lessons from the Lives and Teachings of Great Leaders, Reformers and Administrators"
 subtopic: "Teachings of Great Leaders"
-card_title: "CHHAVI RAJAVAT (EDUCATED SARPANCH)"
+card_title: "CHHAVI RAJAWAT (EDUCATED SARPANCH)"
 card_type: detail
 sections: [examples]
 flags: []
@@ -20255,7 +20268,7 @@ status: polished
 ---
 
 :::examples
-- **Chhavi Rajavat** — a Harvard graduate serving as Sarpanch
+- **Chhavi Rajawat** — a Harvard graduate serving as Sarpanch
 :::
 
 ---
@@ -20735,7 +20748,7 @@ status: untouched
 ---
 
 :::examples
-- "Eg: Hyderabad municipal corporation compensates people when electricity/water supplies are cut.".
+- "Eg: Hyderabad municipal corporation compensates people when electricity/water supplies are cut."
 :::
 
 ---
@@ -20817,7 +20830,7 @@ status: untouched
 ---
 
 :::quote
-"Thus, the solution suggested by Kofi Annan holds ground. 'If corruption is disease, transparency is the best treatment available!'"."
+"Thus, the solution suggested by Kofi Annan holds ground. 'If corruption is disease, transparency is the best treatment available!'"
 :::
 
 ---
@@ -20835,11 +20848,11 @@ status: untouched
 ---
 
 :::examples
-- "Eg: **RTI** application in Santhri (Karnataka) showed that politician families received **MGNREGA** wages without working.".
+- "Eg: **RTI** application in Santhri (Karnataka) showed that politician families received **MGNREGA** wages without working."
 :::
 
 :::detail label="Concept"
-- "Further, when public asks for information, **corruption** cannot continue any further.".
+- "Further, when public asks for information, **corruption** cannot continue any further."
 :::
 
 ---
@@ -21199,7 +21212,7 @@ status: untouched
 ---
 
 :::examples
-- "Eg: Social audit in Andhra Pradesh led to exposure of 30,000 government officials involved in **corruption**.".
+- "Eg: Social audit in Andhra Pradesh led to exposure of 30,000 government officials involved in **corruption**."
 :::
 
 ---
@@ -21356,7 +21369,7 @@ status: untouched
 ---
 
 :::examples
-- "Eg: LG Polymers operated harmful gases without proper clearance, leading to leakage and harming its growth potential by harming public".
+- "Eg: LG Polymers operated harmful gases without proper clearance, leading to leakage and harming its growth potential by harming public."
 :::
 
 ---
@@ -21374,7 +21387,7 @@ status: untouched
 ---
 
 :::examples
-- "Eg: Balance sheet fudging by Satyam computers led to closure of the company.".
+- "Eg: Balance sheet fudging by Satyam computers led to closure of the company."
 :::
 
 ---
@@ -21464,7 +21477,7 @@ status: untouched
 ---
 
 :::detail label="Concept"
-- "Vaccine nationalism and cornered 60% vaccines despite only 16% population, it becomes essential to question the ethicality of vaccine passports.".
+- "Vaccine nationalism and cornered 60% vaccines despite only 16% population, it becomes essential to question the ethicality of vaccine passports."
 :::
 
 ---
@@ -21810,7 +21823,7 @@ status: untouched
 ---
 
 :::quote
-"On Marital rape: As noted by European Commission of Justice 'A rapist is a rapist regardless of his relationship with the victim!'"."
+"On Marital rape: As noted by European Commission of Justice 'A rapist is a rapist regardless of his relationship with the victim!'"
 :::
 
 ---
