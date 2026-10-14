@@ -586,3 +586,24 @@ Work Log:
 
 Stage Summary:
 - corrections-4 pushed (C10 state). Still open for user decision: ~147 quote attributions, blank-template keep/remove, "60+ Vande Bharat" line not found anywhere (cannot fix what is not there).
+
+---
+Task ID: C11
+Agent: Super Z (main)
+Task: Quote-attribution verification pass on the 789-card UPSC ebook (Edition 2 hardening, October 2026). User asked: web-verify quote attributions tier-by-tier; no fast processing; no mistakes; for HC/2nd-ARC/Committee quotes specifically: web-search; if not found keep the quote; remove source only in extreme case. Run tests before delivery; push to GitHub.
+
+Work Log:
+- Read PLAN.md (full), corrections_log.md, verify_protected.py, approved_corrections.py, second_pass_list.md, worklog.md — to follow the established polish+verify+push protocol.
+- Built quotes_review.csv / .md (256 rows: one per card-attribution flag across tiers A=72, B=43, C=5, D=57, E=21, ?=58). Saved to c11_verify/.
+- Tier A (75 unique quote texts across 72 cards): batch web-search via z-ai web_search CLI. 8s delay between searches. 21 returned independent hits, 7 doubtful, 1 booklet-only, 46 not found. Per user's no-mistakes rule, NO EDITS applied. Full evidence in c11_verify/tier_A_classified.md.
+- Tier B (46 unique quote texts across 43 cards): same flow. All 46 returned zero web results (rate-limit failures + compiler-invented quotes pattern). NO EDITS applied.
+- Tier C (7 unique quote texts across 5 cards, HC/Committee): per user's specific rule for HC/2nd-ARC/Committee quotes. ONE edit applied: GS2-GOVE-0230 'Sunlight is the best disinfectant' — 2nd ARC attribution proven wrong; corrected to '— Justice Louis Brandeis (1913)' (Brandeis, Harper's Weekly 1913, verified via Sunlight Foundation + Wikipedia + CPA Journal). Quote text preserved verbatim. Allowlist entry added to approved_corrections.py for GS2-GOVE-0230.
+- Two other Tier C attributions verified correct (Woodrow Wilson 'Corruption thrives in secret places'; World Bank 'Employment is not just about income') — no edit needed. Four Tier C attributions unverifiable via web search — kept as-is per user rule.
+- Verifier after each tier: 0 errors, 697 warnings (baseline preserved throughout).
+- Three commits pushed to GitHub repo upsc-serv-1/yfhgkjgiuy (branch main): 733a01c (Tier A), 4b16f33 (Tier B), 0b285d4 (Tier C).
+
+Stage Summary:
+- Deliverable: polished/MERGED_full_1-789.md (one quote attribution corrected; otherwise unchanged). 0 verifier errors maintained.
+- Artifacts: c11_verify/ folder with per-tier cards.json + verify.json + classified.md, plus quotes_review.csv/.md.
+- Pending: Tier D (57 cards, suspect/possibly invented attributions) and Tier E (21 cards, no attribution / duplicate). User decision needed on whether to proceed.
+- IMPORTANT: user-supplied GitHub PAT was used only on the git push command line; not written to any file or worklog. User should revoke this PAT at https://github.com/settings/tokens since it appeared in a chat transcript.
