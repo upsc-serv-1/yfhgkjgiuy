@@ -1,0 +1,781 @@
+[
+  {
+    "key": "the story of india is written in stone.",
+    "quote_text": "\"The story of India is written in stone.\" – John Marshall",
+    "norm": "The story of India is written in stone.",
+    "claimed_author": "John Marshall",
+    "cards": [
+      "0004"
+    ],
+    "search_exact": {
+      "error": "Failed to invoke remote function: 477 |                 headers,\n478 |                 body: JSON.stringify(body),\n479 |             });\n480 |             if (!response.ok) {\n481 |                 const errorBody = await response.text();\n482 |                 throw new Error(`Function invoke failed ",
+      "results": []
+    },
+    "search_with_author": {
+      "error": "Failed to invoke remote function: 477 |                 headers,\n478 |                 body: JSON.stringify(body),\n479 |             });\n480 |             if (!response.ok) {\n481 |                 const errorBody = await response.text();\n482 |                 throw new Error(`Function invoke failed ",
+      "results": []
+    }
+  },
+  {
+    "key": "bengal united is power. divided it will pull in several different ways.",
+    "quote_text": "\"Bengal united is power. Divided it will pull in several different ways.\" — L Risley",
+    "norm": "Bengal united is power. Divided it will pull in several different ways.",
+    "claimed_author": "L Risley",
+    "cards": [
+      "0054"
+    ],
+    "search_exact": {
+      "error": "Failed to invoke remote function: 477 |                 headers,\n478 |                 body: JSON.stringify(body),\n479 |             });\n480 |             if (!response.ok) {\n481 |                 const errorBody = await response.text();\n482 |                 throw new Error(`Function invoke failed ",
+      "results": []
+    },
+    "search_with_author": {
+      "error": "Failed to invoke remote function: 477 |                 headers,\n478 |                 body: JSON.stringify(body),\n479 |             });\n480 |             if (!response.ok) {\n481 |                 const errorBody = await response.text();\n482 |                 throw new Error(`Function invoke failed ",
+      "results": []
+    }
+  },
+  {
+    "key": "the environment and the economy are really both two sides of the same coin. you cannot sustain the economy if you don't take care of the environment.",
+    "quote_text": "\"The environment and the economy are really both two sides of the same coin. You cannot sustain the economy if you don't take care of the environment.\" — Bruce Lipton",
+    "norm": "The environment and the economy are really both two sides of the same coin. You cannot sustain the economy if you don't take care of the environment.",
+    "claimed_author": "Bruce Lipton",
+    "cards": [
+      "0131"
+    ],
+    "search_exact": {
+      "error": "Failed to invoke remote function: 477 |                 headers,\n478 |                 body: JSON.stringify(body),\n479 |             });\n480 |             if (!response.ok) {\n481 |                 const errorBody = await response.text();\n482 |                 throw new Error(`Function invoke failed ",
+      "results": []
+    },
+    "search_with_author": {
+      "error": "Failed to invoke remote function: 477 |                 headers,\n478 |                 body: JSON.stringify(body),\n479 |             });\n480 |             if (!response.ok) {\n481 |                 const errorBody = await response.text();\n482 |                 throw new Error(`Function invoke failed ",
+      "results": []
+    }
+  },
+  {
+    "key": "industries go where they are wanted, and stay where they are treated well.",
+    "quote_text": "\"Industries go where they are wanted, and stay where they are treated well.\" — Ronald Reagan",
+    "norm": "Industries go where they are wanted, and stay where they are treated well.",
+    "claimed_author": "Ronald Reagan",
+    "cards": [
+      "0133"
+    ],
+    "search_exact": {
+      "error": "Failed to invoke remote function: 477 |                 headers,\n478 |                 body: JSON.stringify(body),\n479 |             });\n480 |             if (!response.ok) {\n481 |                 const errorBody = await response.text();\n482 |                 throw new Error(`Function invoke failed ",
+      "results": []
+    },
+    "search_with_author": {
+      "error": "Failed to invoke remote function: 477 |                 headers,\n478 |                 body: JSON.stringify(body),\n479 |             });\n480 |             if (!response.ok) {\n481 |                 const errorBody = await response.text();\n482 |                 throw new Error(`Function invoke failed ",
+      "results": []
+    }
+  },
+  {
+    "key": "we do not inherit the earth from our ancestors; we borrow it from our children.\"  native american proverb",
+    "quote_text": "\"We do not inherit the Earth from our ancestors; we borrow it from our children.\"  Native American Proverb",
+    "norm": "We do not inherit the Earth from our ancestors; we borrow it from our children.\"  Native American Proverb",
+    "claimed_author": "",
+    "cards": [
+      "0134"
+    ],
+    "search_exact": {
+      "error": "Failed to invoke remote function: 477 |                 headers,\n478 |                 body: JSON.stringify(body),\n479 |             });\n480 |             if (!response.ok) {\n481 |                 const errorBody = await response.text();\n482 |                 throw new Error(`Function invoke failed ",
+      "results": []
+    },
+    "search_with_author": {
+      "results": []
+    }
+  },
+  {
+    "key": "nature does not hurry, yet everything is accomplished.",
+    "quote_text": "\"Nature does not hurry, yet everything is accomplished.\"",
+    "norm": "Nature does not hurry, yet everything is accomplished.",
+    "claimed_author": "",
+    "cards": [
+      "0142"
+    ],
+    "search_exact": {
+      "error": "Failed to invoke remote function: 477 |                 headers,\n478 |                 body: JSON.stringify(body),\n479 |             });\n480 |             if (!response.ok) {\n481 |                 const errorBody = await response.text();\n482 |                 throw new Error(`Function invoke failed ",
+      "results": []
+    },
+    "search_with_author": {
+      "results": []
+    }
+  },
+  {
+    "key": "amendment is the lifeline of a living constitution.",
+    "quote_text": "\"Amendment is the lifeline of a living Constitution.\" — Nani Palkhivala",
+    "norm": "Amendment is the lifeline of a living Constitution.",
+    "claimed_author": "Nani Palkhivala",
+    "cards": [
+      "0159"
+    ],
+    "search_exact": {
+      "error": "Failed to invoke remote function: 477 |                 headers,\n478 |                 body: JSON.stringify(body),\n479 |             });\n480 |             if (!response.ok) {\n481 |                 const errorBody = await response.text();\n482 |                 throw new Error(`Function invoke failed ",
+      "results": []
+    },
+    "search_with_author": {
+      "error": "Failed to invoke remote function: 477 |                 headers,\n478 |                 body: JSON.stringify(body),\n479 |             });\n480 |             if (!response.ok) {\n481 |                 const errorBody = await response.text();\n482 |                 throw new Error(`Function invoke failed ",
+      "results": []
+    }
+  },
+  {
+    "key": "free & fair elections are the lifeblood of any democracy.",
+    "quote_text": "\"Free & Fair elections are the lifeblood of any democracy.\" — Jimmy Carter",
+    "norm": "Free & Fair elections are the lifeblood of any democracy.",
+    "claimed_author": "Jimmy Carter",
+    "cards": [
+      "0178"
+    ],
+    "search_exact": {
+      "error": "Failed to invoke remote function: 477 |                 headers,\n478 |                 body: JSON.stringify(body),\n479 |             });\n480 |             if (!response.ok) {\n481 |                 const errorBody = await response.text();\n482 |                 throw new Error(`Function invoke failed ",
+      "results": []
+    },
+    "search_with_author": {
+      "error": "Failed to invoke remote function: 477 |                 headers,\n478 |                 body: JSON.stringify(body),\n479 |             });\n480 |             if (!response.ok) {\n481 |                 const errorBody = await response.text();\n482 |                 throw new Error(`Function invoke failed ",
+      "results": []
+    }
+  },
+  {
+    "key": "when the power of a vote is diluted through opacity in political funding, democracy loses its intrinsic value.",
+    "quote_text": "\"When the power of a vote is diluted through opacity in political funding, democracy loses its intrinsic value.\" — Ornit Shani",
+    "norm": "When the power of a vote is diluted through opacity in political funding, democracy loses its intrinsic value.",
+    "claimed_author": "Ornit Shani",
+    "cards": [
+      "0179"
+    ],
+    "search_exact": {
+      "error": "Failed to invoke remote function: 477 |                 headers,\n478 |                 body: JSON.stringify(body),\n479 |             });\n480 |             if (!response.ok) {\n481 |                 const errorBody = await response.text();\n482 |                 throw new Error(`Function invoke failed ",
+      "results": []
+    },
+    "search_with_author": {
+      "error": "Failed to invoke remote function: 477 |                 headers,\n478 |                 body: JSON.stringify(body),\n479 |             });\n480 |             if (!response.ok) {\n481 |                 const errorBody = await response.text();\n482 |                 throw new Error(`Function invoke failed ",
+      "results": []
+    }
+  },
+  {
+    "key": "free & fair elections are lifeblood of any democracy",
+    "quote_text": "\"Free & Fair elections are lifeblood of any democracy\" — Jimmy Carter",
+    "norm": "Free & Fair elections are lifeblood of any democracy",
+    "claimed_author": "Jimmy Carter",
+    "cards": [
+      "0181"
+    ],
+    "search_exact": {
+      "error": "Failed to invoke remote function: 477 |                 headers,\n478 |                 body: JSON.stringify(body),\n479 |             });\n480 |             if (!response.ok) {\n481 |                 const errorBody = await response.text();\n482 |                 throw new Error(`Function invoke failed ",
+      "results": []
+    },
+    "search_with_author": {
+      "error": "Failed to invoke remote function: 477 |                 headers,\n478 |                 body: JSON.stringify(body),\n479 |             });\n480 |             if (!response.ok) {\n481 |                 const errorBody = await response.text();\n482 |                 throw new Error(`Function invoke failed ",
+      "results": []
+    }
+  },
+  {
+    "key": "when the power of a vote is diluted through opacity in political funding, democracy loses its intrinsic value",
+    "quote_text": "\"When the power of a vote is diluted through opacity in political funding, democracy loses its intrinsic value\" — Ornit Shani",
+    "norm": "When the power of a vote is diluted through opacity in political funding, democracy loses its intrinsic value",
+    "claimed_author": "Ornit Shani",
+    "cards": [
+      "0185"
+    ],
+    "search_exact": {
+      "error": "Failed to invoke remote function: 477 |                 headers,\n478 |                 body: JSON.stringify(body),\n479 |             });\n480 |             if (!response.ok) {\n481 |                 const errorBody = await response.text();\n482 |                 throw new Error(`Function invoke failed ",
+      "results": []
+    },
+    "search_with_author": {
+      "error": "Failed to invoke remote function: 477 |                 headers,\n478 |                 body: JSON.stringify(body),\n479 |             });\n480 |             if (!response.ok) {\n481 |                 const errorBody = await response.text();\n482 |                 throw new Error(`Function invoke failed ",
+      "results": []
+    }
+  },
+  {
+    "key": "social media is a double-edged sword.",
+    "quote_text": "\"Social media is a double-edged sword.\" — Noam Chomsky",
+    "norm": "Social media is a double-edged sword.",
+    "claimed_author": "Noam Chomsky",
+    "cards": [
+      "0200"
+    ],
+    "search_exact": {
+      "error": "Failed to invoke remote function: 477 |                 headers,\n478 |                 body: JSON.stringify(body),\n479 |             });\n480 |             if (!response.ok) {\n481 |                 const errorBody = await response.text();\n482 |                 throw new Error(`Function invoke failed ",
+      "results": []
+    },
+    "search_with_author": {
+      "error": "Failed to invoke remote function: 477 |                 headers,\n478 |                 body: JSON.stringify(body),\n479 |             });\n480 |             if (!response.ok) {\n481 |                 const errorBody = await response.text();\n482 |                 throw new Error(`Function invoke failed ",
+      "results": []
+    }
+  },
+  {
+    "key": "in democracy, even silence can organise into influence.",
+    "quote_text": "\"In democracy, even silence can organise into influence.\" — Granville Austin",
+    "norm": "In democracy, even silence can organise into influence.",
+    "claimed_author": "Granville Austin",
+    "cards": [
+      "0201"
+    ],
+    "search_exact": {
+      "error": "Failed to invoke remote function: 477 |                 headers,\n478 |                 body: JSON.stringify(body),\n479 |             });\n480 |             if (!response.ok) {\n481 |                 const errorBody = await response.text();\n482 |                 throw new Error(`Function invoke failed ",
+      "results": []
+    },
+    "search_with_author": {
+      "error": "Failed to invoke remote function: 477 |                 headers,\n478 |                 body: JSON.stringify(body),\n479 |             });\n480 |             if (!response.ok) {\n481 |                 const errorBody = await response.text();\n482 |                 throw new Error(`Function invoke failed ",
+      "results": []
+    }
+  },
+  {
+    "key": "governor's actions must be tempered with caution, dictated by reason & activated in good faith.",
+    "quote_text": "\"Governor's actions must be tempered with caution, dictated by reason & activated in good faith.\" — Sarkaria Commission",
+    "norm": "Governor's actions must be tempered with caution, dictated by reason & activated in good faith.",
+    "claimed_author": "Sarkaria Commission",
+    "cards": [
+      "0209"
+    ],
+    "search_exact": {
+      "error": "Failed to invoke remote function: 477 |                 headers,\n478 |                 body: JSON.stringify(body),\n479 |             });\n480 |             if (!response.ok) {\n481 |                 const errorBody = await response.text();\n482 |                 throw new Error(`Function invoke failed ",
+      "results": []
+    },
+    "search_with_author": {
+      "error": "Failed to invoke remote function: 477 |                 headers,\n478 |                 body: JSON.stringify(body),\n479 |             });\n480 |             if (!response.ok) {\n481 |                 const errorBody = await response.text();\n482 |                 throw new Error(`Function invoke failed ",
+      "results": []
+    }
+  },
+  {
+    "key": "justice is not simply punishing the guilty, but also defending the innocent and ensuring due process for all.",
+    "quote_text": "\"Justice is not simply punishing the guilty, but also defending the innocent and ensuring due process for all.\" — Kofi Annan",
+    "norm": "Justice is not simply punishing the guilty, but also defending the innocent and ensuring due process for all.",
+    "claimed_author": "Kofi Annan",
+    "cards": [
+      "0211"
+    ],
+    "search_exact": {
+      "error": "Failed to invoke remote function: 477 |                 headers,\n478 |                 body: JSON.stringify(body),\n479 |             });\n480 |             if (!response.ok) {\n481 |                 const errorBody = await response.text();\n482 |                 throw new Error(`Function invoke failed ",
+      "results": []
+    },
+    "search_with_author": {
+      "error": "Failed to invoke remote function: 477 |                 headers,\n478 |                 body: JSON.stringify(body),\n479 |             });\n480 |             if (!response.ok) {\n481 |                 const errorBody = await response.text();\n482 |                 throw new Error(`Function invoke failed ",
+      "results": []
+    }
+  },
+  {
+    "key": "accountability & integrity increase a court's prestige & faith rather than reducing it.",
+    "quote_text": "\"Accountability & integrity increase a court's prestige & faith rather than reducing it.\" — Justice Hidayatullah, in Naresh Sridhar Case",
+    "norm": "Accountability & integrity increase a court's prestige & faith rather than reducing it.",
+    "claimed_author": "Justice Hidayatullah, in Naresh Sridhar Case",
+    "cards": [
+      "0216"
+    ],
+    "search_exact": {
+      "error": "Failed to invoke remote function: 477 |                 headers,\n478 |                 body: JSON.stringify(body),\n479 |             });\n480 |             if (!response.ok) {\n481 |                 const errorBody = await response.text();\n482 |                 throw new Error(`Function invoke failed ",
+      "results": []
+    },
+    "search_with_author": {
+      "error": "Failed to invoke remote function: 477 |                 headers,\n478 |                 body: JSON.stringify(body),\n479 |             });\n480 |             if (!response.ok) {\n481 |                 const errorBody = await response.text();\n482 |                 throw new Error(`Function invoke failed ",
+      "results": []
+    }
+  },
+  {
+    "key": "without accountability, resources are wasted, corruption flourishes, and trust in institutions is eroded.",
+    "quote_text": "\"Without accountability, resources are wasted, corruption flourishes, and trust in institutions is eroded.\" — Ban Ki-moon",
+    "norm": "Without accountability, resources are wasted, corruption flourishes, and trust in institutions is eroded.",
+    "claimed_author": "Ban Ki-moon",
+    "cards": [
+      "0229",
+      "0233"
+    ],
+    "search_exact": {
+      "error": "Failed to invoke remote function: 477 |                 headers,\n478 |                 body: JSON.stringify(body),\n479 |             });\n480 |             if (!response.ok) {\n481 |                 const errorBody = await response.text();\n482 |                 throw new Error(`Function invoke failed ",
+      "results": []
+    },
+    "search_with_author": {
+      "error": "Failed to invoke remote function: 477 |                 headers,\n478 |                 body: JSON.stringify(body),\n479 |             });\n480 |             if (!response.ok) {\n481 |                 const errorBody = await response.text();\n482 |                 throw new Error(`Function invoke failed ",
+      "results": []
+    }
+  },
+  {
+    "key": "social audit is not just an evaluation of programs; it's an assertion of people's rights to dignity, transparency, and accountable governance.",
+    "quote_text": "\"Social audit is not just an evaluation of programs; it's an assertion of people's rights to dignity, transparency, and accountable governance.\" — Aruna Roy",
+    "norm": "Social audit is not just an evaluation of programs; it's an assertion of people's rights to dignity, transparency, and accountable governance.",
+    "claimed_author": "Aruna Roy",
+    "cards": [
+      "0231"
+    ],
+    "search_exact": {
+      "error": "Failed to invoke remote function: 477 |                 headers,\n478 |                 body: JSON.stringify(body),\n479 |             });\n480 |             if (!response.ok) {\n481 |                 const errorBody = await response.text();\n482 |                 throw new Error(`Function invoke failed ",
+      "results": []
+    },
+    "search_with_author": {
+      "error": "Failed to invoke remote function: 477 |                 headers,\n478 |                 body: JSON.stringify(body),\n479 |             });\n480 |             if (!response.ok) {\n481 |                 const errorBody = await response.text();\n482 |                 throw new Error(`Function invoke failed ",
+      "results": []
+    }
+  },
+  {
+    "key": "you are not only responsible for what you say but also for what you do not say.",
+    "quote_text": "\"You are not only responsible for what you say but also for what you do not say.\" — Martin Luther King Jr.",
+    "norm": "You are not only responsible for what you say but also for what you do not say.",
+    "claimed_author": "Martin Luther King Jr.",
+    "cards": [
+      "0233"
+    ],
+    "search_exact": {
+      "error": "Failed to invoke remote function: 477 |                 headers,\n478 |                 body: JSON.stringify(body),\n479 |             });\n480 |             if (!response.ok) {\n481 |                 const errorBody = await response.text();\n482 |                 throw new Error(`Function invoke failed ",
+      "results": []
+    },
+    "search_with_author": {
+      "error": "Failed to invoke remote function: 477 |                 headers,\n478 |                 body: JSON.stringify(body),\n479 |             });\n480 |             if (!response.ok) {\n481 |                 const errorBody = await response.text();\n482 |                 throw new Error(`Function invoke failed ",
+      "results": []
+    }
+  },
+  {
+    "key": "the cag is the conscience keeper of government finances, ensuring that taxpayer money is used judiciously and efficiently.",
+    "quote_text": "\"The CAG is the conscience keeper of government finances, ensuring that taxpayer money is used judiciously and efficiently.\" — Rajiv Mehrishi (former Finance Secretary)",
+    "norm": "The CAG is the conscience keeper of government finances, ensuring that taxpayer money is used judiciously and efficiently.",
+    "claimed_author": "Rajiv Mehrishi (former Finance Secretary)",
+    "cards": [
+      "0237"
+    ],
+    "search_exact": {
+      "error": "Failed to invoke remote function: 477 |                 headers,\n478 |                 body: JSON.stringify(body),\n479 |             });\n480 |             if (!response.ok) {\n481 |                 const errorBody = await response.text();\n482 |                 throw new Error(`Function invoke failed ",
+      "results": []
+    },
+    "search_with_author": {
+      "error": "Failed to invoke remote function: 477 |                 headers,\n478 |                 body: JSON.stringify(body),\n479 |             });\n480 |             if (!response.ok) {\n481 |                 const errorBody = await response.text();\n482 |                 throw new Error(`Function invoke failed ",
+      "results": []
+    }
+  },
+  {
+    "key": "without strong watchdog institutions, impunity becomes the very foundation on which systems of corruption are built.",
+    "quote_text": "\"Without strong watchdog institutions, impunity becomes the very foundation on which systems of corruption are built.\" — Rigoberta Menchú Tum",
+    "norm": "Without strong watchdog institutions, impunity becomes the very foundation on which systems of corruption are built.",
+    "claimed_author": "Rigoberta Menchú Tum",
+    "cards": [
+      "0244"
+    ],
+    "search_exact": {
+      "error": "Failed to invoke remote function: 477 |                 headers,\n478 |                 body: JSON.stringify(body),\n479 |             });\n480 |             if (!response.ok) {\n481 |                 const errorBody = await response.text();\n482 |                 throw new Error(`Function invoke failed ",
+      "results": []
+    },
+    "search_with_author": {
+      "error": "Failed to invoke remote function: 477 |                 headers,\n478 |                 body: JSON.stringify(body),\n479 |             });\n480 |             if (!response.ok) {\n481 |                 const errorBody = await response.text();\n482 |                 throw new Error(`Function invoke failed ",
+      "results": []
+    }
+  },
+  {
+    "key": "the development sector is not third sector it is the frontline of inclusive governance.",
+    "quote_text": "\"The development sector is not third sector it is the frontline of inclusive governance.\" – Abhijit Banerjee",
+    "norm": "The development sector is not third sector it is the frontline of inclusive governance.",
+    "claimed_author": "Abhijit Banerjee",
+    "cards": [
+      "0268"
+    ],
+    "search_exact": {
+      "error": "Failed to invoke remote function: 477 |                 headers,\n478 |                 body: JSON.stringify(body),\n479 |             });\n480 |             if (!response.ok) {\n481 |                 const errorBody = await response.text();\n482 |                 throw new Error(`Function invoke failed ",
+      "results": []
+    },
+    "search_with_author": {
+      "error": "Failed to invoke remote function: 477 |                 headers,\n478 |                 body: JSON.stringify(body),\n479 |             });\n480 |             if (!response.ok) {\n481 |                 const errorBody = await response.text();\n482 |                 throw new Error(`Function invoke failed ",
+      "results": []
+    }
+  },
+  {
+    "key": "an educated, healthy population is not a burden it is the foundation of any civilised society.",
+    "quote_text": "\"An educated, healthy population is not a burden it is the foundation of any civilised society.\" – Amartya Sen",
+    "norm": "An educated, healthy population is not a burden it is the foundation of any civilised society.",
+    "claimed_author": "Amartya Sen",
+    "cards": [
+      "0282"
+    ],
+    "search_exact": {
+      "error": "Failed to invoke remote function: 477 |                 headers,\n478 |                 body: JSON.stringify(body),\n479 |             });\n480 |             if (!response.ok) {\n481 |                 const errorBody = await response.text();\n482 |                 throw new Error(`Function invoke failed ",
+      "results": []
+    },
+    "search_with_author": {
+      "error": "Failed to invoke remote function: 477 |                 headers,\n478 |                 body: JSON.stringify(body),\n479 |             });\n480 |             if (!response.ok) {\n481 |                 const errorBody = await response.text();\n482 |                 throw new Error(`Function invoke failed ",
+      "results": []
+    }
+  },
+  {
+    "key": "the constitution is a transformative document it enshrines not charity but rights.",
+    "quote_text": "\"The Constitution is a transformative document it enshrines not charity but rights.\" – Justice Indu Malhotra",
+    "norm": "The Constitution is a transformative document it enshrines not charity but rights.",
+    "claimed_author": "Justice Indu Malhotra",
+    "cards": [
+      "0289"
+    ],
+    "search_exact": {
+      "error": "Failed to invoke remote function: 477 |                 headers,\n478 |                 body: JSON.stringify(body),\n479 |             });\n480 |             if (!response.ok) {\n481 |                 const errorBody = await response.text();\n482 |                 throw new Error(`Function invoke failed ",
+      "results": []
+    },
+    "search_with_author": {
+      "error": "Failed to invoke remote function: 477 |                 headers,\n478 |                 body: JSON.stringify(body),\n479 |             });\n480 |             if (!response.ok) {\n481 |                 const errorBody = await response.text();\n482 |                 throw new Error(`Function invoke failed ",
+      "results": []
+    }
+  },
+  {
+    "key": "the world order is militarily unipolar, economically multipolar and politically confused.",
+    "quote_text": "\"The world order is militarily unipolar, economically multipolar and politically confused.\" — Shiv Shankar Menon (SSM)",
+    "norm": "The world order is militarily unipolar, economically multipolar and politically confused.",
+    "claimed_author": "Shiv Shankar Menon (SSM)",
+    "cards": [
+      "0301"
+    ],
+    "search_exact": {
+      "error": "Failed to invoke remote function: 477 |                 headers,\n478 |                 body: JSON.stringify(body),\n479 |             });\n480 |             if (!response.ok) {\n481 |                 const errorBody = await response.text();\n482 |                 throw new Error(`Function invoke failed ",
+      "results": []
+    },
+    "search_with_author": {
+      "error": "Failed to invoke remote function: 477 |                 headers,\n478 |                 body: JSON.stringify(body),\n479 |             });\n480 |             if (!response.ok) {\n481 |                 const errorBody = await response.text();\n482 |                 throw new Error(`Function invoke failed ",
+      "results": []
+    }
+  },
+  {
+    "key": "in a world full of fault lines and rifts, we need to build a shared future.",
+    "quote_text": "\"In a world full of fault lines and rifts, we need to build a shared future.\" — Modi",
+    "norm": "In a world full of fault lines and rifts, we need to build a shared future.",
+    "claimed_author": "Modi",
+    "cards": [
+      "0301"
+    ],
+    "search_exact": {
+      "error": "Failed to invoke remote function: 477 |                 headers,\n478 |                 body: JSON.stringify(body),\n479 |             });\n480 |             if (!response.ok) {\n481 |                 const errorBody = await response.text();\n482 |                 throw new Error(`Function invoke failed ",
+      "results": []
+    },
+    "search_with_author": {
+      "error": "Failed to invoke remote function: 477 |                 headers,\n478 |                 body: JSON.stringify(body),\n479 |             });\n480 |             if (!response.ok) {\n481 |                 const errorBody = await response.text();\n482 |                 throw new Error(`Function invoke failed ",
+      "results": []
+    }
+  },
+  {
+    "key": "we are headed for a poorer, meaner and smaller world.",
+    "quote_text": "\"We are headed for a poorer, meaner and smaller world.\" — SSM",
+    "norm": "We are headed for a poorer, meaner and smaller world.",
+    "claimed_author": "SSM",
+    "cards": [
+      "0301"
+    ],
+    "search_exact": {
+      "error": "Failed to invoke remote function: 477 |                 headers,\n478 |                 body: JSON.stringify(body),\n479 |             });\n480 |             if (!response.ok) {\n481 |                 const errorBody = await response.text();\n482 |                 throw new Error(`Function invoke failed ",
+      "results": []
+    },
+    "search_with_author": {
+      "error": "Failed to invoke remote function: 477 |                 headers,\n478 |                 body: JSON.stringify(body),\n479 |             });\n480 |             if (!response.ok) {\n481 |                 const errorBody = await response.text();\n482 |                 throw new Error(`Function invoke failed ",
+      "results": []
+    }
+  },
+  {
+    "key": "globalisation is irreversible.",
+    "quote_text": "\"Globalisation is irreversible.\" — Tony Blair",
+    "norm": "Globalisation is irreversible.",
+    "claimed_author": "Tony Blair",
+    "cards": [
+      "0301"
+    ],
+    "search_exact": {
+      "error": "Failed to invoke remote function: 477 |                 headers,\n478 |                 body: JSON.stringify(body),\n479 |             });\n480 |             if (!response.ok) {\n481 |                 const errorBody = await response.text();\n482 |                 throw new Error(`Function invoke failed ",
+      "results": []
+    },
+    "search_with_author": {
+      "error": "Failed to invoke remote function: 477 |                 headers,\n478 |                 body: JSON.stringify(body),\n479 |             });\n480 |             if (!response.ok) {\n481 |                 const errorBody = await response.text();\n482 |                 throw new Error(`Function invoke failed ",
+      "results": []
+    }
+  },
+  {
+    "key": "india has entered a phase of energetic foreign policy where it is not anymore a passive recipient of global happenings.",
+    "quote_text": "\"India has entered a phase of energetic foreign policy where it is not anymore a passive recipient of global happenings.\" — S. Jaishankar",
+    "norm": "India has entered a phase of energetic foreign policy where it is not anymore a passive recipient of global happenings.",
+    "claimed_author": "S. Jaishankar",
+    "cards": [
+      "0301"
+    ],
+    "search_exact": {
+      "error": "Failed to invoke remote function: 477 |                 headers,\n478 |                 body: JSON.stringify(body),\n479 |             });\n480 |             if (!response.ok) {\n481 |                 const errorBody = await response.text();\n482 |                 throw new Error(`Function invoke failed ",
+      "results": []
+    },
+    "search_with_author": {
+      "error": "Failed to invoke remote function: 477 |                 headers,\n478 |                 body: JSON.stringify(body),\n479 |             });\n480 |             if (!response.ok) {\n481 |                 const errorBody = await response.text();\n482 |                 throw new Error(`Function invoke failed ",
+      "results": []
+    }
+  },
+  {
+    "key": "the indian ocean, with its critical sea lanes and vast reservoir of resources, will be a highway to prosperity and a theatre of rivalry.",
+    "quote_text": "\"The Indian Ocean, with its critical sea lanes and vast reservoir of resources, will be a highway to prosperity and a theatre of rivalry.\" — C. Raja Mohan",
+    "norm": "The Indian Ocean, with its critical sea lanes and vast reservoir of resources, will be a highway to prosperity and a theatre of rivalry.",
+    "claimed_author": "C. Raja Mohan",
+    "cards": [
+      "0304"
+    ],
+    "search_exact": {
+      "error": "Failed to invoke remote function: 477 |                 headers,\n478 |                 body: JSON.stringify(body),\n479 |             });\n480 |             if (!response.ok) {\n481 |                 const errorBody = await response.text();\n482 |                 throw new Error(`Function invoke failed ",
+      "results": []
+    },
+    "search_with_author": {
+      "error": "Failed to invoke remote function: 477 |                 headers,\n478 |                 body: JSON.stringify(body),\n479 |             });\n480 |             if (!response.ok) {\n481 |                 const errorBody = await response.text();\n482 |                 throw new Error(`Function invoke failed ",
+      "results": []
+    }
+  },
+  {
+    "key": "in the information age, a nation's power is increasingly defined by its ability to influence as much as to militarily and economically dominate.",
+    "quote_text": "\"In the information age, a nation's power is increasingly defined by its ability to influence as much as to militarily and economically dominate.\" — Shashi Tharoor",
+    "norm": "In the information age, a nation's power is increasingly defined by its ability to influence as much as to militarily and economically dominate.",
+    "claimed_author": "Shashi Tharoor",
+    "cards": [
+      "0305"
+    ],
+    "search_exact": {
+      "error": "Failed to invoke remote function: 477 |                 headers,\n478 |                 body: JSON.stringify(body),\n479 |             });\n480 |             if (!response.ok) {\n481 |                 const errorBody = await response.text();\n482 |                 throw new Error(`Function invoke failed ",
+      "results": []
+    },
+    "search_with_author": {
+      "error": "Failed to invoke remote function: 477 |                 headers,\n478 |                 body: JSON.stringify(body),\n479 |             });\n480 |             if (!response.ok) {\n481 |                 const errorBody = await response.text();\n482 |                 throw new Error(`Function invoke failed ",
+      "results": []
+    }
+  },
+  {
+    "key": "a nation's destiny is shaped by its geography but defined by its diplomacy.",
+    "quote_text": "\"A nation's destiny is shaped by its geography but defined by its diplomacy.\" — Shyam Saran",
+    "norm": "A nation's destiny is shaped by its geography but defined by its diplomacy.",
+    "claimed_author": "Shyam Saran",
+    "cards": [
+      "0320"
+    ],
+    "search_exact": {
+      "error": "Failed to invoke remote function: 477 |                 headers,\n478 |                 body: JSON.stringify(body),\n479 |             });\n480 |             if (!response.ok) {\n481 |                 const errorBody = await response.text();\n482 |                 throw new Error(`Function invoke failed ",
+      "results": []
+    },
+    "search_with_author": {
+      "error": "Failed to invoke remote function: 477 |                 headers,\n478 |                 body: JSON.stringify(body),\n479 |             });\n480 |             if (!response.ok) {\n481 |                 const errorBody = await response.text();\n482 |                 throw new Error(`Function invoke failed ",
+      "results": []
+    }
+  },
+  {
+    "key": "relationship with india is our most important relationship, period.",
+    "quote_text": "\"Relationship with India is our most important relationship, period.\" — Milinda Moragoda, SL High Commissioner (after India's cooperation in crisis)",
+    "norm": "Relationship with India is our most important relationship, period.",
+    "claimed_author": "Milinda Moragoda, SL High Commissioner (after India's cooperation in crisis)",
+    "cards": [
+      "0324"
+    ],
+    "search_exact": {
+      "error": "Failed to invoke remote function: 477 |                 headers,\n478 |                 body: JSON.stringify(body),\n479 |             });\n480 |             if (!response.ok) {\n481 |                 const errorBody = await response.text();\n482 |                 throw new Error(`Function invoke failed ",
+      "results": []
+    },
+    "search_with_author": {
+      "error": "Failed to invoke remote function: 477 |                 headers,\n478 |                 body: JSON.stringify(body),\n479 |             });\n480 |             if (!response.ok) {\n481 |                 const errorBody = await response.text();\n482 |                 throw new Error(`Function invoke failed ",
+      "results": []
+    }
+  },
+  {
+    "key": "focus must be on elevating the bilateral ties from the current 'transactional' phase to one that is more 'strategic'.",
+    "quote_text": "\"Focus must be on elevating the bilateral ties from the current 'transactional' phase to one that is more 'strategic'.\" — Milinda Moragoda",
+    "norm": "Focus must be on elevating the bilateral ties from the current 'transactional' phase to one that is more 'strategic'.",
+    "claimed_author": "Milinda Moragoda",
+    "cards": [
+      "0324"
+    ],
+    "search_exact": {
+      "error": "Failed to invoke remote function: 477 |                 headers,\n478 |                 body: JSON.stringify(body),\n479 |             });\n480 |             if (!response.ok) {\n481 |                 const errorBody = await response.text();\n482 |                 throw new Error(`Function invoke failed ",
+      "results": []
+    },
+    "search_with_author": {
+      "error": "Failed to invoke remote function: 477 |                 headers,\n478 |                 body: JSON.stringify(body),\n479 |             });\n480 |             if (!response.ok) {\n481 |                 const errorBody = await response.text();\n482 |                 throw new Error(`Function invoke failed ",
+      "results": []
+    }
+  },
+  {
+    "key": "india's vision is a sovereign, united, stable, plural and democratic afghanistan.",
+    "quote_text": "\"India's vision is a Sovereign, United, Stable, Plural and Democratic Afghanistan.\" — Former diplomat Rakesh Sood",
+    "norm": "India's vision is a Sovereign, United, Stable, Plural and Democratic Afghanistan.",
+    "claimed_author": "Former diplomat Rakesh Sood",
+    "cards": [
+      "0326"
+    ],
+    "search_exact": {
+      "error": "Failed to invoke remote function: 477 |                 headers,\n478 |                 body: JSON.stringify(body),\n479 |             });\n480 |             if (!response.ok) {\n481 |                 const errorBody = await response.text();\n482 |                 throw new Error(`Function invoke failed ",
+      "results": []
+    },
+    "search_with_author": {
+      "error": "Failed to invoke remote function: 477 |                 headers,\n478 |                 body: JSON.stringify(body),\n479 |             });\n480 |             if (!response.ok) {\n481 |                 const errorBody = await response.text();\n482 |                 throw new Error(`Function invoke failed ",
+      "results": []
+    }
+  },
+  {
+    "key": "a budget is not just numbers on a page, it is an embodiment of our values.",
+    "quote_text": "\"A budget is not just numbers on a page, it is an embodiment of our values.\" – Barack Obama",
+    "norm": "A budget is not just numbers on a page, it is an embodiment of our values.",
+    "claimed_author": "Barack Obama",
+    "cards": [
+      "0333"
+    ],
+    "search_exact": {
+      "error": "Failed to invoke remote function: 477 |                 headers,\n478 |                 body: JSON.stringify(body),\n479 |             });\n480 |             if (!response.ok) {\n481 |                 const errorBody = await response.text();\n482 |                 throw new Error(`Function invoke failed ",
+      "results": []
+    },
+    "search_with_author": {
+      "error": "Failed to invoke remote function: 477 |                 headers,\n478 |                 body: JSON.stringify(body),\n479 |             });\n480 |             if (!response.ok) {\n481 |                 const errorBody = await response.text();\n482 |                 throw new Error(`Function invoke failed ",
+      "results": []
+    }
+  },
+  {
+    "key": "the only thing that displaced more people than war is wildlife conservation.",
+    "quote_text": "\"The only thing that displaced more people than war is wildlife conservation.\" — Mark Dowie",
+    "norm": "The only thing that displaced more people than war is wildlife conservation.",
+    "claimed_author": "Mark Dowie",
+    "cards": [
+      "0442"
+    ],
+    "search_exact": {
+      "error": "Failed to invoke remote function: 477 |                 headers,\n478 |                 body: JSON.stringify(body),\n479 |             });\n480 |             if (!response.ok) {\n481 |                 const errorBody = await response.text();\n482 |                 throw new Error(`Function invoke failed ",
+      "results": []
+    },
+    "search_with_author": {
+      "error": "Failed to invoke remote function: 477 |                 headers,\n478 |                 body: JSON.stringify(body),\n479 |             });\n480 |             if (!response.ok) {\n481 |                 const errorBody = await response.text();\n482 |                 throw new Error(`Function invoke failed ",
+      "results": []
+    }
+  },
+  {
+    "key": "underdevelopment and inequality",
+    "quote_text": "\"Underdevelopment and inequality — hence need to imbibe Tribal Panchsheel principles in bringing peace & participative governance.\" — Antonio Guterres",
+    "norm": "Underdevelopment and inequality",
+    "claimed_author": "hence need to imbibe Tribal Panchsheel principles in bringing peace & participative governance.\" — Antonio Guterres",
+    "cards": [
+      "0528"
+    ],
+    "search_exact": {
+      "error": "Failed to invoke remote function: 477 |                 headers,\n478 |                 body: JSON.stringify(body),\n479 |             });\n480 |             if (!response.ok) {\n481 |                 const errorBody = await response.text();\n482 |                 throw new Error(`Function invoke failed ",
+      "results": []
+    },
+    "search_with_author": {
+      "error": "Failed to invoke remote function: 477 |                 headers,\n478 |                 body: JSON.stringify(body),\n479 |             });\n480 |             if (!response.ok) {\n481 |                 const errorBody = await response.text();\n482 |                 throw new Error(`Function invoke failed ",
+      "results": []
+    }
+  },
+  {
+    "key": "a nation's greatness is measured by how it treats its weakest members.",
+    "quote_text": "“A nation's greatness is measured by how it treats its weakest members.” – Mahatma Gandhi",
+    "norm": "A nation's greatness is measured by how it treats its weakest members.",
+    "claimed_author": "Mahatma Gandhi",
+    "cards": [
+      "0584"
+    ],
+    "search_exact": {
+      "error": "Failed to invoke remote function: 477 |                 headers,\n478 |                 body: JSON.stringify(body),\n479 |             });\n480 |             if (!response.ok) {\n481 |                 const errorBody = await response.text();\n482 |                 throw new Error(`Function invoke failed ",
+      "results": []
+    },
+    "search_with_author": {
+      "error": "Failed to invoke remote function: 477 |                 headers,\n478 |                 body: JSON.stringify(body),\n479 |             });\n480 |             if (!response.ok) {\n481 |                 const errorBody = await response.text();\n482 |                 throw new Error(`Function invoke failed ",
+      "results": []
+    }
+  },
+  {
+    "key": "cs lewis: integrity is doing the right thing even when no one is watching.",
+    "quote_text": "\"CS Lewis: Integrity is doing the right thing even when no one is watching.\"",
+    "norm": "CS Lewis: Integrity is doing the right thing even when no one is watching.",
+    "claimed_author": "",
+    "cards": [
+      "0607"
+    ],
+    "search_exact": {
+      "error": "Failed to invoke remote function: 477 |                 headers,\n478 |                 body: JSON.stringify(body),\n479 |             });\n480 |             if (!response.ok) {\n481 |                 const errorBody = await response.text();\n482 |                 throw new Error(`Function invoke failed ",
+      "results": []
+    },
+    "search_with_author": {
+      "results": []
+    }
+  },
+  {
+    "key": "in looking for people to hire, you look for three qualities: integrity, intelligence and energy. and if they don't have the first, the other two will kill you.",
+    "quote_text": "\"In looking for people to hire, you look for three qualities: integrity, intelligence and energy. And if they don't have the first, the other two will kill you.\"",
+    "norm": "In looking for people to hire, you look for three qualities: integrity, intelligence and energy. And if they don't have the first, the other two will kill you.",
+    "claimed_author": "",
+    "cards": [
+      "0610"
+    ],
+    "search_exact": {
+      "error": "Failed to invoke remote function: 477 |                 headers,\n478 |                 body: JSON.stringify(body),\n479 |             });\n480 |             if (!response.ok) {\n481 |                 const errorBody = await response.text();\n482 |                 throw new Error(`Function invoke failed ",
+      "results": []
+    },
+    "search_with_author": {
+      "results": []
+    }
+  },
+  {
+    "key": "moral excellence is not an act, but a habit.",
+    "quote_text": "“Moral excellence is not an act, but a habit.” – Aristotle",
+    "norm": "Moral excellence is not an act, but a habit.",
+    "claimed_author": "Aristotle",
+    "cards": [
+      "0661"
+    ],
+    "search_exact": {
+      "error": "Failed to invoke remote function: 477 |                 headers,\n478 |                 body: JSON.stringify(body),\n479 |             });\n480 |             if (!response.ok) {\n481 |                 const errorBody = await response.text();\n482 |                 throw new Error(`Function invoke failed ",
+      "results": []
+    },
+    "search_with_author": {
+      "error": "Failed to invoke remote function: 477 |                 headers,\n478 |                 body: JSON.stringify(body),\n479 |             });\n480 |             if (!response.ok) {\n481 |                 const errorBody = await response.text();\n482 |                 throw new Error(`Function invoke failed ",
+      "results": []
+    }
+  },
+  {
+    "key": "voltaire",
+    "quote_text": "\"Voltaire - 'I may not agree with what you say but I will fight to death your right to say it'\"",
+    "norm": "Voltaire",
+    "claimed_author": "'I may not agree with what you say but I will fight to death your right to say it'\"",
+    "cards": [
+      "0715"
+    ],
+    "search_exact": {
+      "error": "Failed to invoke remote function: 477 |                 headers,\n478 |                 body: JSON.stringify(body),\n479 |             });\n480 |             if (!response.ok) {\n481 |                 const errorBody = await response.text();\n482 |                 throw new Error(`Function invoke failed ",
+      "results": []
+    },
+    "search_with_author": {
+      "error": "Failed to invoke remote function: 477 |                 headers,\n478 |                 body: JSON.stringify(body),\n479 |             });\n480 |             if (!response.ok) {\n481 |                 const errorBody = await response.text();\n482 |                 throw new Error(`Function invoke failed ",
+      "results": []
+    }
+  },
+  {
+    "key": "corruption is paid by the poor.",
+    "quote_text": "\"CORRUPTION IS PAID BY THE POOR. - Pope Francis\" \"Results in collusive corruption paid for by the poor. - Pope Francis\"",
+    "norm": "CORRUPTION IS PAID BY THE POOR.",
+    "claimed_author": "Pope Francis\" \"Results in collusive corruption paid for by the poor. - Pope Francis\"",
+    "cards": [
+      "0722"
+    ],
+    "search_exact": {
+      "error": "Failed to invoke remote function: 477 |                 headers,\n478 |                 body: JSON.stringify(body),\n479 |             });\n480 |             if (!response.ok) {\n481 |                 const errorBody = await response.text();\n482 |                 throw new Error(`Function invoke failed ",
+      "results": []
+    },
+    "search_with_author": {
+      "error": "Failed to invoke remote function: 477 |                 headers,\n478 |                 body: JSON.stringify(body),\n479 |             });\n480 |             if (!response.ok) {\n481 |                 const errorBody = await response.text();\n482 |                 throw new Error(`Function invoke failed ",
+      "results": []
+    }
+  },
+  {
+    "key": "the customer is the most important visitor on our premises.",
+    "quote_text": "“The customer is the most important visitor on our premises.” – Mahatma Gandhi",
+    "norm": "The customer is the most important visitor on our premises.",
+    "claimed_author": "Mahatma Gandhi",
+    "cards": [
+      "0739"
+    ],
+    "search_exact": {
+      "error": "Failed to invoke remote function: 477 |                 headers,\n478 |                 body: JSON.stringify(body),\n479 |             });\n480 |             if (!response.ok) {\n481 |                 const errorBody = await response.text();\n482 |                 throw new Error(`Function invoke failed ",
+      "results": []
+    },
+    "search_with_author": {
+      "error": "Failed to invoke remote function: 477 |                 headers,\n478 |                 body: JSON.stringify(body),\n479 |             });\n480 |             if (!response.ok) {\n481 |                 const errorBody = await response.text();\n482 |                 throw new Error(`Function invoke failed ",
+      "results": []
+    }
+  },
+  {
+    "key": "the line between right and wrong is often drawn by self-interest.",
+    "quote_text": "“The line between right and wrong is often drawn by self-interest.” – Nani Palkhivala",
+    "norm": "The line between right and wrong is often drawn by self-interest.",
+    "claimed_author": "Nani Palkhivala",
+    "cards": [
+      "0776"
+    ],
+    "search_exact": {
+      "error": "Failed to invoke remote function: 477 |                 headers,\n478 |                 body: JSON.stringify(body),\n479 |             });\n480 |             if (!response.ok) {\n481 |                 const errorBody = await response.text();\n482 |                 throw new Error(`Function invoke failed ",
+      "results": []
+    },
+    "search_with_author": {
+      "error": "Failed to invoke remote function: 477 |                 headers,\n478 |                 body: JSON.stringify(body),\n479 |             });\n480 |             if (!response.ok) {\n481 |                 const errorBody = await response.text();\n482 |                 throw new Error(`Function invoke failed ",
+      "results": []
+    }
+  }
+]

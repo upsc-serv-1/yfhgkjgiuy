@@ -1,0 +1,618 @@
+[
+  {
+    "card_id": "0004",
+    "full_card_id": "GS1-HIST-0004",
+    "batch": "Batch 33 (cards 1-20: GS-1 Art & Culture) — needs_review / flags",
+    "raw_bullet": "0004 John Marshall quote",
+    "review_queue_attribution": "John Marshall quote",
+    "review_queue_quote": "",
+    "quote_blocks": [
+      {
+        "label": "",
+        "text": "\"The story of India is written in stone.\" – John Marshall"
+      }
+    ]
+  },
+  {
+    "card_id": "0054",
+    "full_card_id": "GS1-HIST-0054",
+    "batch": "Batch 35 (cards 41-60: GS-1 Modern History) — needs_review / flags",
+    "raw_bullet": "0054 \"L Risley\" (Herbert Risley) kept as written",
+    "review_queue_attribution": "kept as written | Herbert Risley",
+    "review_queue_quote": "L Risley",
+    "quote_blocks": [
+      {
+        "label": "",
+        "text": "\"Bengal united is power. Divided it will pull in several different ways.\" — L Risley"
+      }
+    ]
+  },
+  {
+    "card_id": "0131",
+    "full_card_id": "GS1-GEOG-0131",
+    "batch": "Batch 39 (cards 121-140: GS-1 Forests/Minerals/Resources + Geophysical Phenomena) — needs_review / flags",
+    "raw_bullet": "0131 Bruce Lipton quote",
+    "review_queue_attribution": "Bruce Lipton quote",
+    "review_queue_quote": "",
+    "quote_blocks": [
+      {
+        "label": "",
+        "text": "\"The environment and the economy are really both two sides of the same coin. You cannot sustain the economy if you don't take care of the environment.\" — Bruce Lipton"
+      }
+    ]
+  },
+  {
+    "card_id": "0133",
+    "full_card_id": "GS1-GEOG-0133",
+    "batch": "Batch 39 (cards 121-140: GS-1 Forests/Minerals/Resources + Geophysical Phenomena) — needs_review / flags",
+    "raw_bullet": "0133 Ronald Reagan (\"Industries go where they are wanted...\" — verify)",
+    "review_queue_attribution": "Ronald Reagan | \"Industries go where they are wanted...\" — verify",
+    "review_queue_quote": "Industries go where they are wanted...",
+    "quote_blocks": [
+      {
+        "label": "",
+        "text": "\"Industries go where they are wanted, and stay where they are treated well.\" — Ronald Reagan"
+      }
+    ]
+  },
+  {
+    "card_id": "0134",
+    "full_card_id": "GS1-GEOG-0134",
+    "batch": "Batch 39 (cards 121-140: GS-1 Forests/Minerals/Resources + Geophysical Phenomena) — needs_review / flags",
+    "raw_bullet": "0134 Native American Proverb.",
+    "review_queue_attribution": "Native American Proverb.",
+    "review_queue_quote": "",
+    "quote_blocks": [
+      {
+        "label": "",
+        "text": "\"We do not inherit the Earth from our ancestors; we borrow it from our children.\"  Native American Proverb"
+      }
+    ]
+  },
+  {
+    "card_id": "0142",
+    "full_card_id": "GS1-GEOG-0142",
+    "batch": "Batch 40 (cards 141-156: GS-1 Jet Streams, Earth Theories, Monsoon, Oceanography) — FINAL BATCH",
+    "raw_bullet": "0142 unattributed \"Nature does not hurry...\" (usually Lao Tzu)",
+    "review_queue_attribution": "unattributed | usually Lao Tzu",
+    "review_queue_quote": "Nature does not hurry...",
+    "quote_blocks": [
+      {
+        "label": "",
+        "text": "\"Nature does not hurry, yet everything is accomplished.\""
+      }
+    ]
+  },
+  {
+    "card_id": "0159",
+    "full_card_id": "GS2-POLI-0159",
+    "batch": "Batch 01: GS-2 Polity, cards 157 to 176",
+    "raw_bullet": "0159 \"Amendment is the lifeline of a living Constitution.\" (Nani Palkhivala)",
+    "review_queue_attribution": "Nani Palkhivala",
+    "review_queue_quote": "Amendment is the lifeline of a living Constitution.",
+    "quote_blocks": [
+      {
+        "label": "",
+        "text": "\"Amendment is the lifeline of a living Constitution.\" — Nani Palkhivala"
+      }
+    ]
+  },
+  {
+    "card_id": "0178",
+    "full_card_id": "GS2-POLI-0178",
+    "batch": "Batch 02: GS-2 Polity, cards 177 to 196",
+    "raw_bullet": "0178 and 0181: \"Free & Fair elections are the lifeblood of any democracy.\" (Jimmy Carter)",
+    "review_queue_attribution": "and | Jimmy Carter",
+    "review_queue_quote": "Free & Fair elections are the lifeblood of any democracy.",
+    "quote_blocks": [
+      {
+        "label": "",
+        "text": "\"Free & Fair elections are the lifeblood of any democracy.\" — Jimmy Carter"
+      }
+    ]
+  },
+  {
+    "card_id": "0179",
+    "full_card_id": "GS2-POLI-0179",
+    "batch": "Batch 02: GS-2 Polity, cards 177 to 196",
+    "raw_bullet": "0179 and 0185: \"When the power of a vote is diluted through opacity in political funding...\" (Ornit Shani)",
+    "review_queue_attribution": "and | Ornit Shani",
+    "review_queue_quote": "When the power of a vote is diluted through opacity in political funding...",
+    "quote_blocks": [
+      {
+        "label": "",
+        "text": "\"When the power of a vote is diluted through opacity in political funding, democracy loses its intrinsic value.\" — Ornit Shani"
+      }
+    ]
+  },
+  {
+    "card_id": "0181",
+    "full_card_id": "GS2-POLI-0181",
+    "batch": "Batch 02: GS-2 Polity, cards 177 to 196",
+    "raw_bullet": "0178 and 0181: \"Free & Fair elections are the lifeblood of any democracy.\" (Jimmy Carter)",
+    "review_queue_attribution": "and | Jimmy Carter",
+    "review_queue_quote": "Free & Fair elections are the lifeblood of any democracy.",
+    "quote_blocks": [
+      {
+        "label": "",
+        "text": "\"Free & Fair elections are lifeblood of any democracy\" — Jimmy Carter"
+      }
+    ]
+  },
+  {
+    "card_id": "0185",
+    "full_card_id": "GS2-POLI-0185",
+    "batch": "Batch 02: GS-2 Polity, cards 177 to 196",
+    "raw_bullet": "0179 and 0185: \"When the power of a vote is diluted through opacity in political funding...\" (Ornit Shani)",
+    "review_queue_attribution": "and | Ornit Shani",
+    "review_queue_quote": "When the power of a vote is diluted through opacity in political funding...",
+    "quote_blocks": [
+      {
+        "label": "",
+        "text": "\"When the power of a vote is diluted through opacity in political funding, democracy loses its intrinsic value\" — Ornit Shani"
+      }
+    ]
+  },
+  {
+    "card_id": "0200",
+    "full_card_id": "GS2-POLI-0200",
+    "batch": "Batches 03 to 07: cards 197 to 296 (flag only, nothing was changed)",
+    "raw_bullet": "0200 Noam Chomsky",
+    "review_queue_attribution": "Noam Chomsky",
+    "review_queue_quote": "",
+    "quote_blocks": [
+      {
+        "label": "",
+        "text": "\"Social media is a double-edged sword.\" — Noam Chomsky"
+      }
+    ]
+  },
+  {
+    "card_id": "0201",
+    "full_card_id": "GS2-POLI-0201",
+    "batch": "Batches 03 to 07: cards 197 to 296 (flag only, nothing was changed)",
+    "raw_bullet": "0201 Granville Austin",
+    "review_queue_attribution": "Granville Austin",
+    "review_queue_quote": "",
+    "quote_blocks": [
+      {
+        "label": "",
+        "text": "\"In democracy, even silence can organise into influence.\" — Granville Austin"
+      }
+    ]
+  },
+  {
+    "card_id": "0209",
+    "full_card_id": "GS2-POLI-0209",
+    "batch": "Batches 03 to 07: cards 197 to 296 (flag only, nothing was changed)",
+    "raw_bullet": "0209 Sarkaria Commission wording",
+    "review_queue_attribution": "Sarkaria Commission wording",
+    "review_queue_quote": "",
+    "quote_blocks": [
+      {
+        "label": "",
+        "text": "\"Governor's actions must be tempered with caution, dictated by reason & activated in good faith.\" — Sarkaria Commission"
+      }
+    ]
+  },
+  {
+    "card_id": "0211",
+    "full_card_id": "GS2-POLI-0211",
+    "batch": "Batches 03 to 07: cards 197 to 296 (flag only, nothing was changed)",
+    "raw_bullet": "0211 Kofi Annan.",
+    "review_queue_attribution": "Kofi Annan.",
+    "review_queue_quote": "",
+    "quote_blocks": [
+      {
+        "label": "",
+        "text": "\"Justice is not simply punishing the guilty, but also defending the innocent and ensuring due process for all.\" — Kofi Annan"
+      }
+    ]
+  },
+  {
+    "card_id": "0216",
+    "full_card_id": "GS2-POLI-0216",
+    "batch": "Batches 03 to 07: cards 197 to 296 (flag only, nothing was changed)",
+    "raw_bullet": "0216 Justice Hidayatullah in \"Naresh Sridhar\"",
+    "review_queue_attribution": "Justice Hidayatullah in",
+    "review_queue_quote": "Naresh Sridhar",
+    "quote_blocks": [
+      {
+        "label": "",
+        "text": "\"Accountability & integrity increase a court's prestige & faith rather than reducing it.\" — Justice Hidayatullah, in Naresh Sridhar Case"
+      }
+    ]
+  },
+  {
+    "card_id": "0229",
+    "full_card_id": "GS2-GOVE-0229",
+    "batch": "Batches 03 to 07: cards 197 to 296 (flag only, nothing was changed)",
+    "raw_bullet": "0229 and 0233 Ban Ki-moon",
+    "review_queue_attribution": "and  Ban Ki-moon",
+    "review_queue_quote": "",
+    "quote_blocks": [
+      {
+        "label": "",
+        "text": "\"Without accountability, resources are wasted, corruption flourishes, and trust in institutions is eroded.\" — Ban Ki-moon"
+      }
+    ]
+  },
+  {
+    "card_id": "0231",
+    "full_card_id": "GS2-GOVE-0231",
+    "batch": "Batches 03 to 07: cards 197 to 296 (flag only, nothing was changed)",
+    "raw_bullet": "0231 Aruna Roy",
+    "review_queue_attribution": "Aruna Roy",
+    "review_queue_quote": "",
+    "quote_blocks": [
+      {
+        "label": "",
+        "text": "\"Social audit is not just an evaluation of programs; it's an assertion of people's rights to dignity, transparency, and accountable governance.\" — Aruna Roy"
+      }
+    ]
+  },
+  {
+    "card_id": "0233",
+    "full_card_id": "GS2-GOVE-0233",
+    "batch": "Batches 03 to 07: cards 197 to 296 (flag only, nothing was changed)",
+    "raw_bullet": "0229 and 0233 Ban Ki-moon",
+    "review_queue_attribution": "and  Ban Ki-moon",
+    "review_queue_quote": "",
+    "quote_blocks": [
+      {
+        "label": "",
+        "text": "\"Without accountability, resources are wasted, corruption flourishes, and trust in institutions is eroded.\" — Ban Ki-moon"
+      },
+      {
+        "label": "",
+        "text": "\"You are not only responsible for what you say but also for what you do not say.\" — Martin Luther King Jr."
+      }
+    ]
+  },
+  {
+    "card_id": "0237",
+    "full_card_id": "GS2-GOVE-0237",
+    "batch": "Batches 03 to 07: cards 197 to 296 (flag only, nothing was changed)",
+    "raw_bullet": "0237 Rajiv Mehrishi.",
+    "review_queue_attribution": "Rajiv Mehrishi.",
+    "review_queue_quote": "",
+    "quote_blocks": [
+      {
+        "label": "",
+        "text": "\"The CAG is the conscience keeper of government finances, ensuring that taxpayer money is used judiciously and efficiently.\" — Rajiv Mehrishi (former Finance Secretary)"
+      }
+    ]
+  },
+  {
+    "card_id": "0244",
+    "full_card_id": "GS2-GOVE-0244",
+    "batch": "Batches 03 to 07: cards 197 to 296 (flag only, nothing was changed)",
+    "raw_bullet": "0244 Rigoberta Menchú Tum",
+    "review_queue_attribution": "Rigoberta Menchú Tum",
+    "review_queue_quote": "",
+    "quote_blocks": [
+      {
+        "label": "",
+        "text": "\"Without strong watchdog institutions, impunity becomes the very foundation on which systems of corruption are built.\" — Rigoberta Menchú Tum"
+      }
+    ]
+  },
+  {
+    "card_id": "0268",
+    "full_card_id": "GS2-GOVE-0268",
+    "batch": "Batches 03 to 07: cards 197 to 296 (flag only, nothing was changed)",
+    "raw_bullet": "0268 Abhijit Banerjee",
+    "review_queue_attribution": "Abhijit Banerjee",
+    "review_queue_quote": "",
+    "quote_blocks": [
+      {
+        "label": "",
+        "text": "\"The development sector is not third sector it is the frontline of inclusive governance.\" – Abhijit Banerjee"
+      }
+    ]
+  },
+  {
+    "card_id": "0282",
+    "full_card_id": "GS2-SOCI-0282",
+    "batch": "Batches 03 to 07: cards 197 to 296 (flag only, nothing was changed)",
+    "raw_bullet": "0282 Amartya Sen",
+    "review_queue_attribution": "Amartya Sen",
+    "review_queue_quote": "",
+    "quote_blocks": [
+      {
+        "label": "",
+        "text": "\"An educated, healthy population is not a burden it is the foundation of any civilised society.\" – Amartya Sen"
+      }
+    ]
+  },
+  {
+    "card_id": "0289",
+    "full_card_id": "GS2-SOCI-0289",
+    "batch": "Batches 03 to 07: cards 197 to 296 (flag only, nothing was changed)",
+    "raw_bullet": "0289 Justice Indu Malhotra",
+    "review_queue_attribution": "Justice Indu Malhotra",
+    "review_queue_quote": "",
+    "quote_blocks": [
+      {
+        "label": "",
+        "text": "\"The Constitution is a transformative document it enshrines not charity but rights.\" – Justice Indu Malhotra"
+      }
+    ]
+  },
+  {
+    "card_id": "0301",
+    "full_card_id": "GS2-INTE-0301",
+    "batch": "Batches 08 to 10: cards 297 to 356 (flag only, nothing was changed unless stated)",
+    "raw_bullet": "0301 Shiv Shankar Menon (3 quotes), Tony Blair",
+    "review_queue_attribution": "Shiv Shankar Menon , Tony Blair | 3 quotes",
+    "review_queue_quote": "",
+    "quote_blocks": [
+      {
+        "label": "",
+        "text": "\"The world order is militarily unipolar, economically multipolar and politically confused.\" — Shiv Shankar Menon (SSM)"
+      },
+      {
+        "label": "",
+        "text": "\"In a world full of fault lines and rifts, we need to build a shared future.\" — Modi"
+      },
+      {
+        "label": "",
+        "text": "\"We are headed for a poorer, meaner and smaller world.\" — SSM"
+      },
+      {
+        "label": "",
+        "text": "\"Globalisation is irreversible.\" — Tony Blair"
+      },
+      {
+        "label": "",
+        "text": "\"India has entered a phase of energetic foreign policy where it is not anymore a passive recipient of global happenings.\" — S. Jaishankar"
+      }
+    ]
+  },
+  {
+    "card_id": "0304",
+    "full_card_id": "GS2-INTE-0304",
+    "batch": "Batches 08 to 10: cards 297 to 356 (flag only, nothing was changed unless stated)",
+    "raw_bullet": "0304 C. Raja Mohan",
+    "review_queue_attribution": "C. Raja Mohan",
+    "review_queue_quote": "",
+    "quote_blocks": [
+      {
+        "label": "",
+        "text": "\"The Indian Ocean, with its critical sea lanes and vast reservoir of resources, will be a highway to prosperity and a theatre of rivalry.\" — C. Raja Mohan"
+      }
+    ]
+  },
+  {
+    "card_id": "0305",
+    "full_card_id": "GS2-INTE-0305",
+    "batch": "Batches 08 to 10: cards 297 to 356 (flag only, nothing was changed unless stated)",
+    "raw_bullet": "0305 Shashi Tharoor",
+    "review_queue_attribution": "Shashi Tharoor",
+    "review_queue_quote": "",
+    "quote_blocks": [
+      {
+        "label": "",
+        "text": "\"In the information age, a nation's power is increasingly defined by its ability to influence as much as to militarily and economically dominate.\" — Shashi Tharoor"
+      }
+    ]
+  },
+  {
+    "card_id": "0320",
+    "full_card_id": "GS2-INTE-0320",
+    "batch": "Batches 08 to 10: cards 297 to 356 (flag only, nothing was changed unless stated)",
+    "raw_bullet": "0320 Shyam Saran",
+    "review_queue_attribution": "Shyam Saran",
+    "review_queue_quote": "",
+    "quote_blocks": [
+      {
+        "label": "",
+        "text": "\"A nation's destiny is shaped by its geography but defined by its diplomacy.\" — Shyam Saran"
+      }
+    ]
+  },
+  {
+    "card_id": "0324",
+    "full_card_id": "GS2-INTE-0324",
+    "batch": "Batches 08 to 10: cards 297 to 356 (flag only, nothing was changed unless stated)",
+    "raw_bullet": "0324 Milinda Moragoda",
+    "review_queue_attribution": "Milinda Moragoda",
+    "review_queue_quote": "",
+    "quote_blocks": [
+      {
+        "label": "",
+        "text": "\"Relationship with India is our most important relationship, period.\" — Milinda Moragoda, SL High Commissioner (after India's cooperation in crisis)"
+      },
+      {
+        "label": "",
+        "text": "\"Focus must be on elevating the bilateral ties from the current 'transactional' phase to one that is more 'strategic'.\" — Milinda Moragoda"
+      }
+    ]
+  },
+  {
+    "card_id": "0326",
+    "full_card_id": "GS2-INTE-0326",
+    "batch": "Batches 08 to 10: cards 297 to 356 (flag only, nothing was changed unless stated)",
+    "raw_bullet": "0326 Rakesh Sood",
+    "review_queue_attribution": "Rakesh Sood",
+    "review_queue_quote": "",
+    "quote_blocks": [
+      {
+        "label": "",
+        "text": "\"India's vision is a Sovereign, United, Stable, Plural and Democratic Afghanistan.\" — Former diplomat Rakesh Sood"
+      }
+    ]
+  },
+  {
+    "card_id": "0333",
+    "full_card_id": "GS3-INDI-0333",
+    "batch": "Batches 08 to 10: cards 297 to 356 (flag only, nothing was changed unless stated)",
+    "raw_bullet": "0333 Barack Obama",
+    "review_queue_attribution": "Barack Obama",
+    "review_queue_quote": "",
+    "quote_blocks": [
+      {
+        "label": "",
+        "text": "\"A budget is not just numbers on a page, it is an embodiment of our values.\" – Barack Obama"
+      }
+    ]
+  },
+  {
+    "card_id": "0442",
+    "full_card_id": "GS3-ENVI-0442",
+    "batch": "Batch 15: cards 437 to 456 (Environment)",
+    "raw_bullet": "0442 Mark Dowie (conservation-refugees line) — plausible but please verify wording.",
+    "review_queue_attribution": "Mark Dowie  — plausible but please verify wording. | conservation-refugees line",
+    "review_queue_quote": "",
+    "quote_blocks": [
+      {
+        "label": "",
+        "text": "\"The only thing that displaced more people than war is wildlife conservation.\" — Mark Dowie"
+      }
+    ]
+  },
+  {
+    "card_id": "0528",
+    "full_card_id": "GS3-INTE-0528",
+    "batch": "Batch 19 (cards 517-536: Internal Security) — needs_review / flags",
+    "raw_bullet": "0528 quote merges a statement with \"Tribal Panchsheel principles\" and is attributed to Antonio Guterres — please verify wording/attribution.",
+    "review_queue_attribution": "and is attributed to Antonio Guterres — please verify wording/attribution",
+    "review_queue_quote": "Tribal Panchsheel principles",
+    "quote_blocks": [
+      {
+        "label": "",
+        "text": "\"Underdevelopment and inequality — hence need to imbibe Tribal Panchsheel principles in bringing peace & participative governance.\" — Antonio Guterres"
+      }
+    ]
+  },
+  {
+    "card_id": "0529",
+    "full_card_id": "GS3-INTE-0529",
+    "batch": "(C10 already-fixed)",
+    "raw_bullet": "D. Placeholders -> real, fact-safe content",
+    "review_queue_attribution": "Antonio Guterres (verified, applied)",
+    "review_queue_quote": "(Guterres quote — already replaced with verified text in C10)",
+    "quote_blocks": []
+  },
+  {
+    "card_id": "0531",
+    "full_card_id": "GS3-INTE-0531",
+    "batch": "(C10 already-fixed)",
+    "raw_bullet": "D. Placeholders -> real, fact-safe content",
+    "review_queue_attribution": "Antonio Guterres (verified, applied)",
+    "review_queue_quote": "(Guterres quote — already replaced with verified text in C10)",
+    "quote_blocks": []
+  },
+  {
+    "card_id": "0584",
+    "full_card_id": "GS4-ETHI-0584",
+    "batch": "Batch 22 (cards 577-596: Ethics) — needs_review / flags",
+    "raw_bullet": "0584 \"A nation's greatness is measured by how it treats its weakest members.\" – Mahatma Gandhi (commonly attributed to Hubert Humphrey / FDR; verify).",
+    "review_queue_attribution": "commonly attributed to Hubert Humphrey / FDR; verify",
+    "review_queue_quote": "A nation's greatness is measured by how it treats its weakest members.",
+    "quote_blocks": [
+      {
+        "label": "",
+        "text": "“A nation's greatness is measured by how it treats its weakest members.” – Mahatma Gandhi"
+      }
+    ]
+  },
+  {
+    "card_id": "0607",
+    "full_card_id": "GS4-ETHI-0607",
+    "batch": "Batch 23 (cards 597-616: Ethics) — needs_review / flags",
+    "raw_bullet": "0607 quote attributed to \"CS Lewis\" — this line is usually attributed to Charles Marshall; please verify.",
+    "review_queue_attribution": "— this line is usually attributed to Charles Marshall; please verify",
+    "review_queue_quote": "CS Lewis",
+    "quote_blocks": [
+      {
+        "label": "",
+        "text": "\"CS Lewis: Integrity is doing the right thing even when no one is watching.\""
+      }
+    ]
+  },
+  {
+    "card_id": "0610",
+    "full_card_id": "GS4-ETHI-0610",
+    "batch": "Batch 23 (cards 597-616: Ethics) — needs_review / flags",
+    "raw_bullet": "0610 Warren Buffett hiring quote kept exactly (well-known attribution).",
+    "review_queue_attribution": "Warren Buffett hiring quote kept exactly . | well-known attribution",
+    "review_queue_quote": "",
+    "quote_blocks": [
+      {
+        "label": "",
+        "text": "\"In looking for people to hire, you look for three qualities: integrity, intelligence and energy. And if they don't have the first, the other two will kill you.\""
+      }
+    ]
+  },
+  {
+    "card_id": "0661",
+    "full_card_id": "GS4-ETHI-0661",
+    "batch": "Batch 26 (cards 657-676: Ethics — Moral Thinkers) — needs_review / flags",
+    "raw_bullet": "0661 \"Moral excellence is not an act, but a habit.\" – Aristotle (usually attributed to Will Durant summarising Aristotle; verify).",
+    "review_queue_attribution": "usually attributed to Will Durant summarising Aristotle; verify",
+    "review_queue_quote": "Moral excellence is not an act, but a habit.",
+    "quote_blocks": [
+      {
+        "label": "",
+        "text": "“Moral excellence is not an act, but a habit.” – Aristotle"
+      }
+    ]
+  },
+  {
+    "card_id": "0715",
+    "full_card_id": "GS4-ETHI-0715",
+    "batch": "Batch 28 (cards 697-716: Ethics — Teachings of Great Leaders, quote collection) — needs_review / flags",
+    "raw_bullet": "0715 Voltaire line — famously apocryphal (actually Beatrice Hall)",
+    "review_queue_attribution": "Voltaire line — famously apocryphal  | actually Beatrice Hall",
+    "review_queue_quote": "",
+    "quote_blocks": [
+      {
+        "label": "",
+        "text": "\"Voltaire - 'I may not agree with what you say but I will fight to death your right to say it'\""
+      }
+    ]
+  },
+  {
+    "card_id": "0722",
+    "full_card_id": "GS4-ETHI-0722",
+    "batch": "Batch 29 (cards 717-736: Ethics — Probity in Governance) — needs_review / flags",
+    "raw_bullet": "0722 Pope Francis two-line quote kept (all-caps first line as written).",
+    "review_queue_attribution": "Pope Francis two-line quote kept . | all-caps first line as written",
+    "review_queue_quote": "",
+    "quote_blocks": [
+      {
+        "label": "",
+        "text": "\"CORRUPTION IS PAID BY THE POOR. - Pope Francis\" \"Results in collusive corruption paid for by the poor. - Pope Francis\""
+      }
+    ]
+  },
+  {
+    "card_id": "0739",
+    "full_card_id": "GS4-ETHI-0739",
+    "batch": "Batch 30 (cards 737-756: Ethics — Governance & Probity II) — needs_review / flags",
+    "raw_bullet": "0739 \"The customer is the most important visitor on our premises.\" – Gandhi (apocryphal; usually attributed to a hotel sign / Kenneth Blanchard variants; verify).",
+    "review_queue_attribution": "apocryphal; usually attributed to a hotel sign / Kenneth Blanchard variants; verify",
+    "review_queue_quote": "The customer is the most important visitor on our premises.",
+    "quote_blocks": [
+      {
+        "label": "",
+        "text": "“The customer is the most important visitor on our premises.” – Mahatma Gandhi"
+      }
+    ]
+  },
+  {
+    "card_id": "0776",
+    "full_card_id": "GS4-ETHI-0776",
+    "batch": "Batch 31 (cards 757-776: Ethics — Accountability/Corporate/IR) — needs_review / flags",
+    "raw_bullet": "0776 Nani Palkhivala quote (verify).",
+    "review_queue_attribution": "Nani Palkhivala quote . | verify",
+    "review_queue_quote": "",
+    "quote_blocks": [
+      {
+        "label": "",
+        "text": "“The line between right and wrong is often drawn by self-interest.” – Nani Palkhivala"
+      }
+    ]
+  }
+]

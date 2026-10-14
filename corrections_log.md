@@ -383,3 +383,28 @@ attribution remains untouched and is documented in `tier_A_classified.md` for hu
 review. The verifier still reports 0 errors; warning count unchanged at 697.
 
 ### Tier B and Tier C pending — to be applied in the next commits.
+
+### Tier B (43 cards, 46 unique quote texts) — NO EDITS APPLIED
+Per-quote evidence written to `/home/z/my-project/download/tier_B_classified.md`
+and `c11_verify/tier_B_verify.json`.
+- AUTH (scholarly/news source confirmed): 0
+- INDEP (any independent non-booklet source): 0
+- BOOKLET_ONLY: 0
+- NOT_FOUND: 46 (100% of unique quote texts returned zero web results)
+
+Striking pattern: NONE of the 46 named-but-obscure attributions (Palkhivala,
+Mehrishi, Aruna Roy, Shyam Saran, Rakesh Sood, Milinda Moragoda, Mark Dowie,
+Granville Austin, Jimmy Carter, Ban Ki-moon, Kofi Annan, Amartya Sen,
+Abhijit Banerjee, Justice Indu Malhotra, etc.) could be confirmed via web search.
+This is consistent with the C0 root-cause finding that the JSON enrichment
+layer invented many quotes and attributed them to real scholars/diplomats;
+the web has no independent record of these specific phrasings.
+
+### Tier B action: NONE
+Per the user's 'no mistakes' rule, no attribution is changed without unambiguous
+evidence. All 46 are flagged for human review in `c11_verify/tier_B_verify.json`.
+Verifier: 0 errors, 697 warnings (unchanged from Tier A).
+
+### Tier C pending — final pass, includes HC / 2nd-ARC Committee quotes
+  (user rule: web-search; if found add [Source]; if not found KEEP AS-IS;
+  remove source only in extreme case of proven wrong attribution).
