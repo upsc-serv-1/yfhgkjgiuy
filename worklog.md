@@ -537,3 +537,34 @@ Work Log:
 Stage Summary:
 - Book now meets the reviewer's second-pass bar; corrections live in MERGED only (batch files stale — do NOT re-merge without care; documented in corrections_log.md).
 - Suggestions kept separate: ~150 quote attributions research (Kabir->Tagore etc.) still pending user decision; leaner-edition cut list for paired summary cards offered in C6.
+
+---
+Task ID: 31
+Agent: Super Z (main)
+Task: C9 third-pass cleanup of polished/MERGED_full_1-789.md — user's exact-word fix list only.
+
+Work Log:
+- Backed up MERGED_full_1-789.md -> MERGED_full_1-789.pre-C9.bak.md before editing.
+- Applied 16 line edits across 15 cards: 0090 flags [truncated] (text untouched, status already needs_review); 0088 "Such communities"->"Tribal communities"; shorthand 0089/0108/0123/0536/0543/0339/0631; hard words 0116/0153/0155/0148/0415/0095 (bold kept)/0606 title.
+- Left per instruction: "Govt" in quotes 0168/0269/0647; "dev" in image URLs; bedrock/synergy/cornerstone in quotes 0158/0347/0421; Ethos 0630/0633.
+- Left out of scope (not in user's list): 0764 Kurien, 0116/0106 Natl, 0141 underscoring, 0108 "ex. finance", 0123 Envt, spellings, placeholders, fact conflicts — logged as still-open in corrections_log.md C9.
+- Wrote scripts/c9_check.py; verified: 789 cards, 2063 opening + 2063 closing ::: all paired, diff = exactly 16 intended line changes.
+- Appended "C9 - Third-pass cleanup" section to corrections_log.md.
+
+Stage Summary:
+- C9 done: 16 line changes in polished/MERGED_full_1-789.md; checks green; backup kept.
+- Not pushed to GitHub (not requested in this task). corrections_log.md carries the still-open list for the user's decisions.
+
+---
+Task ID: 32
+Agent: Super Z (main)
+Task: User said "push" — push corrections-3 (C9) to GitHub.
+
+Work Log:
+- /home/z/ghrepo clone is gone (session reset); /home/z/my-project/.git is sandbox-only (no remote).
+- No PAT stored anywhere (never persisted; was chat-only) -> push BLOCKED pending token.
+- Repo confirmed: upsc-serv-1/yfhgkjgiuy (worklog/PLAN).
+- Wrote scripts/push_corrections3.sh: clones with PAT, copies C9 files (MERGED + .pre-C9.bak + corrections_log.md + worklog.md + scripts/c9_check.py), commits "corrections-3", pushes, scrubs token, verifies origin/main.
+
+Stage Summary:
+- Push ready to fire the moment the user re-sends a PAT (Contents: read/write on upsc-serv-1/yfhgkjgiuy).

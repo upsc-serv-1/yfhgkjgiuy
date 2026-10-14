@@ -2818,7 +2818,7 @@ status: polished
 :::
 
 :::introduction
-Such communities are marked by **geographic isolation, a shy reluctance of contact, economic backwardness, primitive traits, and a distinct culture**.
+Tribal communities are marked by **geographic isolation, a shy reluctance of contact, economic backwardness, primitive traits, and a distinct culture**.
 :::
 
 :::data
@@ -2876,7 +2876,7 @@ status: polished
   - 1. The Mahim church.
   - 2. Ajmer Sharif.
   - The Vaver mosque visit is an integral part of the Sabarimala pilgrimage.
-- **Govt steps:**
+- **Government steps:**
   - 1. The Van Dhan scheme.
   - 2. The Eklavya model.
   - 3. TriFed.
@@ -2902,7 +2902,7 @@ subtopic: "Uniqueness of Indian society"
 card_title: "Values and tolerance And customs"
 card_type: structured
 sections: [introduction, examples, conclusion]
-flags: []
+flags: [truncated]
 status: needs_review
 ---
 
@@ -3071,7 +3071,7 @@ Globalisation has reshaped India's economy and aspirations — pulling it into g
 
 :::examples
 - **PLI Schemes** attract foreign investment while boosting domestic manufacturing and job creation
-- The **Startup India-Digital India** synergy is making global entrepreneurs of small-town founders, reshaping societal structures
+- The **Startup India and Digital India** working together is making global entrepreneurs of small-town founders, reshaping societal structures
 :::
 
 :::conclusion
@@ -3510,7 +3510,7 @@ status: polished
 :::
 
 :::conclusion
-- The task is not the govt's or one agency's alone — all stakeholders... removing barriers ex. finance, technology collaborations for **cheaper battery storage & private participation** for greater adoption.
+- The task is not the government's or one agency's alone — all stakeholders... removing barriers ex. finance, technology collaborations for **cheaper battery storage & private participation** for greater adoption.
 - The Panchamrit's **500GW RE** target shows why the shift cannot wait.
 :::
 
@@ -3772,7 +3772,7 @@ An installed capacity of **60GW** against a potential of **750 GW** as per NISE.
 :::
 
 :::conclusion
-- The task is not the government's or one agency's alone — all stakeholders must act together. The Panchamrit's **500GW RE** underscores the need for removing barriers ex. finance, technology collaborations for **cheaper battery storage & private participation** for greater adoption.
+- The task is not the government's or one agency's alone — all stakeholders must act together. The Panchamrit's **500GW RE** shows the need for removing barriers ex. finance, technology collaborations for **cheaper battery storage & private participation** for greater adoption.
 - **Steps:**
   - ISA — OSOWOG
   - PLI
@@ -3976,7 +3976,7 @@ status: polished
 ---
 
 :::introduction
-- These are minerals **essential for economic dev & national security**; their lack of availability can create supply chain vulnerabilities.
+- These are minerals **essential for economic development and national security**; their lack of availability can create supply chain vulnerabilities.
 - Ex: **lithium, cobalt, tungsten, rare earth**.
 :::
 
@@ -4715,7 +4715,7 @@ The **IOD** refers to the difference in sea surface temperature between the **we
 :::
 
 :::conclusion
-Ocean currents — **the Earth's silent climate conductors** — call for focused research and global collaboration to unravel their intricate roles.
+Ocean currents — **the Earth's silent climate conductors** — call for focused research and global collaboration to unravel their many roles.
 :::
 
 ---
@@ -4851,7 +4851,7 @@ status: polished
 ---
 
 :::quote
-"The declaration of 2021- 2030 as the decade of ocean sciences underscores the imperative to harness ocean resources responsibly and collaboratively for a resilient and prosperous future."
+"The declaration of 2021- 2030 as the decade of ocean sciences shows the need to harness ocean resources responsibly and collaboratively for a resilient and prosperous future."
 :::
 
 :::introduction
@@ -4921,7 +4921,7 @@ status: polished
 ---
 
 :::quote
-"The declaration of 2021- 2030 as the decade of ocean sciences underscores the imperative to harness ocean resources responsibly and collaboratively for a resilient and prosperous future."
+"The declaration of 2021- 2030 as the decade of ocean sciences shows the need to harness ocean resources responsibly and collaboratively for a resilient and prosperous future."
 :::
 
 :::introduction
@@ -10119,7 +10119,7 @@ subject: "INDIAN ECONOMY"
 section_group: "Macroeconomics & Fiscal Policy"
 microtopic: "Inclusive growth and issues arising from it"
 subtopic: "Inclusive Growth X Sustainable Development"
-card_title: "Role of SHGs, Cooperatives & Skill Dev"
+card_title: "Role of SHGs, Cooperatives & Skill Development"
 card_type: structured
 sections: [quote, introduction, examples, conclusion]
 flags: []
@@ -12476,7 +12476,7 @@ status: needs_review
 ---
 
 :::detail label="Fill-in-the-Blank Conclusion"
-- "The **__** mission is not just about **unraveling cosmic mysteries** but also **pivotal to India's vision of space leadership**."
+- "The **__** mission is not just about **unraveling cosmic mysteries** but also **important to India's vision of space leadership**."
 :::
 
 ---
@@ -16005,7 +16005,7 @@ status: needs_review
 
 :::conclusion
 - **Chanakya — need 3 S** for all-round national power: **Shastra** (military prowess), **Shaastra** (academia/civil-military fusion), **Sanskriti** (ideals and principles).
-- **Multi-domain operations / Whole of Govt and society approach**.
+- **Multi-domain operations / Whole of Government and society approach**.
 - The fight against __ requires **all nations and stakeholders** to come on the same platform.
 :::
 
@@ -16181,7 +16181,7 @@ status: untouched
 ---
 
 :::detail label="Fill-in-the-Blank Intro"
-- "The fight against **___** is not that of any one govt/agency but requires all nations & stakeholders to come on the same platform and make coordinated efforts with equal intensity & seriousness."
+- "The fight against **___** is not that of any one government or agency but requires all nations & stakeholders to come on the same platform and make coordinated efforts with equal intensity & seriousness."
 :::
 
 :::detail label="Fill-in-the-Blank Conclusion"
@@ -17674,7 +17674,7 @@ subject: "ETHICS, INTEGRITY & APTITUDE"
 section_group: "Psychology & Foundational Values"
 microtopic: "Aptitude and Foundational Values for Civil Service"
 subtopic: "Integrity"
-card_title: "INTEGRITY AS THE CORNERSTONE"
+card_title: "INTEGRITY AS THE FOUNDATION"
 card_type: detail
 sections: [detail]
 flags: []
@@ -18287,7 +18287,7 @@ subject: "ETHICS, INTEGRITY & APTITUDE"
 section_group: "Psychology & Foundational Values"
 microtopic: "Attitude: Content, Structure, Function, Moral and Political Attitudes, Social Influence"
 subtopic: "Social influence and persuasion"
-card_title: "BIHAR GOVT NUDGE CAMPAIGN"
+card_title: "BIHAR GOVERNMENT NUDGE CAMPAIGN"
 card_type: detail
 sections: [examples]
 flags: []

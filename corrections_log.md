@@ -211,3 +211,45 @@ reviewer's list (left per explicit-requests-only rule).
 ### Final verify: 789 cards, 0 errors, 668 warnings (baseline before C8: 771 — 103 cleared).
 Scripts: c8_extract_second_pass.py, c8b_extract_from_merged.py, c8c_dump_d_blocks.py,
 c8_fixes_gs1.py, c8_fixes_gs23.py, c8_fixes_gs4_text.py, c8_apply.py, c8b_nudge.py.
+
+---
+## C9 — THIRD-PASS CLEANUP (user's fix list; exact-word edits only, no new facts)
+Scope: only the user's FIXES 1-4. All edits in polished/MERGED_full_1-789.md.
+Pre-edit backup: polished/MERGED_full_1-789.pre-C9.bak.md.
+
+1. GS1-SOCI-0090: text left untouched ("Visits by all religions and..." stays); flags []
+   -> [truncated]; status already needs_review.
+2. GS1-SOCI-0088 introduction: "Such communities" -> "Tribal communities".
+3. Shorthand expanded (outside quotes):
+   0089 "Govt steps:" -> "Government steps:"; 0108 conclusion "govt's" -> "government's";
+   0123 "economic dev & national security" -> "economic development and national security";
+   0536 "Whole of Govt" -> "Whole of Government"; 0543 "any one govt/agency" ->
+   "any one government or agency"; 0339 title "Skill Dev" -> "Skill Development";
+   0631 title "BIHAR GOVT NUDGE CAMPAIGN" -> "BIHAR GOVERNMENT NUDGE CAMPAIGN".
+   LEFT (per instruction): "Govt" inside quotes of 0168, 0269, 0647; "dev" in image URLs.
+4. Hard words simplified (outside protected quotes):
+   0116 "underscores the need for" -> "shows the need for"; 0153+0155 "underscores the
+   imperative to" -> "shows the need to" (unattributed placeholder quote line, user-listed);
+   0148 "intricate roles" -> "many roles"; 0415 "pivotal to" -> "important to";
+   0095 "Startup India-Digital India synergy is making" -> "Startup India and Digital India
+   working together is making" (bold kept on scheme names); 0606 title "CORNERSTONE" ->
+   "FOUNDATION".
+   LEFT (per instruction): "bedrock" (0158), "synergy" (0347), "cornerstone" (0421) inside
+   quotes; "Ethos" in 0630/0633.
+   Note: C8 had fixed only the reviewer's listed instances (0150 intricate, 0152 pivotal,
+   0108/0110 underscores, 0606 body) — the surviving sibling instances are what C9 cleared.
+
+Check result: 789 cards; 2063 opening / 2063 closing ::: fences, all paired; diff vs backup
+= exactly the 16 intended line changes, nothing else. Verifier scripts: scripts/c9_check.py.
+
+Still open (user-reported, NOT in the C9 fix list, left untouched): 0764 "Kurien", 0116
+"Natnl Solar Mission", 0106 "Natl Coal Gasification", 0141 "underscoring", 0108 "ex.
+finance", 0123 "Envt", 0106/0107/0110/0132/0087 shorthand, 0102 spellings, 0030
+"table"->"tabla", 0056 "noy" (inside quote), 0610/0656 "BUFFET", name disagreements
+(Rajawat/Rajavat, Megha/Meghachandra, Khambat/Khambhat), US/UK spelling mix, CE/BCE dates,
+mismatched bodies (0035, 0073, 0011, 0243, 0067), 0361 numbering, 0430 stray line, 0154
+indent, 0090 truncated line itself, 0394 UMANG, stray quote punctuation (15 cards),
+placeholders (0044, 0075, 0172, 0264, 0279, 0280, 0284, 0292, 0296, 0414, 0424, 0509, 0529,
+0531, blank templates), fact conflicts (gas share 3.9% vs ~6%, forest cover 21.7% vs 24.62%,
+"O ACS", ~150 quote attributions, 0392 "$500 Bn", "60+ Vande Bharat"), long sentences 0183,
+0218, 0535.
