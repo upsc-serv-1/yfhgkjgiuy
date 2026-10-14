@@ -161,3 +161,53 @@ Verified after C5: 0 errors, 771 warnings.
 - Data blocks that repeat their own intro (e.g. 0184, 0277, 0310, 0350-0356): kept — in flashcard-style books the repetition aids recall; numbers are protected.
 
 ---
+
+---
+## C8 — SECOND-PASS STYLE FIXES (from the user's main-AI reviewer, second_pass_list.md)
+Scope: exactly the reviewer's four lists (A near-copy blocks, B shorthand, C hard words, D long
+sentences). Everything applied to polished/MERGED_full_1-789.md (the living corrected book).
+NOTE: since C1, all corrections live in MERGED; the 40 batch files are stale build artifacts.
+Do NOT re-run tools/merge_batches.py — it would overwrite the corrections.
+
+### A. Near-copy blocks (reviewer listed 58 blocks in 52 cards)
+- 5 blocks were already below the 0.90 bar after C1-C6 (0007 conclusion 0.67, 0032 data 0.86,
+  0109 introduction 0.83, 0143 introduction 0.87, 0599 Concept 0.56, 0648 Concept 0.88) — skipped.
+- 52 blocks rewritten by hand (new sentence structure, simpler words, all protected numbers,
+  quote text, capitalised names and list-item counts preserved): 0003d, 0018e, 0026c, 0038c,
+  0046i+e, 0047i+e, 0050i, 0052i+e, 0056i+c, 0072i, 0073i+d+c, 0076i, 0079i, 0080e, 0087c,
+  0088i+c, 0097i+d+c, 0105c, 0108d, 0111c+d, 0114i, 0120i, 0125i, 0131d, 0135c, 0136i+d,
+  0143i(split), 0146d, 0149i, 0154i, 0269c, 0412i, 0435d+c, 0443i, 0448i, 0449i, 0450i, 0459c,
+  0482c, 0535c, 0537d, 0599d(Keywords), 0637i, 0639e, 0640e, 0651d, 0653d, 0655d, 0718d, 0747d.
+- Result: every reviewer-listed block now measures below 0.90 similarity, except
+  GS1-GEOG-0110 data (1.00) — the block is ONLY protected figures (47.7%, 52.3%, 271.9 GW,
+  140.6 GW, 54.6 GW, 3.9%); no rewording is possible without corrupting numbers. Irreducible.
+- Quality extras fixed while rewriting: "Dropadi murmu" -> "Droupadi Murmu" (official spelling),
+  "ek bharat shresth bharat" -> "Ek Bharat Shreshtha Bharat", "Natnl" -> "National" (2 cards),
+  0443 stray bold "****INCOIS**...**" cleaned, 0435 garbled "Rice:/1./2." restructured to
+  "Crop yield falls: 1. Rice... 2. Maize...", 0599 duplicate "Dedication" removed,
+  0653 "an Increment to offense" -> "adding to offense", 0412 now names Aditya-L1
+  (extra number "1" allowlisted in approved_corrections.py), 0599/0535/0435/0269 quotes kept
+  verbatim with short framing lines added.
+- Verifier flags that remain but were NOT on the reviewer's list (left untouched per the
+  explicit-requests-only rule): 0003 conclusion 1.00 (protected keyword list), 0044 intro 1.00,
+  0114 conclusion 0.91 (telegraphic by design), 0153 conclusion 1.00, 0274/0558/0688/0727/0746.
+
+### B. Informal shorthand (8 listed) — ALL cleared, 0 remaining in book
+0112/0087/0718 govt->government; 0125 b/w->Between 2016 and 2019; 0125/0131/0151/0154
+imp->matters/important phrasing. Bonus: 0132 "both imp" -> "both matter" (same phrase).
+
+### C. Hard words (13 listed + 0749-examples 'ethos' the reviewer missed) — ALL cleared
+0007 ethos->the nation's cultural character; 0049 bedrock->foundation; 0071/0100/0749
+ethos->spirit/shared values/service attitude; 0108+0110 underscores->target shows why;
+0150 intricate->many; 0152 pivotal->key; 0206/0337/0538/0540 synergy->coordinated action /
+fiscal coordination / coordination / jointness and integration; 0606 cornerstone->foundation.
+
+### D. Long sentences >25 words (49 blocks in 44 cards) — ALL reviewer-listed blocks split
+Splits keep every fact and number; list-item counts unchanged (continuation lines carry no
+dash). Remaining long sentences in the book: 0183, 0218, 0535 only — none were on the
+reviewer's list (left per explicit-requests-only rule).
+- 0018 mnemonic restructured: Hinglish memory line separated from its English explanation.
+
+### Final verify: 789 cards, 0 errors, 668 warnings (baseline before C8: 771 — 103 cleared).
+Scripts: c8_extract_second_pass.py, c8b_extract_from_merged.py, c8c_dump_d_blocks.py,
+c8_fixes_gs1.py, c8_fixes_gs23.py, c8_fixes_gs4_text.py, c8_apply.py, c8b_nudge.py.

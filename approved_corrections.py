@@ -31,6 +31,7 @@ APPROVED_NUMBER_REMOVALS = {
 
 # numbers added/changed by verified fact corrections or PDF restorations
 APPROVED_NUMBER_ADDITIONS = {
+    'GS3-SCIE-0412': {'1': 'Aditya-L1 mission name added in second-pass rewrite (block 0412 intro)'},
     'GS1-HIST-0077': {'312': 'Art. 312 All-India Services added in card completion'},
     'GS1-GEOG-0115': {'2': 'RE card restored from source PDF: 2nd largest RE growth, 2x import bill',
                       '2030': 'RE card restored from PDF: import bill 2x by 2030',

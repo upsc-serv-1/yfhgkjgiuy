@@ -519,3 +519,21 @@ Work Log:
 Stage Summary:
 - Book corrected to Edition-2 standard; PDFs stored in upload/ + extracted text in pdf_text/ for future reference.
 - BLOCKER: local git clone at /home/z/ghrepo lost its .git data in a session reset; GitHub PAT needed from user to re-clone and push corrections commits.
+
+---
+Task ID: 30
+Agent: Super Z (main)
+Task: corrections-1 push (C1-C6 state) + C8 second-pass style fixes from reviewer's second_pass_list.md; push "corrections-2"
+
+Work Log:
+- Re-cloned /home/z/ghrepo with the user's new PAT (old clone was lost); pushed "corrections-1" (C1-C6 corrected book + logs + pdf_text + scripts) — GitHub blocker resolved.
+- Read reviewer's second_pass_list.md: A) 58 near-copy blocks in 52 cards, B) 8 shorthand words, C) 13 hard words (+1 missed), D) 49 long sentences in 44 cards. None were covered by C1-C6.
+- Rebuilt extraction against the AUTHORITATIVE corrected MERGED (batch files are stale since C1-C6 edited MERGED directly) — 53 A-blocks still >=0.90, 6 already below.
+- Wrote fix data files (c8_fixes_gs1/gs23/gs4_text) with hand rewrites preserving all protected numbers, quotes, caps names, list counts; c8_apply.py applies per-card sequentially; fixed a same-card overwrite bug; 69 block rewrites + 45 text fixes applied; c8b_nudge.py for 4 final similarity nudges.
+- Fixed during rewrites: Droupadi Murmu, Ek Bharat Shreshtha Bharat, Natnl->National x2, 0443 stray bold, 0435 garbled Rice/Maize list, 0090 truncated "a baby..." completed, 0599 duplicate Dedication, 0653 phrasing; 0412 named Aditya-L1 (number allowlisted); 0088 Dhebar Commission (1961) bullet restored after verify caught its loss.
+- Final verify: 789 cards, 0 errors, 668 warnings (771 baseline; 103 cleared). All reviewer A-listed blocks <0.90 except 0110 data (pure protected figures — irreducible, documented). B and C categories: 0 remaining in the whole book. D: only 0183/0218/0535 remain (not on reviewer's list).
+- corrections_log.md C8 section written; zipped; pushed "corrections-2".
+
+Stage Summary:
+- Book now meets the reviewer's second-pass bar; corrections live in MERGED only (batch files stale — do NOT re-merge without care; documented in corrections_log.md).
+- Suggestions kept separate: ~150 quote attributions research (Kabir->Tagore etc.) still pending user decision; leaner-edition cut list for paired summary cards offered in C6.

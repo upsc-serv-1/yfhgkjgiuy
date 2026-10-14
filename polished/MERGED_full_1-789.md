@@ -44,7 +44,8 @@ status: polished
 ---
 
 :::introduction
-- **Bhakti:** a theistic devotional trend from medieval India that later **revolutionised society** — South India from the 7th-12th CE, then North India from the 15th CE.
+- **Bhakti:** a theistic devotional trend from medieval India that later **revolutionised society**.
+  It rose in South India from the 7th-12th CE, then swept North India from the 15th CE.
 - **Sufi:** the Sufi movement of medieval India — a **spiritual and inclusive Islamic tradition** stressing divine love, tolerance, and inner spiritual experience.
 :::
 
@@ -52,7 +53,8 @@ status: polished
 - **Bhakti:**
   - 1. South — the Alvar and Nayanar saints.
   - 2. North — the Nirguna and Saguna streams.
-  - Features: a personal bond and salvation through intense loving devotion; universalism; opposition to rituals; no caste or gender discrimination; the need for a true Guru.
+  - Features: a personal bond and salvation through intense loving devotion; universalism; opposition to rituals.
+    No caste or gender discrimination; the need for a true Guru.
   - Method: poetry, song, dance; kirtan (naam japna — Nanak — "sangat pangat").
   - Women:
     - Rajasthan: **Mirabai** (spoke against infanticide and sati)
@@ -60,7 +62,9 @@ status: polished
     - Karnataka: **Akka Mahadevi** (Veershaivite — the soul has no gender)
     - Jammu and Kashmir: **Lal Dedh** (Kashmiri Shaivite)
     - Maharashtra: **Janabai** (Abhangs on Vithoba)
-  - Examples: **Guru Nanak** (PB), **JNET** (MH, Abhang), **Surdas** (Krishna — Sursagar), **Vallabhacharya** (UP, Pushti Marg), **Shankardev** (AS, Bhaona), **Basavanna** (KN, Vachanas in Kannada), **Chaitanya Mahaprabhu** (WB). Saints like **Kabir, Namdev, and Sheikh Farid** promoted inter-religious harmony.
+  - Examples: **Guru Nanak** (PB), **JNET** (MH, Abhang), **Surdas** (Krishna — Sursagar).
+    **Vallabhacharya** (UP, Pushti Marg), **Shankardev** (AS, Bhaona), **Basavanna** (KN, Vachanas in Kannada), **Chaitanya Mahaprabhu** (WB).
+    Saints like **Kabir, Namdev, and Sheikh Farid** promoted inter-religious harmony.
 - **Sufi:**
   - Wahadat-al-Wajud — the oneness of existence and humanity.
   - Union with God; a spirit of tolerance and brotherhood; unity of religions.
@@ -75,7 +79,8 @@ status: polished
 
 :::conclusion
 - The principles of the Bhakti movement answer today's religious polarisation and caste and gender divides with **universal brotherhood, love and equality**.
-- They promoted a spirituality of universal love and harmony that still shows — ISKCON kirtans (Chaitanya Mahaprabhu), the Ankia Naat of Shankardev, the Warkaris of Maharashtra, the practice of langar, Sufi spiritual music, and visits to Sufi shrines by people of all faiths.
+- Their spirituality of universal love and harmony is still visible today. It lives on in ISKCON kirtans (Chaitanya Mahaprabhu), the Ankia Naat of Shankardev, and the Warkaris of Maharashtra.
+  The practice of langar, Sufi spiritual music, and visits to Sufi shrines by people of all faiths carry the same spirit.
 :::
 
 ---
@@ -101,13 +106,13 @@ Buddhism arose **2600 years ago** (600–400 BC) from the teachings of **Siddhar
 :::
 
 :::data
-- **Sites:**
+- **Sacred sites:**
   - **Stupas:** Sanchi, Amravati
   - **Temples:** Gaya Mahabodhi
-  - **Monasteries:** Alchi, Ladakh, Namdroling (KN), Tawang, Rumtek, Ghum
+  - **Monasteries:** Alchi (Ladakh), Namdroling (KN), Tawang, Rumtek, Ghum
   - **Caves:** Ajanta, Ellora, Nashik, Karle
-- **Buddha's life:** Sarnath, Kushinagar, Gaya
-- **Literature:** Tripitak, Jatakas, Milinda Panho
+- **Life of the Buddha:** Sarnath, Kushinagar, Gaya
+- **Key texts:** Tripitak, Jatakas, Milinda Panho
 :::
 
 :::conclusion
@@ -133,7 +138,7 @@ status: polished
 :::
 
 :::introduction
-From Harappa's urban planning to Gupta cave shrines and Nagara-Dravida temples, ancient Indian architecture joined material sophistication with spiritual imagination, shaping the aesthetics of a civilisation.
+From Harappa's urban planning to Gupta cave shrines and Nagara-Dravida temples, ancient Indian architecture joined material sophistication with spiritual imagination. It shaped the aesthetics of a whole civilisation.
 :::
 
 :::examples
@@ -217,7 +222,7 @@ The **Harappan civilisation**, a Bronze-age culture (**2700 - 1900 BC**), was an
 :::
 
 :::conclusion
-- The lessons the Harappan civilisation offers on **city planning, trade, and resilience** deserve study and application, above all for sustainable urban development (**SDG 11**).
+- The lessons the Harappan civilisation offers on **city planning, trade, and resilience** deserve study and application. The fit is closest with sustainable urban development (**SDG 11**).
 - The recent **UNESCO world heritage status to Dholavira** underlines its significance.
 :::
 
@@ -249,7 +254,7 @@ From colonial Indo-Gothic to **Charles Correa's** post-colonial works, modern In
 :::
 
 :::conclusion
-Modern architecture must weigh innovation against contextual heritage, serving both utility and national ethos.
+Modern architecture must weigh innovation against contextual heritage, serving both utility and the nation's cultural character.
 :::
 
 ---
@@ -676,10 +681,10 @@ The vast inheritance of traditions, knowledge, practices & expressions handed do
 
 :::examples
 - **Core Concepts:**
-  - a living link from past to present to future.
-  - it builds inclusivity and social cohesion.
-  - it gives a strong sense of identity and ancestral inheritance.
-  - it covers living traditions, oral heritage, and traditional crafts.
+  - a living bridge that carries the past into the present and the future.
+  - it binds society together and builds inclusion.
+  - it roots people in their identity and their ancestral inheritance.
+  - it spans living traditions, oral heritage, and traditional crafts.
 - **UNESCO Intangible Cultural Heritage List (India):**
   - *Vedic Chanting* (oral tradition).
   - *Ramlila* (traditional performance of the Ramayana).
@@ -695,7 +700,8 @@ The vast inheritance of traditions, knowledge, practices & expressions handed do
   - *Nowruz* (Persian/international New Year).
   - *Kumbh Mela* (major sacred pilgrimage).
 - **Memory Mnemonic:**
-  - *"PB me Yoga ke end me Kirtan me roz roz Ram Ram - chant - Mood Khud ba Khud achha Badhiya ho jata hai"* (helps remember Punjab's Thatheras, Yoga, Sankirtana, Nowruz, Ramlila, Ramman, Chanting, Mudiyettu, Kutiyattam, Chhau, Kalbeliya).
+  - *"PB me Yoga ke end me Kirtan me roz roz Ram Ram - chant - Mood Khud ba Khud achha Badhiya ho jata hai"*
+  - This line helps recall: Punjab's Thatheras, Yoga, Sankirtana, Nowruz, Ramlila, Ramman, Chanting, Mudiyettu, Kutiyattam, Chhau, Kalbeliya.
 :::
 
 ---
@@ -839,7 +845,8 @@ status: polished
 - **Theatre:**
   - The Sitabena and Jogimara caves — among the world's oldest amphitheatres.
   - Bharat Muni's Natyashastra.
-  - Folk theatre: Gujarat — Bhavai; Maharashtra — Tamasha/Lavani; Madhya Pradesh — Maach; Odisha — Daskathia; Assam — Ankianaat; Uttar Pradesh — Nautanki/Ramlila; Andhra Pradesh — Burra Katha; Karnataka — Yakshagana; Punjab — Swaang.
+  - Folk theatre: Gujarat — Bhavai; Maharashtra — Tamasha/Lavani; Madhya Pradesh — Maach; Odisha — Daskathia; Assam — Ankianaat.
+    Uttar Pradesh — Nautanki/Ramlila; Andhra Pradesh — Burra Katha; Karnataka — Yakshagana; Punjab — Swaang.
 :::
 
 :::conclusion
@@ -977,7 +984,7 @@ From **Kutiyattam** to nukkad natak, Indian theatre mixes ritual, resistance, an
 :::
 
 :::conclusion
-Empowering local theatre and regional scripts can make the performing arts a bridge between constitutional values and cultural expression.
+If local theatre and regional scripts get real support, the performing arts can carry constitutional values into everyday cultural life.
 :::
 
 ---
@@ -1030,7 +1037,7 @@ status: polished
 :::
 
 :::introduction
-Martial arts like **Kalaripayattu** and **Gatka** now sit inside the **Fit India Movement** and **Khelo India Youth Games** — heritage blending with fitness and national pride.
+Martial arts like **Kalaripayattu** and **Gatka** now sit inside the **Fit India Movement** and **Khelo India Youth Games**. Heritage thus blends with fitness and national pride.
 :::
 
 :::examples
@@ -1057,7 +1064,8 @@ status: polished
 ---
 
 :::introduction
-Jainism arose **2600 years ago** (600-400 BC) from the teachings of **Lord Mahavira** and the **previous 23 tirthankaras** — a heterodox tradition rooted in **non violence & self discipline** for attaining salvation.
+Jainism arose **2600 years ago** (600-400 BC) from the teachings of **Lord Mahavira** and the **previous 23 tirthankaras**.
+The tradition is heterodox — rooted in **non violence & self discipline** for attaining salvation.
 :::
 
 :::data
@@ -1133,7 +1141,7 @@ status: polished
 :::
 
 :::introduction
-Medieval architecture wove Persian, Turkish, and Indian elements together — from the **Qutub Minar** to **Humayun's Tomb** — shaping India's syncretic aesthetics in stone, calligraphy, and gardens.
+Medieval architecture wove Persian, Turkish, and Indian elements together — from the **Qutub Minar** to **Humayun's Tomb**. The result: India's syncretic aesthetics in stone, calligraphy, and gardens.
 :::
 
 :::examples
@@ -1178,7 +1186,7 @@ The Mauryan period — **4th to 2nd CE BC** — marked a **transformative phase 
 :::
 
 :::conclusion
-The heritage of this period — the **Sarnath Capital emblem**, the **Arthashastra**, the spread of Buddhism and more — still shapes India's cultural, diplomatic and philosophical landscape.
+The heritage of this period still shapes India's cultural, diplomatic and philosophical landscape. Think of the **Sarnath Capital emblem**, the **Arthashastra**, and the spread of Buddhism.
 :::
 
 ---
@@ -1196,7 +1204,8 @@ status: polished
 ---
 
 :::introduction
-From the Mauryas' decline to the Guptas' rise (**2nd CE BC to 3rd CE AD**), the **Indo-Greeks, Shakas, Kushanas** arrived in the North, the **Satavahanas** rose in the Deccan, and the **Shungas, Kanvas** held the east.
+From the Mauryas' decline to the Guptas' rise (**2nd CE BC to 3rd CE AD**), new powers filled the map.
+The **Indo-Greeks, Shakas, Kushanas** arrived in the North, the **Satavahanas** rose in the Deccan, and the **Shungas, Kanvas** held the east.
 :::
 
 :::data
@@ -1374,7 +1383,7 @@ Sangam literature from ancient Tamilakam gives a secular, humanist account of li
 :::
 
 :::conclusion
-Reviving Sangam literature builds regional pride and offers a counter-narrative to Vedic-centric historiography.
+When Sangam literature is read, translated, and taught more widely, it strengthens regional pride and balances a history told only through Vedic texts.
 :::
 
 ---
@@ -1610,12 +1619,12 @@ status: polished
 :::
 
 :::introduction
-From Bengal's intellectual fervour to Punjab's martyrdom, from South India's press to the Northeast's uprisings — every region added its own rhythm to India's anthem of resistance.
+From Bengal's intellectual fervour to Punjab's martyrdom, from South India's press to the Northeast's uprisings — every region added its own rhythm. Together they composed India's anthem of resistance.
 :::
 
 :::examples
-- **Freedom Trail Programmes** in Northeast India map regional heroes like **Rani Gaidinliu** and **Kanaklata Barua**
-- **Heritage City walks** in Tamil Nadu revive freedom-era printing presses and underground networks
+- **Freedom Trail Programmes** in Northeast India trace local heroes such as **Rani Gaidinliu** and **Kanaklata Barua**
+- **Heritage City walks** in Tamil Nadu bring freedom-era printing presses and underground networks back into public memory
 :::
 
 :::conclusion
@@ -1645,16 +1654,16 @@ status: polished
 :::
 
 :::introduction
-The freedom struggle was a mass mobilisation that wove diverse sections of society together — moving from "History to Herstory" as the crucial **impact of women in the freedom struggle** won recognition.
+The freedom struggle was a mass mobilisation that wove diverse sections of society together. Women stood at its centre — "History" truly became "Herstory" as their **impact on the freedom struggle** won recognition.
 :::
 
 :::examples
 - **Documentation & Repositories:**
-  - *National Digital District Repositories:* used to document the local contributions of various sections to the freedom struggle.
+  - *National Digital District Repositories:* record how every section of society contributed locally to the freedom struggle.
 - **Tribal Contributions & Recognition:**
-  - *Birsa Munda's birth anniversary:* celebrated as *Adivasi Gaurav Diwas* to honour tribal freedom fighters.
-  - *Adivasi Museums & Digital Repositories:* set up across districts to preserve tribal history.
-  - *Aadi Mahotsav:* a national tribal festival promoting tribal culture, crafts, and heritage.
+  - *Birsa Munda's birth anniversary:* observed as *Adivasi Gaurav Diwas* in honour of tribal freedom fighters.
+  - *Adivasi Museums & Digital Repositories:* built across districts to keep tribal history alive.
+  - *Aadi Mahotsav:* a national festival that showcases tribal culture, crafts, and heritage.
 :::
 
 :::conclusion
@@ -1707,7 +1716,7 @@ The early nationalist phase laid India's constitutional foundations, debating re
 :::
 
 :::conclusion
-Incremental though it was, this phase lit national identity and political awareness — the intellectual bedrock for the mass resistance ahead.
+Incremental though it was, this phase lit national identity and political awareness — the intellectual foundation for the mass resistance ahead.
 :::
 
 ---
@@ -1729,7 +1738,7 @@ status: polished
 :::
 
 :::introduction
-Gandhi turned politics into mass participation — from salt to the spinning wheel, India's fight became moral, inclusive, and decentralised: the freedom struggle re-made as a people's movement.
+Gandhi turned politics into mass participation — from salt to the spinning wheel. India's fight became moral, inclusive, and decentralised: the freedom struggle re-made as a people's movement.
 :::
 
 :::examples
@@ -1791,12 +1800,12 @@ status: polished
 :::
 
 :::introduction
-Beyond the elite platforms, peasants, tribals, women, and Dalits carried the struggle into forests, fields, and homes — freedom became a lived, local resistance to colonial and social oppression alike.
+Beyond the elite platforms, peasants, tribals, women, and Dalits carried the struggle into forests, fields, and homes. For them, freedom became a lived, local resistance to colonial and social oppression alike.
 :::
 
 :::examples
-- **Tribal Freedom Fighter Museum** initiatives narrate unsung uprisings like the **Santhal** and **Bhil** revolts
-- **Mera Gaon, Mera Gaurav** uses village-level storytelling to document women and lower-caste leaders in local archives
+- **Tribal Freedom Fighter Museum** projects bring little-known uprisings — the **Santhal** and **Bhil** revolts, for instance — before the public
+- **Mera Gaon, Mera Gaurav** records the role of women and lower-caste leaders in village archives through local storytelling
 :::
 
 :::conclusion
@@ -1900,7 +1909,7 @@ status: polished
 :::
 
 :::introduction
-- Use the **12MPRO framework** to structure historical analysis:
+- Structure any historical analysis with the **12MPRO framework**:
 - **Ideologies**: Moderates, extremists, revolutionaries, socialists, communists, liberals, conservatives.
 - **International events**: the World wars, the Great Depression, the French Revolution, the Industrial Revolution.
 - **M - Movements**: Swadeshi, NCM, CDM, Quit India.
@@ -1910,7 +1919,7 @@ status: polished
 :::
 
 :::conclusion
-Emphasise **Article 51 A - Moral Duty**: cherishing the noble ideals of the freedom struggle.
+**Article 51 A** makes this a moral duty for every citizen: to cherish the noble ideals of the freedom struggle.
 :::
 
 ---
@@ -2082,7 +2091,7 @@ As war fatigue set in, the British turned to political tools — the **Subsidiar
 :::
 
 :::examples
-- Under the **Subsidiary Alliance (Lord Wellesley)**, Indian rulers — those of Hyderabad and Awadh, for example — had to keep British troops and surrender foreign policy.
+- Under the **Subsidiary Alliance (Lord Wellesley)**, Indian rulers had to keep British troops and surrender foreign policy. Hyderabad and Awadh signed, for example.
 - Under the **Doctrine of Lapse (Lord Dalhousie)**, Jhansi, Satara, and Nagpur were annexed, ignoring local succession rights — resentment that echoed in 1857.
 - **Rani Lakshmibai's** resistance stands as the iconic anti-imperial defiance tied to this policy.
 :::
@@ -2141,7 +2150,7 @@ status: polished
 :::
 
 :::introduction
-Colonial policy turned India from a maker of crafts into a supplier of raw material — deindustrialisation, trade imbalance, impoverishment — the seedbed of the 'Drain of Wealth' theory.
+Colonial policy turned India from a maker of crafts into a supplier of raw material. Deindustrialisation, trade imbalance, and impoverishment followed — the seedbed of the 'Drain of Wealth' theory.
 :::
 
 :::examples
@@ -2301,7 +2310,7 @@ status: polished
 :::
 
 :::introduction
-These leaders were not just freedom fighters; they architected India's moral, constitutional, and educational framework. Their visions still inform the democratic ethos, grassroots reform, and inclusive policy thinking.
+These leaders were not just freedom fighters; they architected India's moral, constitutional, and educational framework. Their visions still inform the democratic spirit, grassroots reform, and inclusive policy thinking.
 :::
 
 :::examples
@@ -2336,7 +2345,7 @@ status: polished
 :::
 
 :::introduction
-In the freedom struggle, the **Moderates laid the foundation**, the **extremists built the road**, the **revolutionaries strengthened it with their blood**, and finally **Gandhi walked it with the masses** towards independence.
+In the freedom struggle, the **Moderates laid the foundation** and the **extremists built the road**. The **revolutionaries strengthened it with their blood**, and finally **Gandhi walked it with the masses** towards independence.
 :::
 
 ---
@@ -2354,20 +2363,20 @@ status: polished
 ---
 
 :::introduction
-The 1857 revolt was the **first major organised resistance** to the economic, social, political & military policies of the British EIC in India.
+Discontent with the economic, social, political and military policies of the British EIC finally exploded in **1857**. It was the **first major organised revolt** against Company rule in India.
 :::
 
 :::data
-- **Rule through:** the Land revenue system — R, M, Z.
+- **Rule through:** the land revenue system — Ryotwari, Mahalwari, Zamindari (R, M, Z).
 - **Brain Drain:** Education, Admin, Press.
-- **Acts.**
-- **Opposition to INC:** the Muslim League, Princely states, etc.
+- **New Acts.**
+- **Opposition to INC:** the Muslim League, the Princely states, and others.
 :::
 
 :::conclusion
 - **RC Majumdar** — the 1857 revolt was neither 1st, nor war, nor for independence.
 - **V D Savarkar** — the 1st national war of independence.
-- **S B Choudhary** — the first time that, for over a year, different regions led a concerted struggle to eject an alien power — never before seen in Indian history.
+- **S B Choudhary** — for over a year, different regions led a concerted struggle to eject an alien power. Nothing like it had ever been seen in Indian history before.
 - **Stanley Wolpert** — more than a mutiny, less than the 1st war of independence.
 :::
 
@@ -2443,7 +2452,7 @@ status: polished
 :::
 
 :::introduction
-Through regulatory and legislative acts, the British laid the base of centralised administration in India — civil services and institutions that shaped the future governance structure and federal set-up.
+Through regulatory and legislative acts, the British laid the base of centralised administration in India. The civil services and institutions they created shaped the future governance structure and the federal set-up.
 :::
 
 :::examples
@@ -2523,7 +2532,7 @@ status: polished
 :::
 
 :::introduction
-Partition trauma, refugee influx, communalism, secessionist threats, and the **1975 Emergency** all tested India's democratic foundations — yet the Republic survived by adapting and reaffirming its constitutional resilience.
+Partition trauma, refugee influx, communalism, and secessionist threats repeatedly tested India's democratic foundations — and so did the **Emergency of 1975**. Each time, the Republic survived by adapting and reaffirming its constitutional resilience.
 :::
 
 :::examples
@@ -2558,8 +2567,8 @@ Balancing linguistic identity with national unity produced the **States Reorgani
 :::
 
 :::examples
-- New parliamentary reports on linguistic minorities revisit **SRC** principles to address rising demands in Bundelkhand and Tamil Nadu.
-- Digital linguistic atlases funded by the **Ministry of Culture** now map dialect diversity in the Northeast and the Deccan.
+- Fresh parliamentary reports on linguistic minorities go back to **SRC** principles to answer new demands from Bundelkhand and Tamil Nadu.
+- Digital linguistic atlases funded by the **Ministry of Culture** now trace dialect diversity across the Northeast and the Deccan.
 :::
 
 :::conclusion
@@ -2786,8 +2795,8 @@ status: polished
 
 :::conclusion
 - Solution:
-  - 1. **Cultural sensitisation**; govt **ek bharat shresth bharat.**
-  - 2. The **Kashi Tamil Sangamam**. Schedule 6. Inclusive growth and participative governance. Draupadi murmu: 1st tribal women president.
+  - 1. **Cultural sensitisation**; the government's **Ek Bharat Shreshtha Bharat** programme.
+  - 2. The **Kashi Tamil Sangamam**. Schedule 6 protections. Inclusive growth with participative governance. Droupadi Murmu: the 1st tribal woman President.
 :::
 
 ---
@@ -2809,7 +2818,7 @@ status: polished
 :::
 
 :::introduction
-Characteristics: **geographic isolation, shyness of contact, economic backwardness, primitive traits, distinct culture**.
+Such communities are marked by **geographic isolation, a shy reluctance of contact, economic backwardness, primitive traits, and a distinct culture**.
 :::
 
 :::data
@@ -2828,8 +2837,9 @@ Characteristics: **geographic isolation, shyness of contact, economic backwardne
 :::
 
 :::conclusion
-- Confused modernity: technology for sex selective abortion; social media for hate speech; caste-based recruitment for sanitation work; low preference for inter-caste matches on matrimony websites.
-- The **Dhebar commission (1961)**: integrate tribal knowledge and language into the curriculum. The OD model.
+- Confused modernity: technology used for sex-selective abortion; social media spread hate speech.
+  Caste still decides who gets sanitation work, and matrimony websites see few inter-caste matches.
+- The **Dhebar Commission (1961)**: integrate tribal knowledge and language into the curriculum. OD model.
 :::
 
 ---
@@ -2877,7 +2887,8 @@ status: polished
 
 :::conclusion
 - Intolerance examples:
-  - 1. The 2020 Delhi riots; the tanishq ad with a muslim family organising a baby shower for a daughter-in-law; the Dabur ad with a homosexual couple celebrating karwa chauth; the murder of rationalist Narendra Dabholkar.
+  - 1. The 2020 Delhi riots; the Tanishq ad with a Muslim family organising a baby shower for a daughter-in-law.
+  - The Dabur ad with a homosexual couple celebrating Karwa Chauth; the murder of rationalist Narendra Dabholkar.
   - 2. Gauri Lankesh.
 :::
 
@@ -2909,7 +2920,7 @@ status: needs_review
 :::conclusion
 - Intolerance examples
 - The 2020 Delhi riots
-- The tanishq ad: a muslim family organising a baby...
+- The Tanishq ad: a Muslim family organising a baby shower for a daughter-in-law
 :::
 
 ---
@@ -3113,21 +3124,22 @@ status: polished
 ---
 
 :::introduction
-- It is the process by which economies and societies became **increasingly integrated and interdependent**.
-- **Global village. Borderless world. Compression in space and time**.
+- Under it, economies and societies grow **ever more integrated and interdependent**.
+- The world becomes a **global village without borders** — distances shrink in space and time.
 :::
 
 :::data
-- **Local in global:**
+- **The local in the global:**
   - yoga
   - bollywood
-  - the diaspora celebrating festivals
-  - the saree worn by celebrities in Cannes
-  - indian cuisines abroad
-- **Global in local:**
+  - the diaspora celebrating its festivals abroad
+  - the saree on celebrities at Cannes
+  - indian cuisines winning fans abroad
+- **The global in the local:**
   - Hinglish
   - McDonald serving veg during navaratri
-  - remakes of global films: forest gump remade as laal singh chaddha; religion:
+  - remakes of global films: forest gump remade as laal singh chaddha
+    religion:
     - 1. E darshan.
     - 2. Live telecast of gurbani.
   - chinese lights vs diyas
@@ -3142,7 +3154,7 @@ status: polished
   - 5. Tech; women; environment - SUP.
   - 6. Invasive species.
   - 7. Bio diversity.
-  - 8. Eco tourism; culture — cultural imperialism, tribals and traditions, elderly.
+  - 8. Eco tourism; culture — cultural imperialism, impact on tribals and traditions, effects on the elderly.
 :::
 
 ---
@@ -3229,7 +3241,7 @@ status: polished
 :::
 
 :::introduction
-India's diversity is its strength — but when regional pride hardens into regionalism, it can strain the nation's integrative ethos. Balancing identity with unity is a democratic tightrope.
+India's diversity is its strength — but when regional pride hardens into regionalism, it can strain the nation's integrative spirit. Balancing identity with unity is a democratic tightrope.
 :::
 
 :::examples
@@ -3393,7 +3405,7 @@ The **74th Constitutional Amendment** brought urban governance closer to the peo
 :::
 
 :::conclusion
-Strong urban governance is the foundation of liveable cities — it demands devolution, data, and dignity for the urban poor.
+Cities become liveable only when urban governance is strong: power must be devolved, data must inform decisions, and the urban poor must get dignity.
 :::
 
 ---
@@ -3487,19 +3499,19 @@ status: polished
 :::
 
 :::data
-- The **GIBI issue**. Diagram — solar tariff.
-- **Steps:**
+- The **GIBI issue** — see the solar tariff diagram.
+- **Steps taken:**
   - ISA-OSOWOG
   - PLI
-  - The Natnl Solar Mission
+  - the National Solar Mission
   - KUSUM
-  - The Wind Solar Hybrid policy
-  - The National Offshore Wind energy policy
+  - the Wind-Solar Hybrid policy
+  - the National Offshore Wind Energy Policy
 :::
 
 :::conclusion
 - The task is not the govt's or one agency's alone — all stakeholders... removing barriers ex. finance, technology collaborations for **cheaper battery storage & private participation** for greater adoption.
-- The Panchamrit's **500GW RE** underscores the need for the shift.
+- The Panchamrit's **500GW RE** target shows why the shift cannot wait.
 :::
 
 ---
@@ -3590,10 +3602,10 @@ status: polished
 :::
 
 :::data
-- India has only **2% of the world's Uranium reserves (import dependent) vs 25% of the world's Thorium reserves**.
-- **Distribution:**
+- India holds just **2% of the world's Uranium reserves (import dependent) against 25% of the world's Thorium reserves**.
+- **Where found:**
   - **India:** the Aravallis (RJ), the Bhima basin (KN), ML, JH — Jaduguda; AP — Pedagattu.
-- **Thorium advantages:**
+- **Why thorium is advantageous:**
   - Proliferation x easy
   - Safer
   - Cheaper
@@ -3602,7 +3614,8 @@ status: polished
 
 :::conclusion
 - A balanced approach is needed — harness the potential while **safeguarding against health & security risks**.
-- Given the vast thorium reserves, focused invt in R&D tech for expediting thorium-based generators would make India **energy secure as well as leverage export potential**.
+- Given the vast thorium reserves, focused investment in R&D would speed up thorium-based generators.
+  That would make India **energy secure as well as leverage export potential**.
 :::
 
 ---
@@ -3637,7 +3650,7 @@ Nuclear energy is the **5th largest source of electricity** in India — **1.7% 
 
 :::conclusion
 - Going for **small modular reactors** can help solve safety issues while ensuring energy security and sustainability.
-- Steps: India is working on **'Bhavni'** — a fully indigenous thorium-based NPP. The govt has allowed **JVs between NPCIL & PSUs**.
+- Steps: India is working on **'Bhavni'** — a fully indigenous thorium-based NPP. The government has allowed **JVs between NPCIL and PSUs**.
 :::
 
 ---
@@ -3688,7 +3701,7 @@ status: polished
 ---
 
 :::introduction
-It refers to **natural gas that is trapped within sedimentary shale formations**.
+Shale gas is **natural gas locked inside sedimentary shale rock formations**.
 :::
 
 :::data
@@ -3866,7 +3879,7 @@ status: polished
 :::
 
 :::introduction
-India's prosperity is tied to how it harnesses its endowments — from the eastern coal belts to the Western Ghats' biodiversity. Resource distribution defines not just geography but economic destiny.
+How India uses its natural endowments — the eastern coal belts, the biodiversity of the Western Ghats — will decide its prosperity. Resource distribution shapes economic destiny, not just geography.
 :::
 
 :::examples
@@ -3982,7 +3995,8 @@ status: polished
 
 :::conclusion
 - Investing in critical minerals today is **key for securing technological sovereignty & a green transition tomorrow**.
-- Suggestions — **bilateral ties with Australia, S Africa, Canada** etc; the **MSP** (Minerals Security Partnership of USA); **PMN**; the deep Ocean mission; **resource use efficiency**.
+- Suggestions — **bilateral ties with Australia, S Africa, Canada** etc; the **MSP** (Minerals Security Partnership of USA); **PMN**.
+  Also the deep Ocean mission, and **resource use efficiency**.
 :::
 
 ---
@@ -4037,11 +4051,11 @@ status: polished
 :::
 
 :::introduction
-**AKA white gold**, it is a lightweight, highly reactive metal known for its electrical properties & its imp role in **battery technologies**.
+**Known as white gold**, this light, highly reactive metal is prized for its electrical properties and its **vital role in battery technologies**.
 :::
 
 :::data
-- B/w 2016-2019, **forex spend on lithium imports tripled**.
+- Between 2016 and 2019, **forex spend on lithium imports tripled**.
 - **4 Chinese mining firms control 75% of the global market**. Envt hazards in mining.
 - **Distribution:**
   - **World:** the AB(Boliv)C triangle; RUCCA (Russia, US, China, Canada, Aus).
@@ -4110,12 +4124,14 @@ status: polished
   - Central — marble, bauxite, limestone, gemstones
   - The NE peninsula — 90% of iron, 80% of coal
   - The SW belt — monazite, iron
-- **Steps:** pioneer investor status in the Central Indian Ocean — a **380 mn tonne** resource potential (**10% recovered would be enough to meet energy needs for 100 years**).
+- **Steps:** pioneer investor status in the Central Indian Ocean — a **380 mn tonne** resource potential.
+  If even **10% is recovered, that would meet energy needs for 100 years**.
 :::
 
 :::conclusion
 - In line with commitments under **SDG 12**, we must seek **responsible extraction, equitable distribution, and sustainable use of minerals**.
-- The **Deep Ocean mission**, which is developing tech for deep-sea mining, can be a game changer — but it must proceed responsibly, without damaging deep-sea ecosystems.
+- The **Deep Ocean mission** is developing tech for deep-sea mining and can be a game changer.
+  But it must proceed responsibly, without damaging deep-sea ecosystems.
 :::
 
 ---
@@ -4234,14 +4250,14 @@ As per the **Global Footprint Network**, humanity's demand for resources now equ
 
 :::data
 - **Strategies:**
-  - The 5Rs — linear to circular
+  - The 5Rs — moving from linear to circular use
   - Localised, inclusive solutions — Ex: social forestry, IWSM + agro-climatic planning
-- **Tech to reduce waste & increase yield:**
+- **Tech that cuts waste & raises yield:**
   - Ex: 3D printing, precision farming
 - **More from less:**
   - Ex: HYV, micro irrigation
-- India's **LIFE mission + SDG 12** (demand & supply sides both imp).
-- **Conservation (natnl + intl):**
+- India's **LIFE mission + SDG 12** (both demand and supply sides matter).
+- **Conservation (national + international):**
   - Restoring degraded landscapes — Ex: Bonn
   - EPR
   - Cultural wisdom — sacred groves
@@ -4274,7 +4290,7 @@ As per the **Global Footprint Network**, humanity's demand for resources is now 
 :::
 
 :::conclusion
-The environment and the economy are really two sides of the same coin — you cannot sustain the economy without caring for the environment. — Bruce Lipton. India's **LIFE mission + SDG 12** — demand & supply sides both imp.
+The environment and the economy are really two sides of the same coin — you cannot sustain the economy without caring for the environment. — Bruce Lipton. India's **LIFE mission + SDG 12** — both demand and supply sides matter.
 :::
 
 ---
@@ -4362,7 +4378,7 @@ status: polished
 :::
 
 :::conclusion
-The aim is safeguarding lives and ecology. Investing in oceanographic research is imperative to **safeguard marine ecosystems** and secure dependent livelihoods.
+The goal is protecting both lives and ecology. Sustained investment in oceanographic research is essential to **keep marine ecosystems healthy** and secure the livelihoods that depend on them.
 :::
 
 ---
@@ -4380,12 +4396,13 @@ status: polished
 ---
 
 :::introduction
-- They do not occur just anywhere. Distribution is best explained by the **interplay of plate tectonics, geological features & geophysical processes** inside the earth.
-- **Pacific Ring of Fire:** a large arc of active convergent plate boundaries surrounding the Pacific Ocean, marked by **high levels of volcanic & seismic activity**.
+- They do not occur just anywhere. Their spread is best explained by the **interplay of plate tectonics, geological features & geophysical processes** inside the earth.
+- **Pacific Ring of Fire:** a large arc of active convergent plate boundaries around the Pacific Ocean.
+  It is marked by **high levels of volcanic & seismic activity**.
 :::
 
 :::data
-- **Almost 90% of the world's volcanoes and 81% of the world's most devastating earthquakes** occur in the Pacific Ring of Fire region.
+- The Pacific Ring of Fire region accounts for **almost 90% of the world's volcanoes and 81% of its most devastating earthquakes**.
 :::
 
 :::conclusion
@@ -4477,7 +4494,7 @@ status: polished
 :::
 
 :::conclusion
-The polar vortex highlights the **delicate equilibrium of the earth's climatic processes** — greater scientific study is needed to understand its behaviour, anticipate disruptions, and build resilience against the challenges it may pose.
+The polar vortex highlights the **delicate equilibrium of the earth's climatic processes**. Greater scientific study is needed to understand its behaviour, anticipate disruptions, and build resilience against the challenges it may pose.
 :::
 
 ---
@@ -4556,7 +4573,7 @@ status: polished
 ---
 
 :::introduction
-Proposed by **Alfred Wegener in 1912**, the CDT holds that Earth's landmasses were once joined as a **single supercontinent** and have since drifted apart over geological time.
+Proposed by **Alfred Wegener in 1912**, the CDT holds that Earth's landmasses were once joined as a **single supercontinent**. They have since drifted apart over geological time.
 :::
 
 :::data
@@ -4610,11 +4627,12 @@ status: polished
 ---
 
 :::introduction
-Proposed by **McKenzie, Parker & Morgan in 1967**, the PTT explains how **7 major & several minor lithospheric plates** move horizontally over the asthenosphere, shaping geological features through plate-boundary interactions.
+Proposed by **McKenzie, Parker & Morgan in 1967**, the PTT explains how **7 major & several minor lithospheric plates** move horizontally over the asthenosphere.
+Their interactions at plate boundaries shape geological features.
 :::
 
 :::conclusion
-The PTT offers a **comprehensive framework** for understanding the distribution of continents, oceans, geological features, and geophysical phenomena — enabling more effective management of their effects.
+The PTT offers a **comprehensive framework** for understanding the distribution of continents, oceans, geological features, and geophysical phenomena. It enables more effective management of their effects.
 :::
 
 ---
@@ -4637,7 +4655,7 @@ status: polished
 :::
 
 :::data
-- An inverse relation with the Indian monsoon — Ex: since 1871, **6 major droughts** are attributed to it.
+- An inverse relation with the Indian monsoon — Ex: since 1871, **6 major droughts** trace back to it.
 - **SEA forest fires**.
 - **Coastal flooding in S America**.
 - **Low hurricanes in the Atlantic (HP)**.
@@ -4715,7 +4733,8 @@ status: polished
 ---
 
 :::introduction
-The movement of ocean water is influenced by physical characteristics like **temperature, salinity**, and external forces like **the sun and the winds**.
+Ocean water keeps moving — pushed by external forces like **the sun and the winds**.
+It is also steered by the water's own physical traits such as **temperature and salinity**.
 :::
 
 :::data
@@ -4758,7 +4777,7 @@ status: polished
 :::
 
 :::conclusion
-Ocean currents — **the Earth's silent climate conductors** — call for focused research and global collaboration to unravel their intricate roles.
+Ocean currents — **the Earth's silent climate conductors** — call for focused research and global collaboration to unravel their many roles.
 :::
 
 ---
@@ -4781,7 +4800,7 @@ status: polished
 
 :::introduction
 - It determines the type & distribution of marine organisms at depth.
-- Studying ocean temperature is imp for understanding the **movement of ocean currents** and the **coastal climate**.
+- Studying ocean temperature matters for understanding the **movement of ocean currents** and the **coastal climate**.
 :::
 
 :::data
@@ -4814,7 +4833,7 @@ It refers to the **total content of dissolved salts** in seawater — shaped by 
 :::
 
 :::conclusion
-Salinity plays a pivotal role in ocean-current movement and in climatic processes like **evaporation & precipitation** — it needs greater attention and understanding.
+Salinity plays a key role in ocean-current movement and in climatic processes like **evaporation & precipitation** — it needs greater attention and understanding.
 :::
 
 ---
@@ -4877,10 +4896,10 @@ status: polished
 :::
 
 :::introduction
-- The study of ocean temperature is imp for understanding
-- the movement of ocean currents
-- the type & distribution of marine organisms at various depths
-- the coastal climate
+- Studying ocean temperature matters because it explains
+- how ocean currents move
+- which marine organisms live at various depths, and how they are spread
+- the climate of coastal areas
 :::
 
 :::examples
@@ -6331,7 +6350,7 @@ status: polished
 :::
 
 :::introduction
-Ministries are moving **from silos to synergy**, from the **Viksit Bharat Sankalp Yatra** to integrated dashboards. This supports evidence-based governance and citizen-centric service delivery.
+Ministries are moving **out of silos into coordinated action**, from the **Viksit Bharat Sankalp Yatra** to integrated dashboards. This supports evidence-based governance and citizen-centric service delivery.
 :::
 
 :::examples
@@ -7326,7 +7345,8 @@ status: polished
 :::
 
 :::conclusion
-- **CBI:** ARC 2 recommended replacing the DSPE Act with a separate law that gives **statutory status** and makes the CBI **accountable directly to Parliament**.
+- **CBI:** ARC 2 recommended replacing the DSPE Act with a separate law.
+  That law should give the CBI **statutory status** and make it **accountable directly to Parliament**.
 - **ED:** It is the premier financial investigation agency, and its role is important as financial frauds and money laundering crimes rise. Cases need **fast and independent resolution**, to improve convictions and stop the **process from becoming punishment**.
 :::
 
@@ -7497,7 +7517,7 @@ status: polished
 ---
 
 :::introduction
-To review the **constitutional and legal safeguards for women**, the **NCW** was set up in **1992 under the NCW Act 1990** as a statutory body.
+The **NCW** was set up in **1992 under the NCW Act 1990** as a statutory body. Its task: to review the **constitutional and legal safeguards for women**.
 :::
 
 :::conclusion
@@ -8060,7 +8080,7 @@ SHGs are **small community-based organisations** formed by individuals who share
 :::
 
 :::conclusion
-SHGs — "**untapped powerhouse of enterprise**; high-potential groups for social good."
+The verdict on SHGs: an "**untapped powerhouse of enterprise**; high-potential groups for social good."
 :::
 
 ---
@@ -8780,7 +8800,7 @@ These frameworks are built around **Voice and Choice**, and around using full po
 
 :::conclusion
 - The engine of India’s Amritkaal depends on **Sabka Sath Sabka Vikas**.
-- **Art 47** (duty to raise nutrition, the standard of living and public health) and **Art 38** (welfare state, social economic political justice) form its base.
+- Its base: **Art 47** (duty to raise nutrition, the standard of living and public health) and **Art 38** (welfare state, social economic political justice).
 - It links to **SDG 1 (poverty), 2 (hunger), 3 (health), 4 (education), 5 (gender equality) and SDG 16 (Inclusive societies)**.
 :::
 
@@ -10047,7 +10067,7 @@ status: polished
 :::
 
 :::introduction
-India’s public finance works well only when the Centre and states work together on finance (**centre-state fiscal synergy**). Here, **“collaborative spending powers”** help development move in step. The Union budget now gives states more incentives to create capital at the state level.
+India’s public finance works well only when the Centre and states work together on finance (**fiscal coordination**). Here, **“collaborative spending powers”** help development move in step. The Union budget now gives states more incentives to create capital at the state level.
 :::
 
 :::examples
@@ -10279,7 +10299,7 @@ status: polished
 :::
 
 :::introduction
-The aim of **Make in India**, **Start-Up India** and **industrial corridors** is to increase domestic manufacturing, jobs and innovation, and so build a **“production-driven, globally integrated India.”**
+**Make in India**, **Start-Up India** and **industrial corridors** share one aim: more domestic manufacturing, jobs and innovation. The destination is a **“production-driven, globally integrated India.”**
 :::
 
 :::examples
@@ -11121,7 +11141,7 @@ status: polished
 :::
 
 :::introduction
-New technologies like **Kisan drones, AI and precision farming** are driving the move to **“smart agriculture.”** They raise productivity, reduce misuse of inputs and empower farmers.
+New technologies like **Kisan drones, AI and precision farming** are driving the move to **“smart agriculture”**. They raise productivity, reduce misuse of inputs and empower farmers.
 :::
 
 :::examples
@@ -12252,7 +12272,8 @@ status: polished
 :::
 
 :::data
-- India’s space economy is about **$8 Bn (2% of the global share)**, and it is projected to rise to **$44 Bn by 2033 (IN-SPACe 2023 Vision)**.
+- India’s space economy is about **$8 Bn (2% of the global share)**.
+  It is projected to rise to **$44 Bn by 2033 (IN-SPACe 2023 Vision)**.
 :::
 
 ---
@@ -12357,7 +12378,7 @@ status: polished
 ---
 
 :::introduction
-- A **space-based solar observatory** placed at **Lagrange Point L1**.
+- **Aditya-L1**: India's **space-based solar observatory**, stationed at **Lagrange Point L1**.
 - **Payloads:**
   - 1. SUIT (Solar Ultraviolet Imaging Telescope).
   - 2. ASPEX.
@@ -13089,14 +13110,14 @@ status: polished
 :::
 
 :::data
-- **2019 — India:** **4 mn disaster-induced displacements**.
-- Rice:
-  - 1. **10–30%** decline.
+- **2019 — India:** **4 mn people displaced by disasters**.
+- Crop yield falls:
+  - 1. Rice: **10–30%** decline.
   - 2. Maize: **25–70%** decline.
 :::
 
 :::conclusion
-**"A brief and rapidly closing window of opportunity to secure a liveable and sustainable future for all."**
+The IPCC's own warning sets the deadline: **"A brief and rapidly closing window of opportunity to secure a liveable and sustainable future for all."**
 :::
 
 ---
@@ -13360,14 +13381,14 @@ status: polished
 ---
 
 :::introduction
-- **Definition:** Large underwater structures of **calcium carbonate** built from coral skeletons — the **"tropical rainforests of the oceans"**.
+- **Definition:** Large underwater ridges of **calcium carbonate** built up from coral skeletons — the **"tropical rainforests of the oceans"**.
 - **Map:** Malvan, Mannar, Kutch, A&N, Lakshadweep.
 - Key bodies:
   - 1. **ICMAM** (Integrated Coastal and Marine Area Management).
   - 2. **INCOIS** — Coral Bleaching Alert System.
   - 3. **BioRock.**
   - 4. **Reefwatch.**
-- **Best Practice:** **Cryomesh** technology for coral restoration.
+- **Best Practice:** **Cryomesh** technology used to restore corals.
 :::
 
 :::data
@@ -13507,12 +13528,12 @@ status: polished
 :::introduction
 - **Natural Threats:** Cyclone, Forest fire, Floods, **El Niño / Land use change**.
 - **Manmade Threats:**
-  - 1. **Deforestation** — land use change / encroachment.
-  - 2. **Habitat destruction** from **MATTIE** — Mining, Agri, Transport, Tourism, Industry, HEP.
-  - 3. **Unsustainable tourism**.
-  - 4. **Waste dumping / pollution** — agri run-off; industry; sewage; municipal solid waste; plastic.
-  - 5. **Unsustainable urbanisation** — population explosion, consumerism, concretisation, linear economy.
-  - 6. **Tragedy of commons / over-harvesting**.
+  - 1. **Deforestation** — clearing land / encroachment.
+  - 2. **Habitat destruction** via **MATTIE** — Mining, Agri, Transport, Tourism, Industry, HEP.
+  - 3. **Tourism that ignores sustainability**.
+  - 4. **Pollution & waste dumping** — agri run-off; industry; sewage; municipal solid waste; plastic.
+  - 5. **Runaway urbanisation** — population explosion, consumerism, concretisation, linear economy.
+  - 6. **Over-harvesting / tragedy of commons**.
   - 7. **Climate change**.
   - 8. **Invasive species**.
 :::
@@ -13532,18 +13553,18 @@ status: polished
 ---
 
 :::introduction
-- **Hydrosphere impacts:**
+- **Impact on the hydrosphere:**
   - Surface water: **eutrophication, dead zones, contamination**.
   - Groundwater: **depletion**.
   - Open oceans: **sea level rise, acidification, de-oxygenation, temperature rise, stratification, pollution, increased cyclones, AMOC disruption**.
   - Coastal: **receding/emerging coasts, saltwater intrusion**.
-- **Atmosphere impacts:**
+- **Impact on the atmosphere:**
   - Extreme weather events, **global warming**, heat islands, **acid rain**, smog, **air pollution / AQI**.
-- **Biosphere impacts:**
+- **Impact on the biosphere:**
   - **6th mass extinction**, man-animal conflict, changing migration patterns, pest attacks, **bio-magnification and bio-accumulation**, co-extinction.
-- **Lithosphere impacts:**
+- **Impact on the lithosphere:**
   - **Desertification**, erosion, salinity, soil moisture depletion.
-- **Anthroposphere impacts:**
+- **Impact on the anthroposphere:**
   - Food security, loss of livelihood, disaster (GLOF), pandemics/diseases, permafrost, refugee crisis.
   - **Social — PHEE WASH**, agri distress, loss of productivity, human health, water security.
 :::
@@ -13563,13 +13584,13 @@ status: polished
 ---
 
 :::introduction
-- **Remedy for all ecosystems:**
-- Policy:
+- **One remedy set for all ecosystems:**
+- Policy level:
   - 1. **Paris Agreement.**
   - 2. **Landscape approach.**
   - 3. **Secure Himalayas.**
-- Human-centred: **ESZ, eco-tourism, community participation, Kasturirangan Committee, sustainable agriculture**.
-- Technology: **drones, satellite monitoring, EWS**.
+- People-centred: **ESZ, eco-tourism, community participation, Kasturirangan Committee, sustainable agriculture**.
+- Tech-based: **drones, satellite monitoring, EWS**.
 :::
 
 ---
@@ -13813,10 +13834,10 @@ status: polished
 :::
 
 :::conclusion
-- **Collective action vs collective suicide** — Antonio Guterres.
+- **Collective action vs collective suicide** — the warning from Antonio Guterres.
 - **Saptrishi — Green Growth**.
-- **Think Global, Act Local**.
-- **Lab to Street**.
+- **Think Global, Act Local** — the classic formula.
+- **Lab to Street** — from research to practice.
 :::
 
 ---
@@ -14556,9 +14577,9 @@ status: polished
 :::
 
 :::conclusion
-- **"Every $1 spent on mitigation saves $7 on response and recovery"** — Sendai.
-- The **Zero Casualty Approach**.
-- **Tehri Dam Case** — **SC**: DM is part of the right to **sustainable development**.
+- **"Every $1 spent on mitigation saves $7 on response and recovery"** — the Sendai Framework logic.
+- Aim for the **Zero Casualty Approach**.
+- **Tehri Dam Case** — the **SC** held that DM is part of the right to **sustainable development**.
 :::
 
 ---
@@ -15952,7 +15973,7 @@ status: polished
 :::
 
 :::conclusion
-**MoHA**: "The spirit of the 3 new laws is not to punish but to give justice to every citizen & prevent further crimes."
+The intent behind the new laws, in **MoHA**'s words: "The spirit of the 3 new laws is not to punish but to give justice to every citizen & prevent further crimes."
 :::
 
 ---
@@ -16018,7 +16039,7 @@ India spends the **5th largest** defence budget in the world.
 - 1. Critical deficiencies.
 - 2. Force multiplier.
 - 3. Combat edge.
-- **Defence exports**: **$1.5 billion**, against a global market of **$500 billion**.
+- **Defence exports**: worth **$1.5 billion** today, in a world market worth **$500 billion**.
 :::
 
 ---
@@ -16036,7 +16057,7 @@ status: polished
 ---
 
 :::introduction
-A recent wave of reforms aims to sharpen the **synergy, operational readiness and combat edge** of the Indian Armed Forces.
+A recent wave of reforms aims to sharpen the **coordination, operational readiness and combat edge** of the Indian Armed Forces.
 :::
 
 :::conclusion
@@ -16097,7 +16118,7 @@ status: polished
 :::
 
 :::conclusion
-The **21st-century security challenges of a two-front war** demand a proactive CDS. It must drive **synergy, jointness and integration**, plus a cohesive **National Security Strategy**.
+The **21st-century security challenges of a two-front war** demand a proactive CDS. It must drive **jointness and integration across the forces**, plus a cohesive **National Security Strategy**.
 :::
 
 ---
@@ -16853,8 +16874,10 @@ status: polished
 
 :::detail label="Concept"
 - What follows when the trust deficit grows:
-- Personal level: Ethical compromise; Suspicion in relationships; Loneliness and rootlessness feeding mental health disorders; Fear and paranoia; Emotional breakdowns when trust breaks
-- Societal level: Unsafe space for weak, vulnerable; Increased exploitation — workers, trafficking; Breakdown of **social contract**; Cooperation hard even on vital issues; Increased violence, intolerance
+- Personal level: Ethical compromise; Suspicion in relationships; Loneliness and rootlessness feeding mental health disorders; Fear and paranoia.
+  Emotional breakdowns follow once trust breaks.
+- Societal level: Unsafe space for weak, vulnerable; Increased exploitation — workers, trafficking; Breakdown of **social contract**.
+  Cooperation becomes hard even on vital issues; violence and intolerance rise.
 :::
 
 ---
@@ -17490,10 +17513,10 @@ status: polished
 ---
 
 :::detail label="Keywords"
-- Nishkaam karma, **Altruism**/sewa, Compassion, Trusteeship, Dedication, Antyodaya, Dedication to public service
-- **Kautilya**'s Yogakshema
-- **Buddha**'s 8-fold path to alleviate suffering
-- Vivekananda's Daridra Narayan
+- Nishkaam karma, **Altruism**/sewa, Compassion, Trusteeship, Antyodaya, Dedication to public service
+- **Kautilya**'s Yogakshema (welfare of all)
+- **Buddha**'s 8-fold path to end suffering
+- Vivekananda's Daridra Narayan (serve the divine in the poor)
 :::
 
 :::detail label="Concept"
@@ -17659,7 +17682,7 @@ status: polished
 ---
 
 :::detail label="Concept"
-- **Intro:** — Integrity is the **cornerstone of all ethical values**
+- **Intro:** — Integrity is the **foundation of all ethical values**
 - Success needs intelligence and energy; yet the discipline and consistency to act in the right direction stay guarded by **integrity**
 :::
 
@@ -17833,7 +17856,9 @@ status: polished
 ---
 
 :::detail label="Concept"
-- Initiatives at personal level: a strong personal **code of ethics**; Harmony among thoughts, words and actions; Transparent and accountable conduct; Keep confidences safe; Set boundaries and respect them; Serve others with no expectation of rewards; Show reliability in action; Keep every commitment
+- Initiatives at personal level:
+  a strong personal **code of ethics**; Harmony among thoughts, words and actions; Transparent and accountable conduct; Keep confidences safe.
+  Set boundaries and respect them; Serve others with no expectation of rewards; Show reliability in action; Keep every commitment.
 :::
 
 ---
@@ -17899,7 +17924,8 @@ status: polished
 
 :::detail label="Concept"
 - **Factors of positive attitude** — happiness curriculum, mindfulness, family conditioning, communication and cooperation
-- Cognitive: life and work of role models; Happiness curriculum; Mindfulness; Communication; Philosophical knowledge; Life wisdom; Skill levels; an attempt to look for overt and hidden benefits in every situation
+- Cognitive: life and work of role models; Happiness curriculum; Mindfulness; Communication; Philosophical knowledge; Life wisdom; Skill levels.
+  Add to these an attempt to look for overt and hidden benefits in every situation.
 - Affective: happiness tied to duty; alignment with personal beliefs/ethics; Family conditioning
 - Behavioural: past experience proving one can handle things well
 :::
@@ -18154,7 +18180,9 @@ status: polished
 
 :::detail label="Concept"
 - Ways to bring them (use when a change in attitude is needed)
-- Cognitive: try Internships to meet politicians; push Electoral reforms that cut the role of money and muscle power; build Awakened citizens who vote on real issues, not vote banks; design Curriculums that carry the good parts of domestic politics and of other countries; demand Transparency from the government
+- Cognitive: try Internships to meet politicians; push Electoral reforms that cut the role of money and muscle power.
+  Build Awakened citizens who vote on real issues, not vote banks.
+  Design Curriculums that carry the good parts of domestic politics and of other countries; demand Transparency from the government.
 - **Affective: Sense of duty** — **deontology**; Patriotism; As service to society — utilitarian
 - Behavioural: Role models; Better incentives for ethical behaviour and stronger disincentives for unethical behaviour in politics; Engagement through youth parliament and university
 :::
@@ -18411,7 +18439,7 @@ status: polished
 :::
 
 :::introduction
-**Building EI in civil services involves structured cultivation of emotional competencies** — self-awareness, empathy, and social sensitivity — through **training, feedback, and experiential learning**.
+Civil servants can build EI by **methodically training emotional competencies** — self-awareness, empathy, and social sensitivity. The tools: **coaching, honest feedback, and learning by doing**.
 :::
 
 :::examples
@@ -18461,11 +18489,11 @@ status: polished
 ---
 
 :::examples
-- **Edison hired scientists** — awareness
-- **Wilma Rudolph** — **motivation**
-- **Geeta Phogat - won in 3rd round** — regulation
-- **Empathy** — Kalam's team invented light-weight prosthetics
-- **Social skill** — Anna Hazare convinced people for water harvesting in Ralegan
+- **Edison hired scientists** — awareness in action
+- **Wilma Rudolph** — **motivation** against all odds
+- **Geeta Phogat - won in 3rd round** — regulating her emotions under pressure
+- **Empathy** — Kalam's team built light-weight prosthetics for patients
+- **Social skill** — Anna Hazare rallied Ralegan for water harvesting
 :::
 
 ---
@@ -18483,8 +18511,8 @@ status: polished
 ---
 
 :::examples
-- **Aligarh IPS story** — crowd management
-- **PM declared lockdown** — chose lives over livelihood
+- **Aligarh IPS story** — crowd management done with sensitivity
+- **PM declared lockdown** — the tough call of lives over livelihood
 :::
 
 ---
@@ -18781,11 +18809,11 @@ status: polished
 ---
 
 :::detail label="Concept"
-- 4 branch model by Mayer and Salovey
-- Perceiving emotions
-- **Understanding** them
-- Using them to facilitate thought
-- Managing emotions
+- Mayer and Salovey's 4-branch model:
+- first, Perceiving emotions
+- then, **Understanding** them
+- next, Using them to facilitate thought
+- finally, Managing emotions
 :::
 
 ---
@@ -18825,9 +18853,11 @@ status: polished
 ---
 
 :::detail label="Concept"
-- Emotions working for us: Resolve stress, depression; a Positive attitude - 'it is possible'; **Empathy**, bonding, understanding; Balancing work and leisure; Able to be role models; Taking criticism as constructive feedback leading to personal growth; Conflict resolution; Stable mental health; Intrinsic motivation
-- Us working for emotions: Poor work environment from workplace politics; Communal tensions; Reactionary policies; Falling for propaganda; Vulnerability to manipulation
-- Dark side of EI: Manipulation for self interest; an Increment to offense; Self interest over public interest
+- Emotions working for us: they resolve stress and depression; build a Positive attitude - 'it is possible'; power **Empathy**, bonding, understanding.
+  They also balance work and leisure, make us role models, and aid conflict resolution.
+  Criticism becomes constructive feedback for growth; mental health stays stable; Intrinsic motivation grows.
+- Us working for emotions: a poor work environment from workplace politics; communal tensions; reactionary policies; falling for propaganda; vulnerability to manipulation
+- Dark side of EI: Manipulation for self interest; adding to offense; Self interest over public interest
 :::
 
 ---
@@ -18865,11 +18895,11 @@ status: polished
 ---
 
 :::detail label="Concept"
-- 5 pillars of EI for personal level
-- Self perception
-- Self expression
-- Interpersonal/ Relationship management
-- Decision making
+- At the personal level, EI rests on 5 pillars:
+- knowing oneself (Self perception)
+- expressing oneself (Self expression)
+- relating to others (Interpersonal/ Relationship management)
+- sound Decision making
 - Stress management
 :::
 
@@ -20160,7 +20190,8 @@ status: polished
 :::detail label="Concept"
 - According to **Lord Krishna** in the **Bhagavad Gita**, Karma yoga is the spiritual practice of 'selfless action performed for the benefit of others'.
 - Karma yoga is a path to moksha (spiritual liberation) reached through work.
-- It is rightful action without attachment to fruits — a **dedication** to one's duty: give one's best, stay neutral to outcomes like success or failure.
+- It is rightful action without attachment to fruits — a **dedication** to one's duty.
+  Give one's best, and stay neutral to outcomes like success or failure.
 - [**Vivekananda**'s **Karmayoga** philosophy]
 :::
 
@@ -20179,8 +20210,8 @@ status: polished
 ---
 
 :::detail label="Concept"
-- **Hobbes** presents the **social contract** between citizens and the government as follows
-- Govt <-> Citizens (Powers <-> Rights)
+- **Hobbes** frames the **social contract** between citizens and the state this way
+- Government <-> Citizens (Powers <-> Rights)
 :::
 
 :::image
@@ -20672,7 +20703,7 @@ status: polished
 :::
 
 :::introduction
-**Quality of service delivery** asks how effectively, fairly, and empathetically public goods and services reach beneficiaries — a measure of **procedural efficiency and moral inclusiveness**.
+**Quality of service delivery** asks how effectively, fairly, and empathetically public goods and services reach beneficiaries. It measures both **procedural efficiency and moral inclusiveness**.
 :::
 
 :::examples
@@ -20866,7 +20897,7 @@ status: polished
 ---
 
 :::detail label="Concept"
-- The diagram maps the flow: Communication, Openness, **Accountability** → **Transparency** → **Ethical** Gov, Participative Gov → GOOD GOVERNANCE.
+- The diagram traces the path: Communication, Openness, **Accountability** feed **Transparency**; **Ethical** Gov and Participative Gov follow; the destination is GOOD GOVERNANCE.
 :::
 
 :::image
@@ -20924,13 +20955,13 @@ status: polished
 :::
 
 :::introduction
-**Work culture in governance is the collective ethos, values, and behavioural norms that shape how public duties are performed**; it drives the **efficiency, accountability, and ethical climate** of institutions.
+**Work culture in governance is the shared values and behavioural norms that shape how public duties are performed**. It drives the **efficiency, accountability, and ethical climate** of institutions.
 :::
 
 :::examples
 - **Kerala's** decentralised planning grows from a **collaborative and responsive work culture**.
 - **E. Sreedharan's** Metro team lived **professional punctuality**.
-- Citizen feedback on the **SPARSH platform** lifts the **attitudinal ethos**.
+- Citizen feedback on the **SPARSH platform** lifts the **service attitude**.
 :::
 
 :::conclusion
@@ -20988,7 +21019,8 @@ status: polished
 ---
 
 :::detail label="Concept"
-- **Max Weber** says a Bureaucratic work culture has: 1) division of work 2) hierarchy of authority 3) rule-based order 4) merit-based succession 5) top-down structure.
+- **Max Weber** lists the markers of a Bureaucratic work culture.
+  1) division of work; 2) hierarchy of authority; 3) rule-based order; 4) merit-based succession; 5) top-down structure.
 :::
 
 ---
