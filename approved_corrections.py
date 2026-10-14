@@ -270,4 +270,47 @@ APPROVED_QUOTE_REPLACEMENTS.update({
         "quoted Brandeis; the booklet presented it as 2nd ARC's own line, which is the "
         "extreme case the user authorized for source correction. Quote text preserved verbatim."
     )},
+    # C11 Phase 2: Gemini web-verified misattributions. Each fix preserves
+    # the quote text verbatim; only the attribution label after the em-dash
+    # is changed. Per user rule "remove source only in extreme case" — these
+    # are all extreme cases (proven misattribution with verifiable sources).
+    'GS2-GOVE-0233': {'quote': (
+        '"You are not only responsible for what you say but also for what you do not say." \u2014 Martin Luther King Jr.',
+        '"You are not only responsible for what you say but also for what you do not say." \u2014 Martin Luther (1483\u20131546)',
+        "C11: MLK Jr. attribution wrong; the line is widely credited to the Reformation "
+        "leader Martin Luther. Gemini web-verified via multiple dictionaries of quotations."
+    )},
+    'GS4-ETHI-0560': {'quote': (
+        '\u201cPublic service must be more than doing a job efficiently; it must be a complete dedication to the people.\u201d \u2013 Sardar Vallabhbhai Patel',
+        '\u201cPublic service must be more than doing a job efficiently; it must be a complete dedication to the people.\u201d \u2013 Margaret Chase Smith (U.S. Senator, 1897\u20131989)',
+        "C11: Patel attribution wrong; the line is from U.S. Senator Margaret Chase Smith. "
+        "Gemini web-verified via Rockefeller Archive Center selections (selections.rockefeller.edu)."
+    )},
+    'GS4-ETHI-0591': {'quote': (
+        '\u201cFacts are sacred; opinion is free.\u201d \u2013 Jawaharlal Nehru',
+        '\u201cFacts are sacred; opinion is free.\u201d \u2013 C. P. Scott (1921)',
+        "C11: Nehru attribution wrong; the line is from C.P. Scott's 1921 leader in The "
+        "Manchester Guardian ('Comment is free, but facts are sacred'). Gemini web-verified "
+        "via The Guardian archives (theguardian.com)."
+    )},
+    'GS4-ETHI-0620': {'quote': (
+        '\u201cWatch your thoughts, they become words... your destiny.\u201d \u2013 Mahatma Gandhi',
+        '\u201cWatch your thoughts, they become words... your destiny.\u201d \u2013 Frank Outlaw (1977)',
+        "C11: Gandhi attribution wrong; Quote Investigator traces the line to Frank Outlaw "
+        "(1977). Booklet's Gandhi attribution is a well-documented misattribution. Gemini "
+        "web-verified via Quote Investigator."
+    )},
+    'GS4-ETHI-0661': {'quote': (
+        '\u201cMoral excellence is not an act, but a habit.\u201d \u2013 Aristotle',
+        '\u201cMoral excellence is not an act, but a habit.\u201d \u2013 Will Durant (1926, paraphrasing Aristotle)',
+        "C11: Aristotle attribution wrong; the line is Will Durant's paraphrase of Aristotle "
+        "in 'The Story of Philosophy' (1926). Gemini web-verified via Daily Stoic and Wikiquote."
+    )},
+    'GS4-ETHI-0739': {'quote': (
+        '\u201cThe customer is the most important visitor on our premises.\u201d \u2013 Mahatma Gandhi',
+        '\u201cThe customer is the most important visitor on our premises.\u201d \u2013 Kenneth B. Elliott (1941)',
+        "C11: Gandhi attribution wrong; Quote Investigator traces the line to Kenneth B. "
+        "Elliott's 1941 speech. Gandhi misattribution is well-documented. Gemini "
+        "web-verified via Quote Investigator."
+    )},
 })

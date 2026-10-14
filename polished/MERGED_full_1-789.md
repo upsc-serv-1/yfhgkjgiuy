@@ -7129,7 +7129,7 @@ status: polished
 :::
 
 :::quote
-"You are not only responsible for what you say but also for what you do not say." — Martin Luther King Jr.
+"You are not only responsible for what you say but also for what you do not say." — Martin Luther (1483–1546)
 :::
 
 :::introduction
@@ -16596,7 +16596,7 @@ status: polished
 ---
 
 :::quote
-“Public service must be more than doing a job efficiently; it must be a complete dedication to the people.” – Sardar Vallabhbhai Patel
+“Public service must be more than doing a job efficiently; it must be a complete dedication to the people.” – Margaret Chase Smith (U.S. Senator, 1897–1989)
 :::
 
 :::introduction
@@ -17338,7 +17338,7 @@ status: polished
 ---
 
 :::quote
-“Facts are sacred; opinion is free.” – Jawaharlal Nehru
+“Facts are sacred; opinion is free.” – C. P. Scott (1921)
 :::
 
 :::introduction
@@ -17977,7 +17977,7 @@ status: polished
 ---
 
 :::quote
-“Watch your thoughts, they become words... your destiny.” – Mahatma Gandhi
+“Watch your thoughts, they become words... your destiny.” – Frank Outlaw (1977)
 :::
 
 :::introduction
@@ -19021,7 +19021,7 @@ status: polished
 ---
 
 :::quote
-“Moral excellence is not an act, but a habit.” – Aristotle
+“Moral excellence is not an act, but a habit.” – Will Durant (1926, paraphrasing Aristotle)
 :::
 
 :::introduction
@@ -20712,7 +20712,7 @@ status: polished
 ---
 
 :::quote
-“The customer is the most important visitor on our premises.” – Mahatma Gandhi
+“The customer is the most important visitor on our premises.” – Kenneth B. Elliott (1941)
 :::
 
 :::introduction

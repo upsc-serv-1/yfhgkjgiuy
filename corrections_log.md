@@ -436,3 +436,74 @@ protected content changed because (a) the Brandeis fix is allowlisted, and (b)
 the verifier's blocks() dict deduplicates unlabeled :::quote blocks by
 tuple-key, so for multi-quote cards it only checks the last block — a
 pre-existing verifier limitation, not a regression introduced here).
+
+---
+## C11 Phase 2 — GEMINI-VERIFIED MISATTRIBUTIONS APPLIED
+Source: user ran Google Gemini with `c11_verify/gemini_quote_verification_prompt.md`
+(128 unique quotes). Gemini's full reply saved to `c11_verify/gemini_reply.md`.
+
+### Gemini verdict tally
+- VERIFIED_CORRECT: 40 (booklet attribution confirmed by independent source)
+- VERIFIED_MISATTRIBUTED: 13 (booklet attribution proven wrong, real author identified)
+- UNVERIFIABLE: 75 (no independent source confirms the quote)
+
+### Edits applied (6 cards)
+All quote TEXT preserved verbatim. Only the attribution label after the em-dash
+was changed. Allowlist entries added to APPROVED_QUOTE_REPLACEMENTS in
+`approved_corrections.py`.
+
+| Card | Quote | Was | Now | Gemini source |
+|---|---|---|---|---|
+| GS2-GOVE-0233 | "You are not only responsible for what you say but also for what you do not say." | — Martin Luther King Jr. | — Martin Luther (1483–1546) | Multiple dictionaries of quotations |
+| GS4-ETHI-0560 | "Public service must be more than doing a job efficiently; it must be a complete dedication to the people." | – Sardar Vallabhbhai Patel | – Margaret Chase Smith (U.S. Senator, 1897–1989) | Rockefeller Archive Center (selections.rockefeller.edu) |
+| GS4-ETHI-0591 | "Facts are sacred; opinion is free." | – Jawaharlal Nehru | – C. P. Scott (1921) | The Guardian archives (theguardian.com) |
+| GS4-ETHI-0620 | "Watch your thoughts, they become words... your destiny." | – Mahatma Gandhi | – Frank Outlaw (1977) | Quote Investigator (quoteinvestigator.com) |
+| GS4-ETHI-0661 | "Moral excellence is not an act, but a habit." | – Aristotle | – Will Durant (1926, paraphrasing Aristotle) | Daily Stoic + Wikiquote |
+| GS4-ETHI-0739 | "The customer is the most important visitor on our premises." | – Mahatma Gandhi | – Kenneth B. Elliott (1941) | Quote Investigator |
+
+### Edits SKIPPED (with reasons)
+
+- **GS1-GEOG-0120, GS1-GEOG-0142, GS4-ETHI-0610** — booklet has NO attribution; Gemini
+  identified the actual author (Erich Walter Zimmermann, Lao Tzu, Warren Buffett
+  respectively). Adding attribution where the booklet author chose to leave it blank
+  = content creation, not correction. Per user's "no mistakes" rule, skipped.
+- **GS4-ETHI-0607** ("CS Lewis: Integrity is doing the right thing...") — Gemini
+  verified misattribution (popularly misattributed to C.S. Lewis; actual source
+  disputed). The "CS Lewis:" prefix is embedded INSIDE the protected quote text.
+  Removing it would edit protected text — out of scope. Flagged for user decision.
+- **GS4-ETHI-0715** ("Voltaire - 'I may not agree with what you say...'") — Gemini
+  verified misattribution (actual author: Evelyn Beatrice Hall, 1906). The "Voltaire - "
+  prefix is embedded INSIDE the protected quote text. Removing it would edit protected
+  text — out of scope. Flagged for user decision.
+- **GS4-ETHI-0657** — Gemini flagged as MISATTRIBUTED with actual_author
+  "Martin Luther King Jr. & Dr. A.P.J. Abdul Kalam" but the booklet's quote text
+  embeds both attributions inline ("what Martin Luther King Jr. said, '...'"
+  + "'Let us sacrifice...', A.P.J. Abdul Kalam"). Gemini's response is a
+  VERIFICATION (the embedded attributions are correct), not a correction. No edit.
+
+### Tier A/B/C final summary (after both my z-ai pass and Gemini's web pass)
+| Tier | Cards | Unique quotes | Verified correct | Misattributed (applied) | Misattributed (skipped) | Unverifiable |
+|---|---|---|---|---|---|---|
+| A | 72 | 75 | ~5 | 0 | 0 | ~70 |
+| B | 43 | 46 | 0 | 0 | 0 | 46 |
+| C | 5 | 7 | 2 | 1 (0230 Sunlight/Brandeis) | 0 | 4 |
+| Phase 2 (cross-tier from Gemini reply) | — | 13 flagged | — | 6 applied | 5 skipped (3 no-attribution + 2 embedded-in-text) | 2 already-covered |
+| **Total C11** | **120** | **128** | **~7** | **7 applied** | **5 skipped** | **~120** |
+
+### Final verify after C11 Phase 2
+789 cards; verifier: **0 errors, 697 warnings** (unchanged from baseline). All 6 new
+attribution fixes registered as approved (NOTE lines printed by verify_protected.py).
+Quote TEXT preserved verbatim throughout; only attribution labels changed.
+
+### Pending user decisions
+1. **GS4-ETHI-0607 (CS Lewis: Integrity...)** — Gemini says actual source disputed,
+   popularly misattributed to CS Lewis. To fix, would need to either remove "CS Lewis:"
+   prefix from inside the quote (forbidden — protected text) or replace the entire
+   quote block with a different one (out of scope). **User: keep as-is, or replace
+   the quote?**
+2. **GS4-ETHI-0715 (Voltaire: "I may not agree...")** — Gemini says actual author is
+   Evelyn Beatrice Hall (1906). To fix, would need to edit "Voltaire - " prefix inside
+   the protected quote text. **User: keep as-is, or replace?**
+3. **Tier D (57 cards, suspect/likely-invented attributions incl. 0001 Kabir→Tagore
+   and 0053/0059 Goldwater→Bhagat Singh)** — not yet processed.
+4. **Tier E (21 cards, no attribution / duplicate)** — not yet processed.
