@@ -318,3 +318,15 @@ These came from checking the second AI's batch 14. Follow them in all remaining 
 
 ## 17. Final merge (when everything is done, or at any checkpoint)
 Run `python3 tools/merge_batches.py polished/MERGED_cards<first>-<last>.md` from the folder containing `polished/`. The merged file on disk is `polished/MERGED_full_1-789.md` — the complete, final ebook source (all 789 cards, 0 errors). Delete older merged files so the user does not open an outdated one.
+
+## 20. CORRECTIONS PHASE (Edition 2 hardening, October 2026) — COMPLETE
+All 789 cards went through a user-directed corrections pass (C0-C6). Full audit trail: `corrections_log.md`.
+Approved-changes allowlist: `approved_corrections.py` (verify_protected.py consults it; NOTE lines = approved, everything else still hard-checked).
+- C0 root cause: source JSON = PDFs + AI enrichment; broken cards came from that layer. 4+3 source PDFs in `upload/`, extracted text in `pdf_text/`.
+- C1 removed 8 stray AI fragments; C2 removed all "Source Text" labels (quotes kept).
+- C3 applied 60+ spelling fixes (logged old->new).
+- C4 applied 18 web-verified fact corrections with inline [Source: ...] (CPI 2025 91/182, NJAC 2015, Santhanam 1964, ADR 2019, UNICEF 10-19, dowry/marital-rape labels corrected in 0778, etc.).
+- C5 inlined 11 cross-references + restored/complete 9 truncated cards from the original PDFs.
+- C6 duplicates: measured; kept (detailed card + revision card design; 0300/0306 already re-worded).
+- Status: 789 cards, 0 errors, 771 accepted warnings.
+- OUTSTANDING: GitHub push pending (PAT re-send needed); ~150 quote attributions still flagged in review_queue.md (user decision pending; suggestions available on request).

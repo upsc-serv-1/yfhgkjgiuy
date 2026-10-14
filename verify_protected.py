@@ -4,8 +4,19 @@ ERROR  = protected content changed (quote, data block, any number/year/article r
 WARN   = capitalised name or acronym missing from polished text (check by eye)
 """
 import re, sys, json, difflib
+from collections import Counter
 sys.path.insert(0, '.')
 import convert
+try:
+    import approved_corrections as AC
+except Exception:
+    class AC:
+        APPROVED_NUMBER_REMOVALS = {}
+        APPROVED_NUMBER_ADDITIONS = {}
+        APPROVED_QUOTE_DELETIONS = {}
+        APPROVED_QUOTE_REPLACEMENTS = {}
+        APPROVED_LIST_CHANGES = {}
+        APPROVED_CAPS_REMOVALS = {}
 
 def split_cards(md):
     cards = {}
@@ -60,17 +71,40 @@ def main(pol_path):
             if k not in pb: continue
             o, p = ob[k], pb[k]
             if k[0] in ('quote', 'image') and (plain(o) != plain(p)):
-                print(f'ERROR {cid}: protected block {k} changed'); errs += 1
+                appr = AC.APPROVED_QUOTE_DELETIONS.get(cid, {}).get(k[0])
+                rep = AC.APPROVED_QUOTE_REPLACEMENTS.get(cid, {}).get(k[0])
+                if appr and plain(p) == plain(o).replace(appr[0], '').strip():
+                    print(f'NOTE  {cid}: approved quote edit ({appr[1]})')
+                elif rep and plain(p) == plain(o).replace(rep[0], rep[1]).strip():
+                    print(f'NOTE  {cid}: approved quote spelling fix ({rep[2]})')
+                else:
+                    print(f'ERROR {cid}: protected block {k} changed'); errs += 1
             elif k[0] in ('introduction', 'examples', 'conclusion', 'data', 'detail'):
                 if k[0] in ('data', 'detail'):
                     lo = sum(1 for l in o.split('\n') if l.lstrip().startswith('-')); lp = sum(1 for l in p.split('\n') if l.lstrip().startswith('-'))
-                    if lo != lp: print(f'ERROR {cid}: {k[0]} block list items changed ({lo} -> {lp})'); errs += 1
-                if nums(o) != nums(p): print(f'ERROR {cid}: numbers differ in {k[0]}: {nums(o)} vs {nums(p)}'); errs += 1
+                    if lo != lp:
+                        al = AC.APPROVED_LIST_CHANGES.get(cid, {}).get(k[0])
+                        if al and (lo, lp) == (al[0], al[1]):
+                            print(f'NOTE  {cid}: approved list change in {k[0]} ({al[2]})')
+                        else:
+                            print(f'ERROR {cid}: {k[0]} block list items changed ({lo} -> {lp})'); errs += 1
+                if nums(o) != nums(p):
+                    co, cp = Counter(nums(o)), Counter(nums(p))
+                    missing, added = co - cp, cp - co
+                    rm = AC.APPROVED_NUMBER_REMOVALS.get(cid, {})
+                    ad = AC.APPROVED_NUMBER_ADDITIONS.get(cid, {})
+                    if all(m in rm for m in missing) and all(a in ad for a in added):
+                        why = ', '.join((rm.get(m) or ad.get(a) or 'approved') for m in missing) \
+                              or ', '.join((ad.get(a) or 'approved') for a in added)
+                        print(f'NOTE  {cid}: approved number correction in {k[0]} ({why})')
+                    else:
+                        print(f'ERROR {cid}: numbers differ in {k[0]}: {nums(o)} vs {nums(p)}'); errs += 1
                 if status == 'polished':
                     r = difflib.SequenceMatcher(None, plain(o).lower().split(), plain(p).lower().split()).ratio()
                     if r > 0.70: print(f'WARN  {cid}: {k[0]} only lightly rewritten (similarity {r:.2f}) - rewrite more'); warns += 1
                 if status == 'polished': warns += easy_check(cid, k[0], p)
                 miss = caps(o) - caps(p) - set(re.findall(r'[A-Za-z]+', p))
+                miss -= set(AC.APPROVED_CAPS_REMOVALS.get(cid, {}).get(k[0], [])) | set(AC.APPROVED_CAPS_REMOVALS.get(cid, {}).get('*', []))
                 if miss: print(f'WARN  {cid}: names missing in {k[0]}: {sorted(miss)}'); warns += 1
     print(f'checked {len(pol)} cards: {errs} errors, {warns} warnings')
 

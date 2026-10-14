@@ -481,3 +481,41 @@ Stage Summary:
 - Deliverables: 40 batch files in polished/ + MERGED_full_1-789.md (0 errors) + PLAN.md + review_queue.md + worklog.md + tools.
 - All pushed to GitHub (upsc-serv-1/yfhgkjgiuy) with per-batch commits.
 - Outstanding user actions: review review_queue.md flags (spellings, quote attributions, truncated cards, template/blank cards, same_as_above cross-refs).
+
+---
+Task ID: 28
+Agent: Super Z (main)
+Task: C0 investigation — truncation root-cause + PDF recovery mapping; push "corrections-0"
+
+Work Log:
+- User uploaded 4 original X IAS PDFs; extracted all to pdf_text/ (PyMuPDF, page-marked).
+- Traced 80 suspect cards: 64 already broken in source JSON (not in my pipeline).
+- PDFs are 36-64% the size of JSON slices -> JSON was PDF + AI enrichment.
+- AI chatter ("Great! Here's a continuation...", "Perfect! Continuing...") found INSIDE GS-1 PDF.
+- "Source Text" label appears nowhere in PDFs (JSON-created placeholder).
+- 13 broken cards recoverable from PDFs (extracted to pdf_text/recovered_13_cards.txt).
+- Wrote corrections_log.md (C0 section) with full findings.
+
+Stage Summary:
+- Root cause: JSON enrichment layer, not user's extractor, not my pipeline.
+- Next: C1 stray fragments, C2 Source Text labels, C3 spellings, C4 facts+sources, C5 restoration, C6 duplicates, C7 final.
+
+---
+Task ID: 29
+Agent: Super Z (main)
+Task: User-directed corrections project C0-C7 (stray fragments, Source Text labels, spellings, verified fact fixes, PDF restorations, duplicates)
+
+Work Log:
+- C0: root cause found — 64/80 suspect cards already broken in source JSON; JSON = PDFs + AI enrichment (PDFs are 36-64% of JSON size); AI chatter exists inside the original GS-1 PDF; "Source Text" label appears in no PDF (converter placeholder). User then uploaded 3 more source PDFs (Paper 1/2/3) -> 60 of 90 broken cards recoverable from PDFs.
+- C1: removed 8 stray AI fragments/junk headings (0083, 0094, 0007, 0041, 0091, 0092, 0095, 0104); full-book scans for more = 0 hits.
+- C2: removed 3 " — Source Text" quote labels (0125, 0151, 0153); quotes kept.
+- C3: 60+ spelling fixes applied with per-fix log (Kathakali, Draupadi, Wegener, Naravane, Mayer, Buffett, etc.); PDF-backed fact-name fixes (V.S. Wakankar, Alchi, Statue of Unity/Equality); quote-label fixes allowlisted.
+- C4: 18 web-verified fact corrections with inline [Source: ...] (NJAC 2015, Santhanam 1964, Shadanga=painting, ADR 2019, women MPs 11%/14%, CPI 2025 91/182 x4 cards, UNICEF 10-19, Karnan vs Bhushan, Gaganyaan claim, 65 MT harmonisation, 0778 dowry/marital-rape labels corrected, 0109 gas ~6%).
+- C5: 11 cross-references inlined with real referenced content; 9 truncated cards restored/completed (0115 fully rebuilt from PDF; 0138/0146/0401 completions; 0077 completed); template cards kept as practice skeletons.
+- C6: 0300/0306 measured 0.60 similarity (already de-duplicated); all pairs kept as detailed+revision design.
+- Built approved_corrections.py allowlist + extended verify_protected.py (NOTE lines for approved edits; everything else still hard-checked).
+- Final verify: 0 errors, 771 warnings. corrections_log.md = full auditable record.
+
+Stage Summary:
+- Book corrected to Edition-2 standard; PDFs stored in upload/ + extracted text in pdf_text/ for future reference.
+- BLOCKER: local git clone at /home/z/ghrepo lost its .git data in a session reset; GitHub PAT needed from user to re-clone and push corrections commits.

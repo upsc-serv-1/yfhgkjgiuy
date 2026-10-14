@@ -97,14 +97,14 @@ status: polished
 :::
 
 :::introduction
-Buddhism arose **2600 years ago** (600–400 BC) from the teachings of **Siddharta Gautama** — a **heterodox tradition** built on the **middle path for salvation**.
+Buddhism arose **2600 years ago** (600–400 BC) from the teachings of **Siddhartha Gautama** — a **heterodox tradition** built on the **middle path for salvation**.
 :::
 
 :::data
 - **Sites:**
   - **Stupas:** Sanchi, Amravati
   - **Temples:** Gaya Mahabodhi
-  - **Monasteries:** Aichi Ladakh, Namdroling (KN), Tawang, Rumtek, Ghum
+  - **Monasteries:** Alchi, Ladakh, Namdroling (KN), Tawang, Rumtek, Ghum
   - **Caves:** Ajanta, Ellora, Nashik, Karle
 - **Buddha's life:** Sarnath, Kushinagar, Gaya
 - **Literature:** Tripitak, Jatakas, Milinda Panho
@@ -170,7 +170,7 @@ The time before written records — the **Paleolithic, Mesolithic, Neolithic** a
   - Andhra Pradesh — Kurnool
   - Karnataka — Piklihal, Taklakota
   - Telangana — Kupgallu
-- **Discovery:** **1957-58**, by **V K Vakankar**.
+- **Discovery:** **1957-58**, by **V.S. Wakankar**.
 - **Importance:**
   - harmony between man and nature
   - beliefs, rituals, dances
@@ -249,7 +249,7 @@ From colonial Indo-Gothic to **Charles Correa's** post-colonial works, modern In
 :::
 
 :::conclusion
-Modern architecture must weigh innovation against contextual heritage, serving both utility and national ethos. II. Modern Indian History (Mid-18th Century to Present)
+Modern architecture must weigh innovation against contextual heritage, serving both utility and national ethos.
 :::
 
 ---
@@ -330,20 +330,20 @@ Temples mattered not only as spiritual centres but also as hubs of **administrat
 :::data
 - **Pallavas:**
   - Mahendravarman: mandap
-  - Narsimha: sculpture rathas — Ex: Mahabalipuram's Panchpandav ratha & Dropadi ratha
-  - Rajsimhavarman: structural temples — Ex: the Mahabalipuram Shore temple, Kailashnath Kanchipuram
+  - Narasimha: sculpture rathas — Ex: Mahabalipuram's Panchapandava ratha & Draupadi ratha
+  - Rajasimhavarman: structural temples — Ex: the Mahabalipuram Shore temple, Kailashnath Kanchipuram
   - Nandivarman: smaller temples — Vaikuntha Perumal (the model for Brihadeshwara)
 - **Nagara:**
   - Ex: Deogarh, Dashavtara, Bhitargaon
-  - Odisha: the Konark Sun temple, Lingraj (no pillars, Rekhadeul & Jagmohan, lavish exteriors, Boundary wall)
+  - Odisha: the Konark Sun temple, Lingaraj (no pillars, Rekhadeul & Jagmohan, lavish exteriors, Boundary wall)
   - Khajuraho: Chandela — Kandariya Mahadev, Lakshamana, Chausath Yogini (Panchayatan, High platform, sandstone)
 - **Solanki:** the Modhera Sun temple — Surya kund, wooden carvings, torana, open mandap
-- **Dravidian:** Chola Gopuram, Panchayatana, only 1 vimana, Dwarpaal — Ex: Brihadeswar, Rajarasjeshwara
+- **Dravidian:** Chola Gopuram, Panchayatana, only 1 vimana, Dwarpaal — Ex: Brihadeswar, Rajarajeshwara
 - **Medieval Temples:**
   - Chalukyas: Ladkhan (sloping like hills), Durg at Aihole (apsidal)
   - Palas & Senas: Nalanda, Jagaddala, Odantapuri, Bangladesh (Bangla roofs, terracotta)
   - Hoysala: Vesara, Jagati, Belur, Halebid, Sringeri
-- **Vijaynagar (Hampi):** combined all earlier influences with the Indo-Islamic influence of Bijapur. Gopurams on all sides, Yali, kalyana mandapa, secular buildings, large enclosing walls — Ex: the Vithalswami temple, Virupaksha at Hampi, the Lotus Mahal.
+- **Vijayanagar (Hampi):** combined all earlier influences with the Indo-Islamic influence of Bijapur. Gopurams on all sides, Yali, kalyana mandapa, secular buildings, large enclosing walls — Ex: the Vithalswami temple, Virupaksha at Hampi, the Lotus Mahal.
 - **Nayaka (16th-18th CE):** Islamic influence; Parakramas (huge corridors); the largest gopurams — Meenakshi, Madurai.
 :::
 
@@ -370,17 +370,17 @@ Indo-Islamic architecture is a striking fusion and synthesis of **Islamic and in
 :::
 
 :::data
-- **Features:** Charbagh, foresightening, symmetry; Arcuade replaced trabeate, etc.
+- **Features:** Charbagh, foreshortening, symmetry; Arcuate replaced trabeate, etc.
 - **Imperial Style:**
-  - **Slave:** the Mameluk style, remodelling Hindu buildings — Ex: Qutub minar, Adhai din ka jhopra
+  - **Slave:** the Mameluk style, remodelling Hindu buildings — Ex: Qutub minar, Adhai Din Ka Jhonpra
   - **Khilji:** the Seljuk style — Siri fort, Alai Darwaza
-  - **Tuglaq:** batter walls, strength focus — Ex: Tughlaqabad city
+  - **Tughlaq:** batter walls, strength focus — Ex: Tughlaqabad city
   - **Lodi:** double domes, no lavish decoration — Ex: Lodi gardens
 - **Indo Saracenic:** Indo-Islamic + Gothic — Ex: Parliament, VT, SC, St. Paul Cathedral Kolkata.
 - **Provincial style:**
-  - **Bengal:** black marble, Bangla roof — Ex: Quadam Rasul mosque
+  - **Bengal:** black marble, Bangla roof — Ex: Qadam Rasul mosque
   - **Malwa:** coloured stones, European influence, No minar, Envt adaptation — Ex: Hindola mahal, Jahaz mahal
-  - **Jaunpur:** the Sharqui style, no minars, bold characters on huge screens — Ex: Atal mosque
+  - **Jaunpur:** the Sharqi style, no minars, bold characters on huge screens — Ex: Atal mosque
   - **Bijapur:** a 3-arched facade, bulbous domes, cornices, iron clamps — Ex: Gol Gumbaz
 :::
 
@@ -404,7 +404,7 @@ status: needs_review
 ---
 
 :::introduction
-**Golden period**.
+The Mughal period is regarded as the **golden period** of Indian medieval architecture.
 :::
 
 :::data
@@ -420,7 +420,8 @@ status: needs_review
 :::
 
 :::conclusion
-(Same as above).
+- A living proof of the harmonious blend of **cultural diversity & artistic ingenuity** that shaped India's architectural landscape.
+- Adaptation to local traditions — temple elements like the **bell & chain, lotus, lintels in mihrabs, toranas**.
 :::
 
 ---
@@ -487,7 +488,7 @@ Indian paintings, steeped in tradition and artistic finesse, are a visual record
 
 :::conclusion
 - From the prehistoric period to modern folk paintings, Rangolis & digital art in the form of **NFTS** — a continuous legacy.
-- Vatsyayan's Kamasutra **Shadanga - 6 parts of poetry**.
+- Vatsyayan's Kamasutra **Shadanga - 6 parts of painting**.
 :::
 
 ---
@@ -647,7 +648,7 @@ Coins are a vital source for reconstructing history — they reveal political au
 - **Satavahanas:** mostly lead and potin (silver/copper alloy) coins; utility placed above beauty.
 - **Western Shakas (Satraps):** recorded dates of the Saka era; showed the king's head beside Buddhist Stupa motifs.
 - **Guptas:** a Hindu cultural revival; gold (*dinaras*) and silver coins. They show the King performing the Ashvamedha, playing the lute, or with Goddess Lakshmi and Sanskrit inscriptions.
-- **Mughals:** the gold *mohur* and the standard silver *rupiah* (introduced by Sher Shah Suri); Akbar's *Ilahi* coins; Jahangir's poetic couplets and portraits.
+- **Mughals:** the gold *mohur* and the standard silver *rupiya* (introduced by Sher Shah Suri); Akbar's *Ilahi* coins; Jahangir's poetic couplets and portraits.
 - **Cholas:** a standing king on one side, a seated goddess on the other.
 :::
 
@@ -717,12 +718,12 @@ status: polished
 - Technological/scientific advancements of the time — Ex: metallurgy — Mehrauli
 - Economic life — Ex: grandeur, gold coins from trade prosperity
 - Social life — Ex: the depiction of women, community life
-- Reflects common values — Ex: Kathakalli's good over evil, the Statue of Unity
+- Reflects common values — Ex: Kathakali's good over evil, the Statue of Unity
 - Political life — Ex: kings depicted
 :::
 
 :::conclusion
-- Pluralism — Literature: the Razmnama Mahabharat, the Sirr-e- Akbar Upanishads of Dara Sikoh; Urdu — Hindi + Persian
+- Pluralism — Literature: the Razmnama Mahabharat, the Sirr-e- Akbar Upanishads of Dara Shikoh; Urdu — Hindi + Persian
 - Pluralism — Architecture: Indo-Islamic, with the Panchmahal, Jodha Bai Palace, the lotus-bell chain in Humayun Tomb
 :::
 
@@ -823,22 +824,22 @@ status: polished
     - Natya — drama
     - Nritya — dance with sentiments and emotions
   - Music, mudras, and the guru-shishya parampara play an important role.
-  - Classical forms (Sangeet Natak Akademi): Bharatnatyam, Kuchipuri, Kathakali, Mohiniattam, Odissi, Manipuri, Kathak, Sattriya.
+  - Classical forms (Sangeet Natak Akademi): Bharatnatyam, Kuchipudi, Kathakali, Mohiniattam, Odissi, Manipuri, Kathak, Sattriya.
   - Folk dances:
     - 1. Rajasthan — Kalbelia, Ghoomar.
     - 2. Gujarat — Garba.
-    - 3. Andhra Pradesh — Burakatha.
+    - 3. Andhra Pradesh — Burra Katha.
     - 4. Karnataka — Bhoota Aradhana.
     - 5. Punjab — Bhangra, Gidda.
     - 6. Himachal Pradesh — Charba.
     - 7. Madhya Pradesh — Matki.
     - 8. Sikkim — Singhi Chaam.
     - 9. Assam — Bihu.
-    - 10. Goa — Tarangmal.
+    - 10. Goa — Tarangmel.
 - **Theatre:**
   - The Sitabena and Jogimara caves — among the world's oldest amphitheatres.
   - Bharat Muni's Natyashastra.
-  - Folk theatre: Gujarat — Bhavai; Maharashtra — Tamasha/Lavani; Madhya Pradesh — Maach; Odisha — Daskathia; Assam — Ankianaat; Uttar Pradesh — Nautanki/Ramlila; Andhra Pradesh — Burakatha; Karnataka — Yakshagana; Punjab — Swaang.
+  - Folk theatre: Gujarat — Bhavai; Maharashtra — Tamasha/Lavani; Madhya Pradesh — Maach; Odisha — Daskathia; Assam — Ankianaat; Uttar Pradesh — Nautanki/Ramlila; Andhra Pradesh — Burra Katha; Karnataka — Yakshagana; Punjab — Swaang.
 :::
 
 :::conclusion
@@ -861,13 +862,13 @@ status: needs_review
 ---
 
 :::introduction
-Same as music's 4-dimension diagram — story-telling, the devotional/spiritual element (Ex: Kathakalli, Sattriya, Mohiniattam, Rasleela), artistic expression, cultural celebration.
+Same as music's 4-dimension diagram — story-telling, the devotional/spiritual element (Ex: Kathakali, Sattriya, Mohiniattam, Rasleela), artistic expression, cultural celebration.
 :::
 
 :::examples
 - **Bharata's Natyashastra**; Mythology — the Natraja community dancing — Bhimbetka/Lakhudiyar; the Bronze dancing girl of the IVC.
-- **CLASSICAL** — Nandikeshwara's Abhinay Darpan, 3 elements: Nritta (Dance without expression), Natya (Drama), Nritya (dance with sentiments and emotions); the important role of music, mudras, guru-shishya parampara, systematised rules, etc.
-- As per the **Sangeet Natak Academy** — 8 classical forms: Bharatnatyam, Kuchipuri, Kathakali, Mohiniattam, Odissi, Manipuri, Kathak, Sattriya.
+- **CLASSICAL** — Nandikeshwara's Abhinaya Darpana, 3 elements: Nritta (Dance without expression), Natya (Drama), Nritya (dance with sentiments and emotions); the important role of music, mudras, guru-shishya parampara, systematised rules, etc.
+- As per the **Sangeet Natak Academy** — 8 classical forms: Bharatnatyam, Kuchipudi, Kathakali, Mohiniattam, Odissi, Manipuri, Kathak, Sattriya.
 :::
 
 :::conclusion
@@ -876,14 +877,14 @@ Same as music's 4-dimension diagram — story-telling, the devotional/spiritual 
 - Folk dances: spontaneous, crude, improvised, with local elements
 - RJ — Kalbelia, Ghoomar
 - GJ — Garba
-- AP — Burakatha
+- AP — Burra Katha
 - KN — Bhoota Aradhna
 - PB — Bhangra, Gidda
 - HP — Charba
 - MP — Matki
 - SK — Singhi Chaam
 - AS — Bihu
-- Goa — Tarangmal
+- Goa — Tarangmel
 :::
 
 ---
@@ -1167,13 +1168,13 @@ The Mauryan period — **4th to 2nd CE BC** — marked a **transformative phase 
 - **Court Art:**
   - **Palace:** Kumrahar (BH)
   - **Pillars:** Lauria nandangarh (Champaran), Sarnath
-  - **Stupa:** Sanchi, Piprawaha
+  - **Stupa:** Sanchi, Piprahwa
   - **Edicts**
 - **Popular Art:**
   - **Cave arch/viharas:** Barabar, Lomas Rishi
   - **Sculptures:** the Didarganj yakshini
   - **Pottery:** NBPW
-  - **Literature:** the Arthashastra, Mukrarakshasa, SL chronicles
+  - **Literature:** the Arthashastra, Mudrarakshasa, SL chronicles
 :::
 
 :::conclusion
@@ -1243,9 +1244,9 @@ The **Golden period** of Indian art & culture — the 3rd & 6th CE AD, with patr
 :::data
 - **Architecture:**
   - **Caves (North):** Ajanta, Ellora, Bagh (MP — Rang Mahal), Udaygiri (Vidisha — Varaha), Junagarh (Buddhist).
-  - **Caves (South):** Badami (KN), Vijaywada (AP).
-  - **Caves (East):** Guntupalli, Ankapallee (AP).
-  - **Traveller:** Huein Tsang.
+  - **Caves (South):** Badami (KN), Vijayawada (AP).
+  - **Caves (East):** Guntupalli, Anakapalle (AP).
+  - **Traveller:** Hiuen Tsang.
 - **Sculpture:**
   - **Bronzes:** Sarnath Sultanganj, Dhanesar Khera — Mathura style.
   - **Stone:** Varaha (Udaygiri).
@@ -1254,11 +1255,11 @@ The **Golden period** of Indian art & culture — the 3rd & 6th CE AD, with patr
   - Samudragupta — 8 types of coins (Veena, Saraswati), gold, silver and copper.
 - **Literature:**
   - Nagari script
-  - Prayag Prashasti by Harisen (chaste sanskrit)
-  - Kalidas, Vishakhadutta, Sudraka
+  - Prayag Prashasti by Harisena (chaste sanskrit)
+  - Kalidasa, Visakhadatta, Sudraka
   - Panchatantra — Vishnu Sharma
   - Puranas, epics completed
-  - Aryabhatt — Surya Siddhantika
+  - Aryabhata — Surya Siddhanta
 :::
 
 :::conclusion
@@ -1285,11 +1286,11 @@ The Golden period of Indian art & culture — the 3rd & 6th CE AD, with patronag
 :::
 
 :::examples
-- Architecture, caves — North: Ajanta, Ellora, Bagh (MP — Rang Mahal), Udaygiri (Vidisha — Varaha), Junagarh (Buddhist); South: Badami (KN), Vijaywada (AP); East: Guntupalli, Ankapallee (AP). Traveller — Huein Tsang.
+- Architecture, caves — North: Ajanta, Ellora, Bagh (MP — Rang Mahal), Udaygiri (Vidisha — Varaha), Junagarh (Buddhist); South: Badami (KN), Vijayawada (AP); East: Guntupalli, Anakapalle (AP). Traveller — Hiuen Tsang.
 - Sculpture — Bronzes: Sarnath Sultanganj, Dhanesar Khera (Mathura style); Stone: Varaha (Udaygiri).
 - Pillars — Mehrauli, Prayag Prashasti, Bhitari Pillar.
 - Numismatics — Samudragupta: 8 types of coins (Veena, Saraswati), gold, silver and copper.
-- Literature — Nagari script; Prayag Prashasti by Harisen (chaste sanskrit); Kalidas, Vishakhadutta, Sudraka; the Panchatantra by Vishnu Sharma; the Puranas and epics completed; Aryabhatt — Surya Siddhantika.
+- Literature — Nagari script; Prayag Prashasti by Harisena (chaste sanskrit); Kalidasa, Visakhadatta, Sudraka; the Panchatantra by Vishnu Sharma; the Puranas and epics completed; Aryabhata — Surya Siddhanta.
 :::
 
 :::conclusion
@@ -1466,7 +1467,7 @@ Modern Indian literature grew through the Bengal Renaissance and then flowered r
 :::
 
 :::conclusion
-Contemporary Indian literature must weigh rooted identity against cosmopolitan values while building the nation. Topic C: Architecture
+Contemporary Indian literature must weigh rooted identity against cosmopolitan values while building the nation.
 :::
 
 ---
@@ -1525,11 +1526,11 @@ From the IVC to today, India has turned stone and metal into sublime expressions
 - Portable — Gupta, Vakataka time.
 - Nalanda — Avalokiteshvara, Tara
 - Hills — JK, HP: Buddha + Ganesha, Shiva
-- Chaturanana Vishnu, Narsimha, Mahishasura Mardini Durga
+- Chaturanana Vishnu, Narasimha, Mahishasura Mardini Durga
 :::
 
 :::conclusion
-The legacy continues at a renewed scale — Statute of Unity, Statute of Equality (Ramanujacharya, Hyd), etc.
+The legacy continues at a renewed scale — Statue of Unity, Statue of Equality (Ramanujacharya, Hyd), etc.
 :::
 
 ---
@@ -2469,7 +2470,7 @@ status: needs_review
 ---
 
 :::conclusion
-Nehru — neither Indian, nor Civil, nor a service.
+The civil services — the **"steel frame"** of the state (Sardar Patel's phrase) — were carried over from the colonial ICS into independent India (**Art. 312** provides for All-India Services). Nehru's verdict — "neither Indian, nor Civil, nor a service." Reform debates — on lateral entry, accountability and specialization — continue.
 :::
 
 ---
@@ -2655,7 +2656,7 @@ Modern ideologies — capitalism, socialism, fascism — answered questions of i
 :::
 
 :::conclusion
-Ideologies shape laws and lives. Understanding their roots is vital to balance liberty, equity, and power in today's multipolar world. Great! Here's a continuation of the same refined and UPSC-relevant format for: III.INDIAN SOCIETY
+Ideologies shape laws and lives. Understanding their roots is vital to balance liberty, equity, and power in today's multipolar world.
 :::
 
 ---
@@ -2772,7 +2773,7 @@ status: polished
 
 :::data
 - Issues: Anti-semitism, violence, Xenophobia, Ethno-centrism.
-- Conflicts: ethnic. Intra-ethnic — shia vs sunni. Inter-ethnic — assamese vs bengali. Ethnic group vs state: naga mvmt; khalisatn.
+- Conflicts: ethnic. Intra-ethnic — shia vs sunni. Inter-ethnic — assamese vs bengali. Ethnic group vs state: naga mvmt; Khalistan.
 - **Basis of conflict:**
   - Language: tamil vs hindi
   - Religion: tribals vs christian missionaries
@@ -2786,7 +2787,7 @@ status: polished
 :::conclusion
 - Solution:
   - 1. **Cultural sensitisation**; govt **ek bharat shresth bharat.**
-  - 2. The **Kashi Tamil Sangamam**. Schedule 6. Inclusive growth and participative governance. Dropadi murmu: 1st tribal women president.
+  - 2. The **Kashi Tamil Sangamam**. Schedule 6. Inclusive growth and participative governance. Draupadi murmu: 1st tribal women president.
 :::
 
 ---
@@ -2812,7 +2813,7 @@ Characteristics: **geographic isolation, shyness of contact, economic backwardne
 :::
 
 :::data
-- Positive changes today: women wrestlers in Haryana, intercaste marriages, revival of +ve traditions — the **Kaktiya mission**; Draupadi Murmu: 1st tribal women president.
+- Positive changes today: women wrestlers in Haryana, intercaste marriages, revival of +ve traditions — the **Kakatiya mission**; Draupadi Murmu: 1st tribal women president.
 - **Demographics:** **8.6%** tribals.
 - **Poverty:**
   - 1. Disproportionately high in STs.
@@ -2823,7 +2824,7 @@ Characteristics: **geographic isolation, shyness of contact, economic backwardne
   - 1. **PESA**.
   - 2. **FRA**.
   - 3. The Prevention of atrocities act; locally recruited teachers; a tribal dictionary. The Pathalgadi movement (JH).
-- **XAXA committee:** the rayagada model — the Dangar path (traditional knowledge) and the Kagaz path (English fluency). Tribal panchsheel. Repeal the Habitual offenders act.
+- **XAXA committee:** the Rayagada model — the Dangar path (traditional knowledge) and the Kagaz path (English fluency). Tribal panchsheel. Repeal the Habitual offenders act.
 :::
 
 :::conclusion
@@ -2855,7 +2856,7 @@ status: polished
 - Customs — positive:
   - 1. Sacred groves; traditional water harvesting systems: the Baoli.
   - 2. Rani ki vav, ayurveda, scientific architecture: the jantar mantar.
-- Negative: the mensuration taboo, genital mutilation among the dawoodi bohras, the devdasi system, untouchability, made snana, animal sacrifice.
+- Negative: the mensuration taboo, genital mutilation among the dawoodi bohras, the Devadasi system, untouchability, made snana, animal sacrifice.
 :::
 
 :::data
@@ -2864,7 +2865,7 @@ status: polished
   - Visits by all religions and communities to the Golden Temple.
   - 1. The Mahim church.
   - 2. Ajmer Sharif.
-  - The Vaver mosque visit is an integral part of the sabrimala pilgrimage.
+  - The Vaver mosque visit is an integral part of the Sabarimala pilgrimage.
 - **Govt steps:**
   - 1. The Van Dhan scheme.
   - 2. The Eklavya model.
@@ -2876,8 +2877,8 @@ status: polished
 
 :::conclusion
 - Intolerance examples:
-  - 1. The 2020 Delhi riots; the tanishq ad with a muslim family organising a baby shower for a daughter-in-law; the Dabur ad with a homosexual couple celebrating karwa chauth; the murder of rationalist narender Dabholkar.
-  - 2. Gauri lankesh.
+  - 1. The 2020 Delhi riots; the tanishq ad with a muslim family organising a baby shower for a daughter-in-law; the Dabur ad with a homosexual couple celebrating karwa chauth; the murder of rationalist Narendra Dabholkar.
+  - 2. Gauri Lankesh.
 :::
 
 ---
@@ -2939,7 +2940,7 @@ India's demographic transition — from burden to dividend — is unfolding. Und
 :::
 
 :::conclusion
-Harnessing the demographic dividend requires investing in mobility, skills, and balanced urban-rural growth. Poverty & Development
+Harnessing the demographic dividend requires investing in mobility, skills, and balanced urban-rural growth.
 :::
 
 ---
@@ -2970,7 +2971,7 @@ From Vedic scholars to constitutional framers, Indian women have shaped history.
 :::
 
 :::conclusion
-Real empowerment translates rights into realities — through laws, leadership, and lasting social change. Gender Disparity & Laws/Reforms
+Real empowerment translates rights into realities — through laws, leadership, and lasting social change.
 :::
 
 ---
@@ -3032,7 +3033,7 @@ India has halved multidimensional poverty through schemes like the **National Fo
 :::
 
 :::conclusion
-A just society is judged not by affluence but by how the poorest live — policy must reflect that truth. Perfect! Continuing in the same enriched, UPSC-relevant style with:
+A just society is judged not by affluence but by how the poorest live — policy must reflect that truth.
 :::
 
 ---
@@ -3063,7 +3064,7 @@ Globalisation has reshaped India's economy and aspirations — pulling it into g
 :::
 
 :::conclusion
-India must embrace globalisation on its own terms — rooted in values, ready for change. 11-A.Social Empowerment
+India must embrace globalisation on its own terms — rooted in values, ready for change.
 :::
 
 ---
@@ -3268,7 +3269,7 @@ A strong identification with, and sense of unity in, a specific geographic area.
     - 1. Belgaum.
     - 2. Cauvery.
   - Intra-state:
-    - 1. Vidharba.
+    - 1. Vidarbha.
     - 2. Bodoland.
   - Son-of-the soil:
     - 1. Maharashtra.
@@ -3361,7 +3362,7 @@ India is witnessing a historic urban shift — villages aspire to become towns, 
 :::
 
 :::conclusion
-Urbanisation must be driven by humane planning — cities should not just grow; they should include, breathe, and belong. Urban Governance
+Urbanisation must be driven by humane planning — cities should not just grow; they should include, breathe, and belong.
 :::
 
 ---
@@ -3419,7 +3420,7 @@ status: polished
 - **Distribution:**
   - **Tertiary:** Rajasthan, Gujarat, Tamil Nadu, Assam
   - **Gondwana:** the Damodar, Mahanadi, Godavari valleys
-  - **World:** China — Shanqxi; the US — Appalachian; Russia; Aust; S Af
+  - **World:** China — Shanxi; the US — Appalachian; Russia; Aust; S Af
 - **Issues:**
   - High Ash (**20-30%**)
   - Sulphur (**3-7%**)
@@ -3517,7 +3518,7 @@ status: polished
 
 :::introduction
 - **CBM:** an unconventional form of natural gas found in coal deposits.
-- **Natural Gas:** the target is to raise its share to **15% by 2030** from the present **3.9% (2026)**.
+- **Natural Gas:** the target is to raise its share to **15% by 2030** from the present **about 6%**.
 :::
 
 :::data
@@ -3601,7 +3602,7 @@ status: polished
 
 :::conclusion
 - A balanced approach is needed — harness the potential while **safeguarding against health & security risks**.
-- Given the vast thorium reserves, focused invt in R&D tech for expediting throium-based generators would make India **energy secure as well as leverage export potential**.
+- Given the vast thorium reserves, focused invt in R&D tech for expediting thorium-based generators would make India **energy secure as well as leverage export potential**.
 :::
 
 ---
@@ -3664,7 +3665,7 @@ status: needs_review
 - **Refineries:**
   - **Oil-field based:** Mumbai, Digboi
   - **Market-based:** Bhatinda, Panipat, Mathura, Guwahati
-  - **Port-based:** Vyzag, Jamnagar
+  - **Port-based:** Vizag, Jamnagar
 :::
 
 :::conclusion
@@ -3721,15 +3722,18 @@ status: needs_review
 ---
 
 :::introduction
-RE, drawn from sunlight,
+RE, drawn from sunlight, wind, water etc., offers an **eco-friendly alternative to fossil fuels**, contributing to **energy security and sustainability**.
 :::
 
 :::examples
-- India is the 3rd largest
+- India is the **3rd largest producer of RE** in the world, with the **2nd largest RE growth rate**.
+- The **3rd largest oil importer** — rising oil demand will **2x our import bill by 2030**.
+- Decentralised energy, Ex: **Daman**.
+- Initial investment cost — Rs 4 cr/MW (coal) vs Rs 6 cr/MW (RE); prices are falling, so DISCOMS are reluctant to sign long-term PPAs.
 :::
 
 :::conclusion
-“Energy is necessary for
+"Energy is necessary for economic development, and sustainable energy is necessary for sustainable development." — **Tim Wirth**. The Panchamrit's **50% RE / 500 GW** target points the same way.
 :::
 
 ---
@@ -3755,7 +3759,7 @@ An installed capacity of **60GW** against a potential of **750 GW** as per NISE.
 :::
 
 :::conclusion
-- The task is not the govt's or one agency's alone. All stakeholders… The Panchamrit's **500GW RE** underscores the need for removing barriers ex. finance, technology collaborations for **cheaper battery storage & private participation** for greater adoption.
+- The task is not the government's or one agency's alone — all stakeholders must act together. The Panchamrit's **500GW RE** underscores the need for removing barriers ex. finance, technology collaborations for **cheaper battery storage & private participation** for greater adoption.
 - **Steps:**
   - ISA — OSOWOG
   - PLI
@@ -3783,8 +3787,7 @@ An installed capacity of **40 GW** against a potential of **120 GW**. India is t
 :::
 
 :::conclusion
-- The National Offshore Wind energy policy
-- The Wind-Solar Hybrid policy — same as solar
+- The **National Offshore Wind Energy Policy** and the **Wind-Solar Hybrid Policy** — the same remove-barriers approach as solar: finance, technology collaboration, cheaper battery storage and private participation.
 :::
 
 ---
@@ -4030,7 +4033,7 @@ status: polished
 ---
 
 :::quote
-"If oil powered the world in the 20th CE, lithium could play that role in the 21st CE" — Source Text
+"If oil powered the world in the 20th CE, lithium could play that role in the 21st CE"
 :::
 
 :::introduction
@@ -4078,7 +4081,7 @@ status: needs_review
 :::
 
 :::conclusion
-(Same as strategic minerals).
+Set up strategic-mineral missions on the lines of the semiconductor mission (e.g. an **Indian Rare Earth Mission**), to promote exploration & self-sufficiency.
 :::
 
 ---
@@ -4430,7 +4433,7 @@ They do not occur just anywhere. Distribution is best explained by the interplay
 :::
 
 :::conclusion
-Same as geophysical phenomena (understanding the distribution of __ coupled with monitoring, modelling, interdisciplinary — can help us...
+As with geophysical phenomena generally: understanding the distribution of such events, coupled with monitoring, modelling and interdisciplinary collaboration, helps us better predict and address them.
 :::
 
 ---
@@ -4452,7 +4455,7 @@ A large arc of active convergent plate boundaries surrounding the Pacific Ocean,
 :::
 
 :::conclusion
-Same as above.
+As with geophysical phenomena generally: understanding the distribution of such events, coupled with monitoring, modelling and interdisciplinary collaboration, helps us better predict and address them.
 :::
 
 ---
@@ -4553,7 +4556,7 @@ status: polished
 ---
 
 :::introduction
-Proposed by **Alfred Wegner in 1912**, the CDT holds that Earth's landmasses were once joined as a **single supercontinent** and have since drifted apart over geological time.
+Proposed by **Alfred Wegener in 1912**, the CDT holds that Earth's landmasses were once joined as a **single supercontinent** and have since drifted apart over geological time.
 :::
 
 :::data
@@ -4589,7 +4592,7 @@ status: needs_review
 :::
 
 :::conclusion
-(Same as Continental Drift theory).
+- These theories, combined with modern tech advances, help humankind **predict disasters more efficiently** — making lives safer and the economy more resilient.
 :::
 
 ---
@@ -4607,7 +4610,7 @@ status: polished
 ---
 
 :::introduction
-Proposed by **Mckenzie, Parker & Morgan in 1967**, the PTT explains how **7 major & several minor lithospheric plates** move horizontally over the asthenosphere, shaping geological features through plate-boundary interactions.
+Proposed by **McKenzie, Parker & Morgan in 1967**, the PTT explains how **7 major & several minor lithospheric plates** move horizontally over the asthenosphere, shaping geological features through plate-boundary interactions.
 :::
 
 :::conclusion
@@ -4643,7 +4646,7 @@ status: polished
 
 :::conclusion
 - El Nino's disruption of the monsoon can **severely jeopardize Indian agriculture & food security** — adaptive strategies and resilient farming practices are urgently needed.
-- While La Nina benefits the Indian monsoon, the unpredictable & disruptive alternation of **El Ninos** can...
+- While La Nina benefits the Indian monsoon, the unpredictable and disruptive alternation of **El Nino** events can still unsettle agriculture and rural livelihoods.
 :::
 
 ---
@@ -4665,7 +4668,8 @@ The **Southern Oscillation** is a coherent see-saw fluctuation of atmospheric pr
 :::
 
 :::conclusion
-(Same as El Nino/La Nina).
+- El Nino's disruption of the monsoon can **severely jeopardize Indian agriculture & food security** — adaptive strategies and resilient farming practices are urgently needed.
+- La Nina benefits the monsoon, but the unpredictable alternation of **El Nino** events can still unsettle rural livelihoods.
 :::
 
 ---
@@ -4693,7 +4697,7 @@ The **IOD** refers to the difference in sea surface temperature between the **we
 :::
 
 :::conclusion
-(Same as ocean currents).
+Ocean currents — **the Earth's silent climate conductors** — call for focused research and global collaboration to unravel their intricate roles.
 :::
 
 ---
@@ -4772,7 +4776,7 @@ status: polished
 ---
 
 :::quote
-"The escalating ocean temperatures pose a stark reminder of the urgent need for global action to mitigate climate change's cascading effects on marine ecosystems, weather patterns, and coastal communities." — Source Text
+"The escalating ocean temperatures pose a stark reminder of the urgent need for global action to mitigate climate change's cascading effects on marine ecosystems, weather patterns, and coastal communities."
 :::
 
 :::introduction
@@ -4828,7 +4832,7 @@ status: polished
 ---
 
 :::quote
-"The declaration of 2021- 2030 as the decade of ocean sciences underscores the imperative to harness ocean resources responsibly and collaboratively for a resilient and prosperous future." — Source Text
+"The declaration of 2021- 2030 as the decade of ocean sciences underscores the imperative to harness ocean resources responsibly and collaboratively for a resilient and prosperous future."
 :::
 
 :::introduction
@@ -4941,7 +4945,7 @@ The recent implosion of the Titan submersible has renewed focus on India's **Sam
 :::
 
 :::conclusion
-Same as above.
+**Neel Kranti se arth kranti** — the blue-economy transformation the Deep Ocean Mission and Samudrayaan aim to deliver.
 :::
 
 ---
@@ -5189,7 +5193,7 @@ status: polished
 - **Context:** Haryana local job quota.
 - **Key Judgements:**
   - **Nagraj Case:** (1) Equality is part of the Basic Structure; (2) the **Width and Identity Test**. Width: 50% limit, creamy layer, compelling reasons, administrative efficiency. Identity: BSD.
-  - **Indira Sawhney Case:** The Court struck down the **10% reservation** that Narsimha Rao gave to the General Category.
+  - **Indra Sawhney Case:** The Court struck down the **10% reservation** that Narasimha Rao gave to the General Category.
   - **NALSA, Ram Singh vs UOI:** The State must find and recognise new emerging groups.
 :::
 
@@ -5473,7 +5477,7 @@ Using the powers given by **Art. 327**, Parliament passed the **RPA 1951** to en
 :::
 
 :::conclusion
-(Refer to common elections conclusion — Jimmy Carter quote.)
+- Free and fair elections are the **lifeblood of any democracy** (Jimmy Carter) — India, the **Mother of Democracy**, must keep strengthening them.
 :::
 
 ---
@@ -5515,7 +5519,7 @@ subject: "POLITY"
 section_group: "Elections & Political Dynamics"
 microtopic: "Salient features of the Representation of People's Act"
 subtopic: "Electoral reforms"
-card_title: "WOMEN RESERVATION BILL (108th CAA)"
+card_title: "WOMEN RESERVATION BILL (106th CAA)"
 card_type: structured
 sections: [introduction, conclusion]
 flags: []
@@ -5664,7 +5668,7 @@ status: polished
 ---
 
 :::introduction
-- The **52nd CAA 1985** added the **10th Schedule**, which provides for disqualification on the basis of defection, to prevent **AyaRam GayaRam politics**.
+- The **52nd CAA 1985** added the **10th Schedule**, which provides for disqualification on the basis of defection, to prevent **Aaya Ram Gaya Ram politics**.
 - **Recent Examples:** In Goa (2019), **10/15** Congress MLAs joined the BJP. In Maharashtra, the government collapsed. In Karnataka, the ruling government collapsed. In Manipur, the Speaker did not disqualify.
 - In the **Kihoto Hollohan Case**, the Court upheld its constitutionality.
 :::
@@ -6104,13 +6108,13 @@ status: polished
 :::
 
 :::data
-- PSC reference: Women MPs went from **27% (15th LS)** to the current figure.
+- PSC reference: Women MPs went from **11% (15th LS, 2009)** to the current figure.
 - **Question Hour:** 47% was used in the 19th LS, and 40% of questions went unanswered.
 - **Sittings:** fell from 150 days (1950) to 67 days (2014-19).
 - **Money Bills:** rose from 6/year to 11/year.
 - **16th LS Disruptions:** 19% of the scheduled time was lost.
-- **Women MPs:** make up 15%.
-- **MPs with criminal records:** rose from 30% (2009) to 43% (2013).
+- **Women MPs:** make up 14% (78 of 543 in the 17th LS).
+- **MPs with criminal records:** rose from 30% (2009) to 43% (2019).
 - **Cost of disruptions:** ₹2.5 lakh for every minute.
 :::
 
@@ -6440,7 +6444,7 @@ status: polished
 :::introduction
 - **Art. 129 and 215**, along with the **Contempt of Courts Act 1971**, give courts civil and criminal powers of contempt.
 - **Criminal contempt (SODI):** Scandalising, Obstructing, Disrespecting and Interfering in the administration.
-- **Examples:** Prashant Bhushan and Justice Karnan (6 months in jail).
+- **Examples:** Justice C.S. Karnan (6 months in jail for contempt, 2017); Prashant Bhushan (contempt fine of Rs 1, 2020).
 :::
 
 :::conclusion
@@ -6673,7 +6677,7 @@ status: polished
 
 :::introduction
 - Judges are appointed and transferred through a system that grew out of **SC judgements**. No Act of Parliament or constitutional provision creates it.
-- **1st Judges Case (1982); 2nd Judges Case (1993); 3rd Judges Case (1998); 4th Judges Case (2018), in which the NJAC was struck down.**
+- **1st Judges Case (1982); 2nd Judges Case (1993); 3rd Judges Case (1998); 4th Judges Case (2015), in which the NJAC was struck down** by a 4:1 bench on 16 October 2015 [Source: Supreme Court Observer].
 :::
 
 ---
@@ -7071,7 +7075,7 @@ status: polished
 :::
 
 :::data
-- In the Corruption Perception Index, India ranks **86th** (see also the CVC card).
+- In the Corruption Perception Index, India ranks **91st out of 182 (CPI 2025, Transparency International)** (see also the CVC card).
 :::
 
 ---
@@ -7158,7 +7162,7 @@ status: needs_review
 :::
 
 :::conclusion
-(Refer to common elections conclusion.)
+- Free and fair elections at the Centre and in the States are the **lifeblood of any democracy** (Jimmy Carter) — the common conclusion the book returns to.
 :::
 
 ---
@@ -7515,11 +7519,11 @@ status: polished
 ---
 
 :::introduction
-The CVC was conceptualised by the **Santhanam Committee** in 1994. It was given **statutory status** under the **CVC Act 2003**, to work as the **apex vigilance institution** against corruption.
+The CVC was conceptualised by the **Santhanam Committee** (report in 1964). It was given **statutory status** under the **CVC Act 2003**, to work as the **apex vigilance institution** against corruption.
 :::
 
 :::data
-- In the Corruption Perception Index, India ranks **86th**.
+- In the Corruption Perception Index, India ranks **91st out of 182 (CPI 2025, Transparency International)**.
 :::
 
 :::conclusion
@@ -7636,15 +7640,15 @@ status: needs_review
 ---
 
 :::introduction
-The CVC was conceptualised by the **Santhanam committee** in 1994 and given **statutory status** under the 2003 CVC Act. It works as the apex vigilance institution to tackle corruption.
+The CVC was conceptualised by the **Santhanam committee** (report in 1964) and given **statutory status** under the 2003 CVC Act. It works as the apex vigilance institution to tackle corruption.
 :::
 
 :::data
-- India’s rank in the Corruption Perception Index is **86th**.
+- India’s rank in the Corruption Perception Index is **91st out of 182 (CPI 2025, Transparency International)**.
 :::
 
 :::conclusion
-Same as NCM - needs to be **strengthened**.
+It should be strengthened with **more teeth, operational independence and active participation by stakeholders**.
 :::
 
 ---
@@ -7816,7 +7820,7 @@ status: polished
 :::
 
 :::conclusion
-- NGOs are essential (a **sine qua non**) for a healthy democracy, ensuring “sarve bhavanthu sukhinah.”
+- NGOs are essential (a **sine qua non**) for a healthy democracy, ensuring “Sarve bhavantu sukhinah.”
 - The **3 Cs** are needed: collaboration, compassion and collective responsibility.
 :::
 
@@ -8397,11 +8401,11 @@ status: polished
 ---
 
 :::introduction
-**UNICEF 2021 Report:** **1 in 7 youths (15-24 years) reported mental health issues (UNICEF 2021)**. The WHO says that after the pandemic, anxiety and depression became a further **25% more common worldwide**.
+**UNICEF 2021 Report:** **1 in 7 adolescents (10-19 years) experiences a mental disorder (UNICEF, The State of the World's Children 2021)**. The WHO says that after the pandemic, anxiety and depression became a further **25% more common worldwide**.
 :::
 
 :::data
-- **1 in 7 youths (15-24 years) are affected (UNICEF 2021)**. According to the WHO, anxiety and depression have increased by a further **25% globally** after the pandemic.
+- **1 in 7 adolescents (10-19 years) are affected (UNICEF SOWC 2021)**. According to the WHO, anxiety and depression have increased by a further **25% globally** after the pandemic.
 :::
 
 :::conclusion
@@ -11781,7 +11785,7 @@ status: polished
 :::
 
 :::data
-- AI is projected to contribute **$500 Bn** to GDP by 2025.
+- AI is projected to contribute **$500 Bn** to GDP by 2025 (NITI Aayog's #AIforAll strategy projection, 2018).
 :::
 
 :::conclusion
@@ -12070,7 +12074,7 @@ status: polished
 :::
 
 :::conclusion
-Regulation must strike a balance… and **CBDC is heading in the right direction**.
+Regulation must strike a balance between **innovation and investor protection**, and the **CBDC** is heading in the right direction.
 :::
 
 ---
@@ -12092,7 +12096,7 @@ status: needs_review
 :::
 
 :::conclusion
-Same as Cryptocurrency card.
+Regulation must strike a balance between **innovation and investor protection**; India's approach (CFSP/CBDC work) is heading in the right direction.
 :::
 
 ---
@@ -12421,7 +12425,7 @@ status: needs_review
 ---
 
 :::introduction
-- ISRO has confirmed an **unmanned mission**, which will make India the **4th nation** to send humans to space.
+- Gaganyaan is India's human spaceflight programme; it is to make India the **4th nation** to independently send humans to space (after Russia, the USA and China).
 - **Features:**
   - 1. Circle the Earth for **5–7 days at LEO (300–400 km).**
   - 2. **3 flights** in total (**2 unmanned + 1 human** with 3 astronauts).
@@ -12604,7 +12608,7 @@ status: polished
 - **Steps:**
   - 1. **Nano S&T Initiative (NSTI).**
   - 2. **Nano Mission 2007.**
-  - 3. **Visheswaraya PhD Scholarships.**
+  - 3. **Visvesvaraya PhD Scholarships.**
 - **Applications:**
   - 1. Farming (nanosensors, **nano urea**, precision farming, nanogels).
   - 2. Healthcare (controlled drug delivery, remote monitoring, **nanobots**).
@@ -14108,7 +14112,7 @@ status: polished
 - **Waste generated:**
   - 1. **65 MT/year** at present.
   - 2. It could touch **165 MT by 2030**.
-- Of **63 MT**:
+- Of this **65 MT** (NITI Aayog/CPCB estimate):
   - 1. **43 MT** gets collected.
   - 2. A mere **13 MT** gets treated.
 - Principle: **Waste to Wealth**.
@@ -14962,7 +14966,7 @@ status: polished
 
 :::introduction
 - **Definition:** temperature falls rapidly within **24 hours**; farming, industry and social activity then need much more protection.
-- **Best Practice:** **Rein Bashera** (night shelters) in Delhi.
+- **Best Practice:** **Rain Basera** (night shelters) in Delhi.
 - The need: an **action plan** for cold wave management.
 :::
 
@@ -15999,7 +16003,7 @@ status: polished
 ---
 
 :::quote
-"Need National Security Strategy, National Defense Strategy, Higher Defense Organization in place." — General Manoj Narawane
+"Need National Security Strategy, National Defense Strategy, Higher Defense Organization in place." — General Manoj Naravane
 :::
 
 :::introduction
@@ -18717,7 +18721,7 @@ status: polished
 
 :::detail label="Concept"
 - **Daniel Goleman**'s EI
-- Mayor and Salovey model
+- Mayer and Salovey model
 - Gardner's **Theory of Multiple Intelligences**
 :::
 
@@ -18777,7 +18781,7 @@ status: polished
 ---
 
 :::detail label="Concept"
-- 4 branch model by Mayor and Salovey
+- 4 branch model by Mayer and Salovey
 - Perceiving emotions
 - **Understanding** them
 - Using them to facilitate thought
@@ -18799,7 +18803,7 @@ status: polished
 ---
 
 :::detail label="Diagram"
-- **Goleman's components** and the **Mayor & Salovey model** can both be drawn as diagrams.
+- **Goleman's components** and the **Mayer & Salovey model** can both be drawn as diagrams.
 :::
 
 :::image
@@ -18884,7 +18888,7 @@ status: untouched
 ---
 
 :::quote
-"Warren Buffet: 'only when you combine sound intellect w/ emotional discipline do you get rational behaviour'"
+"Warren Buffett: 'only when you combine sound intellect w/ emotional discipline do you get rational behaviour'"
 :::
 
 ---
@@ -19786,7 +19790,7 @@ status: polished
 ---
 
 :::detail label="Concept"
-- Thus **Buddha**'s 'Madhyammarga' — the middle path — should guide us, and restrictions must stay reasonable. The **Puttaswamy** 3-point categorisation of reasonableness highlights this.
+- Thus **Buddha**'s 'Madhyamarga' — the middle path — should guide us, and restrictions must stay reasonable. The **Puttaswamy** 3-point categorisation of reasonableness highlights this.
 :::
 
 ---
@@ -19992,7 +19996,7 @@ status: untouched
 ---
 
 :::quote
-"Bhagvad Geeta: compassion is the root of a tree called Dharma and its branches are rules and norms."
+"Bhagavad Gita: compassion is the root of a tree called Dharma and its branches are rules and norms."
 :::
 
 ---
@@ -20198,7 +20202,7 @@ status: polished
 ---
 
 :::examples
-- **Savitri Bai Phule**
+- **Savitribai Phule**
 - **Mother Teresa**
 - **Chhavi Rajawat** — Sarpanch
 - **Gandhi** in the Noakhali riots while the rest of the country celebrated independence
@@ -20310,7 +20314,7 @@ status: polished
 ---
 
 :::detail label="Quote / Data"
-- 'People's indifference is best breeding ground for corruption' — our **CPI (TI)** rank stands at **85/180**. That is why this matters to us.
+- 'People's indifference is best breeding ground for corruption' — our **CPI (TI)** rank stands at **91/182 (CPI 2025)**. That is why this matters to us.
 :::
 
 ---
@@ -21269,7 +21273,7 @@ status: polished
 
 :::examples
 - **Personal vs public interests** — in the TV series 'Panchayat': where should the streetlight go, near one's home or by the public utilities
-- **Justice Kurien** — skipped a lunch hosted by the Italian government while hearing the case against the Italian marines
+- **Justice Kurian** — skipped a lunch hosted by the Italian government while hearing the case against the Italian marines
 - **Chanda Kochhar** — gave personal interest primacy while lending to Videocon
 :::
 
@@ -21584,9 +21588,9 @@ status: untouched
 ---
 
 :::examples
-- Unethical, but illegal in India: "to take dowry.".
-- Not illegal in India, but unethical: "2.1. Marital rape".
-- Not illegal in India, but unethical: "2.2. Adopting a girl child by single male".
+- Unethical **and illegal** in India: taking or giving dowry (Dowry Prohibition Act, 1961).
+- Unethical, but **not illegal** in India: marital rape (exception under S.375 IPC; the issue is before the courts).
+- **Not permitted** by regulation: adoption of a girl child by a single male (CARA eligibility rules).
 :::
 
 :::detail label="Concept"
