@@ -12977,7 +12977,7 @@ status: polished
   - 2. A GHG inventory.
   - 3. **Tree Bank Project** — loans are given against the trees a person plants, with no collateral.
   - 4. Interest is paid by the panchayat.
-- **Adaptation — NEED**: build the **North European Enclosure Dam**.
+- **Adaptation at mega-scale — the NEED proposal:** the **North European Enclosure Dam** — closing the North Sea against sea-level rise.
 :::
 
 ---

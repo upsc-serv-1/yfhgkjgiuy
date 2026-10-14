@@ -346,3 +346,8 @@ decision; "behavior" inside the MLK quote (0709-area) kept — quote text is pro
 789 cards; 2063/2063 ::: fences paired; verify_protected.py: 0 errors, 698 warnings (all
 accepted kinds; allowlist extended with C10 entries — full-quote pairs computed from the
 original JSON, numbers/lists itemised above).
+
+Addendum to C10: 0430 Meenangadi block — the stray "Adaptation — NEED" line clarified: NEED
+is the acronym for the North European Enclosure Dam (a real published sea-level-rise
+proposal); line now reads "**Adaptation at mega-scale — the NEED proposal:** the **North
+European Enclosure Dam** — closing the North Sea against sea-level rise."
