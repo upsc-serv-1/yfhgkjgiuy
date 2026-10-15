@@ -258,6 +258,22 @@ def verify_text_fidelity(cards, render):
 # ------------------------------------------------------------- rendering ---
 GS_CLASS = {"GS1": "gs1", "GS2": "gs2", "GS3": "gs3", "GS4": "gs4"}
 
+# v3 thin running header — logo + institute name only; cards start directly
+THIN = ('  <div class="topbar">\n'
+        '    <div class="tb-brand"><img class="tb-logo" src="assets/images/logo_dr_cse.png" '
+        'alt="Dr. CSE"/><span class="tb-name">Dr. CSE — <b>Replica</b></span></div>\n'
+        '  </div>\n  <div class="rule"></div>')
+FOOT = ('  <div class="foot"><span>DR. CSE — REPLICA · INTRO TO CONCLUSION</span>'
+        '<span class="pg-n">·</span></div>\n</div>')
+
+
+def is_wide_data(b):
+    """Long DATA fact walls (e.g. GS1-HIST-0012) flow in 2 columns to save
+    page space. Rule: at least 6 top-level bullets, or at least 90 words."""
+    words = sum(len(l.split()) for l in b["lines"])
+    tops = sum(1 for l in b["lines"] if BULLET_RE.match(l) and not l[:1].isspace())
+    return words >= 90 or tops >= 6
+
 
 def card_html(c):
     mid = c["meta"]
@@ -269,9 +285,6 @@ def card_html(c):
         f'<div class="card-h"><h4>{inline(mid["card_title"])}{skel}</h4>'
         f'<span class="card-id">{esc(cid)}</span></div>'
     )
-    micro = mid.get("microtopic", "").strip().strip("\"'")
-    if micro:
-        parts.append(f'<p class="card-micro">{esc(micro)}</p>')
     for b in c["blocks"]:
         n = b["name"]
         if n == "quote":
@@ -281,7 +294,8 @@ def card_html(c):
         elif n == "examples":
             parts.append(f'<div class="ex"><div class="blk-lab">Examples</div>{block_html(b, card_ctx(c))}</div>')
         elif n == "data":
-            parts.append(f'<div class="data"><div class="blk-lab">Data</div>{block_html(b, card_ctx(c))}</div>')
+            cls = "data data-cols" if is_wide_data(b) else "data"
+            parts.append(f'<div class="{cls}"><div class="blk-lab">Data</div>{block_html(b, card_ctx(c))}</div>')
         elif n == "conclusion":
             parts.append(f'<div class="conc"><div class="blk-lab">Conclusion</div>{block_html(b, card_ctx(c))}</div>')
         elif n == "detail":
@@ -300,21 +314,21 @@ def card_ctx(c):
     return {"id": c["id"], "subject": m["subject"], "subtopic": m["subtopic"]}
 
 
-CHAPTER_META = {  # for hero openers — NEW editorial text (mentor tone, easy language)
-    1: ("History", "Indian Heritage, Culture, History and Geography of the World feed every GS-1 answer. These 54 cards cover art, ancient and medieval India, modern India, and world history in ready answer language."),
-    2: ("Geography", "Physical and economic geography questions reward precise terms and clean diagrams. These 33 cards give you the core ideas, facts, and examples in exam-ready form."),
-    3: ("Society", "Society questions test concepts more than facts. These 11 cards bring salient features, diversity, and change in one crisp layer you can quote in any answer."),
-    4: ("Polity", "Polity is the highest-yield subject in GS-2. These 43 cards cover the Constitution, rights, parliament, judiciary, and federalism with exact articles and cases."),
-    5: ("Governance", "Governance answers need working definitions, committee logic, and examples. These 32 cards organize that material so you can recall it under exam pressure."),
-    6: ("International Relations", "IR answers blend facts with a clear point of view. These 26 cards carry the core relations, groupings, and doctrines with usable examples."),
-    7: ("Social Justice", "Social Justice questions ask for schemes with purpose and gaps. These 15 cards pair each theme with the right evidence for a balanced answer."),
-    8: ("Indian Economy", "Economy answers reward structure: concept, evidence, and impact. These 28 cards give you that structure across growth, fiscal, monetary, and external sectors."),
-    9: ("Internal Security", "Security answers need current linkages and precise terms. These 37 cards map threats, agencies, and laws in a way you can reproduce in the hall."),
-    10: ("Agriculture", "Agriculture questions connect schemes, ecology, and markets. These 22 cards join those threads so one example can serve many answers."),
-    11: ("Science & Technology", "S&T answers reward simple explanations of complex ideas. These 39 cards carry space, defence, biotech, and digital themes with exam-ready data."),
-    12: ("Environment", "Environment is the widest GS-3 subject. These 40 cards cover ecology, laws, climate, and governance with figures you can quote safely."),
-    13: ("Disaster Management", "Disaster answers follow a fixed drill: hazard, vulnerability, response, resilience. These 22 cards give you that drill for every major theme."),
-    14: ("Ethics, Integrity & Aptitude", "GS-4 rewards clarity, not memorised theory. These 149 cards cover terms, thinkers, case approaches, and governance themes with a shared answer grammar. This is the largest part of the book — use its mini-index to navigate."),
+CHAPTER_META = {  # for hero openers — NEW editorial text (mentor tone, easy language, NO counts)
+    1: ("History", "Indian Heritage, Culture, History and Geography of the World feed every GS-1 answer. These cards cover art, ancient and medieval India, modern India, and world history in ready answer language."),
+    2: ("Geography", "Physical and economic geography questions reward precise terms and clean diagrams. These cards give you the core ideas, facts, and examples in exam-ready form."),
+    3: ("Society", "Society questions test concepts more than facts. These cards bring salient features, diversity, and change in one crisp layer you can quote in any answer."),
+    4: ("Polity", "Polity is the highest-yield subject in GS-2. These cards cover the Constitution, rights, parliament, judiciary, and federalism with exact articles and cases."),
+    5: ("Governance", "Governance answers need working definitions, committee logic, and examples. These cards organize that material so you can recall it under exam pressure."),
+    6: ("International Relations", "IR answers blend facts with a clear point of view. These cards carry the core relations, groupings, and doctrines with usable examples."),
+    7: ("Social Justice", "Social Justice questions ask for schemes with purpose and gaps. These cards pair each theme with the right evidence for a balanced answer."),
+    8: ("Indian Economy", "Economy answers reward structure: concept, evidence, and impact. These cards give you that structure across growth, fiscal, monetary, and external sectors."),
+    9: ("Internal Security", "Security answers need current linkages and precise terms. These cards map threats, agencies, and laws in a way you can reproduce in the hall."),
+    10: ("Agriculture", "Agriculture questions connect schemes, ecology, and markets. These cards join those threads so one example can serve many answers."),
+    11: ("Science & Technology", "S&T answers reward simple explanations of complex ideas. These cards carry space, defence, biotech, and digital themes with exam-ready data."),
+    12: ("Environment", "Environment is the widest GS-3 subject. These cards cover ecology, laws, climate, and governance with figures you can quote safely."),
+    13: ("Disaster Management", "Disaster answers follow a fixed drill: hazard, vulnerability, response, resilience. These cards give you that drill for every major theme."),
+    14: ("Ethics, Integrity & Aptitude", "GS-4 rewards clarity, not memorised theory. These cards cover terms, thinkers, case approaches, and governance themes with a shared answer grammar — the largest part of this book."),
 }
 
 
@@ -327,52 +341,30 @@ WORDS_PER_SHEET = 420  # magazine sheet budget (body words) for auto-pagination
 
 def emit_section(L, paper, ch_no, disp, s, by_id, card_wc):
     """Emit one section_group as 1..n sheets: opener sheet carries the section
-    header + subtopic chips; content auto-paginates at ~WORDS_PER_SHEET words
-    with a running topbar on every sheet (prototype-style pages)."""
-    sub_count = sum(len(t["cards"]) for t in s["subtopics"])
-    pt_anchor = "pt-" + paper.lower().replace("-", "")
-    crumb = (f'<a href="#{pt_anchor}">{esc(paper)}</a> · '
-             f'<a href="#ch-{ch_no}">{esc(disp)}</a> · {esc(s["title"])} · '
-             '<a href="#ix-master">INDEX</a>')
-
-    def top_block(cont):
-        stamp = f"SECTION {s['no']:02d} OF 48" + ("<br/>CONT." if cont else "")
-        return ('<div class="sheet">\n  <div class="topbar">\n    <div class="brand">PYQ Nano Analysis '
-                '<span class="mono" style="font-size:9px;color:var(--mut)">GS MAINS</span></div>\n'
-                f'    <div class="crumb">{crumb}</div>\n'
-                f'    <div class="stamp">{stamp}<br/><span class="pg-n">·</span></div>\n'
-                '  </div>\n  <div class="rule"></div>')
-
-    FOOT = ('  <div class="foot"><span>PYQ NANO ANALYSIS — GS MAINS · THE ANSWER-WRITING PLAYBOOK</span>'
-            '<span class="pg-n">·</span></div>\n</div>')
-
+    header + subtopic chips; content auto-paginates at ~WORDS_PER_SHEET words.
+    v3: thin Dr. CSE — Replica header only (no crumb/stamp/counts); cards
+    start directly under the header."""
     header = (f'\n  <div class="sec-h" id="{s["anchor"]}">\n'
-              f'    <span class="k">SECTION {s["no"]:02d} · {esc(paper)}</span>\n'
+              f'    <span class="k">SECTION {s["no"]:02d} · {esc(paper)} · {esc(disp).upper()}</span>\n'
               f'    <h2>{esc(s["title"])}</h2>\n'
-              f'    <span class="n">{sub_count} CARDS · {len(s["subtopics"])} SUBTOPICS</span>\n'
               '  </div>\n  <div class="chips">\n' + "\n".join(
                   f'    <a class="chip" href="#{t["anchor"]}">{esc(t["title"])}</a>'
                   for t in s["subtopics"]) + '\n  </div>')
 
-    body, wc, cont = [header], 16, False
+    body, wc = [header], 14
 
     def close_sheet():
-        nonlocal body, wc, cont
-        L.append(top_block(cont) + "\n" + "\n".join(body) + "\n" + FOOT)
-        body, wc, cont = [], 0, True
+        nonlocal body, wc
+        L.append('<div class="sheet">\n' + THIN + "\n" + "\n".join(body) + "\n" + FOOT)
+        body, wc = [], 0
 
     for t in s["subtopics"]:
         cids = t["cards"]
         band = (f'\n  <div class="sub-h" id="{t["anchor"]}">\n'
-                f'    <h3>{esc(t["title"])}</h3>\n'
-                f'    <span class="cnt">{len(cids)} CARD{"S" if len(cids) > 1 else ""}</span>\n  </div>')
-        first_wc = card_wc[cids[0]]
-        # keep the opener header with its first group; break only on continuations
-        if cont and wc + 10 + first_wc > WORDS_PER_SHEET:
-            close_sheet()
+                f'    <h3>{esc(t["title"])}</h3>\n  </div>')
         body.append(band)
         body.append(card_html(by_id[cids[0]]))
-        wc += 10 + first_wc
+        wc += 10 + card_wc[cids[0]]
         for cid in cids[1:]:
             cwc = card_wc[cid]
             if wc + cwc > WORDS_PER_SHEET:
@@ -397,39 +389,66 @@ def main():
     print("VERBATIM VERIFICATION PASSED: all non-image blocks of 551 cards text-identical")
 
     by_id = {c["id"]: c for c in cards}
+    titles = {c["id"]: c["meta"]["card_title"] for c in cards}
     n_files = 0
     for ch in MAP["chapters_flat"]:
         no = ch["chapter_no"]
         disp, intro = CHAPTER_META[no]
         L = []
-        # ---- chapter hero (first sheet of the partial) ----
-        est_read = max(1, round(ch["word_count"] / 220))  # ~220 wpm
-        L.append(f'''<!-- PART {ch['paper']} · CHAPTER {no} · {esc(disp)} · {ch['card_count']} cards · src {esc(ch['src_file'])} -->
-<div class="sheet">
-  <div class="topbar">
-    <div class="brand">PYQ Nano Analysis <span class="mono" style="font-size:9px;color:var(--mut)">GS MAINS</span></div>
-    <div class="crumb"><a href="#pt-{ch['paper'].lower().replace('-', '')}">{esc(ch['paper'])}</a> · {esc(disp)} · <a href="#ix-master">INDEX</a></div>
-    <div class="stamp">CHAPTER {no:02d} OF 14<br/><span class="pg-n">·</span></div>
-  </div>
-  <div class="rule"></div>
+        # ---- chapter hero: SUBJECT PAGE with its own clickable card index ----
+        # (v3: no stat chips; every card title of the subject is a link)
+        sec_groups = []  # one html chunk per syllabus section
+        for s in ch["sections"]:
+            rows = [f'    <div class="ix-sec"><a href="#{s["anchor"]}">{esc(s["title"])}</a></div>']
+            links = " ".join(
+                f'<a href="#card-{cid}" title="{esc(titles.get(cid, cid))}">{esc(titles.get(cid, cid))}</a>'
+                for t in s["subtopics"] for cid in t["cards"])
+            rows.append(f'    <div class="ix-cards">{links}</div>')
+            sec_groups.append("\n".join(rows))
+
+        if ch["card_count"] > 100:
+            # very large subject (Ethics): split the index across two A4 pages
+            counts = [sum(len(t["cards"]) for t in s["subtopics"]) for s in ch["sections"]]
+            best, bi = None, 1
+            for k in range(1, len(counts)):
+                d = abs(sum(counts[:k]) - sum(counts[k:]))
+                if best is None or d < best:
+                    best, bi = d, k
+            g1, g2 = sec_groups[:bi], sec_groups[bi:]
+            L.append(f'''<!-- PART {ch['paper']} · CHAPTER {no} · {esc(disp)} · src {esc(ch['src_file'])} -->
+<div class="sheet a4">
+{THIN}
   <div class="chap-t">
     <div class="hero-tag">PART {esc(ch['paper'])} · CHAPTER {no:02d}</div>
     <h1 id="ch-{no}">{esc(disp)}</h1>
     <p class="lede">{esc(intro)}</p>
   </div>
-  <div class="chips" style="margin-bottom:16px">
-    <span class="chip mono">{ch['card_count']} CARDS</span>
-    <span class="chip mono">{len(ch['sections'])} SECTIONS</span>
-    <span class="chip mono">{sum(len(s['subtopics']) for s in ch['sections'])} SUBTOPICS</span>
-    <span class="chip mono">~{est_read} MIN READ</span>
+  <div class="ix-hint">IN THIS SUBJECT — CLICK ANY CARD TITLE TO OPEN IT · CARD INDEX 1 OF 2</div>
+  <div class="ix-body cols-3 ix-compact">
+{chr(10).join(g1)}
   </div>
-  <h2 style="margin-top:8px">In this chapter</h2>
-  <div class="chips">''' + "\n".join(
-            f'    <a class="chip" href="#{s["anchor"]}">{esc(s["title"])} · {sum(len(t["cards"]) for t in s["subtopics"])} cards</a>'
-            for s in ch["sections"]) + '''
+{FOOT}''')
+            L.append(f'''<div class="sheet a4">
+{THIN}
+  <div class="ix-hint">{esc(disp).upper()} · CARD INDEX 2 OF 2 — CLICK ANY TITLE TO OPEN IT</div>
+  <div class="ix-body cols-3 ix-compact">
+{chr(10).join(g2)}
   </div>
-  <div class="foot"><span>PYQ NANO ANALYSIS — GS MAINS · THE ANSWER-WRITING PLAYBOOK</span><span class="pg-n">·</span></div>
-</div>''')
+{FOOT}''')
+        else:
+            L.append(f'''<!-- PART {ch['paper']} · CHAPTER {no} · {esc(disp)} · src {esc(ch['src_file'])} -->
+<div class="sheet a4">
+{THIN}
+  <div class="chap-t">
+    <div class="hero-tag">PART {esc(ch['paper'])} · CHAPTER {no:02d}</div>
+    <h1 id="ch-{no}">{esc(disp)}</h1>
+    <p class="lede">{esc(intro)}</p>
+  </div>
+  <div class="ix-hint">IN THIS SUBJECT — CLICK ANY CARD TITLE TO OPEN IT</div>
+  <div class="ix-body">
+{chr(10).join(sec_groups)}
+  </div>
+{FOOT}''')
         # ---- sections (auto-paginated sheets with running topbars) ----
         card_wc = {c["id"]: sum(len(l.split()) for b in c["blocks"] for l in b["lines"])
                    for c in cards}

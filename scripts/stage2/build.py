@@ -1,12 +1,13 @@
 #!/usr/bin/env python3
-"""Phase 7 (v2, post-review) — assemble final_ebook.html from src/ partials.
+"""Phase 7 (v3, post-review round 2) — assemble final_ebook.html from src/ partials.
 
-Order: fm1 cover · fm2 foreword · fm3 how-to-use · bm1 subject-wise index
+Order: fm1 cover · fm2 disclaimer+how-to-approach · bm1 subject-wise index
        (clickable CONTENTS, front position) · pt1..pt4 part openers with their
        chapters interleaved · bm2 back cover.
+Book: REPLICA (Exam Replicable) · Intro to Conclusion — a Dr. CSE publication.
 Also: inlines src/theme.css into a single <style>, adds the floating INDEX
-button, stamps sequential page numbers into every .pg-n placeholder, and
-runs assembly self-checks (card count, anchor resolution).
+button, stamps sequential page numbers into every .pg-n placeholder (footer),
+and runs assembly self-checks (card count, anchor resolution).
 
 Usage:
   python scripts/stage2/build.py            # relative image paths (default)
@@ -22,8 +23,8 @@ SRC = REPO / "src"
 OUT = REPO / "final_ebook.html"
 
 ORDER = [
-    "fm1_cover.html", "fm2_foreword.html", "fm3_how_to_use.html",
-    # subject-wise clickable index — front position, right after How-to-Use
+    "fm1_cover.html", "fm2_disclaimer.html",
+    # subject-wise clickable index — front position, right after the disclaimer
     "bm1_index.html",
     # GS-1
     "pt1_gs1_opener.html", "ch01_history.html", "ch02_geography.html", "ch03_society.html",
@@ -44,8 +45,8 @@ HEAD = """<!DOCTYPE html>
 <head>
 <meta charset="utf-8"/>
 <meta content="width=device-width, initial-scale=1, viewport-fit=cover" name="viewport"/>
-<title>PYQ Nano Analysis — GS Mains · The Answer-Writing Playbook</title>
-<meta name="description" content="551 answer cards for UPSC GS Mains Papers I–IV: quotes, introductions, examples, data and conclusions in ready answer language."/>
+<title>Replica (Exam Replicable) — Intro to Conclusion · Dr. CSE</title>
+<meta name="description" content="Ready answer cards for UPSC GS Mains Papers I–IV: quotes, introductions, examples, data and conclusions in ready answer language. A Dr. CSE publication."/>
 <link href="https://fonts.googleapis.com" rel="preconnect"/><link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect"/>
 <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600&amp;family=IBM+Plex+Mono:wght@500&amp;family=IBM+Plex+Sans:wght@400;600&amp;display=swap" rel="stylesheet"/>
 <style>

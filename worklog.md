@@ -138,3 +138,22 @@ Work Log:
 
 Stage Summary:
 - v2 build complete and pushed: analytics-free, clickable front-matter index, card-in-rounded-box design. All 551 cards still verbatim. Awaiting user acceptance.
+
+---
+Task ID: 8R2
+Agent: Super Z (main, orchestrator)
+Task: User review fixes round 2 (v3 / rebrand) — rename the book, de-clutter pages, make every index level clickable, 2-column index, boxed intro, 2-column data, disclaimer page, logo + contact, no counts anywhere.
+
+Work Log:
+- Extracted the Dr. CSE logo (base64 PNG) from the prototype HTML → assets/images/logo_dr_cse.png (420×140, transparent). Brand info pulled from prototype: drcse.in · t.me/dr_cse · dr.cse.001@gmail.com.
+- theme.css v3: thin running header (.tb-brand logo + "Dr. CSE — Replica"), .a4 true-A4 pages, boxed .intro (pale-teal panel), .data-cols (2-col DATA walls), .ix-body 2-col index (+ .cols-3/.ix-compact variants), .ix-line subtopic rows, .cover-contact strip; removed .brand/.crumb/.stamp chrome, .card-micro, .cover-stat, all count badges.
+- convert_cards.py: microtopic (syllabus point) line removed from cards; chapter heroes rebuilt as SUBJECT PAGES with their own clickable card index (A4, no stat chips; Ethics 149 cards split across 2 compact 3-col sheets); section sheets emit thin header only, no crumb/stamp/counts; is_wide_data() → .data-cols (25 cards incl. GS1-HIST-0012); CHAPTER_META ledes rewritten without counts.
+- build_front.py: new cover (logo top-left, "Replica" title, subtitle "EXAM REPLICABLE · INTRO TO CONCLUSION", no stats, contact strip, no footer); NEW fm2_disclaimer.html = page-2 Disclaimer + How to Approach (panels + take + contact strip) replacing foreword + how-to-use (stale partials deleted); part openers simplified (no counts, GS-4 mini-index removed — superseded by Ethics subject-page index).
+- build_back.py: master index rebuilt — 2-column, EVERY level clickable (paper/subject/section/SUBTOPIC "Buddhism" → #st-N/card titles), .ix-line rows, auto-paginated by browser-calibrated height budget (BUDGET 1780→2080 after measuring 15–40% under-fill; first-sheet budget reduced by intro block), 7 true-A4 sheets, no counts; back cover rebranded + contact links. Fixed a literal "{FOOT}" leak (non-f-string segment) caught by VLM screenshot review.
+- build.py: ORDER updated (fm2_disclaimer), title/meta → "Replica (Exam Replicable) — Intro to Conclusion · Dr. CSE". qa_check.py title assertion updated.
+- Rebuilt: 14 chapter partials (551 cards verbatim gate PASSED) + front/back matter + final_ebook.html (1.10 MB, 217 sheets; self-checks OK: 551 cards, 0 unresolved anchors, 0 dup ids).
+- Verification: qa_check.py ALL GREEN (protected content 0 mismatches, links, images, print CSS, sanity). Browser measurement: every .a4/.p1 sheet ≤ 1135px (index sheets filled 726–924px). Structure scan: 0 micro lines, 546 boxed intros, 25 data-cols, 216 thin headers, 0 count-stat elements. Click-through (headless): Buddhism → #st-2 ✓, index title → card ✓, subject-page link → card ✓, INDEX button → #ix-master ✓. VLM review of 8 key pages: no defects.
+- Docs updated: PLAN.md (phase 8R2 row + product definition v3), HANDOFF.md (full v3 rewrite, decisions #16–#20), design_tokens.md (v3 layer changes), toc_index.md (v3 navigation map), qa_report.md (v3 verdict table + change log).
+
+Stage Summary:
+- final_ebook.html v3 complete on branch ebook-build: "Replica (Exam Replicable) · Intro to Conclusion", 217 sheets, all 551 cards verbatim, QA green, browser-verified. Awaiting user acceptance.

@@ -1,4 +1,4 @@
-# PLAN.md — PYQ Nano Analysis — GS Mains · The Answer-Writing Playbook (HTML eBook build)
+# PLAN.md — REPLICA (Exam Replicable) · Intro to Conclusion — Dr. CSE (HTML eBook build)
 
 **Branch:** `ebook-build` — this branch IS the project. Live status: `HANDOFF.md`. History: `worklog.md`.
 
@@ -22,7 +22,8 @@
 | 7 | Assembly — build script merges `src/` + theme + images → `final_ebook.html` | `final_ebook.html` | ✅ DONE — v2: 238 sheets, self-checks green, pushed |
 | 8 | QA audit — vs prototype + spec + checklist; fix loop until pass | `qa_report.md` | ✅ DONE — ALL CHECKS GREEN |
 | 8R | **User design review fixes (v2)** — remove count-analytics; clickable subject-wise index to front matter; card-in-rounded-box redesign; persistent INDEX navigation | rebuilt `final_ebook.html` + docs | ✅ DONE — QA re-run green, browser click-through verified |
-| 9 | Final handoff — push, wrap up | repo state | ▶ awaiting user acceptance of v2 build |
+| 8R2 | **User review fixes (v3 / rebrand)** — rename to “Replica (Exam Replicable) · Intro to Conclusion”; Dr. CSE logo header on every page; page-2 Disclaimer + How to Approach; 2-column clickable index (subtopics clickable too); subject pages carry their own clickable card index (A4); no counts anywhere; intro boxed; syllabus-point line removed; wide DATA in 2 columns | rebuilt `final_ebook.html` (217 sheets) + docs | ✅ DONE — QA green, heights + click-through browser-verified |
+| 9 | Final handoff — push, wrap up | repo state | ▶ awaiting user acceptance of v3 build |
 
 **Gate rule:** after Phase 1 and after Phase 8, the orchestrator reports to the user and WAITS for confirmation. All other phases: orchestrator audits the subagent output, fixes or returns it, then proceeds and pushes.
 
@@ -31,10 +32,11 @@
 ## 1. Product definition
 
 - **Deliverable:** ONE polished, editable, self-consistent HTML eBook (magazine style, like the reference prototype), committed alongside its modular sources.
-- **Title / subtitle:** "PYQ Nano Analysis — GS Mains" / "The Answer-Writing Playbook" (working title — one string to change if the user renames).
+- **Title / subtitle (user, review v3):** **“Replica (Exam Replicable) · Intro to Conclusion”** — a Dr. CSE publication. Running header: logo + “Dr. CSE — Replica”. Footer: “DR. CSE — REPLICA · INTRO TO CONCLUSION” + page number. Contact: drcse.in · t.me/dr_cse · dr.cse.001@gmail.com (cover, disclaimer page, back cover).
 - **Audience:** UPSC GS Mains aspirants (Papers I–IV), answer-writing focus. UPSC mentor tone: concise, exam-focused, guiding.
 - **Print path:** `@media print` CSS (A4, clean chapter page-breaks) so anyone can File→Print→Save-as-PDF. The HTML itself is the primary deliverable (user decision 2026-10-16).
 - **Design review v2 (user, 2026-10-16):** the prototype was reference for STRUCTURE and IDEA only — never copy its analytics. Count-analytics visuals (pies/bands/heatmaps/tier tables) are REMOVED. Cards render as rounded white boxes with coloured block labels (user's reference screenshot blended with the sage-gold system). The subject-wise index is clickable, in front matter, with persistent INDEX navigation.
+- **Design review v3 (user, 2026-10-16):** book renamed Replica; NO card-count statistics anywhere (covers, openers, index badges — “don't scare students with numbers”); page 2 = Disclaimer + How to Approach (replaces foreword/how-to-use); master index 2-column with EVERY level clickable (incl. subtopic names); each subject page opens with its own clickable card index on a true-A4 sheet; thin running header (logo + “Dr. CSE — Replica”) replaces book-name/section/subject crumbs — cards start directly; page number lives in the footer; INTRODUCTION is a boxed block like the others; the syllabus-point micro line is removed from cards; long DATA fact walls flow in 2 columns (`.data-cols`, e.g. GS1-HIST-0012).
 - **Repo layout (user decision):** BOTH modular `src/` partials (one per chapter, for parallel agent edits and clean diffs) AND the assembled `final_ebook.html`, rebuilt and committed after every phase.
 
 ## 2. Inputs (in `inputs/`)

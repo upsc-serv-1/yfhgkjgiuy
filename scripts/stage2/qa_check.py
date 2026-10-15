@@ -154,7 +154,7 @@ def main():
     # ---- 7. HTML sanity ----
     sanity = {
         "lang_attr": '<html lang="en">' in doc,
-        "title": "PYQ Nano Analysis — GS Mains" in doc,
+        "title": "Replica (Exam Replicable) — Intro to Conclusion" in doc,
         "meta_desc": 'name="description"' in doc,
         "font_fallbacks": "Georgia" in doc and "system-ui" in doc and "ui-monospace" in doc,
         "no_backdrop_filter": "backdrop-filter" not in doc,

@@ -1,7 +1,9 @@
-# design_tokens.md — Phase 3 · Design System (v2, post-review)
+# design_tokens.md — Phase 3 · Design System (v3, post-review rebrand)
 
-**Generated:** 2026-10-16 · **v2 updated:** 2026-10-16 (user review) · **Status:** production · **Production CSS:** `src/theme.css`
+**Generated:** 2026-10-16 · **v2 updated:** 2026-10-16 (user review) · **v3 updated:** 2026-10-16 (rebrand to REPLICA + header/index/card rework) · **Status:** production · **Production CSS:** `src/theme.css`
 **Truth order:** prototype CSS (extracted verbatim to `scripts/stage2/prototype_style_raw.css`) wins for tokens/typography/sheet system; the user's card-box reference screenshot (rounded white cards, labelled blocks) drives the CARD COMPONENT layer, blended into the sage-gold palette; `DESIGN_MAGZ_SPEC.md` fills remaining gaps. All values below are implemented in `src/theme.css`.
+
+**v3 layer changes (see HANDOFF decisions #16–#20):** thin running header = `.tb-brand` (`.tb-logo` 24px + “Dr. CSE — **Replica**” serif); `.a4{min-height:1123px}` true-A4 openers/index sheets; INTRODUCTION is now a boxed block (`.intro` = pale-teal panel, teal left rule — mirrors `.ex`); `.data-cols > ul{column-count:2}` for long DATA walls; `.ix-body` 2-col (`.cols-3`, `.ix-compact` variants) with `.ix-line` subtopic rows — every level clickable; `.cover-contact` strip (drcse.in · t.me/dr_cse · email); footer = brand line + page number (`DR. CSE — REPLICA · INTRO TO CONCLUSION`); `.card-micro` (syllabus point) and all count-stat chrome removed.
 
 ---
 

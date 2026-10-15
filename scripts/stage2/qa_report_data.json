@@ -12,15 +12,15 @@
   "pass": true
  },
  "images": {
-  "imgs": 38,
+  "imgs": 255,
   "hotlinked": 0,
   "missing_alt": 0,
   "external_srcs": [],
   "pass": true
  },
  "links": {
-  "ids": 835,
-  "hrefs": 1678,
+  "ids": 833,
+  "hrefs": 1704,
   "unresolved": [],
   "duplicate_ids": [],
   "pass": true
@@ -47,6 +47,6 @@
   "pass": true
  },
  "overall_pass": true,
- "sheets": 238,
- "size_mb": 1.18
+ "sheets": 217,
+ "size_mb": 1.1
 }
