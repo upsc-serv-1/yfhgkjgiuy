@@ -14,8 +14,8 @@
 |---|---|---|---|
 | 0 | Setup: branch, inputs copied, this plan, HANDOFF.md | this file | ✅ DONE |
 | 1 | Content audit — parse all v17 cards, categorize, internal-consistency check, download all images | `content_inventory.md` | ✅ DONE — gate CONFIRMED by user 2026-10-16 |
-| 2 | Book architecture — reverse-engineer prototype, GS-parted TOC (GS → subject → section_group → subtopic), card→chapter map, illustration plan | `ebook_structure.md` | ▶ IN PROGRESS |
-| 3 | Design tokens — extract fonts/colors/spacing from prototype + spec; catalog the prototype's SVG illustration TYPES for re-creation; build `src/theme.css` + card/callout templates | `design_tokens.md` | ⬜ |
+| 2 | Book architecture — reverse-engineer prototype, GS-parted TOC (GS → subject → section_group → subtopic), card→chapter map, illustration plan | `ebook_structure.md` | ✅ DONE — self-audited, pushed |
+| 3 | Design tokens — extract fonts/colors/spacing from prototype + spec; catalog the prototype's SVG illustration TYPES for re-creation; build `src/theme.css` + card/callout templates | `design_tokens.md`, `src/theme.css` | ▶ IN PROGRESS |
 | 4 | Editorial layer — foreword, How-to-Use, chapter intros; card bodies VERBATIM into `src/` chapter partials | `src/*.html` | ⬜ |
 | 5 | Student-review pass — aspirant read-through, doubt flags, callout suggestions, fixes | `review_notes.md` | ⬜ |
 | 6 | TOC + index — GS-wise (GS-1→GS-4), subject-wise within each GS, built from the card taxonomy | `toc_index.md` | ⬜ |

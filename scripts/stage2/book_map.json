@@ -1,0 +1,5642 @@
+{
+ "generated": "2026-10-15",
+ "title": "PYQ Nano Analysis — GS Mains",
+ "subtitle": "The Answer-Writing Playbook",
+ "structure_rule": "Book → Front matter → Part(paper) → Chapter(subject) → Section(section_group) → Card-group(subtopic) → Cards",
+ "parts": [
+  {
+   "paper": "GS-1",
+   "anchor": "pt-gs1",
+   "chapters": [
+    {
+     "chapter_no": 1,
+     "paper": "GS-1",
+     "subject": "HISTORY",
+     "display": "History",
+     "slug": "history",
+     "src_file": "ch01_history.html",
+     "anchor": "ch-1",
+     "sections": [
+      {
+       "title": "Art and Culture",
+       "no": 1,
+       "anchor": "sg-1",
+       "subtopics": [
+        {
+         "title": "Bhakti and Sufi movement",
+         "no": 1,
+         "anchor": "st-1",
+         "card_ids": [
+          "GS1-HIST-0001",
+          "GS1-HIST-0002"
+         ],
+         "card_count": 2,
+         "word_count": 444
+        },
+        {
+         "title": "Buddhism",
+         "no": 2,
+         "anchor": "st-2",
+         "card_ids": [
+          "GS1-HIST-0003"
+         ],
+         "card_count": 1,
+         "word_count": 81
+        },
+        {
+         "title": "Civilizations & Highlights",
+         "no": 3,
+         "anchor": "st-3",
+         "card_ids": [
+          "GS1-HIST-0005",
+          "GS1-HIST-0006"
+         ],
+         "card_count": 2,
+         "word_count": 206
+        },
+        {
+         "title": "Conservation of Indian Art & Heritage",
+         "no": 4,
+         "anchor": "st-4",
+         "card_ids": [
+          "GS1-HIST-0007",
+          "GS1-HIST-0009",
+          "GS1-HIST-0010",
+          "GS1-HIST-0011",
+          "GS1-HIST-0012",
+          "GS1-HIST-0013",
+          "GS1-HIST-0014",
+          "GS1-HIST-0015",
+          "GS1-HIST-0016",
+          "GS1-HIST-0017",
+          "GS1-HIST-0018",
+          "GS1-HIST-0019",
+          "GS1-HIST-0031"
+         ],
+         "card_count": 13,
+         "word_count": 2184
+        },
+        {
+         "title": "Dance forms",
+         "no": 5,
+         "anchor": "st-5",
+         "card_ids": [
+          "GS1-HIST-0021",
+          "GS1-HIST-0022",
+          "GS1-HIST-0030"
+         ],
+         "card_count": 3,
+         "word_count": 660
+        },
+        {
+         "title": "Indian Philosophy",
+         "no": 6,
+         "anchor": "st-6",
+         "card_ids": [
+          "GS1-HIST-0029"
+         ],
+         "card_count": 1,
+         "word_count": 107
+        },
+        {
+         "title": "Kingdoms & Highlights",
+         "no": 7,
+         "anchor": "st-7",
+         "card_ids": [
+          "GS1-HIST-0032",
+          "GS1-HIST-0033",
+          "GS1-HIST-0034",
+          "GS1-HIST-0035",
+          "GS1-HIST-0036"
+         ],
+         "card_count": 5,
+         "word_count": 707
+        },
+        {
+         "title": "Literature as Historical Sources",
+         "no": 8,
+         "anchor": "st-8",
+         "card_ids": [
+          "GS1-HIST-0042"
+         ],
+         "card_count": 1,
+         "word_count": 131
+        },
+        {
+         "title": "Sculptures and Significance",
+         "no": 9,
+         "anchor": "st-9",
+         "card_ids": [
+          "GS1-HIST-0043"
+         ],
+         "card_count": 1,
+         "word_count": 158
+        }
+       ],
+       "card_count": 29,
+       "word_count": 4678
+      },
+      {
+       "title": "Modern History",
+       "no": 2,
+       "anchor": "sg-2",
+       "subtopics": [
+        {
+         "title": "Acts and their Features",
+         "no": 10,
+         "anchor": "st-10",
+         "card_ids": [
+          "GS1-HIST-0044"
+         ],
+         "card_count": 1,
+         "word_count": 164
+        },
+        {
+         "title": "Colonial rule and impact",
+         "no": 11,
+         "anchor": "st-11",
+         "card_ids": [
+          "GS1-HIST-0061",
+          "GS1-HIST-0062",
+          "GS1-HIST-0063",
+          "GS1-HIST-0064",
+          "GS1-HIST-0065",
+          "GS1-HIST-0066"
+         ],
+         "card_count": 6,
+         "word_count": 849
+        },
+        {
+         "title": "Gandhi X Indian Leaders of Freedom Struggle",
+         "no": 12,
+         "anchor": "st-12",
+         "card_ids": [
+          "GS1-HIST-0071",
+          "GS1-HIST-0072"
+         ],
+         "card_count": 2,
+         "word_count": 234
+        },
+        {
+         "title": "Important contributors/contribution",
+         "no": 13,
+         "anchor": "st-13",
+         "card_ids": [
+          "GS1-HIST-0046"
+         ],
+         "card_count": 1,
+         "word_count": 163
+        },
+        {
+         "title": "Revolt and Mutiny",
+         "no": 14,
+         "anchor": "st-14",
+         "card_ids": [
+          "GS1-HIST-0073"
+         ],
+         "card_count": 1,
+         "word_count": 243
+        },
+        {
+         "title": "Socio-religious reform",
+         "no": 15,
+         "anchor": "st-15",
+         "card_ids": [
+          "GS1-HIST-0074",
+          "GS1-HIST-0075"
+         ],
+         "card_count": 2,
+         "word_count": 175
+        },
+        {
+         "title": "Various stages of Freedom struggle",
+         "no": 16,
+         "anchor": "st-16",
+         "card_ids": [
+          "GS1-HIST-0051",
+          "GS1-HIST-0052",
+          "GS1-HIST-0053",
+          "GS1-HIST-0054",
+          "GS1-HIST-0055",
+          "GS1-HIST-0056"
+         ],
+         "card_count": 6,
+         "word_count": 702
+        },
+        {
+         "title": "Viceroy and their Administration",
+         "no": 17,
+         "anchor": "st-17",
+         "card_ids": [
+          "GS1-HIST-0076"
+         ],
+         "card_count": 1,
+         "word_count": 138
+        }
+       ],
+       "card_count": 20,
+       "word_count": 2668
+      },
+      {
+       "title": "Post Independence",
+       "no": 3,
+       "anchor": "sg-3",
+       "subtopics": [
+        {
+         "title": "Consolidation after Independence",
+         "no": 18,
+         "anchor": "st-18",
+         "card_ids": [
+          "GS1-HIST-0078",
+          "GS1-HIST-0079"
+         ],
+         "card_count": 2,
+         "word_count": 210
+        },
+        {
+         "title": "States Reorganisation",
+         "no": 19,
+         "anchor": "st-19",
+         "card_ids": [
+          "GS1-HIST-0080"
+         ],
+         "card_count": 1,
+         "word_count": 97
+        }
+       ],
+       "card_count": 3,
+       "word_count": 307
+      },
+      {
+       "title": "World History",
+       "no": 4,
+       "anchor": "sg-4",
+       "subtopics": [
+        {
+         "title": "Miscellaneous",
+         "no": 20,
+         "anchor": "st-20",
+         "card_ids": [
+          "GS1-HIST-0083"
+         ],
+         "card_count": 1,
+         "word_count": 139
+        },
+        {
+         "title": "World wars",
+         "no": 21,
+         "anchor": "st-21",
+         "card_ids": [
+          "GS1-HIST-0085"
+         ],
+         "card_count": 1,
+         "word_count": 93
+        }
+       ],
+       "card_count": 2,
+       "word_count": 232
+      }
+     ],
+     "card_count": 54,
+     "word_count": 7885,
+     "est_sheets": 20
+    },
+    {
+     "chapter_no": 2,
+     "paper": "GS-1",
+     "subject": "GEOGRAPHY",
+     "display": "Geography",
+     "slug": "geography",
+     "src_file": "ch02_geography.html",
+     "anchor": "ch-2",
+     "sections": [
+      {
+       "title": "Economic & Resource Geography",
+       "no": 5,
+       "anchor": "sg-5",
+       "subtopics": [
+        {
+         "title": "Energy",
+         "no": 22,
+         "anchor": "st-22",
+         "card_ids": [
+          "GS1-GEOG-0106",
+          "GS1-GEOG-0108",
+          "GS1-GEOG-0109",
+          "GS1-GEOG-0110",
+          "GS1-GEOG-0111",
+          "GS1-GEOG-0112",
+          "GS1-GEOG-0113",
+          "GS1-GEOG-0114",
+          "GS1-GEOG-0115"
+         ],
+         "card_count": 9,
+         "word_count": 1282
+        },
+        {
+         "title": "Land use planning",
+         "no": 23,
+         "anchor": "st-23",
+         "card_ids": [
+          "GS1-GEOG-0132"
+         ],
+         "card_count": 1,
+         "word_count": 151
+        },
+        {
+         "title": "Natural resources Potential",
+         "no": 24,
+         "anchor": "st-24",
+         "card_ids": [
+          "GS1-GEOG-0121",
+          "GS1-GEOG-0122",
+          "GS1-GEOG-0123",
+          "GS1-GEOG-0124",
+          "GS1-GEOG-0125",
+          "GS1-GEOG-0126",
+          "GS1-GEOG-0127",
+          "GS1-GEOG-0128"
+         ],
+         "card_count": 8,
+         "word_count": 1100
+        }
+       ],
+       "card_count": 18,
+       "word_count": 2533
+      },
+      {
+       "title": "Environmental Geography & Climate Dynamics",
+       "no": 6,
+       "anchor": "sg-6",
+       "subtopics": [
+        {
+         "title": "Climate change",
+         "no": 25,
+         "anchor": "st-25",
+         "card_ids": [
+          "GS1-GEOG-0134"
+         ],
+         "card_count": 1,
+         "word_count": 105
+        }
+       ],
+       "card_count": 1,
+       "word_count": 105
+      },
+      {
+       "title": "Physical Geography & Geophysical Phenomena",
+       "no": 7,
+       "anchor": "sg-7",
+       "subtopics": [
+        {
+         "title": "Climatology",
+         "no": 26,
+         "anchor": "st-26",
+         "card_ids": [
+          "GS1-GEOG-0140",
+          "GS1-GEOG-0141"
+         ],
+         "card_count": 2,
+         "word_count": 178
+        },
+        {
+         "title": "Geomorphology",
+         "no": 27,
+         "anchor": "st-27",
+         "card_ids": [
+          "GS1-GEOG-0143",
+          "GS1-GEOG-0144",
+          "GS1-GEOG-0145"
+         ],
+         "card_count": 3,
+         "word_count": 311
+        },
+        {
+         "title": "Monsoon",
+         "no": 28,
+         "anchor": "st-28",
+         "card_ids": [
+          "GS1-GEOG-0146",
+          "GS1-GEOG-0147",
+          "GS1-GEOG-0148"
+         ],
+         "card_count": 3,
+         "word_count": 290
+        },
+        {
+         "title": "Oceanography",
+         "no": 29,
+         "anchor": "st-29",
+         "card_ids": [
+          "GS1-GEOG-0149",
+          "GS1-GEOG-0150",
+          "GS1-GEOG-0151",
+          "GS1-GEOG-0152"
+         ],
+         "card_count": 4,
+         "word_count": 435
+        },
+        {
+         "title": "Volcanic activity",
+         "no": 30,
+         "anchor": "st-30",
+         "card_ids": [
+          "GS1-GEOG-0135",
+          "GS1-GEOG-0136"
+         ],
+         "card_count": 2,
+         "word_count": 247
+        }
+       ],
+       "card_count": 14,
+       "word_count": 1461
+      }
+     ],
+     "card_count": 33,
+     "word_count": 4099,
+     "est_sheets": 11
+    },
+    {
+     "chapter_no": 3,
+     "paper": "GS-1",
+     "subject": "SOCIETY",
+     "display": "Society",
+     "slug": "society",
+     "src_file": "ch03_society.html",
+     "anchor": "ch-3",
+     "sections": [
+      {
+       "title": "Foundations & Diversity",
+       "no": 8,
+       "anchor": "sg-8",
+       "subtopics": [
+        {
+         "title": "Diversity and pluralism",
+         "no": 31,
+         "anchor": "st-31",
+         "card_ids": [
+          "GS1-SOCI-0087"
+         ],
+         "card_count": 1,
+         "word_count": 136
+        },
+        {
+         "title": "Tribes & Related Issues",
+         "no": 32,
+         "anchor": "st-32",
+         "card_ids": [
+          "GS1-SOCI-0088"
+         ],
+         "card_count": 1,
+         "word_count": 196
+        },
+        {
+         "title": "Uniqueness of Indian society",
+         "no": 33,
+         "anchor": "st-33",
+         "card_ids": [
+          "GS1-SOCI-0089"
+         ],
+         "card_count": 1,
+         "word_count": 217
+        }
+       ],
+       "card_count": 3,
+       "word_count": 549
+      },
+      {
+       "title": "Gender & Demographics",
+       "no": 9,
+       "anchor": "sg-9",
+       "subtopics": [
+        {
+         "title": "Population and associated issues",
+         "no": 34,
+         "anchor": "st-34",
+         "card_ids": [
+          "GS1-SOCI-0091"
+         ],
+         "card_count": 1,
+         "word_count": 142
+        },
+        {
+         "title": "Women and Associated concerns",
+         "no": 35,
+         "anchor": "st-35",
+         "card_ids": [
+          "GS1-SOCI-0092",
+          "GS1-SOCI-0093"
+         ],
+         "card_count": 2,
+         "word_count": 244
+        }
+       ],
+       "card_count": 3,
+       "word_count": 386
+      },
+      {
+       "title": "Poverty, Empowerment & Development",
+       "no": 10,
+       "anchor": "sg-10",
+       "subtopics": [
+        {
+         "title": "Poverty and Related issues",
+         "no": 36,
+         "anchor": "st-36",
+         "card_ids": [
+          "GS1-SOCI-0094"
+         ],
+         "card_count": 1,
+         "word_count": 147
+        }
+       ],
+       "card_count": 1,
+       "word_count": 147
+      },
+      {
+       "title": "Social Dynamics & Ideologies",
+       "no": 11,
+       "anchor": "sg-11",
+       "subtopics": [
+        {
+         "title": "Globalisation",
+         "no": 37,
+         "anchor": "st-37",
+         "card_ids": [
+          "GS1-SOCI-0095",
+          "GS1-SOCI-0097"
+         ],
+         "card_count": 2,
+         "word_count": 361
+        },
+        {
+         "title": "Regionalism",
+         "no": 38,
+         "anchor": "st-38",
+         "card_ids": [
+          "GS1-SOCI-0101"
+         ],
+         "card_count": 1,
+         "word_count": 212
+        }
+       ],
+       "card_count": 3,
+       "word_count": 573
+      },
+      {
+       "title": "Urbanisation",
+       "no": 12,
+       "anchor": "sg-12",
+       "subtopics": [
+        {
+         "title": "Emerging Urbanisation Trends",
+         "no": 39,
+         "anchor": "st-39",
+         "card_ids": [
+          "GS1-SOCI-0104"
+         ],
+         "card_count": 1,
+         "word_count": 181
+        }
+       ],
+       "card_count": 1,
+       "word_count": 181
+      }
+     ],
+     "card_count": 11,
+     "word_count": 1836,
+     "est_sheets": 5
+    }
+   ],
+   "card_count": 98,
+   "word_count": 13820
+  },
+  {
+   "paper": "GS-2",
+   "anchor": "pt-gs2",
+   "chapters": [
+    {
+     "chapter_no": 4,
+     "paper": "GS-2",
+     "subject": "POLITY",
+     "display": "Polity",
+     "slug": "polity",
+     "src_file": "ch04_polity.html",
+     "anchor": "ch-4",
+     "sections": [
+      {
+       "title": "Constitutional Framework & Evolution",
+       "no": 13,
+       "anchor": "sg-13",
+       "subtopics": [
+        {
+         "title": "Constitutional Morality",
+         "no": 40,
+         "anchor": "st-40",
+         "card_ids": [
+          "GS2-POLI-0161",
+          "GS2-POLI-0558"
+         ],
+         "card_count": 2,
+         "word_count": 256
+        },
+        {
+         "title": "DPSP",
+         "no": 41,
+         "anchor": "st-41",
+         "card_ids": [
+          "GS2-POLI-0162",
+          "GS2-POLI-0171"
+         ],
+         "card_count": 2,
+         "word_count": 240
+        },
+        {
+         "title": "Fundamental Rights",
+         "no": 42,
+         "anchor": "st-42",
+         "card_ids": [
+          "GS2-POLI-0163",
+          "GS2-POLI-0164",
+          "GS2-POLI-0165",
+          "GS2-POLI-0166",
+          "GS2-POLI-0167",
+          "GS2-POLI-0168",
+          "GS2-POLI-0169",
+          "GS2-POLI-0170",
+          "GS2-POLI-0172",
+          "GS2-POLI-0173"
+         ],
+         "card_count": 10,
+         "word_count": 1133
+        },
+        {
+         "title": "Making of the Constitution",
+         "no": 43,
+         "anchor": "st-43",
+         "card_ids": [
+          "GS2-POLI-0174"
+         ],
+         "card_count": 1,
+         "word_count": 107
+        }
+       ],
+       "card_count": 15,
+       "word_count": 1736
+      },
+      {
+       "title": "Elections & Political Dynamics",
+       "no": 14,
+       "anchor": "sg-14",
+       "subtopics": [
+        {
+         "title": "Electoral reforms",
+         "no": 44,
+         "anchor": "st-44",
+         "card_ids": [
+          "GS2-POLI-0176",
+          "GS2-POLI-0177",
+          "GS2-POLI-0180"
+         ],
+         "card_count": 3,
+         "word_count": 315
+        },
+        {
+         "title": "Political Parties",
+         "no": 45,
+         "anchor": "st-45",
+         "card_ids": [
+          "GS2-POLI-0183"
+         ],
+         "card_count": 1,
+         "word_count": 129
+        }
+       ],
+       "card_count": 4,
+       "word_count": 444
+      },
+      {
+       "title": "Federal Structure & Local Governance",
+       "no": 15,
+       "anchor": "sg-15",
+       "subtopics": [
+        {
+         "title": "Emergency",
+         "no": 46,
+         "anchor": "st-46",
+         "card_ids": [
+          "GS2-POLI-0188"
+         ],
+         "card_count": 1,
+         "word_count": 49
+        },
+        {
+         "title": "Federalism",
+         "no": 47,
+         "anchor": "st-47",
+         "card_ids": [
+          "GS2-POLI-0190"
+         ],
+         "card_count": 1,
+         "word_count": 70
+        },
+        {
+         "title": "Local Self Government",
+         "no": 48,
+         "anchor": "st-48",
+         "card_ids": [
+          "GS2-POLI-0187"
+         ],
+         "card_count": 1,
+         "word_count": 145
+        },
+        {
+         "title": "Union Territory",
+         "no": 49,
+         "anchor": "st-49",
+         "card_ids": [
+          "GS2-POLI-0191"
+         ],
+         "card_count": 1,
+         "word_count": 139
+        }
+       ],
+       "card_count": 4,
+       "word_count": 403
+      },
+      {
+       "title": "Organs of Government & Dispute Redressal",
+       "no": 16,
+       "anchor": "sg-16",
+       "subtopics": [
+        {
+         "title": "Bicameralism",
+         "no": 50,
+         "anchor": "st-50",
+         "card_ids": [
+          "GS2-POLI-0193",
+          "GS2-POLI-0194"
+         ],
+         "card_count": 2,
+         "word_count": 210
+        },
+        {
+         "title": "Executive Vs Judiciary",
+         "no": 51,
+         "anchor": "st-51",
+         "card_ids": [
+          "GS2-POLI-0203"
+         ],
+         "card_count": 1,
+         "word_count": 73
+        },
+        {
+         "title": "Judiciary",
+         "no": 52,
+         "anchor": "st-52",
+         "card_ids": [
+          "GS2-POLI-0210",
+          "GS2-POLI-0212",
+          "GS2-POLI-0213",
+          "GS2-POLI-0214",
+          "GS2-POLI-0217",
+          "GS2-POLI-0218",
+          "GS2-POLI-0219",
+          "GS2-POLI-0220"
+         ],
+         "card_count": 8,
+         "word_count": 905
+        },
+        {
+         "title": "Parliamentary Committees",
+         "no": 53,
+         "anchor": "st-53",
+         "card_ids": [
+          "GS2-POLI-0195"
+         ],
+         "card_count": 1,
+         "word_count": 77
+        },
+        {
+         "title": "Parliamentary Privileges",
+         "no": 54,
+         "anchor": "st-54",
+         "card_ids": [
+          "GS2-POLI-0196"
+         ],
+         "card_count": 1,
+         "word_count": 62
+        },
+        {
+         "title": "Presiding Officers",
+         "no": 55,
+         "anchor": "st-55",
+         "card_ids": [
+          "GS2-POLI-0197"
+         ],
+         "card_count": 1,
+         "word_count": 157
+        },
+        {
+         "title": "Pressure Groups",
+         "no": 56,
+         "anchor": "st-56",
+         "card_ids": [
+          "GS2-POLI-0202"
+         ],
+         "card_count": 1,
+         "word_count": 32
+        },
+        {
+         "title": "Role of MPs",
+         "no": 57,
+         "anchor": "st-57",
+         "card_ids": [
+          "GS2-POLI-0198"
+         ],
+         "card_count": 1,
+         "word_count": 166
+        },
+        {
+         "title": "Separation of Powers",
+         "no": 58,
+         "anchor": "st-58",
+         "card_ids": [
+          "GS2-POLI-0204"
+         ],
+         "card_count": 1,
+         "word_count": 172
+        },
+        {
+         "title": "Union Executive",
+         "no": 59,
+         "anchor": "st-59",
+         "card_ids": [
+          "GS2-POLI-0206",
+          "GS2-POLI-0207",
+          "GS2-POLI-0208"
+         ],
+         "card_count": 3,
+         "word_count": 307
+        }
+       ],
+       "card_count": 20,
+       "word_count": 2161
+      }
+     ],
+     "card_count": 43,
+     "word_count": 4744,
+     "est_sheets": 12
+    },
+    {
+     "chapter_no": 5,
+     "paper": "GS-2",
+     "subject": "GOVERNANCE",
+     "display": "Governance",
+     "slug": "governance",
+     "src_file": "ch05_governance.html",
+     "anchor": "ch-5",
+     "sections": [
+      {
+       "title": "Accountability & Civil Services",
+       "no": 17,
+       "anchor": "sg-17",
+       "subtopics": [
+        {
+         "title": "Citizens Charter",
+         "no": 60,
+         "anchor": "st-60",
+         "card_ids": [
+          "GS2-GOVE-0227"
+         ],
+         "card_count": 1,
+         "word_count": 176
+        },
+        {
+         "title": "E-governance",
+         "no": 61,
+         "anchor": "st-61",
+         "card_ids": [
+          "GS2-GOVE-0221",
+          "GS2-GOVE-0222",
+          "GS2-GOVE-0223",
+          "GS2-GOVE-0224"
+         ],
+         "card_count": 4,
+         "word_count": 660
+        },
+        {
+         "title": "Transparency and Accountability",
+         "no": 62,
+         "anchor": "st-62",
+         "card_ids": [
+          "GS2-GOVE-0228",
+          "GS2-GOVE-0232"
+         ],
+         "card_count": 2,
+         "word_count": 355
+        }
+       ],
+       "card_count": 7,
+       "word_count": 1191
+      },
+      {
+       "title": "Constitutional & Regulatory Bodies",
+       "no": 18,
+       "anchor": "sg-18",
+       "subtopics": [
+        {
+         "title": "Constitutional Bodies",
+         "no": 63,
+         "anchor": "st-63",
+         "card_ids": [
+          "GS2-GOVE-0234",
+          "GS2-GOVE-0235",
+          "GS2-GOVE-0236",
+          "GS2-GOVE-0238",
+          "GS2-GOVE-0239",
+          "GS2-GOVE-0240",
+          "GS2-GOVE-0241"
+         ],
+         "card_count": 7,
+         "word_count": 891
+        },
+        {
+         "title": "Enforcement Agencies",
+         "no": 64,
+         "anchor": "st-64",
+         "card_ids": [
+          "GS2-GOVE-0242",
+          "GS2-GOVE-0243"
+         ],
+         "card_count": 2,
+         "word_count": 261
+        },
+        {
+         "title": "Quasi judicial Bodies",
+         "no": 65,
+         "anchor": "st-65",
+         "card_ids": [
+          "GS2-GOVE-0244",
+          "GS2-GOVE-0246"
+         ],
+         "card_count": 2,
+         "word_count": 214
+        },
+        {
+         "title": "Statutory Bodies",
+         "no": 66,
+         "anchor": "st-66",
+         "card_ids": [
+          "GS2-GOVE-0247",
+          "GS2-GOVE-0248",
+          "GS2-GOVE-0249",
+          "GS2-GOVE-0250",
+          "GS2-GOVE-0251"
+         ],
+         "card_count": 5,
+         "word_count": 644
+        }
+       ],
+       "card_count": 16,
+       "word_count": 2010
+      },
+      {
+       "title": "Development Processes & Policies",
+       "no": 19,
+       "anchor": "sg-19",
+       "subtopics": [
+        {
+         "title": "Civil Society",
+         "no": 67,
+         "anchor": "st-67",
+         "card_ids": [
+          "GS2-GOVE-0258",
+          "GS2-GOVE-0259",
+          "GS2-GOVE-0261"
+         ],
+         "card_count": 3,
+         "word_count": 396
+        },
+        {
+         "title": "Donor Agencies",
+         "no": 68,
+         "anchor": "st-68",
+         "card_ids": [
+          "GS2-GOVE-0270",
+          "GS2-GOVE-0271"
+         ],
+         "card_count": 2,
+         "word_count": 229
+        },
+        {
+         "title": "Government Schemes and Policies",
+         "no": 69,
+         "anchor": "st-69",
+         "card_ids": [
+          "GS2-GOVE-0262",
+          "GS2-GOVE-0264",
+          "GS2-GOVE-0265"
+         ],
+         "card_count": 3,
+         "word_count": 442
+        },
+        {
+         "title": "SHGs",
+         "no": 70,
+         "anchor": "st-70",
+         "card_ids": [
+          "GS2-GOVE-0269"
+         ],
+         "card_count": 1,
+         "word_count": 168
+        }
+       ],
+       "card_count": 9,
+       "word_count": 1235
+      }
+     ],
+     "card_count": 32,
+     "word_count": 4436,
+     "est_sheets": 12
+    },
+    {
+     "chapter_no": 6,
+     "paper": "GS-2",
+     "subject": "INTERNATIONAL RELATIONS",
+     "display": "International Relations",
+     "slug": "ir",
+     "src_file": "ch06_ir.html",
+     "anchor": "ch-6",
+     "sections": [
+      {
+       "title": "Global Geopolitics & Indian Diaspora",
+       "no": 20,
+       "anchor": "sg-20",
+       "subtopics": [
+        {
+         "title": "Geo-politics affecting India's Interest",
+         "no": 71,
+         "anchor": "st-71",
+         "card_ids": [
+          "GS2-INTE-0296",
+          "GS2-INTE-0298",
+          "GS2-INTE-0299",
+          "GS2-INTE-0300",
+          "GS2-INTE-0302",
+          "GS2-INTE-0303"
+         ],
+         "card_count": 6,
+         "word_count": 895
+        },
+        {
+         "title": "Groupings beyond South Asia",
+         "no": 72,
+         "anchor": "st-72",
+         "card_ids": [
+          "GS2-INTE-0307",
+          "GS2-INTE-0308",
+          "GS2-INTE-0309",
+          "GS2-INTE-0310",
+          "GS2-INTE-0311",
+          "GS2-INTE-0312"
+         ],
+         "card_count": 6,
+         "word_count": 900
+        },
+        {
+         "title": "Groupings involving Immediate and Extended neighbours",
+         "no": 73,
+         "anchor": "st-73",
+         "card_ids": [
+          "GS2-INTE-0313",
+          "GS2-INTE-0314"
+         ],
+         "card_count": 2,
+         "word_count": 329
+        },
+        {
+         "title": "Indian Diaspora",
+         "no": 74,
+         "anchor": "st-74",
+         "card_ids": [
+          "GS2-INTE-0315",
+          "GS2-INTE-0316"
+         ],
+         "card_count": 2,
+         "word_count": 262
+        }
+       ],
+       "card_count": 16,
+       "word_count": 2386
+      },
+      {
+       "title": "International Organizations",
+       "no": 21,
+       "anchor": "sg-21",
+       "subtopics": [
+        {
+         "title": "United Nations and its Agencies",
+         "no": 75,
+         "anchor": "st-75",
+         "card_ids": [
+          "GS2-INTE-0317",
+          "GS2-INTE-0318"
+         ],
+         "card_count": 2,
+         "word_count": 338
+        }
+       ],
+       "card_count": 2,
+       "word_count": 338
+      },
+      {
+       "title": "Neighborhood & Bilateral Engagements",
+       "no": 22,
+       "anchor": "sg-22",
+       "subtopics": [
+        {
+         "title": "Neighbourhood",
+         "no": 76,
+         "anchor": "st-76",
+         "card_ids": [
+          "GS2-INTE-0321",
+          "GS2-INTE-0322",
+          "GS2-INTE-0323",
+          "GS2-INTE-0324",
+          "GS2-INTE-0325",
+          "GS2-INTE-0326",
+          "GS2-INTE-0327",
+          "GS2-INTE-0328"
+         ],
+         "card_count": 8,
+         "word_count": 1387
+        }
+       ],
+       "card_count": 8,
+       "word_count": 1387
+      }
+     ],
+     "card_count": 26,
+     "word_count": 4111,
+     "est_sheets": 11
+    },
+    {
+     "chapter_no": 7,
+     "paper": "GS-2",
+     "subject": "SOCIAL JUSTICE",
+     "display": "Social Justice",
+     "slug": "social-justice",
+     "src_file": "ch07_social-justice.html",
+     "anchor": "ch-7",
+     "sections": [
+      {
+       "title": "Poverty & Hunger",
+       "no": 23,
+       "anchor": "sg-23",
+       "subtopics": [
+        {
+         "title": "Hunger",
+         "no": 77,
+         "anchor": "st-77",
+         "card_ids": [
+          "GS2-SOCI-0273"
+         ],
+         "card_count": 1,
+         "word_count": 235
+        },
+        {
+         "title": "Poverty",
+         "no": 78,
+         "anchor": "st-78",
+         "card_ids": [
+          "GS2-SOCI-0276",
+          "GS2-SOCI-0277"
+         ],
+         "card_count": 2,
+         "word_count": 339
+        }
+       ],
+       "card_count": 3,
+       "word_count": 574
+      },
+      {
+       "title": "Social Sector & Human Development",
+       "no": 24,
+       "anchor": "sg-24",
+       "subtopics": [
+        {
+         "title": "Education",
+         "no": 79,
+         "anchor": "st-79",
+         "card_ids": [
+          "GS2-SOCI-0278",
+          "GS2-SOCI-0279"
+         ],
+         "card_count": 2,
+         "word_count": 284
+        },
+        {
+         "title": "Health",
+         "no": 80,
+         "anchor": "st-80",
+         "card_ids": [
+          "GS2-SOCI-0280",
+          "GS2-SOCI-0281"
+         ],
+         "card_count": 2,
+         "word_count": 347
+        },
+        {
+         "title": "Miscellaneous (Social Sector)",
+         "no": 81,
+         "anchor": "st-81",
+         "card_ids": [
+          "GS2-SOCI-0283",
+          "GS2-SOCI-0284"
+         ],
+         "card_count": 2,
+         "word_count": 278
+        }
+       ],
+       "card_count": 6,
+       "word_count": 909
+      },
+      {
+       "title": "Vulnerable Sections & Welfare",
+       "no": 25,
+       "anchor": "sg-25",
+       "subtopics": [
+        {
+         "title": "Children",
+         "no": 82,
+         "anchor": "st-82",
+         "card_ids": [
+          "GS2-SOCI-0285"
+         ],
+         "card_count": 1,
+         "word_count": 114
+        },
+        {
+         "title": "Disabled",
+         "no": 83,
+         "anchor": "st-83",
+         "card_ids": [
+          "GS2-SOCI-0286"
+         ],
+         "card_count": 1,
+         "word_count": 98
+        },
+        {
+         "title": "Efficacy of Welfare and Development Schemes",
+         "no": 84,
+         "anchor": "st-84",
+         "card_ids": [
+          "GS2-SOCI-0288",
+          "GS2-SOCI-0290",
+          "GS2-SOCI-0291",
+          "GS2-SOCI-0292"
+         ],
+         "card_count": 4,
+         "word_count": 432
+        }
+       ],
+       "card_count": 6,
+       "word_count": 644
+      }
+     ],
+     "card_count": 15,
+     "word_count": 2127,
+     "est_sheets": 6
+    }
+   ],
+   "card_count": 116,
+   "word_count": 15418
+  },
+  {
+   "paper": "GS-3",
+   "anchor": "pt-gs3",
+   "chapters": [
+    {
+     "chapter_no": 8,
+     "paper": "GS-3",
+     "subject": "INDIAN ECONOMY",
+     "display": "Indian Economy",
+     "slug": "economy",
+     "src_file": "ch08_economy.html",
+     "anchor": "ch-8",
+     "sections": [
+      {
+       "title": "Industrial Dynamics & Reforms",
+       "no": 26,
+       "anchor": "sg-26",
+       "subtopics": [
+        {
+         "title": "FDI",
+         "no": 85,
+         "anchor": "st-85",
+         "card_ids": [
+          "GS3-INDI-0329",
+          "GS3-INDI-0330"
+         ],
+         "card_count": 2,
+         "word_count": 201
+        },
+        {
+         "title": "LPG Reform and Impact",
+         "no": 86,
+         "anchor": "st-86",
+         "card_ids": [
+          "GS3-INDI-0331",
+          "GS3-INDI-0332"
+         ],
+         "card_count": 2,
+         "word_count": 171
+        }
+       ],
+       "card_count": 4,
+       "word_count": 372
+      },
+      {
+       "title": "Macroeconomics & Fiscal Policy",
+       "no": 27,
+       "anchor": "sg-27",
+       "subtopics": [
+        {
+         "title": "Current Budget",
+         "no": 87,
+         "anchor": "st-87",
+         "card_ids": [
+          "GS3-INDI-0334"
+         ],
+         "card_count": 1,
+         "word_count": 80
+        },
+        {
+         "title": "Economic Growth",
+         "no": 88,
+         "anchor": "st-88",
+         "card_ids": [
+          "GS3-INDI-0343"
+         ],
+         "card_count": 1,
+         "word_count": 98
+        },
+        {
+         "title": "Fiscal Policy",
+         "no": 89,
+         "anchor": "st-89",
+         "card_ids": [
+          "GS3-INDI-0335",
+          "GS3-INDI-0336",
+          "GS3-INDI-0337"
+         ],
+         "card_count": 3,
+         "word_count": 266
+        },
+        {
+         "title": "Inclusive Growth",
+         "no": 90,
+         "anchor": "st-90",
+         "card_ids": [
+          "GS3-INDI-0338"
+         ],
+         "card_count": 1,
+         "word_count": 101
+        },
+        {
+         "title": "Inclusive Growth X Sustainable Development",
+         "no": 91,
+         "anchor": "st-91",
+         "card_ids": [
+          "GS3-INDI-0339"
+         ],
+         "card_count": 1,
+         "word_count": 102
+        },
+        {
+         "title": "Investment",
+         "no": 92,
+         "anchor": "st-92",
+         "card_ids": [
+          "GS3-INDI-0340"
+         ],
+         "card_count": 1,
+         "word_count": 100
+        },
+        {
+         "title": "Manufacturing Sector",
+         "no": 93,
+         "anchor": "st-93",
+         "card_ids": [
+          "GS3-INDI-0344",
+          "GS3-INDI-0345"
+         ],
+         "card_count": 2,
+         "word_count": 172
+        },
+        {
+         "title": "Niti Aayog X Planning Commission",
+         "no": 94,
+         "anchor": "st-94",
+         "card_ids": [
+          "GS3-INDI-0342"
+         ],
+         "card_count": 1,
+         "word_count": 106
+        }
+       ],
+       "card_count": 11,
+       "word_count": 1025
+      },
+      {
+       "title": "Physical Infrastructure & Capital",
+       "no": 28,
+       "anchor": "sg-28",
+       "subtopics": [
+        {
+         "title": "Airports X Infrastructure",
+         "no": 95,
+         "anchor": "st-95",
+         "card_ids": [
+          "GS3-INDI-0348"
+         ],
+         "card_count": 1,
+         "word_count": 96
+        },
+        {
+         "title": "PPP X Infrastructure",
+         "no": 96,
+         "anchor": "st-96",
+         "card_ids": [
+          "GS3-INDI-0347"
+         ],
+         "card_count": 1,
+         "word_count": 90
+        },
+        {
+         "title": "Renewable Energy",
+         "no": 97,
+         "anchor": "st-97",
+         "card_ids": [
+          "GS3-INDI-0349",
+          "GS3-INDI-0350",
+          "GS3-INDI-0351",
+          "GS3-INDI-0352",
+          "GS3-INDI-0353",
+          "GS3-INDI-0354",
+          "GS3-INDI-0355",
+          "GS3-INDI-0356"
+         ],
+         "card_count": 8,
+         "word_count": 1041
+        },
+        {
+         "title": "Transport",
+         "no": 98,
+         "anchor": "st-98",
+         "card_ids": [
+          "GS3-INDI-0357",
+          "GS3-INDI-0358",
+          "GS3-INDI-0359"
+         ],
+         "card_count": 3,
+         "word_count": 278
+        }
+       ],
+       "card_count": 13,
+       "word_count": 1505
+      }
+     ],
+     "card_count": 28,
+     "word_count": 2902,
+     "est_sheets": 8
+    },
+    {
+     "chapter_no": 9,
+     "paper": "GS-3",
+     "subject": "INTERNAL SECURITY",
+     "display": "Internal Security",
+     "slug": "security",
+     "src_file": "ch09_security.html",
+     "anchor": "ch-9",
+     "sections": [
+      {
+       "title": "Border Management & Organized Crime",
+       "no": 29,
+       "anchor": "sg-29",
+       "subtopics": [
+        {
+         "title": "Border Area Management",
+         "no": 99,
+         "anchor": "st-99",
+         "card_ids": [
+          "GS3-INTE-0511",
+          "GS3-INTE-0512",
+          "GS3-INTE-0513",
+          "GS3-INTE-0514",
+          "GS3-INTE-0515",
+          "GS3-INTE-0516",
+          "GS3-INTE-0517"
+         ],
+         "card_count": 7,
+         "word_count": 632
+        },
+        {
+         "title": "Maritime Security challenges",
+         "no": 100,
+         "anchor": "st-100",
+         "card_ids": [
+          "GS3-INTE-0518",
+          "GS3-INTE-0519"
+         ],
+         "card_count": 2,
+         "word_count": 157
+        },
+        {
+         "title": "Organized Crime and Terrorism",
+         "no": 101,
+         "anchor": "st-101",
+         "card_ids": [
+          "GS3-INTE-0505",
+          "GS3-INTE-0506",
+          "GS3-INTE-0507",
+          "GS3-INTE-0508",
+          "GS3-INTE-0509",
+          "GS3-INTE-0510"
+         ],
+         "card_count": 6,
+         "word_count": 554
+        }
+       ],
+       "card_count": 15,
+       "word_count": 1343
+      },
+      {
+       "title": "Cyber, Financial & Media Security",
+       "no": 30,
+       "anchor": "sg-30",
+       "subtopics": [
+        {
+         "title": "Cyber security",
+         "no": 102,
+         "anchor": "st-102",
+         "card_ids": [
+          "GS3-INTE-0520",
+          "GS3-INTE-0521"
+         ],
+         "card_count": 2,
+         "word_count": 183
+        },
+        {
+         "title": "Digital Media and Security Threats",
+         "no": 103,
+         "anchor": "st-103",
+         "card_ids": [
+          "GS3-INTE-0522",
+          "GS3-INTE-0523"
+         ],
+         "card_count": 2,
+         "word_count": 228
+        },
+        {
+         "title": "Drug trafficking",
+         "no": 104,
+         "anchor": "st-104",
+         "card_ids": [
+          "GS3-INTE-0525"
+         ],
+         "card_count": 1,
+         "word_count": 140
+        },
+        {
+         "title": "Mob Violence",
+         "no": 105,
+         "anchor": "st-105",
+         "card_ids": [
+          "GS3-INTE-0524"
+         ],
+         "card_count": 1,
+         "word_count": 115
+        },
+        {
+         "title": "Money-laundering and Prevention",
+         "no": 106,
+         "anchor": "st-106",
+         "card_ids": [
+          "GS3-INTE-0526",
+          "GS3-INTE-0527"
+         ],
+         "card_count": 2,
+         "word_count": 231
+        }
+       ],
+       "card_count": 8,
+       "word_count": 897
+      },
+      {
+       "title": "Extremism & External Threats",
+       "no": 31,
+       "anchor": "sg-31",
+       "subtopics": [
+        {
+         "title": "Left-Wing Extremism",
+         "no": 107,
+         "anchor": "st-107",
+         "card_ids": [
+          "GS3-INTE-0529"
+         ],
+         "card_count": 1,
+         "word_count": 143
+        },
+        {
+         "title": "N-E Insurgency",
+         "no": 108,
+         "anchor": "st-108",
+         "card_ids": [
+          "GS3-INTE-0531"
+         ],
+         "card_count": 1,
+         "word_count": 98
+        },
+        {
+         "title": "Threat from External state and Non-state actors",
+         "no": 109,
+         "anchor": "st-109",
+         "card_ids": [
+          "GS3-INTE-0532",
+          "GS3-INTE-0533",
+          "GS3-INTE-0534"
+         ],
+         "card_count": 3,
+         "word_count": 262
+        }
+       ],
+       "card_count": 5,
+       "word_count": 503
+      },
+      {
+       "title": "Security Forces & Mandates",
+       "no": 32,
+       "anchor": "sg-32",
+       "subtopics": [
+        {
+         "title": "Act based",
+         "no": 110,
+         "anchor": "st-110",
+         "card_ids": [
+          "GS3-INTE-0535"
+         ],
+         "card_count": 1,
+         "word_count": 228
+        },
+        {
+         "title": "Mandates of Security forces",
+         "no": 111,
+         "anchor": "st-111",
+         "card_ids": [
+          "GS3-INTE-0536",
+          "GS3-INTE-0537",
+          "GS3-INTE-0538",
+          "GS3-INTE-0539",
+          "GS3-INTE-0540",
+          "GS3-INTE-0541",
+          "GS3-INTE-0542",
+          "GS3-INTE-0543"
+         ],
+         "card_count": 8,
+         "word_count": 762
+        }
+       ],
+       "card_count": 9,
+       "word_count": 990
+      }
+     ],
+     "card_count": 37,
+     "word_count": 3733,
+     "est_sheets": 10
+    },
+    {
+     "chapter_no": 10,
+     "paper": "GS-3",
+     "subject": "AGRICULTURE",
+     "display": "Agriculture",
+     "slug": "agriculture",
+     "src_file": "ch10_agriculture.html",
+     "anchor": "ch-10",
+     "sections": [
+      {
+       "title": "Agriculture & Farm Dynamics",
+       "no": 33,
+       "anchor": "sg-33",
+       "subtopics": [
+        {
+         "title": "Agri-Marketing",
+         "no": 112,
+         "anchor": "st-112",
+         "card_ids": [
+          "GS3-AGRI-0368",
+          "GS3-AGRI-0369",
+          "GS3-AGRI-0370"
+         ],
+         "card_count": 3,
+         "word_count": 270
+        },
+        {
+         "title": "Buffer stock & food security",
+         "no": 113,
+         "anchor": "st-113",
+         "card_ids": [
+          "GS3-AGRI-0365"
+         ],
+         "card_count": 1,
+         "word_count": 63
+        },
+        {
+         "title": "Cropping pattern",
+         "no": 114,
+         "anchor": "st-114",
+         "card_ids": [
+          "GS3-AGRI-0363"
+         ],
+         "card_count": 1,
+         "word_count": 106
+        },
+        {
+         "title": "Irrigation system",
+         "no": 115,
+         "anchor": "st-115",
+         "card_ids": [
+          "GS3-AGRI-0360"
+         ],
+         "card_count": 1,
+         "word_count": 89
+        },
+        {
+         "title": "MSP",
+         "no": 116,
+         "anchor": "st-116",
+         "card_ids": [
+          "GS3-AGRI-0362"
+         ],
+         "card_count": 1,
+         "word_count": 90
+        },
+        {
+         "title": "Non-Farm Activities (Livestock)",
+         "no": 117,
+         "anchor": "st-117",
+         "card_ids": [
+          "GS3-AGRI-0366"
+         ],
+         "card_count": 1,
+         "word_count": 85
+        },
+        {
+         "title": "Organic Farming",
+         "no": 118,
+         "anchor": "st-118",
+         "card_ids": [
+          "GS3-AGRI-0364"
+         ],
+         "card_count": 1,
+         "word_count": 170
+        },
+        {
+         "title": "PDS",
+         "no": 119,
+         "anchor": "st-119",
+         "card_ids": [
+          "GS3-AGRI-0367"
+         ],
+         "card_count": 1,
+         "word_count": 92
+        },
+        {
+         "title": "Tech in Agri Production and Marketing",
+         "no": 120,
+         "anchor": "st-120",
+         "card_ids": [
+          "GS3-AGRI-0371"
+         ],
+         "card_count": 1,
+         "word_count": 144
+        },
+        {
+         "title": "Water Conservation",
+         "no": 121,
+         "anchor": "st-121",
+         "card_ids": [
+          "GS3-AGRI-0361"
+         ],
+         "card_count": 1,
+         "word_count": 119
+        }
+       ],
+       "card_count": 12,
+       "word_count": 1228
+      },
+      {
+       "title": "Food Processing Industry",
+       "no": 34,
+       "anchor": "sg-34",
+       "subtopics": [
+        {
+         "title": "Food Processing Sector",
+         "no": 122,
+         "anchor": "st-122",
+         "card_ids": [
+          "GS3-AGRI-0373",
+          "GS3-AGRI-0374",
+          "GS3-AGRI-0375",
+          "GS3-AGRI-0376",
+          "GS3-AGRI-0377"
+         ],
+         "card_count": 5,
+         "word_count": 430
+        }
+       ],
+       "card_count": 5,
+       "word_count": 430
+      },
+      {
+       "title": "Land Reforms",
+       "no": 35,
+       "anchor": "sg-35",
+       "subtopics": [
+        {
+         "title": "Contract farming & Land leasing",
+         "no": 123,
+         "anchor": "st-123",
+         "card_ids": [
+          "GS3-AGRI-0378"
+         ],
+         "card_count": 1,
+         "word_count": 200
+        },
+        {
+         "title": "Land Reforms",
+         "no": 124,
+         "anchor": "st-124",
+         "card_ids": [
+          "GS3-AGRI-0379",
+          "GS3-AGRI-0380",
+          "GS3-AGRI-0381"
+         ],
+         "card_count": 3,
+         "word_count": 290
+        },
+        {
+         "title": "Miscellaneous",
+         "no": 125,
+         "anchor": "st-125",
+         "card_ids": [
+          "GS3-AGRI-0383"
+         ],
+         "card_count": 1,
+         "word_count": 95
+        }
+       ],
+       "card_count": 5,
+       "word_count": 585
+      }
+     ],
+     "card_count": 22,
+     "word_count": 2243,
+     "est_sheets": 6
+    },
+    {
+     "chapter_no": 11,
+     "paper": "GS-3",
+     "subject": "SCIENCE & TECHNOLOGY",
+     "display": "Science & Technology",
+     "slug": "snt",
+     "src_file": "ch11_snt.html",
+     "anchor": "ch-11",
+     "sections": [
+      {
+       "title": "Everyday Science & Innovations",
+       "no": 36,
+       "anchor": "sg-36",
+       "subtopics": [
+        {
+         "title": "General Science",
+         "no": 126,
+         "anchor": "st-126",
+         "card_ids": [
+          "GS3-SCIE-0384",
+          "GS3-SCIE-0385"
+         ],
+         "card_count": 2,
+         "word_count": 337
+        },
+        {
+         "title": "Innovative Technologies",
+         "no": 127,
+         "anchor": "st-127",
+         "card_ids": [
+          "GS3-SCIE-0387",
+          "GS3-SCIE-0388",
+          "GS3-SCIE-0389",
+          "GS3-SCIE-0390"
+         ],
+         "card_count": 4,
+         "word_count": 475
+        }
+       ],
+       "card_count": 6,
+       "word_count": 812
+      },
+      {
+       "title": "Frontier Technologies & IPR",
+       "no": 37,
+       "anchor": "sg-37",
+       "subtopics": [
+        {
+         "title": "Artificial Intelligence",
+         "no": 128,
+         "anchor": "st-128",
+         "card_ids": [
+          "GS3-SCIE-0391",
+          "GS3-SCIE-0392",
+          "GS3-SCIE-0393"
+         ],
+         "card_count": 3,
+         "word_count": 362
+        },
+        {
+         "title": "Bio-Technology",
+         "no": 129,
+         "anchor": "st-129",
+         "card_ids": [
+          "GS3-SCIE-0416",
+          "GS3-SCIE-0417"
+         ],
+         "card_count": 2,
+         "word_count": 341
+        },
+        {
+         "title": "Defence Technology",
+         "no": 130,
+         "anchor": "st-130",
+         "card_ids": [
+          "GS3-SCIE-0406",
+          "GS3-SCIE-0407"
+         ],
+         "card_count": 2,
+         "word_count": 236
+        },
+        {
+         "title": "IT",
+         "no": 131,
+         "anchor": "st-131",
+         "card_ids": [
+          "GS3-SCIE-0394",
+          "GS3-SCIE-0395",
+          "GS3-SCIE-0396",
+          "GS3-SCIE-0397",
+          "GS3-SCIE-0398",
+          "GS3-SCIE-0399",
+          "GS3-SCIE-0400",
+          "GS3-SCIE-0401",
+          "GS3-SCIE-0402",
+          "GS3-SCIE-0403",
+          "GS3-SCIE-0404"
+         ],
+         "card_count": 11,
+         "word_count": 1276
+        },
+        {
+         "title": "Intellectual Property Rights",
+         "no": 132,
+         "anchor": "st-132",
+         "card_ids": [
+          "GS3-SCIE-0418",
+          "GS3-SCIE-0419"
+         ],
+         "card_count": 2,
+         "word_count": 135
+        },
+        {
+         "title": "Nano Technology",
+         "no": 133,
+         "anchor": "st-133",
+         "card_ids": [
+          "GS3-SCIE-0420"
+         ],
+         "card_count": 1,
+         "word_count": 107
+        },
+        {
+         "title": "Space Technology",
+         "no": 134,
+         "anchor": "st-134",
+         "card_ids": [
+          "GS3-SCIE-0408",
+          "GS3-SCIE-0409",
+          "GS3-SCIE-0411",
+          "GS3-SCIE-0412",
+          "GS3-SCIE-0413",
+          "GS3-SCIE-0414"
+         ],
+         "card_count": 6,
+         "word_count": 823
+        }
+       ],
+       "card_count": 27,
+       "word_count": 3280
+      },
+      {
+       "title": "Indigenous Tech & Achievements",
+       "no": 38,
+       "anchor": "sg-38",
+       "subtopics": [
+        {
+         "title": "Achievements of Indians in S&T",
+         "no": 135,
+         "anchor": "st-135",
+         "card_ids": [
+          "GS3-SCIE-0421",
+          "GS3-SCIE-0422",
+          "GS3-SCIE-0423",
+          "GS3-SCIE-0424",
+          "GS3-SCIE-0425",
+          "GS3-SCIE-0153"
+         ],
+         "card_count": 6,
+         "word_count": 860
+        }
+       ],
+       "card_count": 6,
+       "word_count": 860
+      }
+     ],
+     "card_count": 39,
+     "word_count": 4952,
+     "est_sheets": 13
+    },
+    {
+     "chapter_no": 12,
+     "paper": "GS-3",
+     "subject": "ENVIRONMENT",
+     "display": "Environment",
+     "slug": "environment",
+     "src_file": "ch12_environment.html",
+     "anchor": "ch-12",
+     "sections": [
+      {
+       "title": "Climate Change",
+       "no": 39,
+       "anchor": "sg-39",
+       "subtopics": [
+        {
+         "title": "Climate Change",
+         "no": 136,
+         "anchor": "st-136",
+         "card_ids": [
+          "GS3-ENVI-0428",
+          "GS3-ENVI-0430",
+          "GS3-ENVI-0431",
+          "GS3-ENVI-0433",
+          "GS3-ENVI-0434"
+         ],
+         "card_count": 5,
+         "word_count": 1220
+        },
+        {
+         "title": "IPCC Reports",
+         "no": 137,
+         "anchor": "st-137",
+         "card_ids": [
+          "GS3-ENVI-0435"
+         ],
+         "card_count": 1,
+         "word_count": 149
+        },
+        {
+         "title": "UNFCCC",
+         "no": 138,
+         "anchor": "st-138",
+         "card_ids": [
+          "GS3-ENVI-0436",
+          "GS3-ENVI-0437",
+          "GS3-ENVI-0439"
+         ],
+         "card_count": 3,
+         "word_count": 629
+        }
+       ],
+       "card_count": 9,
+       "word_count": 1998
+      },
+      {
+       "title": "Conservation & Ecosystems",
+       "no": 40,
+       "anchor": "sg-40",
+       "subtopics": [
+        {
+         "title": "Biodiversity",
+         "no": 139,
+         "anchor": "st-139",
+         "card_ids": [
+          "GS3-ENVI-0440",
+          "GS3-ENVI-0441",
+          "GS3-ENVI-0443",
+          "GS3-ENVI-0444"
+         ],
+         "card_count": 4,
+         "word_count": 829
+        },
+        {
+         "title": "EIA",
+         "no": 140,
+         "anchor": "st-140",
+         "card_ids": [
+          "GS3-ENVI-0445"
+         ],
+         "card_count": 1,
+         "word_count": 247
+        },
+        {
+         "title": "Environment",
+         "no": 141,
+         "anchor": "st-141",
+         "card_ids": [
+          "GS3-ENVI-0447",
+          "GS3-ENVI-0448",
+          "GS3-ENVI-0449",
+          "GS3-ENVI-0450",
+          "GS3-ENVI-0452"
+         ],
+         "card_count": 5,
+         "word_count": 745
+        },
+        {
+         "title": "Environmental Laws",
+         "no": 142,
+         "anchor": "st-142",
+         "card_ids": [
+          "GS3-ENVI-0453",
+          "GS3-ENVI-0454",
+          "GS3-ENVI-0455",
+          "GS3-ENVI-0456"
+         ],
+         "card_count": 4,
+         "word_count": 680
+        },
+        {
+         "title": "Sustainable Development",
+         "no": 143,
+         "anchor": "st-143",
+         "card_ids": [
+          "GS3-ENVI-0460",
+          "GS3-ENVI-0461",
+          "GS3-ENVI-0462"
+         ],
+         "card_count": 3,
+         "word_count": 471
+        },
+        {
+         "title": "Wetlands",
+         "no": 144,
+         "anchor": "st-144",
+         "card_ids": [
+          "GS3-ENVI-0463",
+          "GS3-ENVI-0464"
+         ],
+         "card_count": 2,
+         "word_count": 267
+        }
+       ],
+       "card_count": 19,
+       "word_count": 3239
+      },
+      {
+       "title": "Pollution & Degradation",
+       "no": 41,
+       "anchor": "sg-41",
+       "subtopics": [
+        {
+         "title": "Air Pollution and Related Issues",
+         "no": 145,
+         "anchor": "st-145",
+         "card_ids": [
+          "GS3-ENVI-0465",
+          "GS3-ENVI-0466"
+         ],
+         "card_count": 2,
+         "word_count": 340
+        },
+        {
+         "title": "Mining and Erosion",
+         "no": 146,
+         "anchor": "st-146",
+         "card_ids": [
+          "GS3-ENVI-0467"
+         ],
+         "card_count": 1,
+         "word_count": 228
+        },
+        {
+         "title": "Solid wastes",
+         "no": 147,
+         "anchor": "st-147",
+         "card_ids": [
+          "GS3-ENVI-0469",
+          "GS3-ENVI-0470",
+          "GS3-ENVI-0471",
+          "GS3-ENVI-0472",
+          "GS3-ENVI-0473"
+         ],
+         "card_count": 5,
+         "word_count": 731
+        },
+        {
+         "title": "Water Pollution and Related Issues",
+         "no": 148,
+         "anchor": "st-148",
+         "card_ids": [
+          "GS3-ENVI-0474",
+          "GS3-ENVI-0475",
+          "GS3-ENVI-0476",
+          "GS3-ENVI-0478"
+         ],
+         "card_count": 4,
+         "word_count": 695
+        }
+       ],
+       "card_count": 12,
+       "word_count": 1994
+      }
+     ],
+     "card_count": 40,
+     "word_count": 7231,
+     "est_sheets": 18
+    },
+    {
+     "chapter_no": 13,
+     "paper": "GS-3",
+     "subject": "DISASTER MANAGEMENT",
+     "display": "Disaster Management",
+     "slug": "disaster",
+     "src_file": "ch13_disaster.html",
+     "anchor": "ch-13",
+     "sections": [
+      {
+       "title": "Frameworks & Preparedness",
+       "no": 42,
+       "anchor": "sg-42",
+       "subtopics": [
+        {
+         "title": "Disaster Preparedness and Resilience",
+         "no": 149,
+         "anchor": "st-149",
+         "card_ids": [
+          "GS3-DISA-0480",
+          "GS3-DISA-0481",
+          "GS3-DISA-0482",
+          "GS3-DISA-0483"
+         ],
+         "card_count": 4,
+         "word_count": 652
+        },
+        {
+         "title": "Vulnerability and Risk Assessment",
+         "no": 150,
+         "anchor": "st-150",
+         "card_ids": [
+          "GS3-DISA-0484"
+         ],
+         "card_count": 1,
+         "word_count": 160
+        }
+       ],
+       "card_count": 5,
+       "word_count": 812
+      },
+      {
+       "title": "Specific Disasters & Hazards",
+       "no": 43,
+       "anchor": "sg-43",
+       "subtopics": [
+        {
+         "title": "Cloudburst",
+         "no": 151,
+         "anchor": "st-151",
+         "card_ids": [
+          "GS3-DISA-0485"
+         ],
+         "card_count": 1,
+         "word_count": 146
+        },
+        {
+         "title": "Cyclone",
+         "no": 152,
+         "anchor": "st-152",
+         "card_ids": [
+          "GS3-DISA-0486"
+         ],
+         "card_count": 1,
+         "word_count": 283
+        },
+        {
+         "title": "Drought",
+         "no": 153,
+         "anchor": "st-153",
+         "card_ids": [
+          "GS3-DISA-0490",
+          "GS3-DISA-0491"
+         ],
+         "card_count": 2,
+         "word_count": 260
+        },
+        {
+         "title": "Earthquake",
+         "no": 154,
+         "anchor": "st-154",
+         "card_ids": [
+          "GS3-DISA-0492",
+          "GS3-DISA-0493"
+         ],
+         "card_count": 2,
+         "word_count": 251
+        },
+        {
+         "title": "Landslide",
+         "no": 155,
+         "anchor": "st-155",
+         "card_ids": [
+          "GS3-DISA-0494"
+         ],
+         "card_count": 1,
+         "word_count": 156
+        },
+        {
+         "title": "Miscellaneous (Disasters)",
+         "no": 156,
+         "anchor": "st-156",
+         "card_ids": [
+          "GS3-DISA-0495",
+          "GS3-DISA-0496",
+          "GS3-DISA-0497",
+          "GS3-DISA-0498",
+          "GS3-DISA-0499",
+          "GS3-DISA-0500",
+          "GS3-DISA-0501",
+          "GS3-DISA-0502"
+         ],
+         "card_count": 8,
+         "word_count": 1043
+        },
+        {
+         "title": "Tsunami",
+         "no": 157,
+         "anchor": "st-157",
+         "card_ids": [
+          "GS3-DISA-0503"
+         ],
+         "card_count": 1,
+         "word_count": 109
+        },
+        {
+         "title": "Urban floods",
+         "no": 158,
+         "anchor": "st-158",
+         "card_ids": [
+          "GS3-DISA-0504"
+         ],
+         "card_count": 1,
+         "word_count": 114
+        }
+       ],
+       "card_count": 17,
+       "word_count": 2362
+      }
+     ],
+     "card_count": 22,
+     "word_count": 3174,
+     "est_sheets": 9
+    }
+   ],
+   "card_count": 188,
+   "word_count": 24235
+  },
+  {
+   "paper": "GS-4",
+   "anchor": "pt-gs4",
+   "chapters": [
+    {
+     "chapter_no": 14,
+     "paper": "GS-4",
+     "subject": "ETHICS, INTEGRITY & APTITUDE",
+     "display": "Ethics, Integrity & Aptitude",
+     "slug": "ethics",
+     "src_file": "ch14_ethics.html",
+     "anchor": "ch-14",
+     "sections": [
+      {
+       "title": "Ethics & Human Values",
+       "no": 44,
+       "anchor": "sg-44",
+       "subtopics": [
+        {
+         "title": "Applied Ethics x Environment",
+         "no": 159,
+         "anchor": "st-159",
+         "card_ids": [
+          "GS4-ETHI-0544",
+          "GS4-ETHI-0545",
+          "GS4-ETHI-0546"
+         ],
+         "card_count": 3,
+         "word_count": 189
+        },
+        {
+         "title": "Consequences of Ethics",
+         "no": 160,
+         "anchor": "st-160",
+         "card_ids": [
+          "GS4-ETHI-0547"
+         ],
+         "card_count": 1,
+         "word_count": 153
+        },
+        {
+         "title": "Crisis of Ethical Values",
+         "no": 161,
+         "anchor": "st-161",
+         "card_ids": [
+          "GS4-ETHI-0569",
+          "GS4-ETHI-0570",
+          "GS4-ETHI-0571",
+          "GS4-ETHI-0572"
+         ],
+         "card_count": 4,
+         "word_count": 336
+        },
+        {
+         "title": "Determinants of Ethics",
+         "no": 162,
+         "anchor": "st-162",
+         "card_ids": [
+          "GS4-ETHI-0549",
+          "GS4-ETHI-0550"
+         ],
+         "card_count": 2,
+         "word_count": 211
+        },
+        {
+         "title": "Essence of Ethics",
+         "no": 163,
+         "anchor": "st-163",
+         "card_ids": [
+          "GS4-ETHI-0551",
+          "GS4-ETHI-0552",
+          "GS4-ETHI-0553",
+          "GS4-ETHI-0554",
+          "GS4-ETHI-0555",
+          "GS4-ETHI-0557",
+          "GS4-ETHI-0563"
+         ],
+         "card_count": 7,
+         "word_count": 594
+        },
+        {
+         "title": "Ethics in Private and Public sphere",
+         "no": 164,
+         "anchor": "st-164",
+         "card_ids": [
+          "GS4-ETHI-0559",
+          "GS4-ETHI-0560",
+          "GS4-ETHI-0561"
+         ],
+         "card_count": 3,
+         "word_count": 298
+        },
+        {
+         "title": "Normative Ethics (Deontology vs Teleology)",
+         "no": 165,
+         "anchor": "st-165",
+         "card_ids": [
+          "GS4-ETHI-0564",
+          "GS4-ETHI-0565",
+          "GS4-ETHI-0566",
+          "GS4-ETHI-0567"
+         ],
+         "card_count": 4,
+         "word_count": 310
+        },
+        {
+         "title": "Role of Educational institutions",
+         "no": 166,
+         "anchor": "st-166",
+         "card_ids": [
+          "GS4-ETHI-0573",
+          "GS4-ETHI-0574",
+          "GS4-ETHI-0575",
+          "GS4-ETHI-0576"
+         ],
+         "card_count": 4,
+         "word_count": 380
+        },
+        {
+         "title": "Term Based",
+         "no": 167,
+         "anchor": "st-167",
+         "card_ids": [
+          "GS4-ETHI-0568"
+         ],
+         "card_count": 1,
+         "word_count": 112
+        },
+        {
+         "title": "Value Based Questions",
+         "no": 168,
+         "anchor": "st-168",
+         "card_ids": [
+          "GS4-ETHI-0578",
+          "GS4-ETHI-0579",
+          "GS4-ETHI-0580"
+         ],
+         "card_count": 3,
+         "word_count": 350
+        }
+       ],
+       "card_count": 32,
+       "word_count": 2933
+      },
+      {
+       "title": "Psychology & Foundational Values",
+       "no": 45,
+       "anchor": "sg-45",
+       "subtopics": [
+        {
+         "title": "Attitude for Civil Servants",
+         "no": 169,
+         "anchor": "st-169",
+         "card_ids": [
+          "GS4-ETHI-0617",
+          "GS4-ETHI-0618"
+         ],
+         "card_count": 2,
+         "word_count": 365
+        },
+        {
+         "title": "Attitude for Individuals",
+         "no": 170,
+         "anchor": "st-170",
+         "card_ids": [
+          "GS4-ETHI-0620",
+          "GS4-ETHI-0621",
+          "GS4-ETHI-0622",
+          "GS4-ETHI-0623",
+          "GS4-ETHI-0624"
+         ],
+         "card_count": 5,
+         "word_count": 665
+        },
+        {
+         "title": "EI X Crisis of Conscience",
+         "no": 171,
+         "anchor": "st-171",
+         "card_ids": [
+          "GS4-ETHI-0634"
+         ],
+         "card_count": 1,
+         "word_count": 116
+        },
+        {
+         "title": "EI in Administration",
+         "no": 172,
+         "anchor": "st-172",
+         "card_ids": [
+          "GS4-ETHI-0636",
+          "GS4-ETHI-0637",
+          "GS4-ETHI-0638"
+         ],
+         "card_count": 3,
+         "word_count": 362
+        },
+        {
+         "title": "EI: Concept and utility",
+         "no": 173,
+         "anchor": "st-173",
+         "card_ids": [
+          "GS4-ETHI-0641",
+          "GS4-ETHI-0642",
+          "GS4-ETHI-0643",
+          "GS4-ETHI-0644",
+          "GS4-ETHI-0645",
+          "GS4-ETHI-0646",
+          "GS4-ETHI-0647",
+          "GS4-ETHI-0648",
+          "GS4-ETHI-0653",
+          "GS4-ETHI-0655"
+         ],
+         "card_count": 10,
+         "word_count": 1047
+        },
+        {
+         "title": "EQ vs IQ",
+         "no": 174,
+         "anchor": "st-174",
+         "card_ids": [
+          "GS4-ETHI-0656"
+         ],
+         "card_count": 1,
+         "word_count": 71
+        },
+        {
+         "title": "Empathy and Compassion",
+         "no": 175,
+         "anchor": "st-175",
+         "card_ids": [
+          "GS4-ETHI-0583",
+          "GS4-ETHI-0584",
+          "GS4-ETHI-0585",
+          "GS4-ETHI-0586",
+          "GS4-ETHI-0587",
+          "GS4-ETHI-0588",
+          "GS4-ETHI-0589"
+         ],
+         "card_count": 7,
+         "word_count": 480
+        },
+        {
+         "title": "Foundational values",
+         "no": 176,
+         "anchor": "st-176",
+         "card_ids": [
+          "GS4-ETHI-0590",
+          "GS4-ETHI-0591",
+          "GS4-ETHI-0592",
+          "GS4-ETHI-0594",
+          "GS4-ETHI-0596",
+          "GS4-ETHI-0597",
+          "GS4-ETHI-0599",
+          "GS4-ETHI-0601"
+         ],
+         "card_count": 8,
+         "word_count": 1211
+        },
+        {
+         "title": "Impartiality and Non-Partisanship",
+         "no": 177,
+         "anchor": "st-177",
+         "card_ids": [
+          "GS4-ETHI-0603"
+         ],
+         "card_count": 1,
+         "word_count": 190
+        },
+        {
+         "title": "Integrity",
+         "no": 178,
+         "anchor": "st-178",
+         "card_ids": [
+          "GS4-ETHI-0605",
+          "GS4-ETHI-0606"
+         ],
+         "card_count": 2,
+         "word_count": 380
+        },
+        {
+         "title": "Integrity X Intelligence X Energy",
+         "no": 179,
+         "anchor": "st-179",
+         "card_ids": [
+          "GS4-ETHI-0612"
+         ],
+         "card_count": 1,
+         "word_count": 136
+        },
+        {
+         "title": "Moral and Political Attitude",
+         "no": 180,
+         "anchor": "st-180",
+         "card_ids": [
+          "GS4-ETHI-0626",
+          "GS4-ETHI-0627"
+         ],
+         "card_count": 2,
+         "word_count": 273
+        },
+        {
+         "title": "Social influence and persuasion",
+         "no": 181,
+         "anchor": "st-181",
+         "card_ids": [
+          "GS4-ETHI-0630"
+         ],
+         "card_count": 1,
+         "word_count": 190
+        },
+        {
+         "title": "Trustworthiness and Fortitude",
+         "no": 182,
+         "anchor": "st-182",
+         "card_ids": [
+          "GS4-ETHI-0613",
+          "GS4-ETHI-0615"
+         ],
+         "card_count": 2,
+         "word_count": 409
+        }
+       ],
+       "card_count": 46,
+       "word_count": 5895
+      },
+      {
+       "title": "Moral Thinkers & Leaders",
+       "no": 46,
+       "anchor": "sg-46",
+       "subtopics": [
+        {
+         "title": "A.P.J. Abdul Kalam",
+         "no": 183,
+         "anchor": "st-183",
+         "card_ids": [
+          "GS4-ETHI-0657",
+          "GS4-ETHI-0658"
+         ],
+         "card_count": 2,
+         "word_count": 235
+        },
+        {
+         "title": "Aristotle",
+         "no": 184,
+         "anchor": "st-184",
+         "card_ids": [
+          "GS4-ETHI-0661",
+          "GS4-ETHI-0662"
+         ],
+         "card_count": 2,
+         "word_count": 196
+        },
+        {
+         "title": "Immanuel Kant",
+         "no": 185,
+         "anchor": "st-185",
+         "card_ids": [
+          "GS4-ETHI-0664",
+          "GS4-ETHI-0665"
+         ],
+         "card_count": 2,
+         "word_count": 188
+        },
+        {
+         "title": "John Rawls's concept of social Justice",
+         "no": 186,
+         "anchor": "st-186",
+         "card_ids": [
+          "GS4-ETHI-0669"
+         ],
+         "card_count": 1,
+         "word_count": 75
+        },
+        {
+         "title": "Kautilya",
+         "no": 187,
+         "anchor": "st-187",
+         "card_ids": [
+          "GS4-ETHI-0670"
+         ],
+         "card_count": 1,
+         "word_count": 210
+        },
+        {
+         "title": "Mahatma Gandhi",
+         "no": 188,
+         "anchor": "st-188",
+         "card_ids": [
+          "GS4-ETHI-0673",
+          "GS4-ETHI-0674"
+         ],
+         "card_count": 2,
+         "word_count": 264
+        },
+        {
+         "title": "Plato",
+         "no": 189,
+         "anchor": "st-189",
+         "card_ids": [
+          "GS4-ETHI-0680"
+         ],
+         "card_count": 1,
+         "word_count": 125
+        },
+        {
+         "title": "Socrates",
+         "no": 190,
+         "anchor": "st-190",
+         "card_ids": [
+          "GS4-ETHI-0685"
+         ],
+         "card_count": 1,
+         "word_count": 108
+        },
+        {
+         "title": "Swami Vivekananda",
+         "no": 191,
+         "anchor": "st-191",
+         "card_ids": [
+          "GS4-ETHI-0686",
+          "GS4-ETHI-0687"
+         ],
+         "card_count": 2,
+         "word_count": 204
+        },
+        {
+         "title": "Teachings of Great Leaders",
+         "no": 192,
+         "anchor": "st-192",
+         "card_ids": [
+          "GS4-ETHI-0690",
+          "GS4-ETHI-0691",
+          "GS4-ETHI-0692",
+          "GS4-ETHI-0693",
+          "GS4-ETHI-0694",
+          "GS4-ETHI-0695",
+          "GS4-ETHI-0696",
+          "GS4-ETHI-0697",
+          "GS4-ETHI-0698",
+          "GS4-ETHI-0699",
+          "GS4-ETHI-0700",
+          "GS4-ETHI-0701",
+          "GS4-ETHI-0702",
+          "GS4-ETHI-0703",
+          "GS4-ETHI-0704",
+          "GS4-ETHI-0705",
+          "GS4-ETHI-0706",
+          "GS4-ETHI-0707",
+          "GS4-ETHI-0708",
+          "GS4-ETHI-0709",
+          "GS4-ETHI-0710",
+          "GS4-ETHI-0711",
+          "GS4-ETHI-0712",
+          "GS4-ETHI-0713",
+          "GS4-ETHI-0714",
+          "GS4-ETHI-0716",
+          "GS4-ETHI-0717",
+          "GS4-ETHI-0718",
+          "GS4-ETHI-0719"
+         ],
+         "card_count": 29,
+         "word_count": 2452
+        }
+       ],
+       "card_count": 43,
+       "word_count": 4057
+      },
+      {
+       "title": "Governance & Probity",
+       "no": 47,
+       "anchor": "sg-47",
+       "subtopics": [
+        {
+         "title": "Accountability and Ethical Governance",
+         "no": 193,
+         "anchor": "st-193",
+         "card_ids": [
+          "GS4-ETHI-0757",
+          "GS4-ETHI-0758"
+         ],
+         "card_count": 2,
+         "word_count": 224
+        },
+        {
+         "title": "Challenges of Corruption",
+         "no": 194,
+         "anchor": "st-194",
+         "card_ids": [
+          "GS4-ETHI-0721",
+          "GS4-ETHI-0723",
+          "GS4-ETHI-0724",
+          "GS4-ETHI-0725",
+          "GS4-ETHI-0726",
+          "GS4-ETHI-0728",
+          "GS4-ETHI-0729"
+         ],
+         "card_count": 7,
+         "word_count": 683
+        },
+        {
+         "title": "Citizen's Charter",
+         "no": 195,
+         "anchor": "st-195",
+         "card_ids": [
+          "GS4-ETHI-0731"
+         ],
+         "card_count": 1,
+         "word_count": 121
+        },
+        {
+         "title": "Codes of Ethics and Codes of Conduct",
+         "no": 196,
+         "anchor": "st-196",
+         "card_ids": [
+          "GS4-ETHI-0732",
+          "GS4-ETHI-0733",
+          "GS4-ETHI-0735"
+         ],
+         "card_count": 3,
+         "word_count": 354
+        },
+        {
+         "title": "Conflict of Interest",
+         "no": 197,
+         "anchor": "st-197",
+         "card_ids": [
+          "GS4-ETHI-0762"
+         ],
+         "card_count": 1,
+         "word_count": 194
+        },
+        {
+         "title": "Corporate Governance",
+         "no": 198,
+         "anchor": "st-198",
+         "card_ids": [
+          "GS4-ETHI-0765"
+         ],
+         "card_count": 1,
+         "word_count": 184
+        },
+        {
+         "title": "Ethical Issues in International Relations and Funding",
+         "no": 199,
+         "anchor": "st-199",
+         "card_ids": [
+          "GS4-ETHI-0770"
+         ],
+         "card_count": 1,
+         "word_count": 239
+        },
+        {
+         "title": "Laws, Rules, Regulations and Conscience as Ethical Guidance",
+         "no": 200,
+         "anchor": "st-200",
+         "card_ids": [
+          "GS4-ETHI-0777"
+         ],
+         "card_count": 1,
+         "word_count": 299
+        },
+        {
+         "title": "Probity in Governance",
+         "no": 201,
+         "anchor": "st-201",
+         "card_ids": [
+          "GS4-ETHI-0736",
+          "GS4-ETHI-0737"
+         ],
+         "card_count": 2,
+         "word_count": 252
+        },
+        {
+         "title": "Public/Civil Service Values",
+         "no": 202,
+         "anchor": "st-202",
+         "card_ids": [
+          "GS4-ETHI-0783"
+         ],
+         "card_count": 1,
+         "word_count": 167
+        },
+        {
+         "title": "Quality of Service Delivery",
+         "no": 203,
+         "anchor": "st-203",
+         "card_ids": [
+          "GS4-ETHI-0739"
+         ],
+         "card_count": 1,
+         "word_count": 124
+        },
+        {
+         "title": "Transparency X RTI",
+         "no": 204,
+         "anchor": "st-204",
+         "card_ids": [
+          "GS4-ETHI-0741",
+          "GS4-ETHI-0742"
+         ],
+         "card_count": 2,
+         "word_count": 351
+        },
+        {
+         "title": "Utilization of Public Funds",
+         "no": 205,
+         "anchor": "st-205",
+         "card_ids": [
+          "GS4-ETHI-0748"
+         ],
+         "card_count": 1,
+         "word_count": 84
+        },
+        {
+         "title": "Work Culture",
+         "no": 206,
+         "anchor": "st-206",
+         "card_ids": [
+          "GS4-ETHI-0749"
+         ],
+         "card_count": 1,
+         "word_count": 208
+        }
+       ],
+       "card_count": 25,
+       "word_count": 3484
+      },
+      {
+       "title": "Applied Ethics",
+       "no": 48,
+       "anchor": "sg-48",
+       "subtopics": [
+        {
+         "title": "Gender Equality & Sexual Harassment",
+         "no": 207,
+         "anchor": "st-207",
+         "card_ids": [
+          "GS4-ETHI-0787"
+         ],
+         "card_count": 1,
+         "word_count": 117
+        },
+        {
+         "title": "International Relations & National Security",
+         "no": 208,
+         "anchor": "st-208",
+         "card_ids": [
+          "GS4-ETHI-0788"
+         ],
+         "card_count": 1,
+         "word_count": 95
+        },
+        {
+         "title": "Resource Management",
+         "no": 209,
+         "anchor": "st-209",
+         "card_ids": [
+          "GS4-ETHI-0789"
+         ],
+         "card_count": 1,
+         "word_count": 91
+        }
+       ],
+       "card_count": 3,
+       "word_count": 303
+      }
+     ],
+     "card_count": 149,
+     "word_count": 16672,
+     "est_sheets": 41
+    }
+   ],
+   "card_count": 149,
+   "word_count": 16672
+  }
+ ],
+ "chapters_flat": [
+  {
+   "chapter_no": 1,
+   "paper": "GS-1",
+   "subject": "HISTORY",
+   "display": "History",
+   "src_file": "ch01_history.html",
+   "anchor": "ch-1",
+   "sections": [
+    {
+     "no": 1,
+     "title": "Art and Culture",
+     "anchor": "sg-1",
+     "subtopics": [
+      {
+       "no": 1,
+       "title": "Bhakti and Sufi movement",
+       "anchor": "st-1",
+       "cards": [
+        "GS1-HIST-0001",
+        "GS1-HIST-0002"
+       ]
+      },
+      {
+       "no": 2,
+       "title": "Buddhism",
+       "anchor": "st-2",
+       "cards": [
+        "GS1-HIST-0003"
+       ]
+      },
+      {
+       "no": 3,
+       "title": "Civilizations & Highlights",
+       "anchor": "st-3",
+       "cards": [
+        "GS1-HIST-0005",
+        "GS1-HIST-0006"
+       ]
+      },
+      {
+       "no": 4,
+       "title": "Conservation of Indian Art & Heritage",
+       "anchor": "st-4",
+       "cards": [
+        "GS1-HIST-0007",
+        "GS1-HIST-0009",
+        "GS1-HIST-0010",
+        "GS1-HIST-0011",
+        "GS1-HIST-0012",
+        "GS1-HIST-0013",
+        "GS1-HIST-0014",
+        "GS1-HIST-0015",
+        "GS1-HIST-0016",
+        "GS1-HIST-0017",
+        "GS1-HIST-0018",
+        "GS1-HIST-0019",
+        "GS1-HIST-0031"
+       ]
+      },
+      {
+       "no": 5,
+       "title": "Dance forms",
+       "anchor": "st-5",
+       "cards": [
+        "GS1-HIST-0021",
+        "GS1-HIST-0022",
+        "GS1-HIST-0030"
+       ]
+      },
+      {
+       "no": 6,
+       "title": "Indian Philosophy",
+       "anchor": "st-6",
+       "cards": [
+        "GS1-HIST-0029"
+       ]
+      },
+      {
+       "no": 7,
+       "title": "Kingdoms & Highlights",
+       "anchor": "st-7",
+       "cards": [
+        "GS1-HIST-0032",
+        "GS1-HIST-0033",
+        "GS1-HIST-0034",
+        "GS1-HIST-0035",
+        "GS1-HIST-0036"
+       ]
+      },
+      {
+       "no": 8,
+       "title": "Literature as Historical Sources",
+       "anchor": "st-8",
+       "cards": [
+        "GS1-HIST-0042"
+       ]
+      },
+      {
+       "no": 9,
+       "title": "Sculptures and Significance",
+       "anchor": "st-9",
+       "cards": [
+        "GS1-HIST-0043"
+       ]
+      }
+     ]
+    },
+    {
+     "no": 2,
+     "title": "Modern History",
+     "anchor": "sg-2",
+     "subtopics": [
+      {
+       "no": 10,
+       "title": "Acts and their Features",
+       "anchor": "st-10",
+       "cards": [
+        "GS1-HIST-0044"
+       ]
+      },
+      {
+       "no": 11,
+       "title": "Colonial rule and impact",
+       "anchor": "st-11",
+       "cards": [
+        "GS1-HIST-0061",
+        "GS1-HIST-0062",
+        "GS1-HIST-0063",
+        "GS1-HIST-0064",
+        "GS1-HIST-0065",
+        "GS1-HIST-0066"
+       ]
+      },
+      {
+       "no": 12,
+       "title": "Gandhi X Indian Leaders of Freedom Struggle",
+       "anchor": "st-12",
+       "cards": [
+        "GS1-HIST-0071",
+        "GS1-HIST-0072"
+       ]
+      },
+      {
+       "no": 13,
+       "title": "Important contributors/contribution",
+       "anchor": "st-13",
+       "cards": [
+        "GS1-HIST-0046"
+       ]
+      },
+      {
+       "no": 14,
+       "title": "Revolt and Mutiny",
+       "anchor": "st-14",
+       "cards": [
+        "GS1-HIST-0073"
+       ]
+      },
+      {
+       "no": 15,
+       "title": "Socio-religious reform",
+       "anchor": "st-15",
+       "cards": [
+        "GS1-HIST-0074",
+        "GS1-HIST-0075"
+       ]
+      },
+      {
+       "no": 16,
+       "title": "Various stages of Freedom struggle",
+       "anchor": "st-16",
+       "cards": [
+        "GS1-HIST-0051",
+        "GS1-HIST-0052",
+        "GS1-HIST-0053",
+        "GS1-HIST-0054",
+        "GS1-HIST-0055",
+        "GS1-HIST-0056"
+       ]
+      },
+      {
+       "no": 17,
+       "title": "Viceroy and their Administration",
+       "anchor": "st-17",
+       "cards": [
+        "GS1-HIST-0076"
+       ]
+      }
+     ]
+    },
+    {
+     "no": 3,
+     "title": "Post Independence",
+     "anchor": "sg-3",
+     "subtopics": [
+      {
+       "no": 18,
+       "title": "Consolidation after Independence",
+       "anchor": "st-18",
+       "cards": [
+        "GS1-HIST-0078",
+        "GS1-HIST-0079"
+       ]
+      },
+      {
+       "no": 19,
+       "title": "States Reorganisation",
+       "anchor": "st-19",
+       "cards": [
+        "GS1-HIST-0080"
+       ]
+      }
+     ]
+    },
+    {
+     "no": 4,
+     "title": "World History",
+     "anchor": "sg-4",
+     "subtopics": [
+      {
+       "no": 20,
+       "title": "Miscellaneous",
+       "anchor": "st-20",
+       "cards": [
+        "GS1-HIST-0083"
+       ]
+      },
+      {
+       "no": 21,
+       "title": "World wars",
+       "anchor": "st-21",
+       "cards": [
+        "GS1-HIST-0085"
+       ]
+      }
+     ]
+    }
+   ],
+   "card_count": 54,
+   "word_count": 7885,
+   "est_sheets": 20
+  },
+  {
+   "chapter_no": 2,
+   "paper": "GS-1",
+   "subject": "GEOGRAPHY",
+   "display": "Geography",
+   "src_file": "ch02_geography.html",
+   "anchor": "ch-2",
+   "sections": [
+    {
+     "no": 5,
+     "title": "Economic & Resource Geography",
+     "anchor": "sg-5",
+     "subtopics": [
+      {
+       "no": 22,
+       "title": "Energy",
+       "anchor": "st-22",
+       "cards": [
+        "GS1-GEOG-0106",
+        "GS1-GEOG-0108",
+        "GS1-GEOG-0109",
+        "GS1-GEOG-0110",
+        "GS1-GEOG-0111",
+        "GS1-GEOG-0112",
+        "GS1-GEOG-0113",
+        "GS1-GEOG-0114",
+        "GS1-GEOG-0115"
+       ]
+      },
+      {
+       "no": 23,
+       "title": "Land use planning",
+       "anchor": "st-23",
+       "cards": [
+        "GS1-GEOG-0132"
+       ]
+      },
+      {
+       "no": 24,
+       "title": "Natural resources Potential",
+       "anchor": "st-24",
+       "cards": [
+        "GS1-GEOG-0121",
+        "GS1-GEOG-0122",
+        "GS1-GEOG-0123",
+        "GS1-GEOG-0124",
+        "GS1-GEOG-0125",
+        "GS1-GEOG-0126",
+        "GS1-GEOG-0127",
+        "GS1-GEOG-0128"
+       ]
+      }
+     ]
+    },
+    {
+     "no": 6,
+     "title": "Environmental Geography & Climate Dynamics",
+     "anchor": "sg-6",
+     "subtopics": [
+      {
+       "no": 25,
+       "title": "Climate change",
+       "anchor": "st-25",
+       "cards": [
+        "GS1-GEOG-0134"
+       ]
+      }
+     ]
+    },
+    {
+     "no": 7,
+     "title": "Physical Geography & Geophysical Phenomena",
+     "anchor": "sg-7",
+     "subtopics": [
+      {
+       "no": 26,
+       "title": "Climatology",
+       "anchor": "st-26",
+       "cards": [
+        "GS1-GEOG-0140",
+        "GS1-GEOG-0141"
+       ]
+      },
+      {
+       "no": 27,
+       "title": "Geomorphology",
+       "anchor": "st-27",
+       "cards": [
+        "GS1-GEOG-0143",
+        "GS1-GEOG-0144",
+        "GS1-GEOG-0145"
+       ]
+      },
+      {
+       "no": 28,
+       "title": "Monsoon",
+       "anchor": "st-28",
+       "cards": [
+        "GS1-GEOG-0146",
+        "GS1-GEOG-0147",
+        "GS1-GEOG-0148"
+       ]
+      },
+      {
+       "no": 29,
+       "title": "Oceanography",
+       "anchor": "st-29",
+       "cards": [
+        "GS1-GEOG-0149",
+        "GS1-GEOG-0150",
+        "GS1-GEOG-0151",
+        "GS1-GEOG-0152"
+       ]
+      },
+      {
+       "no": 30,
+       "title": "Volcanic activity",
+       "anchor": "st-30",
+       "cards": [
+        "GS1-GEOG-0135",
+        "GS1-GEOG-0136"
+       ]
+      }
+     ]
+    }
+   ],
+   "card_count": 33,
+   "word_count": 4099,
+   "est_sheets": 11
+  },
+  {
+   "chapter_no": 3,
+   "paper": "GS-1",
+   "subject": "SOCIETY",
+   "display": "Society",
+   "src_file": "ch03_society.html",
+   "anchor": "ch-3",
+   "sections": [
+    {
+     "no": 8,
+     "title": "Foundations & Diversity",
+     "anchor": "sg-8",
+     "subtopics": [
+      {
+       "no": 31,
+       "title": "Diversity and pluralism",
+       "anchor": "st-31",
+       "cards": [
+        "GS1-SOCI-0087"
+       ]
+      },
+      {
+       "no": 32,
+       "title": "Tribes & Related Issues",
+       "anchor": "st-32",
+       "cards": [
+        "GS1-SOCI-0088"
+       ]
+      },
+      {
+       "no": 33,
+       "title": "Uniqueness of Indian society",
+       "anchor": "st-33",
+       "cards": [
+        "GS1-SOCI-0089"
+       ]
+      }
+     ]
+    },
+    {
+     "no": 9,
+     "title": "Gender & Demographics",
+     "anchor": "sg-9",
+     "subtopics": [
+      {
+       "no": 34,
+       "title": "Population and associated issues",
+       "anchor": "st-34",
+       "cards": [
+        "GS1-SOCI-0091"
+       ]
+      },
+      {
+       "no": 35,
+       "title": "Women and Associated concerns",
+       "anchor": "st-35",
+       "cards": [
+        "GS1-SOCI-0092",
+        "GS1-SOCI-0093"
+       ]
+      }
+     ]
+    },
+    {
+     "no": 10,
+     "title": "Poverty, Empowerment & Development",
+     "anchor": "sg-10",
+     "subtopics": [
+      {
+       "no": 36,
+       "title": "Poverty and Related issues",
+       "anchor": "st-36",
+       "cards": [
+        "GS1-SOCI-0094"
+       ]
+      }
+     ]
+    },
+    {
+     "no": 11,
+     "title": "Social Dynamics & Ideologies",
+     "anchor": "sg-11",
+     "subtopics": [
+      {
+       "no": 37,
+       "title": "Globalisation",
+       "anchor": "st-37",
+       "cards": [
+        "GS1-SOCI-0095",
+        "GS1-SOCI-0097"
+       ]
+      },
+      {
+       "no": 38,
+       "title": "Regionalism",
+       "anchor": "st-38",
+       "cards": [
+        "GS1-SOCI-0101"
+       ]
+      }
+     ]
+    },
+    {
+     "no": 12,
+     "title": "Urbanisation",
+     "anchor": "sg-12",
+     "subtopics": [
+      {
+       "no": 39,
+       "title": "Emerging Urbanisation Trends",
+       "anchor": "st-39",
+       "cards": [
+        "GS1-SOCI-0104"
+       ]
+      }
+     ]
+    }
+   ],
+   "card_count": 11,
+   "word_count": 1836,
+   "est_sheets": 5
+  },
+  {
+   "chapter_no": 4,
+   "paper": "GS-2",
+   "subject": "POLITY",
+   "display": "Polity",
+   "src_file": "ch04_polity.html",
+   "anchor": "ch-4",
+   "sections": [
+    {
+     "no": 13,
+     "title": "Constitutional Framework & Evolution",
+     "anchor": "sg-13",
+     "subtopics": [
+      {
+       "no": 40,
+       "title": "Constitutional Morality",
+       "anchor": "st-40",
+       "cards": [
+        "GS2-POLI-0161",
+        "GS2-POLI-0558"
+       ]
+      },
+      {
+       "no": 41,
+       "title": "DPSP",
+       "anchor": "st-41",
+       "cards": [
+        "GS2-POLI-0162",
+        "GS2-POLI-0171"
+       ]
+      },
+      {
+       "no": 42,
+       "title": "Fundamental Rights",
+       "anchor": "st-42",
+       "cards": [
+        "GS2-POLI-0163",
+        "GS2-POLI-0164",
+        "GS2-POLI-0165",
+        "GS2-POLI-0166",
+        "GS2-POLI-0167",
+        "GS2-POLI-0168",
+        "GS2-POLI-0169",
+        "GS2-POLI-0170",
+        "GS2-POLI-0172",
+        "GS2-POLI-0173"
+       ]
+      },
+      {
+       "no": 43,
+       "title": "Making of the Constitution",
+       "anchor": "st-43",
+       "cards": [
+        "GS2-POLI-0174"
+       ]
+      }
+     ]
+    },
+    {
+     "no": 14,
+     "title": "Elections & Political Dynamics",
+     "anchor": "sg-14",
+     "subtopics": [
+      {
+       "no": 44,
+       "title": "Electoral reforms",
+       "anchor": "st-44",
+       "cards": [
+        "GS2-POLI-0176",
+        "GS2-POLI-0177",
+        "GS2-POLI-0180"
+       ]
+      },
+      {
+       "no": 45,
+       "title": "Political Parties",
+       "anchor": "st-45",
+       "cards": [
+        "GS2-POLI-0183"
+       ]
+      }
+     ]
+    },
+    {
+     "no": 15,
+     "title": "Federal Structure & Local Governance",
+     "anchor": "sg-15",
+     "subtopics": [
+      {
+       "no": 46,
+       "title": "Emergency",
+       "anchor": "st-46",
+       "cards": [
+        "GS2-POLI-0188"
+       ]
+      },
+      {
+       "no": 47,
+       "title": "Federalism",
+       "anchor": "st-47",
+       "cards": [
+        "GS2-POLI-0190"
+       ]
+      },
+      {
+       "no": 48,
+       "title": "Local Self Government",
+       "anchor": "st-48",
+       "cards": [
+        "GS2-POLI-0187"
+       ]
+      },
+      {
+       "no": 49,
+       "title": "Union Territory",
+       "anchor": "st-49",
+       "cards": [
+        "GS2-POLI-0191"
+       ]
+      }
+     ]
+    },
+    {
+     "no": 16,
+     "title": "Organs of Government & Dispute Redressal",
+     "anchor": "sg-16",
+     "subtopics": [
+      {
+       "no": 50,
+       "title": "Bicameralism",
+       "anchor": "st-50",
+       "cards": [
+        "GS2-POLI-0193",
+        "GS2-POLI-0194"
+       ]
+      },
+      {
+       "no": 51,
+       "title": "Executive Vs Judiciary",
+       "anchor": "st-51",
+       "cards": [
+        "GS2-POLI-0203"
+       ]
+      },
+      {
+       "no": 52,
+       "title": "Judiciary",
+       "anchor": "st-52",
+       "cards": [
+        "GS2-POLI-0210",
+        "GS2-POLI-0212",
+        "GS2-POLI-0213",
+        "GS2-POLI-0214",
+        "GS2-POLI-0217",
+        "GS2-POLI-0218",
+        "GS2-POLI-0219",
+        "GS2-POLI-0220"
+       ]
+      },
+      {
+       "no": 53,
+       "title": "Parliamentary Committees",
+       "anchor": "st-53",
+       "cards": [
+        "GS2-POLI-0195"
+       ]
+      },
+      {
+       "no": 54,
+       "title": "Parliamentary Privileges",
+       "anchor": "st-54",
+       "cards": [
+        "GS2-POLI-0196"
+       ]
+      },
+      {
+       "no": 55,
+       "title": "Presiding Officers",
+       "anchor": "st-55",
+       "cards": [
+        "GS2-POLI-0197"
+       ]
+      },
+      {
+       "no": 56,
+       "title": "Pressure Groups",
+       "anchor": "st-56",
+       "cards": [
+        "GS2-POLI-0202"
+       ]
+      },
+      {
+       "no": 57,
+       "title": "Role of MPs",
+       "anchor": "st-57",
+       "cards": [
+        "GS2-POLI-0198"
+       ]
+      },
+      {
+       "no": 58,
+       "title": "Separation of Powers",
+       "anchor": "st-58",
+       "cards": [
+        "GS2-POLI-0204"
+       ]
+      },
+      {
+       "no": 59,
+       "title": "Union Executive",
+       "anchor": "st-59",
+       "cards": [
+        "GS2-POLI-0206",
+        "GS2-POLI-0207",
+        "GS2-POLI-0208"
+       ]
+      }
+     ]
+    }
+   ],
+   "card_count": 43,
+   "word_count": 4744,
+   "est_sheets": 12
+  },
+  {
+   "chapter_no": 5,
+   "paper": "GS-2",
+   "subject": "GOVERNANCE",
+   "display": "Governance",
+   "src_file": "ch05_governance.html",
+   "anchor": "ch-5",
+   "sections": [
+    {
+     "no": 17,
+     "title": "Accountability & Civil Services",
+     "anchor": "sg-17",
+     "subtopics": [
+      {
+       "no": 60,
+       "title": "Citizens Charter",
+       "anchor": "st-60",
+       "cards": [
+        "GS2-GOVE-0227"
+       ]
+      },
+      {
+       "no": 61,
+       "title": "E-governance",
+       "anchor": "st-61",
+       "cards": [
+        "GS2-GOVE-0221",
+        "GS2-GOVE-0222",
+        "GS2-GOVE-0223",
+        "GS2-GOVE-0224"
+       ]
+      },
+      {
+       "no": 62,
+       "title": "Transparency and Accountability",
+       "anchor": "st-62",
+       "cards": [
+        "GS2-GOVE-0228",
+        "GS2-GOVE-0232"
+       ]
+      }
+     ]
+    },
+    {
+     "no": 18,
+     "title": "Constitutional & Regulatory Bodies",
+     "anchor": "sg-18",
+     "subtopics": [
+      {
+       "no": 63,
+       "title": "Constitutional Bodies",
+       "anchor": "st-63",
+       "cards": [
+        "GS2-GOVE-0234",
+        "GS2-GOVE-0235",
+        "GS2-GOVE-0236",
+        "GS2-GOVE-0238",
+        "GS2-GOVE-0239",
+        "GS2-GOVE-0240",
+        "GS2-GOVE-0241"
+       ]
+      },
+      {
+       "no": 64,
+       "title": "Enforcement Agencies",
+       "anchor": "st-64",
+       "cards": [
+        "GS2-GOVE-0242",
+        "GS2-GOVE-0243"
+       ]
+      },
+      {
+       "no": 65,
+       "title": "Quasi judicial Bodies",
+       "anchor": "st-65",
+       "cards": [
+        "GS2-GOVE-0244",
+        "GS2-GOVE-0246"
+       ]
+      },
+      {
+       "no": 66,
+       "title": "Statutory Bodies",
+       "anchor": "st-66",
+       "cards": [
+        "GS2-GOVE-0247",
+        "GS2-GOVE-0248",
+        "GS2-GOVE-0249",
+        "GS2-GOVE-0250",
+        "GS2-GOVE-0251"
+       ]
+      }
+     ]
+    },
+    {
+     "no": 19,
+     "title": "Development Processes & Policies",
+     "anchor": "sg-19",
+     "subtopics": [
+      {
+       "no": 67,
+       "title": "Civil Society",
+       "anchor": "st-67",
+       "cards": [
+        "GS2-GOVE-0258",
+        "GS2-GOVE-0259",
+        "GS2-GOVE-0261"
+       ]
+      },
+      {
+       "no": 68,
+       "title": "Donor Agencies",
+       "anchor": "st-68",
+       "cards": [
+        "GS2-GOVE-0270",
+        "GS2-GOVE-0271"
+       ]
+      },
+      {
+       "no": 69,
+       "title": "Government Schemes and Policies",
+       "anchor": "st-69",
+       "cards": [
+        "GS2-GOVE-0262",
+        "GS2-GOVE-0264",
+        "GS2-GOVE-0265"
+       ]
+      },
+      {
+       "no": 70,
+       "title": "SHGs",
+       "anchor": "st-70",
+       "cards": [
+        "GS2-GOVE-0269"
+       ]
+      }
+     ]
+    }
+   ],
+   "card_count": 32,
+   "word_count": 4436,
+   "est_sheets": 12
+  },
+  {
+   "chapter_no": 6,
+   "paper": "GS-2",
+   "subject": "INTERNATIONAL RELATIONS",
+   "display": "International Relations",
+   "src_file": "ch06_ir.html",
+   "anchor": "ch-6",
+   "sections": [
+    {
+     "no": 20,
+     "title": "Global Geopolitics & Indian Diaspora",
+     "anchor": "sg-20",
+     "subtopics": [
+      {
+       "no": 71,
+       "title": "Geo-politics affecting India's Interest",
+       "anchor": "st-71",
+       "cards": [
+        "GS2-INTE-0296",
+        "GS2-INTE-0298",
+        "GS2-INTE-0299",
+        "GS2-INTE-0300",
+        "GS2-INTE-0302",
+        "GS2-INTE-0303"
+       ]
+      },
+      {
+       "no": 72,
+       "title": "Groupings beyond South Asia",
+       "anchor": "st-72",
+       "cards": [
+        "GS2-INTE-0307",
+        "GS2-INTE-0308",
+        "GS2-INTE-0309",
+        "GS2-INTE-0310",
+        "GS2-INTE-0311",
+        "GS2-INTE-0312"
+       ]
+      },
+      {
+       "no": 73,
+       "title": "Groupings involving Immediate and Extended neighbours",
+       "anchor": "st-73",
+       "cards": [
+        "GS2-INTE-0313",
+        "GS2-INTE-0314"
+       ]
+      },
+      {
+       "no": 74,
+       "title": "Indian Diaspora",
+       "anchor": "st-74",
+       "cards": [
+        "GS2-INTE-0315",
+        "GS2-INTE-0316"
+       ]
+      }
+     ]
+    },
+    {
+     "no": 21,
+     "title": "International Organizations",
+     "anchor": "sg-21",
+     "subtopics": [
+      {
+       "no": 75,
+       "title": "United Nations and its Agencies",
+       "anchor": "st-75",
+       "cards": [
+        "GS2-INTE-0317",
+        "GS2-INTE-0318"
+       ]
+      }
+     ]
+    },
+    {
+     "no": 22,
+     "title": "Neighborhood & Bilateral Engagements",
+     "anchor": "sg-22",
+     "subtopics": [
+      {
+       "no": 76,
+       "title": "Neighbourhood",
+       "anchor": "st-76",
+       "cards": [
+        "GS2-INTE-0321",
+        "GS2-INTE-0322",
+        "GS2-INTE-0323",
+        "GS2-INTE-0324",
+        "GS2-INTE-0325",
+        "GS2-INTE-0326",
+        "GS2-INTE-0327",
+        "GS2-INTE-0328"
+       ]
+      }
+     ]
+    }
+   ],
+   "card_count": 26,
+   "word_count": 4111,
+   "est_sheets": 11
+  },
+  {
+   "chapter_no": 7,
+   "paper": "GS-2",
+   "subject": "SOCIAL JUSTICE",
+   "display": "Social Justice",
+   "src_file": "ch07_social-justice.html",
+   "anchor": "ch-7",
+   "sections": [
+    {
+     "no": 23,
+     "title": "Poverty & Hunger",
+     "anchor": "sg-23",
+     "subtopics": [
+      {
+       "no": 77,
+       "title": "Hunger",
+       "anchor": "st-77",
+       "cards": [
+        "GS2-SOCI-0273"
+       ]
+      },
+      {
+       "no": 78,
+       "title": "Poverty",
+       "anchor": "st-78",
+       "cards": [
+        "GS2-SOCI-0276",
+        "GS2-SOCI-0277"
+       ]
+      }
+     ]
+    },
+    {
+     "no": 24,
+     "title": "Social Sector & Human Development",
+     "anchor": "sg-24",
+     "subtopics": [
+      {
+       "no": 79,
+       "title": "Education",
+       "anchor": "st-79",
+       "cards": [
+        "GS2-SOCI-0278",
+        "GS2-SOCI-0279"
+       ]
+      },
+      {
+       "no": 80,
+       "title": "Health",
+       "anchor": "st-80",
+       "cards": [
+        "GS2-SOCI-0280",
+        "GS2-SOCI-0281"
+       ]
+      },
+      {
+       "no": 81,
+       "title": "Miscellaneous (Social Sector)",
+       "anchor": "st-81",
+       "cards": [
+        "GS2-SOCI-0283",
+        "GS2-SOCI-0284"
+       ]
+      }
+     ]
+    },
+    {
+     "no": 25,
+     "title": "Vulnerable Sections & Welfare",
+     "anchor": "sg-25",
+     "subtopics": [
+      {
+       "no": 82,
+       "title": "Children",
+       "anchor": "st-82",
+       "cards": [
+        "GS2-SOCI-0285"
+       ]
+      },
+      {
+       "no": 83,
+       "title": "Disabled",
+       "anchor": "st-83",
+       "cards": [
+        "GS2-SOCI-0286"
+       ]
+      },
+      {
+       "no": 84,
+       "title": "Efficacy of Welfare and Development Schemes",
+       "anchor": "st-84",
+       "cards": [
+        "GS2-SOCI-0288",
+        "GS2-SOCI-0290",
+        "GS2-SOCI-0291",
+        "GS2-SOCI-0292"
+       ]
+      }
+     ]
+    }
+   ],
+   "card_count": 15,
+   "word_count": 2127,
+   "est_sheets": 6
+  },
+  {
+   "chapter_no": 8,
+   "paper": "GS-3",
+   "subject": "INDIAN ECONOMY",
+   "display": "Indian Economy",
+   "src_file": "ch08_economy.html",
+   "anchor": "ch-8",
+   "sections": [
+    {
+     "no": 26,
+     "title": "Industrial Dynamics & Reforms",
+     "anchor": "sg-26",
+     "subtopics": [
+      {
+       "no": 85,
+       "title": "FDI",
+       "anchor": "st-85",
+       "cards": [
+        "GS3-INDI-0329",
+        "GS3-INDI-0330"
+       ]
+      },
+      {
+       "no": 86,
+       "title": "LPG Reform and Impact",
+       "anchor": "st-86",
+       "cards": [
+        "GS3-INDI-0331",
+        "GS3-INDI-0332"
+       ]
+      }
+     ]
+    },
+    {
+     "no": 27,
+     "title": "Macroeconomics & Fiscal Policy",
+     "anchor": "sg-27",
+     "subtopics": [
+      {
+       "no": 87,
+       "title": "Current Budget",
+       "anchor": "st-87",
+       "cards": [
+        "GS3-INDI-0334"
+       ]
+      },
+      {
+       "no": 88,
+       "title": "Economic Growth",
+       "anchor": "st-88",
+       "cards": [
+        "GS3-INDI-0343"
+       ]
+      },
+      {
+       "no": 89,
+       "title": "Fiscal Policy",
+       "anchor": "st-89",
+       "cards": [
+        "GS3-INDI-0335",
+        "GS3-INDI-0336",
+        "GS3-INDI-0337"
+       ]
+      },
+      {
+       "no": 90,
+       "title": "Inclusive Growth",
+       "anchor": "st-90",
+       "cards": [
+        "GS3-INDI-0338"
+       ]
+      },
+      {
+       "no": 91,
+       "title": "Inclusive Growth X Sustainable Development",
+       "anchor": "st-91",
+       "cards": [
+        "GS3-INDI-0339"
+       ]
+      },
+      {
+       "no": 92,
+       "title": "Investment",
+       "anchor": "st-92",
+       "cards": [
+        "GS3-INDI-0340"
+       ]
+      },
+      {
+       "no": 93,
+       "title": "Manufacturing Sector",
+       "anchor": "st-93",
+       "cards": [
+        "GS3-INDI-0344",
+        "GS3-INDI-0345"
+       ]
+      },
+      {
+       "no": 94,
+       "title": "Niti Aayog X Planning Commission",
+       "anchor": "st-94",
+       "cards": [
+        "GS3-INDI-0342"
+       ]
+      }
+     ]
+    },
+    {
+     "no": 28,
+     "title": "Physical Infrastructure & Capital",
+     "anchor": "sg-28",
+     "subtopics": [
+      {
+       "no": 95,
+       "title": "Airports X Infrastructure",
+       "anchor": "st-95",
+       "cards": [
+        "GS3-INDI-0348"
+       ]
+      },
+      {
+       "no": 96,
+       "title": "PPP X Infrastructure",
+       "anchor": "st-96",
+       "cards": [
+        "GS3-INDI-0347"
+       ]
+      },
+      {
+       "no": 97,
+       "title": "Renewable Energy",
+       "anchor": "st-97",
+       "cards": [
+        "GS3-INDI-0349",
+        "GS3-INDI-0350",
+        "GS3-INDI-0351",
+        "GS3-INDI-0352",
+        "GS3-INDI-0353",
+        "GS3-INDI-0354",
+        "GS3-INDI-0355",
+        "GS3-INDI-0356"
+       ]
+      },
+      {
+       "no": 98,
+       "title": "Transport",
+       "anchor": "st-98",
+       "cards": [
+        "GS3-INDI-0357",
+        "GS3-INDI-0358",
+        "GS3-INDI-0359"
+       ]
+      }
+     ]
+    }
+   ],
+   "card_count": 28,
+   "word_count": 2902,
+   "est_sheets": 8
+  },
+  {
+   "chapter_no": 9,
+   "paper": "GS-3",
+   "subject": "INTERNAL SECURITY",
+   "display": "Internal Security",
+   "src_file": "ch09_security.html",
+   "anchor": "ch-9",
+   "sections": [
+    {
+     "no": 29,
+     "title": "Border Management & Organized Crime",
+     "anchor": "sg-29",
+     "subtopics": [
+      {
+       "no": 99,
+       "title": "Border Area Management",
+       "anchor": "st-99",
+       "cards": [
+        "GS3-INTE-0511",
+        "GS3-INTE-0512",
+        "GS3-INTE-0513",
+        "GS3-INTE-0514",
+        "GS3-INTE-0515",
+        "GS3-INTE-0516",
+        "GS3-INTE-0517"
+       ]
+      },
+      {
+       "no": 100,
+       "title": "Maritime Security challenges",
+       "anchor": "st-100",
+       "cards": [
+        "GS3-INTE-0518",
+        "GS3-INTE-0519"
+       ]
+      },
+      {
+       "no": 101,
+       "title": "Organized Crime and Terrorism",
+       "anchor": "st-101",
+       "cards": [
+        "GS3-INTE-0505",
+        "GS3-INTE-0506",
+        "GS3-INTE-0507",
+        "GS3-INTE-0508",
+        "GS3-INTE-0509",
+        "GS3-INTE-0510"
+       ]
+      }
+     ]
+    },
+    {
+     "no": 30,
+     "title": "Cyber, Financial & Media Security",
+     "anchor": "sg-30",
+     "subtopics": [
+      {
+       "no": 102,
+       "title": "Cyber security",
+       "anchor": "st-102",
+       "cards": [
+        "GS3-INTE-0520",
+        "GS3-INTE-0521"
+       ]
+      },
+      {
+       "no": 103,
+       "title": "Digital Media and Security Threats",
+       "anchor": "st-103",
+       "cards": [
+        "GS3-INTE-0522",
+        "GS3-INTE-0523"
+       ]
+      },
+      {
+       "no": 104,
+       "title": "Drug trafficking",
+       "anchor": "st-104",
+       "cards": [
+        "GS3-INTE-0525"
+       ]
+      },
+      {
+       "no": 105,
+       "title": "Mob Violence",
+       "anchor": "st-105",
+       "cards": [
+        "GS3-INTE-0524"
+       ]
+      },
+      {
+       "no": 106,
+       "title": "Money-laundering and Prevention",
+       "anchor": "st-106",
+       "cards": [
+        "GS3-INTE-0526",
+        "GS3-INTE-0527"
+       ]
+      }
+     ]
+    },
+    {
+     "no": 31,
+     "title": "Extremism & External Threats",
+     "anchor": "sg-31",
+     "subtopics": [
+      {
+       "no": 107,
+       "title": "Left-Wing Extremism",
+       "anchor": "st-107",
+       "cards": [
+        "GS3-INTE-0529"
+       ]
+      },
+      {
+       "no": 108,
+       "title": "N-E Insurgency",
+       "anchor": "st-108",
+       "cards": [
+        "GS3-INTE-0531"
+       ]
+      },
+      {
+       "no": 109,
+       "title": "Threat from External state and Non-state actors",
+       "anchor": "st-109",
+       "cards": [
+        "GS3-INTE-0532",
+        "GS3-INTE-0533",
+        "GS3-INTE-0534"
+       ]
+      }
+     ]
+    },
+    {
+     "no": 32,
+     "title": "Security Forces & Mandates",
+     "anchor": "sg-32",
+     "subtopics": [
+      {
+       "no": 110,
+       "title": "Act based",
+       "anchor": "st-110",
+       "cards": [
+        "GS3-INTE-0535"
+       ]
+      },
+      {
+       "no": 111,
+       "title": "Mandates of Security forces",
+       "anchor": "st-111",
+       "cards": [
+        "GS3-INTE-0536",
+        "GS3-INTE-0537",
+        "GS3-INTE-0538",
+        "GS3-INTE-0539",
+        "GS3-INTE-0540",
+        "GS3-INTE-0541",
+        "GS3-INTE-0542",
+        "GS3-INTE-0543"
+       ]
+      }
+     ]
+    }
+   ],
+   "card_count": 37,
+   "word_count": 3733,
+   "est_sheets": 10
+  },
+  {
+   "chapter_no": 10,
+   "paper": "GS-3",
+   "subject": "AGRICULTURE",
+   "display": "Agriculture",
+   "src_file": "ch10_agriculture.html",
+   "anchor": "ch-10",
+   "sections": [
+    {
+     "no": 33,
+     "title": "Agriculture & Farm Dynamics",
+     "anchor": "sg-33",
+     "subtopics": [
+      {
+       "no": 112,
+       "title": "Agri-Marketing",
+       "anchor": "st-112",
+       "cards": [
+        "GS3-AGRI-0368",
+        "GS3-AGRI-0369",
+        "GS3-AGRI-0370"
+       ]
+      },
+      {
+       "no": 113,
+       "title": "Buffer stock & food security",
+       "anchor": "st-113",
+       "cards": [
+        "GS3-AGRI-0365"
+       ]
+      },
+      {
+       "no": 114,
+       "title": "Cropping pattern",
+       "anchor": "st-114",
+       "cards": [
+        "GS3-AGRI-0363"
+       ]
+      },
+      {
+       "no": 115,
+       "title": "Irrigation system",
+       "anchor": "st-115",
+       "cards": [
+        "GS3-AGRI-0360"
+       ]
+      },
+      {
+       "no": 116,
+       "title": "MSP",
+       "anchor": "st-116",
+       "cards": [
+        "GS3-AGRI-0362"
+       ]
+      },
+      {
+       "no": 117,
+       "title": "Non-Farm Activities (Livestock)",
+       "anchor": "st-117",
+       "cards": [
+        "GS3-AGRI-0366"
+       ]
+      },
+      {
+       "no": 118,
+       "title": "Organic Farming",
+       "anchor": "st-118",
+       "cards": [
+        "GS3-AGRI-0364"
+       ]
+      },
+      {
+       "no": 119,
+       "title": "PDS",
+       "anchor": "st-119",
+       "cards": [
+        "GS3-AGRI-0367"
+       ]
+      },
+      {
+       "no": 120,
+       "title": "Tech in Agri Production and Marketing",
+       "anchor": "st-120",
+       "cards": [
+        "GS3-AGRI-0371"
+       ]
+      },
+      {
+       "no": 121,
+       "title": "Water Conservation",
+       "anchor": "st-121",
+       "cards": [
+        "GS3-AGRI-0361"
+       ]
+      }
+     ]
+    },
+    {
+     "no": 34,
+     "title": "Food Processing Industry",
+     "anchor": "sg-34",
+     "subtopics": [
+      {
+       "no": 122,
+       "title": "Food Processing Sector",
+       "anchor": "st-122",
+       "cards": [
+        "GS3-AGRI-0373",
+        "GS3-AGRI-0374",
+        "GS3-AGRI-0375",
+        "GS3-AGRI-0376",
+        "GS3-AGRI-0377"
+       ]
+      }
+     ]
+    },
+    {
+     "no": 35,
+     "title": "Land Reforms",
+     "anchor": "sg-35",
+     "subtopics": [
+      {
+       "no": 123,
+       "title": "Contract farming & Land leasing",
+       "anchor": "st-123",
+       "cards": [
+        "GS3-AGRI-0378"
+       ]
+      },
+      {
+       "no": 124,
+       "title": "Land Reforms",
+       "anchor": "st-124",
+       "cards": [
+        "GS3-AGRI-0379",
+        "GS3-AGRI-0380",
+        "GS3-AGRI-0381"
+       ]
+      },
+      {
+       "no": 125,
+       "title": "Miscellaneous",
+       "anchor": "st-125",
+       "cards": [
+        "GS3-AGRI-0383"
+       ]
+      }
+     ]
+    }
+   ],
+   "card_count": 22,
+   "word_count": 2243,
+   "est_sheets": 6
+  },
+  {
+   "chapter_no": 11,
+   "paper": "GS-3",
+   "subject": "SCIENCE & TECHNOLOGY",
+   "display": "Science & Technology",
+   "src_file": "ch11_snt.html",
+   "anchor": "ch-11",
+   "sections": [
+    {
+     "no": 36,
+     "title": "Everyday Science & Innovations",
+     "anchor": "sg-36",
+     "subtopics": [
+      {
+       "no": 126,
+       "title": "General Science",
+       "anchor": "st-126",
+       "cards": [
+        "GS3-SCIE-0384",
+        "GS3-SCIE-0385"
+       ]
+      },
+      {
+       "no": 127,
+       "title": "Innovative Technologies",
+       "anchor": "st-127",
+       "cards": [
+        "GS3-SCIE-0387",
+        "GS3-SCIE-0388",
+        "GS3-SCIE-0389",
+        "GS3-SCIE-0390"
+       ]
+      }
+     ]
+    },
+    {
+     "no": 37,
+     "title": "Frontier Technologies & IPR",
+     "anchor": "sg-37",
+     "subtopics": [
+      {
+       "no": 128,
+       "title": "Artificial Intelligence",
+       "anchor": "st-128",
+       "cards": [
+        "GS3-SCIE-0391",
+        "GS3-SCIE-0392",
+        "GS3-SCIE-0393"
+       ]
+      },
+      {
+       "no": 129,
+       "title": "Bio-Technology",
+       "anchor": "st-129",
+       "cards": [
+        "GS3-SCIE-0416",
+        "GS3-SCIE-0417"
+       ]
+      },
+      {
+       "no": 130,
+       "title": "Defence Technology",
+       "anchor": "st-130",
+       "cards": [
+        "GS3-SCIE-0406",
+        "GS3-SCIE-0407"
+       ]
+      },
+      {
+       "no": 131,
+       "title": "IT",
+       "anchor": "st-131",
+       "cards": [
+        "GS3-SCIE-0394",
+        "GS3-SCIE-0395",
+        "GS3-SCIE-0396",
+        "GS3-SCIE-0397",
+        "GS3-SCIE-0398",
+        "GS3-SCIE-0399",
+        "GS3-SCIE-0400",
+        "GS3-SCIE-0401",
+        "GS3-SCIE-0402",
+        "GS3-SCIE-0403",
+        "GS3-SCIE-0404"
+       ]
+      },
+      {
+       "no": 132,
+       "title": "Intellectual Property Rights",
+       "anchor": "st-132",
+       "cards": [
+        "GS3-SCIE-0418",
+        "GS3-SCIE-0419"
+       ]
+      },
+      {
+       "no": 133,
+       "title": "Nano Technology",
+       "anchor": "st-133",
+       "cards": [
+        "GS3-SCIE-0420"
+       ]
+      },
+      {
+       "no": 134,
+       "title": "Space Technology",
+       "anchor": "st-134",
+       "cards": [
+        "GS3-SCIE-0408",
+        "GS3-SCIE-0409",
+        "GS3-SCIE-0411",
+        "GS3-SCIE-0412",
+        "GS3-SCIE-0413",
+        "GS3-SCIE-0414"
+       ]
+      }
+     ]
+    },
+    {
+     "no": 38,
+     "title": "Indigenous Tech & Achievements",
+     "anchor": "sg-38",
+     "subtopics": [
+      {
+       "no": 135,
+       "title": "Achievements of Indians in S&T",
+       "anchor": "st-135",
+       "cards": [
+        "GS3-SCIE-0421",
+        "GS3-SCIE-0422",
+        "GS3-SCIE-0423",
+        "GS3-SCIE-0424",
+        "GS3-SCIE-0425",
+        "GS3-SCIE-0153"
+       ]
+      }
+     ]
+    }
+   ],
+   "card_count": 39,
+   "word_count": 4952,
+   "est_sheets": 13
+  },
+  {
+   "chapter_no": 12,
+   "paper": "GS-3",
+   "subject": "ENVIRONMENT",
+   "display": "Environment",
+   "src_file": "ch12_environment.html",
+   "anchor": "ch-12",
+   "sections": [
+    {
+     "no": 39,
+     "title": "Climate Change",
+     "anchor": "sg-39",
+     "subtopics": [
+      {
+       "no": 136,
+       "title": "Climate Change",
+       "anchor": "st-136",
+       "cards": [
+        "GS3-ENVI-0428",
+        "GS3-ENVI-0430",
+        "GS3-ENVI-0431",
+        "GS3-ENVI-0433",
+        "GS3-ENVI-0434"
+       ]
+      },
+      {
+       "no": 137,
+       "title": "IPCC Reports",
+       "anchor": "st-137",
+       "cards": [
+        "GS3-ENVI-0435"
+       ]
+      },
+      {
+       "no": 138,
+       "title": "UNFCCC",
+       "anchor": "st-138",
+       "cards": [
+        "GS3-ENVI-0436",
+        "GS3-ENVI-0437",
+        "GS3-ENVI-0439"
+       ]
+      }
+     ]
+    },
+    {
+     "no": 40,
+     "title": "Conservation & Ecosystems",
+     "anchor": "sg-40",
+     "subtopics": [
+      {
+       "no": 139,
+       "title": "Biodiversity",
+       "anchor": "st-139",
+       "cards": [
+        "GS3-ENVI-0440",
+        "GS3-ENVI-0441",
+        "GS3-ENVI-0443",
+        "GS3-ENVI-0444"
+       ]
+      },
+      {
+       "no": 140,
+       "title": "EIA",
+       "anchor": "st-140",
+       "cards": [
+        "GS3-ENVI-0445"
+       ]
+      },
+      {
+       "no": 141,
+       "title": "Environment",
+       "anchor": "st-141",
+       "cards": [
+        "GS3-ENVI-0447",
+        "GS3-ENVI-0448",
+        "GS3-ENVI-0449",
+        "GS3-ENVI-0450",
+        "GS3-ENVI-0452"
+       ]
+      },
+      {
+       "no": 142,
+       "title": "Environmental Laws",
+       "anchor": "st-142",
+       "cards": [
+        "GS3-ENVI-0453",
+        "GS3-ENVI-0454",
+        "GS3-ENVI-0455",
+        "GS3-ENVI-0456"
+       ]
+      },
+      {
+       "no": 143,
+       "title": "Sustainable Development",
+       "anchor": "st-143",
+       "cards": [
+        "GS3-ENVI-0460",
+        "GS3-ENVI-0461",
+        "GS3-ENVI-0462"
+       ]
+      },
+      {
+       "no": 144,
+       "title": "Wetlands",
+       "anchor": "st-144",
+       "cards": [
+        "GS3-ENVI-0463",
+        "GS3-ENVI-0464"
+       ]
+      }
+     ]
+    },
+    {
+     "no": 41,
+     "title": "Pollution & Degradation",
+     "anchor": "sg-41",
+     "subtopics": [
+      {
+       "no": 145,
+       "title": "Air Pollution and Related Issues",
+       "anchor": "st-145",
+       "cards": [
+        "GS3-ENVI-0465",
+        "GS3-ENVI-0466"
+       ]
+      },
+      {
+       "no": 146,
+       "title": "Mining and Erosion",
+       "anchor": "st-146",
+       "cards": [
+        "GS3-ENVI-0467"
+       ]
+      },
+      {
+       "no": 147,
+       "title": "Solid wastes",
+       "anchor": "st-147",
+       "cards": [
+        "GS3-ENVI-0469",
+        "GS3-ENVI-0470",
+        "GS3-ENVI-0471",
+        "GS3-ENVI-0472",
+        "GS3-ENVI-0473"
+       ]
+      },
+      {
+       "no": 148,
+       "title": "Water Pollution and Related Issues",
+       "anchor": "st-148",
+       "cards": [
+        "GS3-ENVI-0474",
+        "GS3-ENVI-0475",
+        "GS3-ENVI-0476",
+        "GS3-ENVI-0478"
+       ]
+      }
+     ]
+    }
+   ],
+   "card_count": 40,
+   "word_count": 7231,
+   "est_sheets": 18
+  },
+  {
+   "chapter_no": 13,
+   "paper": "GS-3",
+   "subject": "DISASTER MANAGEMENT",
+   "display": "Disaster Management",
+   "src_file": "ch13_disaster.html",
+   "anchor": "ch-13",
+   "sections": [
+    {
+     "no": 42,
+     "title": "Frameworks & Preparedness",
+     "anchor": "sg-42",
+     "subtopics": [
+      {
+       "no": 149,
+       "title": "Disaster Preparedness and Resilience",
+       "anchor": "st-149",
+       "cards": [
+        "GS3-DISA-0480",
+        "GS3-DISA-0481",
+        "GS3-DISA-0482",
+        "GS3-DISA-0483"
+       ]
+      },
+      {
+       "no": 150,
+       "title": "Vulnerability and Risk Assessment",
+       "anchor": "st-150",
+       "cards": [
+        "GS3-DISA-0484"
+       ]
+      }
+     ]
+    },
+    {
+     "no": 43,
+     "title": "Specific Disasters & Hazards",
+     "anchor": "sg-43",
+     "subtopics": [
+      {
+       "no": 151,
+       "title": "Cloudburst",
+       "anchor": "st-151",
+       "cards": [
+        "GS3-DISA-0485"
+       ]
+      },
+      {
+       "no": 152,
+       "title": "Cyclone",
+       "anchor": "st-152",
+       "cards": [
+        "GS3-DISA-0486"
+       ]
+      },
+      {
+       "no": 153,
+       "title": "Drought",
+       "anchor": "st-153",
+       "cards": [
+        "GS3-DISA-0490",
+        "GS3-DISA-0491"
+       ]
+      },
+      {
+       "no": 154,
+       "title": "Earthquake",
+       "anchor": "st-154",
+       "cards": [
+        "GS3-DISA-0492",
+        "GS3-DISA-0493"
+       ]
+      },
+      {
+       "no": 155,
+       "title": "Landslide",
+       "anchor": "st-155",
+       "cards": [
+        "GS3-DISA-0494"
+       ]
+      },
+      {
+       "no": 156,
+       "title": "Miscellaneous (Disasters)",
+       "anchor": "st-156",
+       "cards": [
+        "GS3-DISA-0495",
+        "GS3-DISA-0496",
+        "GS3-DISA-0497",
+        "GS3-DISA-0498",
+        "GS3-DISA-0499",
+        "GS3-DISA-0500",
+        "GS3-DISA-0501",
+        "GS3-DISA-0502"
+       ]
+      },
+      {
+       "no": 157,
+       "title": "Tsunami",
+       "anchor": "st-157",
+       "cards": [
+        "GS3-DISA-0503"
+       ]
+      },
+      {
+       "no": 158,
+       "title": "Urban floods",
+       "anchor": "st-158",
+       "cards": [
+        "GS3-DISA-0504"
+       ]
+      }
+     ]
+    }
+   ],
+   "card_count": 22,
+   "word_count": 3174,
+   "est_sheets": 9
+  },
+  {
+   "chapter_no": 14,
+   "paper": "GS-4",
+   "subject": "ETHICS, INTEGRITY & APTITUDE",
+   "display": "Ethics, Integrity & Aptitude",
+   "src_file": "ch14_ethics.html",
+   "anchor": "ch-14",
+   "sections": [
+    {
+     "no": 44,
+     "title": "Ethics & Human Values",
+     "anchor": "sg-44",
+     "subtopics": [
+      {
+       "no": 159,
+       "title": "Applied Ethics x Environment",
+       "anchor": "st-159",
+       "cards": [
+        "GS4-ETHI-0544",
+        "GS4-ETHI-0545",
+        "GS4-ETHI-0546"
+       ]
+      },
+      {
+       "no": 160,
+       "title": "Consequences of Ethics",
+       "anchor": "st-160",
+       "cards": [
+        "GS4-ETHI-0547"
+       ]
+      },
+      {
+       "no": 161,
+       "title": "Crisis of Ethical Values",
+       "anchor": "st-161",
+       "cards": [
+        "GS4-ETHI-0569",
+        "GS4-ETHI-0570",
+        "GS4-ETHI-0571",
+        "GS4-ETHI-0572"
+       ]
+      },
+      {
+       "no": 162,
+       "title": "Determinants of Ethics",
+       "anchor": "st-162",
+       "cards": [
+        "GS4-ETHI-0549",
+        "GS4-ETHI-0550"
+       ]
+      },
+      {
+       "no": 163,
+       "title": "Essence of Ethics",
+       "anchor": "st-163",
+       "cards": [
+        "GS4-ETHI-0551",
+        "GS4-ETHI-0552",
+        "GS4-ETHI-0553",
+        "GS4-ETHI-0554",
+        "GS4-ETHI-0555",
+        "GS4-ETHI-0557",
+        "GS4-ETHI-0563"
+       ]
+      },
+      {
+       "no": 164,
+       "title": "Ethics in Private and Public sphere",
+       "anchor": "st-164",
+       "cards": [
+        "GS4-ETHI-0559",
+        "GS4-ETHI-0560",
+        "GS4-ETHI-0561"
+       ]
+      },
+      {
+       "no": 165,
+       "title": "Normative Ethics (Deontology vs Teleology)",
+       "anchor": "st-165",
+       "cards": [
+        "GS4-ETHI-0564",
+        "GS4-ETHI-0565",
+        "GS4-ETHI-0566",
+        "GS4-ETHI-0567"
+       ]
+      },
+      {
+       "no": 166,
+       "title": "Role of Educational institutions",
+       "anchor": "st-166",
+       "cards": [
+        "GS4-ETHI-0573",
+        "GS4-ETHI-0574",
+        "GS4-ETHI-0575",
+        "GS4-ETHI-0576"
+       ]
+      },
+      {
+       "no": 167,
+       "title": "Term Based",
+       "anchor": "st-167",
+       "cards": [
+        "GS4-ETHI-0568"
+       ]
+      },
+      {
+       "no": 168,
+       "title": "Value Based Questions",
+       "anchor": "st-168",
+       "cards": [
+        "GS4-ETHI-0578",
+        "GS4-ETHI-0579",
+        "GS4-ETHI-0580"
+       ]
+      }
+     ]
+    },
+    {
+     "no": 45,
+     "title": "Psychology & Foundational Values",
+     "anchor": "sg-45",
+     "subtopics": [
+      {
+       "no": 169,
+       "title": "Attitude for Civil Servants",
+       "anchor": "st-169",
+       "cards": [
+        "GS4-ETHI-0617",
+        "GS4-ETHI-0618"
+       ]
+      },
+      {
+       "no": 170,
+       "title": "Attitude for Individuals",
+       "anchor": "st-170",
+       "cards": [
+        "GS4-ETHI-0620",
+        "GS4-ETHI-0621",
+        "GS4-ETHI-0622",
+        "GS4-ETHI-0623",
+        "GS4-ETHI-0624"
+       ]
+      },
+      {
+       "no": 171,
+       "title": "EI X Crisis of Conscience",
+       "anchor": "st-171",
+       "cards": [
+        "GS4-ETHI-0634"
+       ]
+      },
+      {
+       "no": 172,
+       "title": "EI in Administration",
+       "anchor": "st-172",
+       "cards": [
+        "GS4-ETHI-0636",
+        "GS4-ETHI-0637",
+        "GS4-ETHI-0638"
+       ]
+      },
+      {
+       "no": 173,
+       "title": "EI: Concept and utility",
+       "anchor": "st-173",
+       "cards": [
+        "GS4-ETHI-0641",
+        "GS4-ETHI-0642",
+        "GS4-ETHI-0643",
+        "GS4-ETHI-0644",
+        "GS4-ETHI-0645",
+        "GS4-ETHI-0646",
+        "GS4-ETHI-0647",
+        "GS4-ETHI-0648",
+        "GS4-ETHI-0653",
+        "GS4-ETHI-0655"
+       ]
+      },
+      {
+       "no": 174,
+       "title": "EQ vs IQ",
+       "anchor": "st-174",
+       "cards": [
+        "GS4-ETHI-0656"
+       ]
+      },
+      {
+       "no": 175,
+       "title": "Empathy and Compassion",
+       "anchor": "st-175",
+       "cards": [
+        "GS4-ETHI-0583",
+        "GS4-ETHI-0584",
+        "GS4-ETHI-0585",
+        "GS4-ETHI-0586",
+        "GS4-ETHI-0587",
+        "GS4-ETHI-0588",
+        "GS4-ETHI-0589"
+       ]
+      },
+      {
+       "no": 176,
+       "title": "Foundational values",
+       "anchor": "st-176",
+       "cards": [
+        "GS4-ETHI-0590",
+        "GS4-ETHI-0591",
+        "GS4-ETHI-0592",
+        "GS4-ETHI-0594",
+        "GS4-ETHI-0596",
+        "GS4-ETHI-0597",
+        "GS4-ETHI-0599",
+        "GS4-ETHI-0601"
+       ]
+      },
+      {
+       "no": 177,
+       "title": "Impartiality and Non-Partisanship",
+       "anchor": "st-177",
+       "cards": [
+        "GS4-ETHI-0603"
+       ]
+      },
+      {
+       "no": 178,
+       "title": "Integrity",
+       "anchor": "st-178",
+       "cards": [
+        "GS4-ETHI-0605",
+        "GS4-ETHI-0606"
+       ]
+      },
+      {
+       "no": 179,
+       "title": "Integrity X Intelligence X Energy",
+       "anchor": "st-179",
+       "cards": [
+        "GS4-ETHI-0612"
+       ]
+      },
+      {
+       "no": 180,
+       "title": "Moral and Political Attitude",
+       "anchor": "st-180",
+       "cards": [
+        "GS4-ETHI-0626",
+        "GS4-ETHI-0627"
+       ]
+      },
+      {
+       "no": 181,
+       "title": "Social influence and persuasion",
+       "anchor": "st-181",
+       "cards": [
+        "GS4-ETHI-0630"
+       ]
+      },
+      {
+       "no": 182,
+       "title": "Trustworthiness and Fortitude",
+       "anchor": "st-182",
+       "cards": [
+        "GS4-ETHI-0613",
+        "GS4-ETHI-0615"
+       ]
+      }
+     ]
+    },
+    {
+     "no": 46,
+     "title": "Moral Thinkers & Leaders",
+     "anchor": "sg-46",
+     "subtopics": [
+      {
+       "no": 183,
+       "title": "A.P.J. Abdul Kalam",
+       "anchor": "st-183",
+       "cards": [
+        "GS4-ETHI-0657",
+        "GS4-ETHI-0658"
+       ]
+      },
+      {
+       "no": 184,
+       "title": "Aristotle",
+       "anchor": "st-184",
+       "cards": [
+        "GS4-ETHI-0661",
+        "GS4-ETHI-0662"
+       ]
+      },
+      {
+       "no": 185,
+       "title": "Immanuel Kant",
+       "anchor": "st-185",
+       "cards": [
+        "GS4-ETHI-0664",
+        "GS4-ETHI-0665"
+       ]
+      },
+      {
+       "no": 186,
+       "title": "John Rawls's concept of social Justice",
+       "anchor": "st-186",
+       "cards": [
+        "GS4-ETHI-0669"
+       ]
+      },
+      {
+       "no": 187,
+       "title": "Kautilya",
+       "anchor": "st-187",
+       "cards": [
+        "GS4-ETHI-0670"
+       ]
+      },
+      {
+       "no": 188,
+       "title": "Mahatma Gandhi",
+       "anchor": "st-188",
+       "cards": [
+        "GS4-ETHI-0673",
+        "GS4-ETHI-0674"
+       ]
+      },
+      {
+       "no": 189,
+       "title": "Plato",
+       "anchor": "st-189",
+       "cards": [
+        "GS4-ETHI-0680"
+       ]
+      },
+      {
+       "no": 190,
+       "title": "Socrates",
+       "anchor": "st-190",
+       "cards": [
+        "GS4-ETHI-0685"
+       ]
+      },
+      {
+       "no": 191,
+       "title": "Swami Vivekananda",
+       "anchor": "st-191",
+       "cards": [
+        "GS4-ETHI-0686",
+        "GS4-ETHI-0687"
+       ]
+      },
+      {
+       "no": 192,
+       "title": "Teachings of Great Leaders",
+       "anchor": "st-192",
+       "cards": [
+        "GS4-ETHI-0690",
+        "GS4-ETHI-0691",
+        "GS4-ETHI-0692",
+        "GS4-ETHI-0693",
+        "GS4-ETHI-0694",
+        "GS4-ETHI-0695",
+        "GS4-ETHI-0696",
+        "GS4-ETHI-0697",
+        "GS4-ETHI-0698",
+        "GS4-ETHI-0699",
+        "GS4-ETHI-0700",
+        "GS4-ETHI-0701",
+        "GS4-ETHI-0702",
+        "GS4-ETHI-0703",
+        "GS4-ETHI-0704",
+        "GS4-ETHI-0705",
+        "GS4-ETHI-0706",
+        "GS4-ETHI-0707",
+        "GS4-ETHI-0708",
+        "GS4-ETHI-0709",
+        "GS4-ETHI-0710",
+        "GS4-ETHI-0711",
+        "GS4-ETHI-0712",
+        "GS4-ETHI-0713",
+        "GS4-ETHI-0714",
+        "GS4-ETHI-0716",
+        "GS4-ETHI-0717",
+        "GS4-ETHI-0718",
+        "GS4-ETHI-0719"
+       ]
+      }
+     ]
+    },
+    {
+     "no": 47,
+     "title": "Governance & Probity",
+     "anchor": "sg-47",
+     "subtopics": [
+      {
+       "no": 193,
+       "title": "Accountability and Ethical Governance",
+       "anchor": "st-193",
+       "cards": [
+        "GS4-ETHI-0757",
+        "GS4-ETHI-0758"
+       ]
+      },
+      {
+       "no": 194,
+       "title": "Challenges of Corruption",
+       "anchor": "st-194",
+       "cards": [
+        "GS4-ETHI-0721",
+        "GS4-ETHI-0723",
+        "GS4-ETHI-0724",
+        "GS4-ETHI-0725",
+        "GS4-ETHI-0726",
+        "GS4-ETHI-0728",
+        "GS4-ETHI-0729"
+       ]
+      },
+      {
+       "no": 195,
+       "title": "Citizen's Charter",
+       "anchor": "st-195",
+       "cards": [
+        "GS4-ETHI-0731"
+       ]
+      },
+      {
+       "no": 196,
+       "title": "Codes of Ethics and Codes of Conduct",
+       "anchor": "st-196",
+       "cards": [
+        "GS4-ETHI-0732",
+        "GS4-ETHI-0733",
+        "GS4-ETHI-0735"
+       ]
+      },
+      {
+       "no": 197,
+       "title": "Conflict of Interest",
+       "anchor": "st-197",
+       "cards": [
+        "GS4-ETHI-0762"
+       ]
+      },
+      {
+       "no": 198,
+       "title": "Corporate Governance",
+       "anchor": "st-198",
+       "cards": [
+        "GS4-ETHI-0765"
+       ]
+      },
+      {
+       "no": 199,
+       "title": "Ethical Issues in International Relations and Funding",
+       "anchor": "st-199",
+       "cards": [
+        "GS4-ETHI-0770"
+       ]
+      },
+      {
+       "no": 200,
+       "title": "Laws, Rules, Regulations and Conscience as Ethical Guidance",
+       "anchor": "st-200",
+       "cards": [
+        "GS4-ETHI-0777"
+       ]
+      },
+      {
+       "no": 201,
+       "title": "Probity in Governance",
+       "anchor": "st-201",
+       "cards": [
+        "GS4-ETHI-0736",
+        "GS4-ETHI-0737"
+       ]
+      },
+      {
+       "no": 202,
+       "title": "Public/Civil Service Values",
+       "anchor": "st-202",
+       "cards": [
+        "GS4-ETHI-0783"
+       ]
+      },
+      {
+       "no": 203,
+       "title": "Quality of Service Delivery",
+       "anchor": "st-203",
+       "cards": [
+        "GS4-ETHI-0739"
+       ]
+      },
+      {
+       "no": 204,
+       "title": "Transparency X RTI",
+       "anchor": "st-204",
+       "cards": [
+        "GS4-ETHI-0741",
+        "GS4-ETHI-0742"
+       ]
+      },
+      {
+       "no": 205,
+       "title": "Utilization of Public Funds",
+       "anchor": "st-205",
+       "cards": [
+        "GS4-ETHI-0748"
+       ]
+      },
+      {
+       "no": 206,
+       "title": "Work Culture",
+       "anchor": "st-206",
+       "cards": [
+        "GS4-ETHI-0749"
+       ]
+      }
+     ]
+    },
+    {
+     "no": 48,
+     "title": "Applied Ethics",
+     "anchor": "sg-48",
+     "subtopics": [
+      {
+       "no": 207,
+       "title": "Gender Equality & Sexual Harassment",
+       "anchor": "st-207",
+       "cards": [
+        "GS4-ETHI-0787"
+       ]
+      },
+      {
+       "no": 208,
+       "title": "International Relations & National Security",
+       "anchor": "st-208",
+       "cards": [
+        "GS4-ETHI-0788"
+       ]
+      },
+      {
+       "no": 209,
+       "title": "Resource Management",
+       "anchor": "st-209",
+       "cards": [
+        "GS4-ETHI-0789"
+       ]
+      }
+     ]
+    }
+   ],
+   "card_count": 149,
+   "word_count": 16672,
+   "est_sheets": 41
+  }
+ ],
+ "totals": {
+  "cards": 551,
+  "chapters": 14,
+  "sections": 48,
+  "subtopics": 209,
+  "body_words": 70145,
+  "est_body_sheets": 182
+ }
+}

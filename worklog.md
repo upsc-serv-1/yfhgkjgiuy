@@ -46,3 +46,17 @@ Work Log:
 Stage Summary:
 - Phase 1 complete, no blockers. Deliverables: content_inventory.md, v17_inventory.json, images_manifest.json, 38 local images, 3 re-runnable scripts.
 - GATE: findings reported to user; awaiting confirmation to start Phase 2 (book architecture: prototype reverse-engineering + GS-parted TOC + illustration plan).
+
+---
+Task ID: 2
+Agent: Super Z (main, orchestrator)
+Task: Phase 2 — book architecture: reverse-engineer prototype, define full book structure, card→chapter map, illustration plan.
+
+Work Log:
+- Locked Phase-1 gate decisions into PLAN.md/HANDOFF.md (relative image paths; all six recommendations approved) and pushed (2de99a3).
+- prototype_skeleton.py → prototype_skeleton.md/.json: 39 sheets, 158 headings, 272 classes, 4,204 ids, 0 unresolved anchors. Prototype anatomy mapped: sheet/topbar/crumb/stamp system, hero openers, donut/band/tier/heatmap/dots analytics, fl-sec/fl-mic/fl-sub index rows, ill-<subject> per-subject illustrations; qm/qr/qx question rows NOT adopted (our unit = article card).
+- build_book_map.py → book_map.json: full tree Part(GS)→Chapter(subject, ch01–ch14)→Section(section_group, sg-1..48)→subtopic(st-1..209)→cards(#card-<ID>, 551). Asserts 551/48/209 pass. Body 70,145 words, ~182 body sheets (~205 total incl. front/back matter).
+- Wrote ebook_structure.md (Phase-2 deliverable): architecture rule, prototype adopt/adapt table, chapter map, reading flow, card rendering spec (verbatim layer incl. multi-quote, detail labels, practice-skeleton badge, image figures), 9 recreated SVG illustration types I1–I9 driven by our own card data, anchor scheme, GS-4 mini-index, src/ decomposition (21 partials + theme.css), resource-guide PNG back-cover proposal (reversible), out-of-scope list, self-audit.
+
+Stage Summary:
+- Phase 2 complete and self-audited: hierarchy == user taxonomy exactly, all 551 cards anchored, images local+relative. Next: Phase 3 design tokens (extract from prototype CSS → design_tokens.md + src/theme.css + component templates).

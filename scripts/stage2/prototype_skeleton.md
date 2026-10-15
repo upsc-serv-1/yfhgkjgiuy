@@ -1,0 +1,397 @@
+# Prototype structural skeleton — extracted 2026-10-15
+
+- Total size: 5.40 MB · lines: 1483
+- Comments (0): first 120 listed below
+- Sheets: 39 total · p1 (A4 min-height): 1
+- Headings: 158 · distinct classes: 272 · ids defined: 4204 · anchor-hrefs: 3216
+- Unresolved anchor targets (href without id): 0
+
+## Top-level comments (section delimiters, in order)
+
+
+## Heading hierarchy (document order)
+
+- (h1) PYQ Nano Analysis
+- (h1) Executive Index
+  - (h2) Subject × Year PYQ Index
+  - (h2) Data note
+- (h1) How to Use This Book
+  - (h2) Short on time? Take the 20-minute route.
+  - (h2) Three ways to reach any question
+  - (h2) How to Read a Heat Map
+  - (h2) Glossary
+- (h1) All of GS Mains, side by side.
+  - (h2) Share of all GS marks
+  - (h2) Every Subject, Year by Year
+  - (h2) How the Four Papers Differ in Style
+  - (h2) How to answer: what each directive word wants
+  - (h2) One Theme, Several Papers
+- (h1) GS1
+  - (h2) 1Where the marks come from
+  - (h2) 2Marks-Weighted Priorities in GS1
+  - (h2) 3How much of the syllabus drives the marks?
+    - (h3) The 10 heaviest GS1 subtopics
+  - (h2) 4What to study first in GS1
+  - (h2) Geography Heatmap
+  - (h2) Geography Heatmap
+  - (h2) History Heatmap
+  - (h2) History Heatmap
+  - (h2) Society Heatmap
+  - (h2) Society Heatmap
+  - (h2) How toppers approached GS1
+  - (h2) 6Question Patterns &amp; Directives
+    - (h3) Share of marks by question type
+    - (h3) Top directive words
+  - (h2) 7Recurring Themes in GS1
+    - (h3) Subtopics that returned in consecutive years
+  - (h2) 8Topics Not Asked Recently in GS1
+    - (h3) Quiet subtopics, by syllabus topic
+- (h1) GS2
+  - (h2) 1Where the marks come from
+  - (h2) 2Marks-Weighted Priorities in GS2
+  - (h2) 3How much of the syllabus drives the marks?
+    - (h3) The 10 heaviest GS2 subtopics
+  - (h2) 4What to study first in GS2
+  - (h2) Polity Heatmap
+  - (h2) Polity Heatmap
+  - (h2) Governance Heatmap
+  - (h2) Governance Heatmap
+  - (h2) International Relations Heatmap
+  - (h2) International Relations Heatmap
+  - (h2) Social Justice Heatmap
+  - (h2) Social Justice Heatmap
+  - (h2) How toppers approached GS2
+  - (h2) 6Question Patterns &amp; Directives
+    - (h3) Share of marks by question type
+    - (h3) Top directive words
+  - (h2) 7Recurring Themes in GS2
+    - (h3) Subtopics that returned in consecutive years
+  - (h2) 8Topics Not Asked Recently in GS2
+    - (h3) Whole syllabus topics that have gone quiet
+    - (h3) Quiet subtopics, by syllabus topic
+- (h1) GS3
+  - (h2) 1Where the marks come from
+  - (h2) 2Marks-Weighted Priorities in GS3
+  - (h2) 3How much of the syllabus drives the marks?
+    - (h3) The 10 heaviest GS3 subtopics
+  - (h2) 4What to study first in GS3
+  - (h2) Indian Economy Heatmap
+  - (h2) Indian Economy Heatmap
+  - (h2) Internal Security Heatmap
+  - (h2) Internal Security Heatmap
+  - (h2) Agriculture Heatmap
+  - (h2) Agriculture Heatmap
+  - (h2) Science &amp; Technology Heatmap
+  - (h2) Science &amp; Technology Heatmap
+  - (h2) Environment Heatmap
+  - (h2) Environment Heatmap
+  - (h2) Disaster Management Heatmap
+  - (h2) Disaster Management Heatmap
+  - (h2) How toppers approached GS3
+  - (h2) 6Question Patterns &amp; Directives
+    - (h3) Share of marks by question type
+    - (h3) Top directive words
+  - (h2) 7Recurring Themes in GS3
+    - (h3) Subtopics that returned in consecutive years
+  - (h2) 8Topics Not Asked Recently in GS3
+    - (h3) Whole syllabus topics that have gone quiet
+    - (h3) Quiet subtopics, by syllabus topic
+- (h1) GS4
+  - (h2) 1Where the marks come from
+  - (h2) 2How much of the syllabus drives the marks?
+    - (h3) The 10 heaviest GS4 subtopics
+  - (h2) 3What to study first in GS4
+  - (h2) Ethics, Integrity &amp; Aptitude Heatmap
+  - (h2) Ethics, Integrity &amp; Aptitude Heatmap
+  - (h2) How toppers approached GS4
+  - (h2) 5Question Patterns &amp; Directives
+    - (h3) Share of marks by question type
+    - (h3) Top directive words
+  - (h2) 6Recurring Themes in GS4
+    - (h3) Subtopics that returned in consecutive years
+  - (h2) 7Topics Not Asked Recently in GS4
+    - (h3) Whole syllabus topics that have gone quiet
+    - (h3) Quiet subtopics, by syllabus topic
+- (h1) Practice Set
+- (h1) Questions by Subject and Year
+    - (h3) Geography
+    - (h3) History
+    - (h3) Society
+    - (h3) Polity
+    - (h3) Governance
+    - (h3) International Relations
+    - (h3) Social Justice
+    - (h3) Indian Economy
+    - (h3) Internal Security
+    - (h3) Agriculture
+    - (h3) Science &amp; Technology
+    - (h3) Environment
+    - (h3) Disaster Management
+    - (h3) Ethics, Integrity &amp; Aptitude
+- (h1) Questions by Syllabus Topic
+    - (h3) Geography
+    - (h3) History
+    - (h3) Society
+    - (h3) Polity
+    - (h3) Governance
+    - (h3) International Relations
+    - (h3) Social Justice
+    - (h3) Indian Economy
+    - (h3) Internal Security
+    - (h3) Agriculture
+    - (h3) Science &amp; Technology
+    - (h3) Environment
+    - (h3) Disaster Management
+    - (h3) Ethics, Integrity &amp; Aptitude
+- (h1) Complete Papers by Year
+    - (h3) Mains 2026
+    - (h3) Mains 2025
+    - (h3) Mains 2024
+    - (h3) Mains 2023
+    - (h3) Mains 2022
+    - (h3) Mains 2021
+    - (h3) Mains 2020
+    - (h3) Mains 2019
+    - (h3) Mains 2018
+    - (h3) Mains 2017
+    - (h3) Mains 2016
+    - (h3) Mains 2015
+    - (h3) Mains 2014
+    - (h3) Mains 2013
+- (h1) More from Dr. CSE
+    - (h3) PYQ Micro Analysis
+    - (h3) Mains Model Answers
+    - (h3) Answer-Writing Frameworks
+    - (h3) Ready-Made Introductions &amp; Conclusions
+    - (h3) Keywords Dictionary
+    - (h3) Data &amp; Facts Compilation
+    - (h3) Topper&#x27;s Prescription
+    - (h3) Prelims PYQ Compilation
+    - (h3) Current Affairs Capsule
+    - (h3) Master Value Addition Combo Pack
+
+## Class vocabulary (frequency-sorted, top 220)
+
+- `c` × 9220
+- `b0` × 5529
+- `qm` × 3435
+- `qr` × 3393
+- `qx` × 3393
+- `qtp` × 2290
+- `b1` × 1843
+- `mono` × 1267
+- `avg` × 1000
+- `lv` × 993
+- `tt` × 992
+- `b3` × 977
+- `on` × 941
+- `yy` × 702
+- `rk` × 633
+- `b2` × 626
+- `nm` × 461
+- `sm` × 431
+- `n` × 424
+- `band` × 389
+- `hm-c` × 377
+- `links` × 375
+- `b4` × 359
+- `r-sub` × 323
+- `fl-sub` × 323
+- `first` × 323
+- `bk` × 323
+- `b5` × 293
+- `mn` × 167
+- `dots` × 163
+- `olds` × 123
+- `tier` × 108
+- `tc` × 90
+- `r-mic` × 90
+- `fl-mic` × 90
+- `l2` × 90
+- `stepn` × 62
+- `blk` × 58
+- `vbtn` × 56
+- `hm-y` × 54
+- `topbar` × 53
+- `tbl` × 53
+- `logo` × 53
+- `stamp` × 53
+- `rule` × 51
+- `tC` × 48
+- `r-sec` × 48
+- `fl-sec` × 48
+- `l1` × 48
+- `trC` × 47
+- `ft` × 46
+- `ovc` × 44
+- `ch` × 42
+- `ch2` × 42
+- `flat-h` × 42
+- `lvpill` × 42
+- `chip` × 42
+- `subj-h` × 42
+- `qt` × 42
+- `illus` × 41
+- `sheet` × 39
+- `hm-row` × 37
+- `hm-lab` × 37
+- `hm-n` × 37
+- `hm-t` × 37
+- `tapcap` × 37
+- `chap` × 36
+- `lede` × 36
+- `tight` × 34
+- `tB` × 31
+- `sw` × 30
+- `tA` × 29
+- `dash` × 29
+- `ax` × 28
+- `hmh` × 28
+- `hmh-l` × 28
+- `hmh-title` × 28
+- `hmh-h` × 28
+- `viewbar` × 28
+- `hmh-ln` × 28
+- `hmh-r` × 28
+- `subj` × 28
+- `h3` × 23
+- `trB` × 23
+- `pt` × 21
+- `trA` × 20
+- `wr` × 20
+- `lab` × 19
+- `wide` × 19
+- `mv` × 19
+- `tr` × 14
+- `o3` × 14
+- `hier` × 14
+- `ht` × 14
+- `cm` × 14
+- `fblk` × 14
+- `flats` × 14
+- `lp-sec` × 14
+- `lp-mic` × 14
+- `lp-sub` × 14
+- `qtt` × 14
+- `paper` × 14
+- `qty` × 14
+- `hero` × 13
+- `hero-l` × 13
+- `gschip` × 13
+- `hero-h` × 13
+- `hero-r` × 13
+- `note` × 13
+- `o0` × 13
+- `eb` × 13
+- `cc` × 12
+- `rph` × 12
+- `ric` × 12
+- `rpb` × 12
+- `rpt` × 12
+- `rpl` × 12
+- `tpc` × 12
+- `tpc-l` × 12
+- `tpc-n` × 12
+- `tpc-r` × 12
+- `tp-src` × 12
+- `ov-t` × 11
+- `ov-tot` × 11
+- `ov-w` × 11
+- `mid` × 11
+- `nc` × 10
+- `pr-c` × 10
+- `pr-img` × 10
+- `pr-tx` × 10
+- `pr-tag` × 10
+- `wy` × 9
+- `wk` × 9
+- `gt` × 8
+- `gb` × 8
+- `o2` × 8
+- `take` × 8
+- `an` × 8
+- `long` × 8
+- `fs` × 7
+- `fn` × 7
+- `fl` × 7
+- `ov-n` × 7
+- `pr` × 7
+- `old` × 7
+- `fa` × 5
+- `verdict` × 5
+- `ovv` × 5
+- `vh` × 5
+- `vb` × 5
+- `hm` × 5
+- `hm-head` × 5
+- `legend` × 5
+- `lg-t` × 5
+- `gleg` × 5
+- `yrs2` × 5
+- `qx2` × 5
+- `pr-nt` × 5
+- `hero-tag` × 4
+- `ixg` × 4
+- `hm-grp` × 4
+- `gr` × 4
+- `gl` × 4
+- `o1` × 4
+- `gsubs` × 4
+- `route` × 4
+- `ric1` × 4
+- `ric2` × 4
+- `star` × 4
+- `ric3` × 4
+- `chdiv` × 4
+- `firsth` × 4
+- `lg-r` × 4
+- `par` × 4
+- `topper` × 4
+- `tp-k` × 4
+- `tp-d` × 4
+- `tp-note` × 4
+- `two` × 4
+- `wl1` × 4
+- `small` × 4
+- `wrapup` × 4
+- `wrap-h` × 4
+- `sect-quiet` × 4
+- `interp` × 4
+- `qq` × 4
+- `tapmini` × 3
+- `st` × 3
+- `sn` × 3
+- `sd` × 3
+- `sw3` × 3
+- `s` × 3
+- `o5` × 3
+- `ef` × 3
+- `tp-q` × 3
+- `ref` × 3
+- `ill-papers` × 3
+- `ways` × 3
+- `wl-h` × 3
+- `cur` × 3
+- `chips` × 3
+- `ill-overview` × 2
+- `flow` × 2
+- `skip` × 2
+- `o4` × 2
+- `ill-geography` × 2
+- `ill-history` × 2
+- `ill-society` × 2
+- `rp` × 2
+- `ill-polity` × 2
+- `ill-governance` × 2
+- `ill-international-relations` × 2
+- `ill-social-justice` × 2
+- `ill-indian-economy` × 2
+- `ill-internal-security` × 2
+- `ill-agriculture` × 2
+- `ill-science-technology` × 2
+- `ill-environment` × 2
+- `ill-disaster-management` × 2
+- `ill-ethics-integrity-aptitude` × 2
+
+## Sheet ids (page anchors, in order)
+
