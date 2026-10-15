@@ -13,8 +13,8 @@
 | Phase | What | Output | Status |
 |---|---|---|---|
 | 0 | Setup: branch, inputs copied, this plan, HANDOFF.md | this file | ✅ DONE |
-| 1 | Content audit — parse all v17 cards, categorize, internal-consistency check, download all images | `content_inventory.md` | ✅ DONE — gate: awaiting user confirmation |
-| 2 | Book architecture — reverse-engineer prototype, GS-parted TOC (GS → subject → section_group → subtopic), card→chapter map, illustration plan | `ebook_structure.md` | ⬜ |
+| 1 | Content audit — parse all v17 cards, categorize, internal-consistency check, download all images | `content_inventory.md` | ✅ DONE — gate CONFIRMED by user 2026-10-16 |
+| 2 | Book architecture — reverse-engineer prototype, GS-parted TOC (GS → subject → section_group → subtopic), card→chapter map, illustration plan | `ebook_structure.md` | ▶ IN PROGRESS |
 | 3 | Design tokens — extract fonts/colors/spacing from prototype + spec; catalog the prototype's SVG illustration TYPES for re-creation; build `src/theme.css` + card/callout templates | `design_tokens.md` | ⬜ |
 | 4 | Editorial layer — foreword, How-to-Use, chapter intros; card bodies VERBATIM into `src/` chapter partials | `src/*.html` | ⬜ |
 | 5 | Student-review pass — aspirant read-through, doubt flags, callout suggestions, fixes | `review_notes.md` | ⬜ |
@@ -104,9 +104,10 @@ A card can have several `:::quote` blocks. Only blocks the card originally had a
 
 ## 7. Open questions (resolve at gates)
 
-1. **Image embedding mode:** relative `assets/images/` paths (editable, folder-based deliverable) vs base64-embedded (true single file, heavy). Default: relative paths + a `--embed` build flag for a portable single file. Confirm at the Phase-1 gate.
+1. ~~**Image embedding mode**~~ — **ANSWERED (user, Phase-1 gate, 2026-10-16):** relative `assets/images/` paths are the primary mode (editable folder deliverable). A `--embed` base64 build flag remains available for a portable single file, but relative is the committed default.
 2. **Role of `upsc_readymade_resource_guide.png`** (cover art? appendix? exclude?). Phase 2 proposes.
 3. ~~Prototype's PYQ analytics~~ — **ANSWERED (user, 2026-10-16):** include SVG illustrations of the prototype's TYPES, recreated for our book's own content. Phase 2 decides placement (front-matter analytics + per-GS visuals).
+4. ~~Phase-2 architecture recommendations~~ — **ANSWERED (user, Phase-1 gate, 2026-10-16): "go with your recommendations"** — all six recommendations in `content_inventory.md` §7 are approved: (a) Part=GS paper → Chapter=subject (14) → Section=section_group → card-group=subtopic; (b) GS-4 gets strong internal navigation + its own mini-index; (c) prototype-type SVG illustrations recreated for our content; (d) images via relative paths; (e) detail cards render `:::detail label` headers, multi-quote cards render all quotes in sequence; (f) the 5 universal_template cards are visually marked as practice skeletons.
 
 ## 8. Worklog protocol (all agents)
 
