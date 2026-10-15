@@ -607,3 +607,19 @@ Stage Summary:
 - Artifacts: c11_verify/ folder with per-tier cards.json + verify.json + classified.md, plus quotes_review.csv/.md.
 - Pending: Tier D (57 cards, suspect/possibly invented attributions) and Tier E (21 cards, no attribution / duplicate). User decision needed on whether to proceed.
 - IMPORTANT: user-supplied GitHub PAT was used only on the git push command line; not written to any file or worklog. User should revoke this PAT at https://github.com/settings/tokens since it appeared in a chat transcript.
+
+---
+Task ID: 0
+Agent: Super Z (main, orchestrator)
+Task: Stage 2 Phase 0 — setup: inspect prior project state, create Stage-2 governance docs and repo structure, first push.
+
+Work Log:
+- User uploaded Stage-2 inputs: merged_publish_ready_v17(1).md (551 cards, `## id:` format), DESIGN_MAGAZINE_ARTICLE_PAGES.md, prototype HTML "PYQ Nano Analysis — GS Mains (prototype 25)" (design benchmark), UPSC readymade resource guide PNG.
+- Cloned repo (PAT command-line only). Read PLAN.md, worklog tail, design spec, prototype structure (Fraunces / IBM Plex Sans / IBM Plex Mono; sage-gold palette; inline SVG analytics).
+- Counts: JSON 789 → c11_verify/MERGED_publish_ready 710 → user v17 551 (delta to be reconciled in Phase 1).
+- Created inputs/ (4 files), assets/images/, src/, scripts/stage2/. Wrote PLAN_EBOOK.md (phase table, iron rules, QA gates, open questions) + HANDOFF.md. Banner added to top of PLAN.md pointing to Stage-2 docs.
+- User decisions locked: final = editable HTML (not PDF) with A4 @media print CSS; title "PYQ Nano Analysis — GS Mains · The Answer-Writing Playbook"; GS Mains answer-writing audience; src/ partials + assembled final_ebook.html both committed; Foreword + How-to-Use section only; prototype = design source of truth.
+
+Stage Summary:
+- Phase 0 complete. Iron rules: card bodies VERBATIM (Stage-1 protected content), no hotlinks, push after every phase, Stage-1 files frozen.
+- Next: Phase 1 content audit (subagent) → content_inventory.md; gate: report to user and WAIT for confirmation.

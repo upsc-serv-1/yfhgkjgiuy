@@ -1,5 +1,10 @@
 # PLAN.md: UPSC Mains "Intro and Conclusions" ebook polish
 
+> **⚠️ STAGE 2 HAS STARTED (2026-10-16).** This file documents **Stage 1 (content polishing), which is COMPLETE and FROZEN.**
+> The project has moved to Stage 2: building the HTML eBook from the publish-ready cards.
+> **Read `PLAN_EBOOK.md` (Stage-2 plan) and `HANDOFF.md` (live status) first.**
+> The protected-content rules in this file (§3) STILL APPLY to every agent touching card content.
+
 # START HERE (status at handoff, written when the previous agent stopped)
 
 **Done:** **ALL 789 of 789 cards are polished.** `MERGED_full_1-789.md` covers every card and passes `verify_protected.py` with **0 errors** (772 warnings, all of the accepted kinds in section 14). GS-2, GS-3, GS-4 and GS-1 are all fully done.. All pass `verify_protected.py` with **0 errors** (no quote, number or data item lost or changed). About 456 warnings remain; they are the accepted kinds explained in section 14 (short fact lines, term-list cards, expanded abbreviations).
