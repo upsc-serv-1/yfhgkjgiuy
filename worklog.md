@@ -60,3 +60,17 @@ Work Log:
 
 Stage Summary:
 - Phase 2 complete and self-audited: hierarchy == user taxonomy exactly, all 551 cards anchored, images local+relative. Next: Phase 3 design tokens (extract from prototype CSS → design_tokens.md + src/theme.css + component templates).
+
+---
+Task ID: 3
+Agent: Super Z (main, orchestrator)
+Task: Phase 3 — design tokens: extract prototype CSS, build src/theme.css + design_tokens.md.
+
+Work Log:
+- Extracted prototype <style> (98.5KB) → scripts/stage2/prototype_style_raw.css; pulled key component rules (book/sheet/topbar/verdict/take/note/hero/gschip/chips/hm heatmap/tier/dots/ov blocks/print media queries).
+- Read DESIGN_MAGZ_SPEC.md fully (box anatomy: context/drill/factsheet boxes with left accent bars; booktabs table standard; running footer spec).
+- Wrote src/theme.css (12 sections): prototype-parity tokens, sheet system, topbar/foot, headings, card components (pull/ex/data/conc/detail-p/fig/badge-skel), section/subtopic bands, analytics components (band/tier/dots/hm grid), index rows, cover stat strip, A4 print block (one sheet = one page).
+- Wrote design_tokens.md: color tokens, type scale, geometry, v17-block→component catalog, I1–I9 illustration library with data bindings, rules of use, self-audit.
+
+Stage Summary:
+- Phase 3 complete: design system implemented and documented; every v17 block type has exactly one component mapping; box interior (#F5F8F5) is the only spec-adapted token (logged). Next: Phase 4 editorial layer — foreword, How-to-Use, chapter intros (NEW text) + 551 card bodies VERBATIM into src/ partials via card→HTML converter.
