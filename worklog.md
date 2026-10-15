@@ -74,3 +74,18 @@ Work Log:
 
 Stage Summary:
 - Phase 3 complete: design system implemented and documented; every v17 block type has exactly one component mapping; box interior (#F5F8F5) is the only spec-adapted token (logged). Next: Phase 4 editorial layer — foreword, How-to-Use, chapter intros (NEW text) + 551 card bodies VERBATIM into src/ partials via card→HTML converter.
+
+---
+Task ID: 4
+Agent: Super Z (main, orchestrator)
+Task: Phase 4 — editorial layer: 551 card bodies VERBATIM into src/ chapter partials + all front/back matter partials.
+
+Work Log:
+- convert_cards.py: v17 → HTML with text-fidelity verification gate (fails hard on any mismatch). Fixed 3 defect classes found by the verifier: (a) leading paragraphs before bullets → element model (parse_elements: 'p' + 'ul' runs); (b) triple-star nested emphasis (**a *b***) via marker pre-pass, em-then-bold order; (c) entity/normalization in the verifier itself. RESULT: VERBATIM VERIFICATION PASSED — all non-image blocks of all 551 cards text-identical to v17.
+- 14 chapter partials (ch01–ch14): chapter hero (meta chips + "In this chapter" anchor list), section sheets (kicker + h2 + subtopic chips), subtopic bands + 551 card articles (pull/ex/data/conc/detail-p components, card-id stamps, microtopic lines, PRACTICE SKELETON badges on the 5 flagged cards, image figures via manifest with relative paths).
+- build_front.py: fm1 cover (typographic + stat strip), fm2 foreword (NEW mentor text), fm3 how-to-use (card anatomy, 3 navigation paths, visual legend, 30/60/90-day route tables — NEW), fm4 glance (I1 donut by paper, I2 subject bands, I9 cross-paper table — all from book's own data), pt1–pt4 openers (I1 subject donut, I3 tier rows, I5 top-subtopic dot rows, I4 section×subtopic heatmap with links; GS-4 opener carries the locked mini-index).
+- build_back.py: bm1 master index (lead sheet + 4 GS-wise sheets: subject → section → subtopic → 551 card links), bm2 back cover (closing note + companion-resources panel with resource-guide PNG per Phase-2 proposal).
+- Counts verified: 551 card articles, 551 index links, 209 subtopic rows, 21 partials + theme.css.
+
+Stage Summary:
+- Phase 4 complete. All content partials exist; verbatim gate green. Next: Phase 5 student-review pass (editorial text read-through, doubt flags) → review_notes.md; then Phase 6 (toc_index.md), Phase 7 (build.py assembly → final_ebook.html), Phase 8 (QA → qa_report.md → USER GATE).
