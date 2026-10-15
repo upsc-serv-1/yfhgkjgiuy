@@ -318,6 +318,66 @@ def render_block_for_verify(b, c):
     return block_html(b, card_ctx(c))
 
 
+WORDS_PER_SHEET = 420  # magazine sheet budget (body words) for auto-pagination
+
+
+def emit_section(L, paper, ch_no, disp, s, by_id, card_wc):
+    """Emit one section_group as 1..n sheets: opener sheet carries the section
+    header + subtopic chips; content auto-paginates at ~WORDS_PER_SHEET words
+    with a running topbar on every sheet (prototype-style pages)."""
+    sub_count = sum(len(t["cards"]) for t in s["subtopics"])
+    pt_anchor = "pt-" + paper.lower().replace("-", "")
+    crumb = (f'<a href="#{pt_anchor}">{esc(paper)}</a> · '
+             f'<a href="#ch-{ch_no}">{esc(disp)}</a> · {esc(s["title"])}')
+
+    def top_block(cont):
+        stamp = f"SECTION {s['no']:02d} OF 48" + ("<br/>CONT." if cont else "")
+        return ('<div class="sheet">\n  <div class="topbar">\n    <div class="brand">PYQ Nano Analysis '
+                '<span class="mono" style="font-size:9px;color:var(--mut)">GS MAINS</span></div>\n'
+                f'    <div class="crumb">{crumb}</div>\n'
+                f'    <div class="stamp">{stamp}<br/><span class="pg-n">·</span></div>\n'
+                '  </div>\n  <div class="rule"></div>')
+
+    FOOT = ('  <div class="foot"><span>PYQ NANO ANALYSIS — GS MAINS · THE ANSWER-WRITING PLAYBOOK</span>'
+            '<span class="pg-n">·</span></div>\n</div>')
+
+    header = (f'\n  <div class="sec-h" id="{s["anchor"]}">\n'
+              f'    <span class="k">SECTION {s["no"]:02d} · {esc(paper)}</span>\n'
+              f'    <h2>{esc(s["title"])}</h2>\n'
+              f'    <span class="n">{sub_count} CARDS · {len(s["subtopics"])} SUBTOPICS</span>\n'
+              '  </div>\n  <div class="chips">\n' + "\n".join(
+                  f'    <a class="chip" href="#{t["anchor"]}">{esc(t["title"])}</a>'
+                  for t in s["subtopics"]) + '\n  </div>')
+
+    body, wc, cont = [header], 16, False
+
+    def close_sheet():
+        nonlocal body, wc, cont
+        L.append(top_block(cont) + "\n" + "\n".join(body) + "\n" + FOOT)
+        body, wc, cont = [], 0, True
+
+    for t in s["subtopics"]:
+        cids = t["cards"]
+        band = (f'\n  <div class="sub-h" id="{t["anchor"]}">\n'
+                f'    <h3>{esc(t["title"])}</h3>\n'
+                f'    <span class="cnt">{len(cids)} CARD{"S" if len(cids) > 1 else ""}</span>\n  </div>')
+        first_wc = card_wc[cids[0]]
+        # keep the opener header with its first group; break only on continuations
+        if cont and wc + 10 + first_wc > WORDS_PER_SHEET:
+            close_sheet()
+        body.append(band)
+        body.append(card_html(by_id[cids[0]]))
+        wc += 10 + first_wc
+        for cid in cids[1:]:
+            cwc = card_wc[cid]
+            if wc + cwc > WORDS_PER_SHEET:
+                close_sheet()
+            body.append(card_html(by_id[cid]))
+            wc += cwc
+    if body:
+        close_sheet()
+
+
 def main():
     text = SRC.read_text(encoding="utf-8")
     cards = parse_cards(text)
@@ -365,37 +425,11 @@ def main():
   </div>
   <div class="foot"><span>PYQ NANO ANALYSIS — GS MAINS · THE ANSWER-WRITING PLAYBOOK</span><span class="pg-n">·</span></div>
 </div>''')
-        # ---- sections ----
+        # ---- sections (auto-paginated sheets with running topbars) ----
+        card_wc = {c["id"]: sum(len(l.split()) for b in c["blocks"] for l in b["lines"])
+                   for c in cards}
         for s in ch["sections"]:
-            sub_count = sum(len(t["cards"]) for t in s["subtopics"])
-            L.append(f'''
-<div class="sheet">
-  <div class="topbar">
-    <div class="brand">PYQ Nano Analysis <span class="mono" style="font-size:9px;color:var(--mut)">GS MAINS</span></div>
-    <div class="crumb"><a href="#pt-{ch['paper'].lower().replace('-', '')}">{esc(ch['paper'])}</a> · <a href="#ch-{no}">{esc(disp)}</a> · {esc(s['title'])}</div>
-    <div class="stamp">SECTION {s['no']:02d} OF 48<br/><span class="pg-n">·</span></div>
-  </div>
-  <div class="rule"></div>
-  <div class="sec-h" id="{s['anchor']}">
-    <span class="k">SECTION {s['no']:02d} · {esc(ch['paper'])}</span>
-    <h2>{esc(s['title'])}</h2>
-    <span class="n">{sub_count} CARDS · {len(s['subtopics'])} SUBTOPICS</span>
-  </div>
-  <div class="chips">''' + "\n".join(
-                f'    <a class="chip" href="#{t["anchor"]}">{esc(t["title"])}</a>'
-                for t in s["subtopics"]) + '''
-  </div>
-  <div class="foot"><span>PYQ NANO ANALYSIS — GS MAINS · THE ANSWER-WRITING PLAYBOOK</span><span class="pg-n">·</span></div>
-</div>''')
-            # ---- subtopic groups + cards ----
-            for t in s["subtopics"]:
-                L.append(f'''
-  <div class="sub-h" id="{t['anchor']}">
-    <h3>{esc(t['title'])}</h3>
-    <span class="cnt">{len(t['cards'])} CARD{'S' if len(t['cards']) > 1 else ''}</span>
-  </div>''')
-                for cid in t["cards"]:
-                    L.append(card_html(by_id[cid]))
+            emit_section(L, ch["paper"], no, disp, s, by_id, card_wc)
         out = "\n".join(L) + "\n"
         (REPO / "src" / ch["src_file"]).write_text(out, encoding="utf-8")
         n_files += 1

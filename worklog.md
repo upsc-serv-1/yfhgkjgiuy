@@ -89,3 +89,17 @@ Work Log:
 
 Stage Summary:
 - Phase 4 complete. All content partials exist; verbatim gate green. Next: Phase 5 student-review pass (editorial text read-through, doubt flags) → review_notes.md; then Phase 6 (toc_index.md), Phase 7 (build.py assembly → final_ebook.html), Phase 8 (QA → qa_report.md → USER GATE).
+
+---
+Task ID: 5
+Agent: Super Z (main, orchestrator)
+Task: Phase 5 — student-review pass: link/nav integrity, editorial text audit, rendering edge cases, fixes.
+
+Work Log:
+- Scripted integrity: found 4 unresolved #fm-glance links (missing id) → fixed (+ added fm-cover/fm-foreword/fm-howto ids); 0 duplicate ids; 551 card articles; 551 index links; 38/38 image files exist.
+- STRUCTURAL DEFECT FOUND & FIXED: cards were emitted outside .sheet containers (would render on desk background). Rewrote section emission as emit_section() with auto-pagination (~420 words/sheet), running topbars (crumb + SECTION NN · CONT. stamps) + feet. Book now = 239 sheets. Verbatim gate re-run: PASSED.
+- Editorial audit: route math verified (265 = GS-2+GS-4), softened "full official syllabus" → "follow the official syllabus", rebuilt fm4 cross-paper table from real section names (5 defensible pairs), banned-words scan on all NEW text = clean.
+- review_notes.md written: findings, fixes, 4 non-blocking doubts flagged for the Phase-8 user gate (typographic cover, back-cover PNG role, long opener/index sheets in print, no per-card callouts by design).
+
+Stage Summary:
+- Phase 5 complete — no blockers. Next: Phase 6 (toc_index.md), Phase 7 (build.py → final_ebook.html with page-number stamping), Phase 8 (QA audit → qa_report.md → USER GATE).

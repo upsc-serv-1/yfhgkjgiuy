@@ -186,7 +186,7 @@ def fm1():
   <div class="rule"></div>
   <div style="padding:120px 0 0">
     <div class="lab" style="color:var(--gold)">THE ANSWER-WRITING PLAYBOOK</div>
-    <h1 style="font-size:56px;letter-spacing:-1.5px">PYQ Nano<br/>Analysis</h1>
+    <h1 id="fm-cover" style="font-size:56px;letter-spacing:-1.5px">PYQ Nano<br/>Analysis</h1>
     <p class="lede" style="font-size:14px;margin-top:14px">GS Mains · Papers I–IV · {t["cards"]} ready answer cards,
     built from previous-year questions and arranged the way the syllabus is examined.</p>
   </div>
@@ -207,7 +207,7 @@ def fm1():
 def fm2():
     inner = f'''{topbar("FRONT MATTER", "Foreword", "FOREWORD")}
   <div class="lab" style="color:var(--gold)">FOREWORD</div>
-  <h1>Why this book exists</h1>
+  <h1 id="fm-foreword">Why this book exists</h1>
   <p class="lede">Mains is not a knowledge test. It is a recall-and-writing test under a strict clock.
   This book turns previous-year questions into small answer units you can revise fast.</p>
   <p>Most aspirants already own thick books. The problem is not material. The problem is shape:
@@ -251,7 +251,7 @@ def fm3():
   </table>'''
     inner = f'''{topbar("FRONT MATTER", "How to Use", "HOW TO USE")}
   <div class="lab" style="color:var(--gold)">HOW TO USE THIS BOOK</div>
-  <h1>Read cards, not chapters</h1>
+  <h1 id="fm-howto">Read cards, not chapters</h1>
   <p class="lede">This book is a deck of {t["cards"]} answer cards. Each card is self-contained.
   You can open any page and revise for five useful minutes.</p>
 
@@ -309,13 +309,13 @@ def fm4():
             subj_segs.append((f'{ch["display"]} ({p["paper"]})', ch["card_count"],
                               SUBJECT_COLORS[i % len(SUBJECT_COLORS)]))
     bands = band_html(subj_segs)
-    # cross-paper themes I9 (curated from section_group names present in 2+ papers)
+    # cross-paper themes I9 — curated from actual section_group names present in 2+ papers
     cross = [
-        ("Governance", "GS-2 Governance", "GS-4 Governance &amp; Probity"),
-        ("Security", "GS-3 Internal Security", "GS-3 Challenges to Internal Security"),
-        ("Environment", "GS-3 Environment", "GS-3 Disaster Management"),
-        ("Ethics in public life", "GS-4 Ethical Governance", "GS-2 Governance"),
-        ("Technology &amp; society", "GS-3 Science &amp; Technology", "GS-2 Social Justice"),
+        ("Poverty &amp; welfare", "GS-1 · Poverty, Empowerment &amp; Development", "GS-2 · Poverty &amp; Hunger"),
+        ("Climate", "GS-1 · Environmental Geography &amp; Climate Dynamics", "GS-3 · Climate Change"),
+        ("Accountability &amp; corruption", "GS-2 · Accountability &amp; Civil Services", "GS-4 · Governance &amp; Probity"),
+        ("Ethics in world affairs", "GS-2 · Global Geopolitics &amp; Indian Diaspora", "GS-4 · Applied Ethics"),
+        ("Disasters &amp; hazards", "GS-1 · Physical Geography &amp; Geophysical Phenomena", "GS-3 · Specific Disasters &amp; Hazards"),
     ]
     cross_rows = "\n".join(
         f'<tr><td style="padding:5px 8px;border-bottom:1px solid var(--hair);font-size:11px"><strong>{a}</strong></td>'
@@ -325,7 +325,7 @@ def fm4():
     )
     inner = f'''{topbar("FRONT MATTER", "The Book at a Glance", "GLANCE")}
   <div class="lab" style="color:var(--gold)">THE BOOK AT A GLANCE</div>
-  <h1>All four papers, side by side</h1>
+  <h1 id="fm-glance">All four papers, side by side</h1>
   <p class="lede">These visuals count the cards of this book — not exam marks. Darker and longer
   simply mean more cards, so you can see where the book's weight sits.</p>
   <h2>Share of cards by paper</h2>
@@ -396,7 +396,7 @@ def part_opener(p):
       <span class="gschip">{paper}</span>
       <div class="hero-tag" style="margin-top:10px">PART {roman} · {p['card_count']} CARDS</div>
       <h1 id="{anchor}" style="font-size:34px">{PAPER_TITLES[paper]}</h1>
-      <p class="lede tight">{'Cards in this part cover the full official syllabus of the paper. The tier table below shows where the book concentrates.' if paper != 'GS-4' else 'This is the largest part of the book. Its cards share one answer grammar: concept, thinker or case, application, and a values-based close.'}</p>
+      <p class="lede tight">{'Cards in this part follow the official syllabus of the paper. The tier table below shows where this book concentrates.' if paper != 'GS-4' else 'This is the largest part of the book. Its cards share one answer grammar: concept, thinker or case, application, and a values-based close.'}</p>
     </div>
     <div class="hero-r">{donut}</div>
   </div>
