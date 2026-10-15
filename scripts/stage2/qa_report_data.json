@@ -1,0 +1,52 @@
+{
+ "cards_present": {
+  "articles": 551,
+  "unique": 551,
+  "pass": true
+ },
+ "protected_content": {
+  "cards_compared": 551,
+  "block_mismatches": 0,
+  "digit_mismatch_cards": 0,
+  "sample": [],
+  "pass": true
+ },
+ "images": {
+  "imgs": 38,
+  "hotlinked": 0,
+  "missing_alt": 0,
+  "external_srcs": [],
+  "pass": true
+ },
+ "links": {
+  "ids": 836,
+  "hrefs": 1696,
+  "unresolved": [],
+  "duplicate_ids": [],
+  "pass": true
+ },
+ "headings": {
+  "skipped_levels": 0,
+  "pass": true
+ },
+ "print_css": {
+  "missing": [],
+  "pass": true
+ },
+ "sanity": {
+  "checks": {
+   "lang_attr": true,
+   "title": true,
+   "meta_desc": true,
+   "font_fallbacks": true,
+   "no_backdrop_filter": true,
+   "no_todo_markers": true,
+   "pg_numbers_stamped": true,
+   "tags_balanced": true
+  },
+  "pass": true
+ },
+ "overall_pass": true,
+ "sheets": 239,
+ "size_mb": 1.23
+}

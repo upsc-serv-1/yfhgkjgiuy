@@ -103,3 +103,18 @@ Work Log:
 
 Stage Summary:
 - Phase 5 complete — no blockers. Next: Phase 6 (toc_index.md), Phase 7 (build.py → final_ebook.html with page-number stamping), Phase 8 (QA audit → qa_report.md → USER GATE).
+
+---
+Task ID: 6-7-8
+Agent: Super Z (main, orchestrator)
+Task: Phases 6–8 — TOC/index documentation, assembly, QA audit (final gate before user).
+
+Work Log:
+- toc_index.md: navigation surfaces table, anchor namespace (832+ ids, 0 dupes), index counts, page-numbering scheme.
+- build.py: assembles final_ebook.html in reading order (fm → pt+ch interleaved → bm), inlines theme.css, stamps sequential page numbers (NNN / 239) into every .pg-n (topbar stamp + foot), supports --embed base64 mode, runs self-checks. OUTPUT: 1.23 MB, 239 sheets, 551 cards, 0 unresolved anchors.
+- qa_check.py (PLAN §6 checklist): card presence 551/551; protected-content verbatim diff of the ASSEMBLED file vs v17 (0 block mismatches, 0 digit mismatches — digit check excludes image blocks whose URLs→local files by design); images 38/38 local with alt; 1,695 links 0 unresolved; heading hierarchy 0 skips; print CSS complete; HTML sanity green (lang/title/meta/fallbacks/no backdrop-filter/balanced tags/page numbers). VERDICT: QA PASSED — all checks green.
+- qa_report.md written with full results table + 4 non-blocking doubts for the user gate.
+- PLAN.md status table → all phases 0–8 ✅; HANDOFF.md → complete state + rebuild instructions.
+
+Stage Summary:
+- Book complete: final_ebook.html (551 verbatim cards, 239 sheets) + 21 modular src/ partials + full pipeline scripts. Phase-8 USER GATE: reported, WAITING for decisions on the 4 doubts (typographic cover / back-cover PNG / long opener sheets in print / no per-card callouts).

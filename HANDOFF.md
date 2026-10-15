@@ -1,10 +1,10 @@
 # HANDOFF.md — Live Handoff (any agent: read this FIRST, then PLAN.md)
 
-**Last updated:** 2026-10-16 · **Phase 2 (Book architecture) DONE — Phase 3 (Design tokens) IN PROGRESS** · Branch: `ebook-build` (this branch IS the project) · Repo: `upsc-serv-1/yfhgkjgiuy`
+**Last updated:** 2026-10-16 · **Phases 0–8 COMPLETE — final_ebook.html built and QA-PASSED — AWAITING USER GATE (Phase 9)** · Branch: `ebook-build` (this branch IS the project) · Repo: `upsc-serv-1/yfhgkjgiuy`
 
 ## Current state in one paragraph
 
-The project converts `inputs/merged_publish_ready_v17.md` (551 polished UPSC GS Mains cards — the user-confirmed FINAL content) into a magazine-style, editable HTML eBook (`final_ebook.html`) designed after `inputs/prototype_pyq_nano_gs_mains.html`. **Phase 2 is complete and pushed:** `ebook_structure.md` defines the full architecture — Part=GS paper → Chapter=subject (14, `ch01`–`ch14`) → Section=section_group (48) → card-group=subtopic (209) → cards (551, anchors `#card-<ID>`), 21 src/ partials + `theme.css`, ~205 A4 sheets, 9 recreated SVG illustration types (I1–I9) driven by our own card data, prototype anatomy mapped in `scripts/stage2/prototype_skeleton.md`, machine map in `scripts/stage2/book_map.json`. Back-cover proposal for the resource-guide PNG is isolated in `bm2_back_cover.html` (reversible). **Phase 3 (design tokens → `design_tokens.md` + `src/theme.css`) is in progress.** Nothing has touched any card body yet. **GitHub `main` holds an OLD, superseded project — ignore it completely.**
+The eBook is **built and QA-verified**: `final_ebook.html` (1.23 MB, 239 sheets, all 551 v17 cards verbatim — 0 text mismatches, 0 digit mismatches, 0 broken links, 0 hotlinks, print-safe A4 CSS) plus its modular sources (21 `src/` partials + `theme.css`, all regenerable via `scripts/stage2/` pipeline). Structure: cover → foreword → how-to-use (30/60/90 routes) → book-at-a-glance analytics (recreated SVGs from our own data) → 4 parts × 14 chapters (auto-paginated sheets, running topbars) → GS-wise master index (all 551 cards) → back cover. **The orchestrator has reported the Phase-8 gate and is WAITING for user decisions** on the 4 non-blocking doubts in `qa_report.md` (typographic cover, back-cover resource-guide PNG, long opener/index sheets in print, no per-card callouts). Rebuild anytime: `python scripts/stage2/build.py` (or `--embed` for a portable single file). **GitHub `main` holds an OLD, superseded project — ignore it completely.**
 
 ## User decisions already locked (do not re-ask)
 
@@ -26,9 +26,9 @@ The project converts `inputs/merged_publish_ready_v17.md` (551 polished UPSC GS 
 1. Confirm you are on `ebook-build` (`git branch --show-current`). Clone with `git clone -b ebook-build <repo-url>` if starting fresh.
 2. Read `PLAN.md` fully (phase table, iron rules, file map, open questions).
 3. Read the tail of `worklog.md` for the latest completed Task ID.
-4. `content_inventory.md` EXISTS and is complete — Phase 1 is done and the gate is CONFIRMED. Phase 2 (`ebook_structure.md`) is in progress per PLAN.md.
-5. Follow the gate rule: after Phase 1 and Phase 8, STOP and report to the user; other phases proceed after self-audit.
-6. After every phase: update the status table in `PLAN.md`, update this file, append to `worklog.md`, then commit and push (`phase-N: summary`).
+4. **All phases 0–8 are complete.** The Phase-8 user gate is pending: 4 non-blocking doubts listed in `qa_report.md` §"Doubts carried to the user gate". Apply user decisions (if any), then run `python scripts/stage2/qa_check.py` + commit.
+5. Rebuild after ANY src/ change: `python scripts/stage2/build.py` then `python scripts/stage2/qa_check.py` (both must stay green).
+6. After every change: update the status table in `PLAN.md`, update this file, append to `worklog.md`, then commit and push (`phase-N: summary`).
 
 ## DO NOT
 
