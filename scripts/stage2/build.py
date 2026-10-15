@@ -1,11 +1,11 @@
 #!/usr/bin/env python3
-"""Phase 7 — assemble final_ebook.html from src/ partials.
+"""Phase 7 (v2, post-review) — assemble final_ebook.html from src/ partials.
 
-Order: fm1 cover · fm2 foreword · fm3 how-to-use · fm4 glance ·
-       pt1..pt4 part openers with their chapters interleaved ·
-       bm1 index · bm2 back cover.
-Also: inlines src/theme.css into a single <style>, stamps sequential page
-numbers into every .pg-n placeholder (topbar stamp + foot per sheet), and
+Order: fm1 cover · fm2 foreword · fm3 how-to-use · bm1 subject-wise index
+       (clickable CONTENTS, front position) · pt1..pt4 part openers with their
+       chapters interleaved · bm2 back cover.
+Also: inlines src/theme.css into a single <style>, adds the floating INDEX
+button, stamps sequential page numbers into every .pg-n placeholder, and
 runs assembly self-checks (card count, anchor resolution).
 
 Usage:
@@ -22,7 +22,9 @@ SRC = REPO / "src"
 OUT = REPO / "final_ebook.html"
 
 ORDER = [
-    "fm1_cover.html", "fm2_foreword.html", "fm3_how_to_use.html", "fm4_glance.html",
+    "fm1_cover.html", "fm2_foreword.html", "fm3_how_to_use.html",
+    # subject-wise clickable index — front position, right after How-to-Use
+    "bm1_index.html",
     # GS-1
     "pt1_gs1_opener.html", "ch01_history.html", "ch02_geography.html", "ch03_society.html",
     # GS-2
@@ -34,7 +36,7 @@ ORDER = [
     # GS-4
     "pt4_gs4_opener.html", "ch14_ethics.html",
     # back matter
-    "bm1_index.html", "bm2_back_cover.html",
+    "bm2_back_cover.html",
 ]
 
 HEAD = """<!DOCTYPE html>
@@ -52,6 +54,7 @@ HEAD = """<!DOCTYPE html>
 </head>
 <body>
 <a class="skip" href="#fm-cover">Skip to cover</a>
+<a class="to-ix" href="#ix-master" title="Jump to the subject-wise index">INDEX</a>
 <div class="book">
 """
 
@@ -108,7 +111,7 @@ def main():
     OUT.write_text(html, encoding="utf-8")
 
     # ---- self-checks ----
-    n_cards = len(re.findall(r'<article class="card" id="card-', html))
+    n_cards = len(re.findall(r'<article class="card[^"]*" id="card-', html))
     ids = set(re.findall(r'id="([^"]+)"', html))
     hrefs = re.findall(r'href="#([^"]+)"', html)
     unresolved = sorted({h for h in hrefs if h not in ids})

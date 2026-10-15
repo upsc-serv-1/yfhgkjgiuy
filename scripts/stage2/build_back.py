@@ -24,7 +24,7 @@ def esc(t):
 def topbar(crumb_right, stamp):
     return f'''  <div class="topbar">
     <div class="brand">PYQ Nano Analysis <span class="mono" style="font-size:9px;color:var(--mut)">GS MAINS</span></div>
-    <div class="crumb">BACK MATTER · {crumb_right}</div>
+    <div class="crumb">CONTENTS · {crumb_right}</div>
     <div class="stamp">{stamp}<br/><span class="pg-n">·</span></div>
   </div>
   <div class="rule"></div>'''
@@ -39,11 +39,12 @@ def bm1():
     t = MAP["totals"]
     # index pages: one sheet per part (+ a lead sheet)
     sheets = []
-    lead = f'''{topbar("Master Index", "INDEX")}
-  <div class="lab" style="color:var(--gold)">MASTER INDEX</div>
-  <h1 id="ix-master">Every card, in syllabus order</h1>
-  <p class="lede">The index follows the book's taxonomy: paper → subject → syllabus section →
-  subtopic → cards. All {t["cards"]} cards are reachable from the four pages that follow.</p>
+    lead = f'''{topbar("Subject-wise Index", "CONTENTS")}
+  <div class="lab" style="color:var(--gold)">CONTENTS · SUBJECT-WISE INDEX</div>
+  <h1 id="ix-master">Every card, subject by subject</h1>
+  <p class="lede">All {t["cards"]} card titles are listed below — paper by paper, then subject,
+  syllabus section, and subtopic. <strong>Every title is a link: click it to jump straight to its card.</strong>
+  On screen, the INDEX button at the bottom-right corner brings you back here from anywhere.</p>
   <div class="chips">
     <a class="chip" href="#ix-gs1">GS-1 · {sum(p['card_count'] for p in MAP['parts'] if p['paper']=='GS-1')} cards</a>
     <a class="chip" href="#ix-gs2">GS-2 · {sum(p['card_count'] for p in MAP['parts'] if p['paper']=='GS-2')} cards</a>
@@ -58,7 +59,7 @@ def bm1():
 
     for p in MAP["parts"]:
         paper = p["paper"]
-        rows = [f'{topbar(f"Master Index · {paper}", f"INDEX · PART {ROMAN[paper]}")}']
+        rows = [f'{topbar(f"Subject-wise Index · {paper}", f"CONTENTS · PART {ROMAN[paper]}")}']
         rows.append(f'  <div class="ix-ch" id="ix-{paper.lower().replace("-", "")}">')
         rows.append(f'    <a class="t" href="#pt-{paper.lower().replace("-", "")}">{paper}</a>')
         rows.append(f'    <span class="n">{p["card_count"]} CARDS · {len(p["chapters"])} SUBJECTS</span></div>')
@@ -87,7 +88,12 @@ def bm1():
 
 def bm2():
     t = MAP["totals"]
-    inner = f'''{topbar("Closing", "BACK COVER")}
+    inner = f'''  <div class="topbar">
+    <div class="brand">PYQ Nano Analysis <span class="mono" style="font-size:9px;color:var(--mut)">GS MAINS</span></div>
+    <div class="crumb"><a href="#ix-master">CONTENTS</a> · Closing</div>
+    <div class="stamp">BACK COVER<br/><span class="pg-n">·</span></div>
+  </div>
+  <div class="rule"></div>
   <div style="padding:40px 0 0">
     <div class="lab" style="color:var(--gold)">CLOSING NOTE</div>
     <h1 style="font-size:34px">Now write.</h1>

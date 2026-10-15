@@ -118,3 +118,23 @@ Work Log:
 
 Stage Summary:
 - Book complete: final_ebook.html (551 verbatim cards, 239 sheets) + 21 modular src/ partials + full pipeline scripts. Phase-8 USER GATE: reported, WAITING for decisions on the 4 doubts (typographic cover / back-cover PNG / long opener sheets in print / no per-card callouts).
+
+---
+Task ID: 8R
+Agent: Super Z (main, orchestrator)
+Task: User design review fixes (v2) — remove blind-copied analytics, make index clickable/prominent, restyle cards as rounded boxes.
+
+Work Log:
+- Analyzed user's reference screenshot (VLM): white rounded cards, ~10px radius, soft shadow, coloured section labels (QUOTE/INTRODUCTION/EXAMPLES/CONCLUSION), tinted quote panel.
+- Diagnosed v1 defects: part openers + "Book at a Glance" page full of count-analytics (donuts, stacked bands, tier bars, dot rows, 210 heatmap cells); index buried at sheet 228/239; cards rendered as unboxed flows (no visual card boundary).
+- theme.css v2: card = white 12px-rounded box + 3px paper-colour top edge (.gs1 gold/.gs2 teal/.gs3 green/.gs4 deep), dashed rule under title, card-id pill; coloured labels + tinted rounded panels for QUOTE (gold)/INTRODUCTION (teal)/EXAMPLES (green)/DATA (deep)/CONCLUSION (green); DETAIL kept sage+gold; analytics CSS (ov/band/tier/dots/hm/legend, --b1..b5) deleted; .to-ix floating INDEX button added (hidden in print).
+- convert_cards.py: per-paper card classes; QUOTE/INTRODUCTION/DATA labels added (chrome text only — verbatim gate unaffected); INDEX link appended to every sheet breadcrumb; 551/551 verbatim verification re-passed.
+- build_front.py rewritten: fm4 glance page DELETED; part openers rebuilt as pure navigation (part title + chapter chips + syllabus-section links + GS-4 mini-index kept); cover gains CONTENTS + HOW TO USE chips; how-to-use rewritten (card anatomy demo in a real card box, "How to reach any card" = index / INDEX button / breadcrumbs); analytics helpers removed.
+- build_back.py: index retitled "CONTENTS · Every card, subject by subject" with explicit click-to-jump lede; back-cover topbar fixed.
+- build.py: ORDER now cover → foreword → how-to-use → bm1 INDEX (front position) → parts/chapters → back cover; floating INDEX button injected; card-count regex updated for .gsN classes. qa_check.py regexes updated likewise.
+- Rebuilt: 238 sheets, 1.18 MB. qa_check.py ALL GREEN (551 cards, 0 text/digit mismatches, 0 unresolved links, 0 dup ids, headings clean).
+- Browser verification (agent-browser): INDEX button click → #ix-master works; trusted click on card title "Medieval Bhakti and Sufi Literature" → card lands at viewport top (y=19503); screenshots vision-checked: card boxes/labels render correctly, part opener has zero charts, index titles clearly clickable.
+- Docs updated: design_tokens.md (v2 card system + navigation system replaces analytics library), qa_report.md (v2 numbers + browser checks), toc_index.md (front-position index), PLAN.md (phase 8R + iron rules 11-12), HANDOFF.md (decisions 13-15, #9 superseded).
+
+Stage Summary:
+- v2 build complete and pushed: analytics-free, clickable front-matter index, card-in-rounded-box design. All 551 cards still verbatim. Awaiting user acceptance.

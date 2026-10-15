@@ -256,10 +256,14 @@ def verify_text_fidelity(cards, render):
 
 
 # ------------------------------------------------------------- rendering ---
+GS_CLASS = {"GS1": "gs1", "GS2": "gs2", "GS3": "gs3", "GS4": "gs4"}
+
+
 def card_html(c):
     mid = c["meta"]
     cid = c["id"]
-    parts = [f'<article class="card" id="card-{esc(cid)}">']
+    gscls = GS_CLASS.get(cid.split("-")[0], "gs1")
+    parts = [f'<article class="card {gscls}" id="card-{esc(cid)}">']
     skel = ' <span class="badge-skel">PRACTICE SKELETON</span>' if cid in SKELETONS else ""
     parts.append(
         f'<div class="card-h"><h4>{inline(mid["card_title"])}{skel}</h4>'
@@ -271,13 +275,13 @@ def card_html(c):
     for b in c["blocks"]:
         n = b["name"]
         if n == "quote":
-            parts.append(f'<div class="pull">{block_html(b, card_ctx(c))}</div>')
+            parts.append(f'<div class="pull"><div class="blk-lab">Quote</div>{block_html(b, card_ctx(c))}</div>')
         elif n == "introduction":
-            parts.append(f'<div class="lede tight">{block_html(b, card_ctx(c))}</div>')
+            parts.append(f'<div class="intro"><div class="blk-lab">Introduction</div>{block_html(b, card_ctx(c))}</div>')
         elif n == "examples":
             parts.append(f'<div class="ex"><div class="blk-lab">Examples</div>{block_html(b, card_ctx(c))}</div>')
         elif n == "data":
-            parts.append(f'<div class="data">{block_html(b, card_ctx(c))}</div>')
+            parts.append(f'<div class="data"><div class="blk-lab">Data</div>{block_html(b, card_ctx(c))}</div>')
         elif n == "conclusion":
             parts.append(f'<div class="conc"><div class="blk-lab">Conclusion</div>{block_html(b, card_ctx(c))}</div>')
         elif n == "detail":
@@ -328,7 +332,8 @@ def emit_section(L, paper, ch_no, disp, s, by_id, card_wc):
     sub_count = sum(len(t["cards"]) for t in s["subtopics"])
     pt_anchor = "pt-" + paper.lower().replace("-", "")
     crumb = (f'<a href="#{pt_anchor}">{esc(paper)}</a> · '
-             f'<a href="#ch-{ch_no}">{esc(disp)}</a> · {esc(s["title"])}')
+             f'<a href="#ch-{ch_no}">{esc(disp)}</a> · {esc(s["title"])} · '
+             '<a href="#ix-master">INDEX</a>')
 
     def top_block(cont):
         stamp = f"SECTION {s['no']:02d} OF 48" + ("<br/>CONT." if cont else "")
@@ -403,7 +408,7 @@ def main():
 <div class="sheet">
   <div class="topbar">
     <div class="brand">PYQ Nano Analysis <span class="mono" style="font-size:9px;color:var(--mut)">GS MAINS</span></div>
-    <div class="crumb"><a href="#pt-{ch['paper'].lower().replace('-', '')}">{esc(ch['paper'])}</a> · {esc(disp)}</div>
+    <div class="crumb"><a href="#pt-{ch['paper'].lower().replace('-', '')}">{esc(ch['paper'])}</a> · {esc(disp)} · <a href="#ix-master">INDEX</a></div>
     <div class="stamp">CHAPTER {no:02d} OF 14<br/><span class="pg-n">·</span></div>
   </div>
   <div class="rule"></div>

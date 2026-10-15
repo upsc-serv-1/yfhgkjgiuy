@@ -55,7 +55,7 @@ def main():
     fails = []
 
     # ---- 1. card presence ----
-    art_ids = re.findall(r'<article class="card" id="card-([^"]+)"', doc)
+    art_ids = re.findall(r'<article class="card[^"]*" id="card-([^"]+)"', doc)
     n_unique = len(set(art_ids))
     results["cards_present"] = {
         "articles": len(art_ids), "unique": n_unique,
@@ -69,7 +69,7 @@ def main():
     digit_fail = []
     src_by_id = {c["id"]: c for c in cards_src}
     for cid, c in src_by_id.items():
-        m = re.search(rf'<article class="card" id="card-{re.escape(cid)}">(.*?)</article>', doc, re.S)
+        m = re.search(rf'<article class="card[^"]*" id="card-{re.escape(cid)}">(.*?)</article>', doc, re.S)
         if not m:
             block_fail += len(c["blocks"])
             digit_fail.append((cid, "MISSING CARD"))

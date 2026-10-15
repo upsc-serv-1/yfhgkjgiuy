@@ -19,9 +19,10 @@
 | 4 | Editorial layer — foreword, How-to-Use, chapter intros; card bodies VERBATIM into `src/` chapter partials | `src/*.html` | ✅ DONE — verbatim gate green, pushed |
 | 5 | Student-review pass — aspirant read-through, doubt flags, callout suggestions, fixes | `review_notes.md` | ✅ DONE — sheet-pagination fix applied, pushed |
 | 6 | TOC + index — GS-wise (GS-1→GS-4), subject-wise within each GS, built from the card taxonomy | `toc_index.md` | ✅ DONE — 551 index links verified, pushed |
-| 7 | Assembly — build script merges `src/` + theme + images → `final_ebook.html` | `final_ebook.html` | ✅ DONE — 239 sheets, self-checks green, pushed |
-| 8 | QA audit — vs prototype + spec + checklist; fix loop until pass | `qa_report.md` | ✅ DONE — ALL CHECKS GREEN — **USER GATE** |
-| 9 | Final handoff — push, wrap up | repo state | ▶ awaiting user gate decisions |
+| 7 | Assembly — build script merges `src/` + theme + images → `final_ebook.html` | `final_ebook.html` | ✅ DONE — v2: 238 sheets, self-checks green, pushed |
+| 8 | QA audit — vs prototype + spec + checklist; fix loop until pass | `qa_report.md` | ✅ DONE — ALL CHECKS GREEN |
+| 8R | **User design review fixes (v2)** — remove count-analytics; clickable subject-wise index to front matter; card-in-rounded-box redesign; persistent INDEX navigation | rebuilt `final_ebook.html` + docs | ✅ DONE — QA re-run green, browser click-through verified |
+| 9 | Final handoff — push, wrap up | repo state | ▶ awaiting user acceptance of v2 build |
 
 **Gate rule:** after Phase 1 and after Phase 8, the orchestrator reports to the user and WAITS for confirmation. All other phases: orchestrator audits the subagent output, fixes or returns it, then proceeds and pushes.
 
@@ -33,7 +34,7 @@
 - **Title / subtitle:** "PYQ Nano Analysis — GS Mains" / "The Answer-Writing Playbook" (working title — one string to change if the user renames).
 - **Audience:** UPSC GS Mains aspirants (Papers I–IV), answer-writing focus. UPSC mentor tone: concise, exam-focused, guiding.
 - **Print path:** `@media print` CSS (A4, clean chapter page-breaks) so anyone can File→Print→Save-as-PDF. The HTML itself is the primary deliverable (user decision 2026-10-16).
-- **Illustrations (user, 2026-10-16):** the eBook must include inline SVG illustrations of the TYPES found in the prototype (marks-share donuts, tier/heatmap tables, chapter-opener visuals, data diagrams) — recreated for this book's own content and sections, never copied 1:1. All inline SVG (editable, print-safe).
+- **Design review v2 (user, 2026-10-16):** the prototype was reference for STRUCTURE and IDEA only — never copy its analytics. Count-analytics visuals (pies/bands/heatmaps/tier tables) are REMOVED. Cards render as rounded white boxes with coloured block labels (user's reference screenshot blended with the sage-gold system). The subject-wise index is clickable, in front matter, with persistent INDEX navigation.
 - **Repo layout (user decision):** BOTH modular `src/` partials (one per chapter, for parallel agent edits and clean diffs) AND the assembled `final_ebook.html`, rebuilt and committed after every phase.
 
 ## 2. Inputs (in `inputs/`)
@@ -57,6 +58,8 @@
 8. **Security:** the GitHub PAT lives only on the git command line — never in any file, log, or worklog. User should revoke/rotate after the project.
 9. **Card taxonomy = the indexing skeleton (user, 2026-10-16):** every card carries paper → subject → section_group → microtopic → subtopic (user-assigned, for indexing). Book navigation and the index are built strictly from this hierarchy. Do not invent a different taxonomy.
 10. **Index organization (user, 2026-10-16):** top level GS-wise (GS-1 → GS-2 → GS-3 → GS-4); within each GS, subject-wise; then section_group → subtopic → cards.
+11. **No count-analytics (user review, 2026-10-16):** the book's aim is ready-made cards. No pie/donut/band/heatmap/tier/dot visuals anywhere — they were removed and must not return. Part openers are pure navigation.
+12. **Card boxes + clickable index (user review, 2026-10-16):** one card = one rounded-edge box in a separate colour; the subject-wise index (all card titles, clickable) sits in front matter with persistent INDEX navigation (floating button + breadcrumb links).
 
 ## 4. File map
 
@@ -105,8 +108,8 @@ A card can have several `:::quote` blocks. Only blocks the card originally had a
 ## 7. Open questions (resolve at gates)
 
 1. ~~**Image embedding mode**~~ — **ANSWERED (user, Phase-1 gate, 2026-10-16):** relative `assets/images/` paths are the primary mode (editable folder deliverable). A `--embed` base64 build flag remains available for a portable single file, but relative is the committed default.
-2. **Role of `upsc_readymade_resource_guide.png`** (cover art? appendix? exclude?). Phase 2 proposes.
-3. ~~Prototype's PYQ analytics~~ — **ANSWERED (user, 2026-10-16):** include SVG illustrations of the prototype's TYPES, recreated for our book's own content. Phase 2 decides placement (front-matter analytics + per-GS visuals).
+2. **Role of `upsc_readymade_resource_guide.png`** — used on the back cover as "Companion resources" (Phase-2 decision); removal is a one-file edit if the user prefers.
+3. ~~Prototype's PYQ analytics~~ — **ANSWERED then SUPERSEDED (user review, 2026-10-16):** v1 recreated prototype-type analytics for our own data; the user's review rejected count-analytics entirely — they are now REMOVED and must not return (see iron rule 11).
 4. ~~Phase-2 architecture recommendations~~ — **ANSWERED (user, Phase-1 gate, 2026-10-16): "go with your recommendations"** — all six recommendations in `content_inventory.md` §7 are approved: (a) Part=GS paper → Chapter=subject (14) → Section=section_group → card-group=subtopic; (b) GS-4 gets strong internal navigation + its own mini-index; (c) prototype-type SVG illustrations recreated for our content; (d) images via relative paths; (e) detail cards render `:::detail label` headers, multi-quote cards render all quotes in sequence; (f) the 5 universal_template cards are visually marked as practice skeletons.
 
 ## 8. Worklog protocol (all agents)

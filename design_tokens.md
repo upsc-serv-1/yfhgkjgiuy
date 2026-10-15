@@ -1,7 +1,7 @@
-# design_tokens.md — Phase 3 · Design System
+# design_tokens.md — Phase 3 · Design System (v2, post-review)
 
-**Generated:** 2026-10-16 · **Status:** Phase-3 deliverable (self-audited) · **Production CSS:** `src/theme.css`
-**Truth order:** prototype CSS (extracted verbatim to `scripts/stage2/prototype_style_raw.css`) wins; `DESIGN_MAGZ_SPEC.md` fills gaps (box anatomy, booktabs tables, running footer). All values below are implemented in `src/theme.css`.
+**Generated:** 2026-10-16 · **v2 updated:** 2026-10-16 (user review) · **Status:** production · **Production CSS:** `src/theme.css`
+**Truth order:** prototype CSS (extracted verbatim to `scripts/stage2/prototype_style_raw.css`) wins for tokens/typography/sheet system; the user's card-box reference screenshot (rounded white cards, labelled blocks) drives the CARD COMPONENT layer, blended into the sage-gold palette; `DESIGN_MAGZ_SPEC.md` fills remaining gaps. All values below are implemented in `src/theme.css`.
 
 ---
 
@@ -18,10 +18,12 @@
 | `--mut` | `#5B6B6C` | Labels, crumbs, stamps, captions |
 | `--hair` | `rgba(30,42,42,.16)` | Light rules |
 | `--hair2` | `rgba(30,42,42,.30)` | Strong rules, dotted index underlines |
-| `--teal` | `#4F8F86` | Primary accent: links, data top-rules, examples rule, take callouts |
-| `--gold` | `#A97D2B` | Secondary accent: verdict bars, pull-quote bars, detail-panel bars, section kickers |
-| `--green` | `#6E9468` | Tertiary accent (skeleton badges pair with gold; heatmaps) |
-| `--b1…--b5` | `#DCE9E5 #B4D2CB #7FB3AA #4F8F86 #1F4F52` | 5-step intensity bands (heatmap cells, stacked bands, dot scales) |
+| `--teal` | `#4F8F86` | Primary accent: links, INTRODUCTION labels, data top-rules, take callouts, GS-2 card top edge |
+| `--gold` | `#A97D2B` | Secondary accent: verdict bars, QUOTE labels + pull panels, detail bars, section kickers, GS-1 card top edge, INDEX button border |
+| `--green` | `#6E9468` | Tertiary accent: EXAMPLES/CONCLUSION labels + tinted panels, GS-3 card top edge |
+| `--deep` | `#1F4F52` | DATA labels, GS-4 card top edge |
+| `--card` | `#FFFFFF` | Card box face (white on sage sheet = "separate colour") |
+| `--t-gold` / `--t-teal` / `--t-green` | `rgba(169,125,43,.08)` / `rgba(79,143,134,.08)` / `rgba(110,148,104,.11)` | Whisper-quiet block tints inside cards |
 | GS chip | `#F7E3CF` / `#8A4308` | Paper chip on part/chapter openers (prototype gschip) |
 
 ## 2. Typography (prototype parity; spec fills print-facing roles)
@@ -50,38 +52,45 @@ Font loading: Google Fonts `Fraunces:opsz,wght@9..144,600` + `IBM Plex Sans:wght
 - Content column: effectively ~698 px; ledes capped at 640 px.
 - Print: `@page A4, margin 10mm`, sheet shadow/padding stripped, **one sheet = one page** (`break-after:page`).
 
-## 4. Component catalog (v17 block → component)
+## 4. Component catalog (v2: ONE CARD = ONE ROUNDED BOX)
 
-| v17 block | Component (class) | Anatomy |
+Card box anatomy (user reference screenshot, blended with prototype palette):
+`.card` = white `--card` face · 12px radius · hairline border · soft shadow · 18–22px padding,
+with a **3px paper-colour top edge**: `.gs1` gold · `.gs2` teal · `.gs3` green · `.gs4` deep.
+Header row: `h4` title + `.card-id` mono pill, over a **dashed rule**; then blocks in source order.
+
+| v17 block | Component (class) | Anatomy (v2) |
 |---|---|---|
-| card wrapper | `.card` + `#card-<ID>` | header: `h4` title + `.card-id` mono stamp + `.card-micro` microtopic line; then ACTUAL blocks in source order |
-| `:::quote` | `.pull` | gold 3px left bar; Fraunces italic; `.attr` mono attribution; multi-quote → sequence of `.pull` |
-| `:::introduction` | `.lede` paragraph(s) | plain magazine lead — no box |
-| `:::examples` | `.ex` | `.blk-lab` "Examples"; teal 2px left rule; verbatim lists |
-| `:::data` | `.data` | box bg + hairline border + **teal 2px top rule** (booktabs flavor, spec §6); mono rows |
-| `:::conclusion` | `.conc` | hairline top rule; `.blk-lab` "Conclusion" |
-| `:::detail label` | `.detail-p` | box bg + hairline + **gold 3px left bar** (spec drill-box anatomy); gold mono label header |
-| `:::image` | `figure.fig` | local relative `assets/images/…`, hairline border, mono caption (card id + subject) |
+| card wrapper | `.card .gsN` + `#card-<ID>` | white rounded box + paper-colour top edge; header `h4` + `.card-id` pill + dashed rule + `.card-micro` |
+| `:::quote` | `.pull` + label | **QUOTE** gold label; pale-gold panel, gold 3px left bar, rounded right; Fraunces italic; `.attr` mono attribution |
+| `:::introduction` | `.intro` + label | **INTRODUCTION** teal label; plain body — the liftable opening |
+| `:::examples` | `.ex` + label | **EXAMPLES** green label; pale-green panel, green 2px left rule; verbatim lists |
+| `:::data` | `.data` + label | **DATA** deep label; sage box + hairline + teal 2px top rule, 8px radius; mono rows (booktabs, spec §6) |
+| `:::conclusion` | `.conc` + label | **CONCLUSION** green label; pale-green rounded panel |
+| `:::detail label` | `.detail-p` | sage box + gold 3px left bar, rounded right; gold mono label header (spec drill-box) |
+| `:::image` | `figure.fig` | local relative `assets/images/…`, hairline border, 6px radius, mono caption |
 | practice skeleton | `.badge-skel` | gold outline chip in card header (5 cards) |
 | editorial takeaway | `.verdict` / `.take` | gold-bar Fraunces statement / teal-bar tinted note — **NEW text only** |
 
-Structural components: `.topbar` (brand / `.crumb` / `.stamp` with `.pg-n` auto page number), `.foot` (colophon + page number, spec §7), `.sec-h` section band (gold mono kicker + h2 + card count + subtopic chips), `.sub-h` subtopic band, `.hero` + `.gschip` part/chapter openers, `.chips`/`.chip` quick-nav, index rows `.ix-ch`/`.ix-sec`/`.ix-sub`/`.ix-cards`.
+Structural components: `.topbar` (brand / `.crumb` with trailing **INDEX** link / `.stamp` with `.pg-n`), `.foot` (colophon + page number, spec §7), `.sec-h` section band (gold mono kicker + h2 + count + subtopic chips), `.sub-h` subtopic band, `.gschip`/`.hero-tag` openers, `.chips`/`.chip` quick-nav (links only — count chips are spans), index rows `.ix-ch`/`.ix-sec`/`.ix-sub`/`.ix-cards`.
 
-## 5. Analytics component library (recreated SVG types I1–I9)
+## 5. Navigation system (v2 — replaces the analytics library)
 
-Construction: all inline SVG or pure CSS; **data = book's own taxonomy** (from `book_map.json`); no PYQ-marks data; never copied 1:1 from the prototype.
+**User decision (2026-10-16 review): count-analytics visuals are REMOVED from the book.**
+This is a ready-made card book — students jump to cards; card-count pies/bands/heatmaps add
+nothing. The v1 analytics library (donut I1, bands I2, tiers I3, heatmap I4, dots I5,
+subject illustration I6, cross-paper band I9) is deleted from `theme.css` and all partials.
+Kept: I7-style card anatomy demo (How-to-Use, static) and I8 route tables (editorial).
 
-| ID | Component | Construction | Data binding |
-|---|---|---|---|
-| I1 | Donut | SVG circle strokes, 5-band palette, center total | cards per paper / per subject |
-| I2 | Subject bands | `.band` flex 100%-stacked | 14 subjects × card counts |
-| I3 | Tier table | `.tier` pills (b1–b5 bg) + count | heaviest section_groups per paper |
-| I4 | Heatmap | `.hm-row` grid of `.hm-c` cells (b1–b5) | cards per subtopic, per subject |
-| I5 | Top-10 table | booktabs rows + `.dots` scale | subtopics by card count |
-| I6 | Subject illustration | abstract SVG geometry, palette-consistent | section-group split of the chapter |
-| I7 | Card anatomy diagram | exploded labeled sample card | static (How-to-Use) |
-| I8 | Route tables | `.chips` timeline per route | 30/60/90-day plans (fixed editorial) |
-| I9 | Cross-paper band | two-row `.band` alignment | section_group names shared across papers |
+What replaces it:
+
+| Element | Where | Behaviour |
+|---|---|---|
+| Subject-wise index (`bm1_index.html`) | **front matter**, right after How-to-Use | all 551 card titles are links, grouped paper → subject → section → subtopic; `#ix-master` anchor |
+| Floating INDEX button (`.to-ix`) | every screen, bottom-right | jumps to `#ix-master`; hidden in print |
+| Breadcrumb INDEX link | every content sheet topbar | `… · INDEX` appended to the crumb trail |
+| CONTENTS chips | cover + foreword + How-to-Use | direct links into the index and how-to-use |
+| Part openers | 4 sheets | part title + chapter chips + syllabus-section links (+ GS-4 theme mini-index) — pure navigation, no charts |
 
 ## 6. Rules of use
 
@@ -91,10 +100,11 @@ Construction: all inline SVG or pure CSS; **data = book's own taxonomy** (from `
 4. Print rules are global in `theme.css` §12 — partials must not add `page-break` styles.
 5. Every sheet partial opens with `.topbar` and closes with `.foot`; the build script stamps page numbers into `.pg-n`.
 
-## 7. Self-audit (Phase-3 gate)
+## 7. Self-audit (v2)
 
-- [x] Every token value traces to prototype CSS (extracted raw file committed) or documented spec adaptation (`--box`)
-- [x] All v17 block types have exactly one component mapping
+- [x] Every token value traces to prototype CSS, the user's card-box reference, or a documented spec adaptation
+- [x] All v17 block types have exactly one component mapping, each with a visible coloured label
 - [x] Fonts load with fallbacks; no `backdrop-filter`; no external assets besides Google Fonts (images all local)
-- [x] Print CSS: one sheet = one page, break control for cards/blocks/figures, colors exact
-- [x] Analytics library covers all 9 illustration types planned in `ebook_structure.md` §6
+- [x] Print CSS: one sheet = one page, `break-inside:avoid` for cards (cards are atomic boxes), INDEX button hidden, colors exact
+- [x] Zero analytics components remain (verified in browser: `.hm-c/.band/.dots/.tier` count = 0)
+- [x] Navigation verified by trusted click-through in a real browser (index link → card lands at viewport top)
