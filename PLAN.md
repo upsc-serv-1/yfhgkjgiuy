@@ -13,12 +13,12 @@
 | Phase | What | Output | Status |
 |---|---|---|---|
 | 0 | Setup: branch, inputs copied, this plan, HANDOFF.md | this file | ✅ DONE |
-| 1 | Content audit — parse all v17 cards, categorize, internal-consistency check, download all images | `content_inventory.md` | 🔄 IN PROGRESS |
-| 2 | Book architecture — reverse-engineer prototype, full TOC, card→chapter map | `ebook_structure.md` | ⬜ |
-| 3 | Design tokens — extract fonts/colors/spacing from prototype + spec; build `src/theme.css` + card/callout templates | `design_tokens.md` | ⬜ |
+| 1 | Content audit — parse all v17 cards, categorize, internal-consistency check, download all images | `content_inventory.md` | ✅ DONE — gate: awaiting user confirmation |
+| 2 | Book architecture — reverse-engineer prototype, GS-parted TOC (GS → subject → section_group → subtopic), card→chapter map, illustration plan | `ebook_structure.md` | ⬜ |
+| 3 | Design tokens — extract fonts/colors/spacing from prototype + spec; catalog the prototype's SVG illustration TYPES for re-creation; build `src/theme.css` + card/callout templates | `design_tokens.md` | ⬜ |
 | 4 | Editorial layer — foreword, How-to-Use, chapter intros; card bodies VERBATIM into `src/` chapter partials | `src/*.html` | ⬜ |
 | 5 | Student-review pass — aspirant read-through, doubt flags, callout suggestions, fixes | `review_notes.md` | ⬜ |
-| 6 | TOC + alphabetical index generation | `toc_index.md` | ⬜ |
+| 6 | TOC + index — GS-wise (GS-1→GS-4), subject-wise within each GS, built from the card taxonomy | `toc_index.md` | ⬜ |
 | 7 | Assembly — build script merges `src/` + theme + images → `final_ebook.html` | `final_ebook.html` | ⬜ |
 | 8 | QA audit — vs prototype + spec + checklist; fix loop until pass | `qa_report.md` | ⬜ |
 | 9 | Final handoff — push, wrap up | repo state | ⬜ |
@@ -33,6 +33,7 @@
 - **Title / subtitle:** "PYQ Nano Analysis — GS Mains" / "The Answer-Writing Playbook" (working title — one string to change if the user renames).
 - **Audience:** UPSC GS Mains aspirants (Papers I–IV), answer-writing focus. UPSC mentor tone: concise, exam-focused, guiding.
 - **Print path:** `@media print` CSS (A4, clean chapter page-breaks) so anyone can File→Print→Save-as-PDF. The HTML itself is the primary deliverable (user decision 2026-10-16).
+- **Illustrations (user, 2026-10-16):** the eBook must include inline SVG illustrations of the TYPES found in the prototype (marks-share donuts, tier/heatmap tables, chapter-opener visuals, data diagrams) — recreated for this book's own content and sections, never copied 1:1. All inline SVG (editable, print-safe).
 - **Repo layout (user decision):** BOTH modular `src/` partials (one per chapter, for parallel agent edits and clean diffs) AND the assembled `final_ebook.html`, rebuilt and committed after every phase.
 
 ## 2. Inputs (in `inputs/`)
@@ -54,6 +55,8 @@
 6. **Design truth order:** prototype wins; `DESIGN_MAGZ_SPEC.md` fills gaps; material conflicts are logged in HANDOFF.md.
 7. **Push after every phase** to THIS branch (`ebook-build`) with message `phase-N: <summary>`, updating the status table in this file + HANDOFF.md in the same commit.
 8. **Security:** the GitHub PAT lives only on the git command line — never in any file, log, or worklog. User should revoke/rotate after the project.
+9. **Card taxonomy = the indexing skeleton (user, 2026-10-16):** every card carries paper → subject → section_group → microtopic → subtopic (user-assigned, for indexing). Book navigation and the index are built strictly from this hierarchy. Do not invent a different taxonomy.
+10. **Index organization (user, 2026-10-16):** top level GS-wise (GS-1 → GS-2 → GS-3 → GS-4); within each GS, subject-wise; then section_group → subtopic → cards.
 
 ## 4. File map
 
@@ -103,7 +106,7 @@ A card can have several `:::quote` blocks. Only blocks the card originally had a
 
 1. **Image embedding mode:** relative `assets/images/` paths (editable, folder-based deliverable) vs base64-embedded (true single file, heavy). Default: relative paths + a `--embed` build flag for a portable single file. Confirm at the Phase-1 gate.
 2. **Role of `upsc_readymade_resource_guide.png`** (cover art? appendix? exclude?). Phase 2 proposes.
-3. **Prototype's PYQ analytics** (marks-share donuts, subject tier tables): include as a front-matter "GS Mains paper anatomy" section, or treat the prototype as style-only? Phase 2 proposes.
+3. ~~Prototype's PYQ analytics~~ — **ANSWERED (user, 2026-10-16):** include SVG illustrations of the prototype's TYPES, recreated for our book's own content. Phase 2 decides placement (front-matter analytics + per-GS visuals).
 
 ## 8. Worklog protocol (all agents)
 

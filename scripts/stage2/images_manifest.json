@@ -1,0 +1,453 @@
+{
+ "generated": "2026-10-15T21:20:17.228675+00:00",
+ "total_blocks": 37,
+ "unique_urls": 37,
+ "ok": 1,
+ "broken": 0,
+ "entries": [
+  {
+   "url": "https://pub-cfb8b9095d7d4914990dbb6f73afeb92.r2.dev/syllabus_hierarchy/gs2/images/diagram_p12.png",
+   "card_ids": [
+    "GS2-SOCI-0278"
+   ],
+   "subject": "SOCIAL JUSTICE",
+   "subtopic": "Education",
+   "local_filename": "soju_education_01.jpg",
+   "status": "ok",
+   "bytes": 38992,
+   "error": null
+  },
+  {
+   "url": "https://pub-cfb8b9095d7d4914990dbb6f73afeb92.r2.dev/syllabus_hierarchy/gs2/images/diagram_p15.png",
+   "card_ids": [
+    "GS2-INTE-0315"
+   ],
+   "subject": "INTERNATIONAL RELATIONS",
+   "subtopic": "Indian Diaspora",
+   "local_filename": "ir_indian-diaspora_01.png",
+   "status": "ok",
+   "bytes": 126338,
+   "error": null
+  },
+  {
+   "url": "https://pub-cfb8b9095d7d4914990dbb6f73afeb92.r2.dev/syllabus_hierarchy/gs2/images/diagram_p16.png",
+   "card_ids": [
+    "GS2-INTE-0317"
+   ],
+   "subject": "INTERNATIONAL RELATIONS",
+   "subtopic": "United Nations and its Agencies",
+   "local_filename": "ir_united-nations-and-its-agencies_01.png",
+   "status": "ok",
+   "bytes": 216765,
+   "error": null
+  },
+  {
+   "url": "https://pub-cfb8b9095d7d4914990dbb6f73afeb92.r2.dev/syllabus_hierarchy/gs2/images/diagram_p7.png",
+   "card_ids": [
+    "GS2-GOVE-0262"
+   ],
+   "subject": "GOVERNANCE",
+   "subtopic": "Government Schemes and Policies",
+   "local_filename": "gove_government-schemes-and-policies_01.jpg",
+   "status": "ok",
+   "bytes": 37323,
+   "error": null
+  },
+  {
+   "url": "https://pub-cfb8b9095d7d4914990dbb6f73afeb92.r2.dev/syllabus_hierarchy/gs2/images/diagram_p8.png",
+   "card_ids": [
+    "GS2-GOVE-0258"
+   ],
+   "subject": "GOVERNANCE",
+   "subtopic": "Civil Society",
+   "local_filename": "gove_civil-society_01.png",
+   "status": "ok",
+   "bytes": 34721,
+   "error": null
+  },
+  {
+   "url": "https://pub-cfb8b9095d7d4914990dbb6f73afeb92.r2.dev/syllabus_hierarchy/gs3/images/diagram_p10.png",
+   "card_ids": [
+    "GS3-AGRI-0363"
+   ],
+   "subject": "AGRICULTURE",
+   "subtopic": "Cropping pattern",
+   "local_filename": "agri_cropping-pattern_01.png",
+   "status": "ok",
+   "bytes": 54904,
+   "error": null
+  },
+  {
+   "url": "https://pub-cfb8b9095d7d4914990dbb6f73afeb92.r2.dev/syllabus_hierarchy/gs3/images/diagram_p11.png",
+   "card_ids": [
+    "GS3-AGRI-0369"
+   ],
+   "subject": "AGRICULTURE",
+   "subtopic": "Agri-Marketing",
+   "local_filename": "agri_agri-marketing_01.png",
+   "status": "ok",
+   "bytes": 49001,
+   "error": null
+  },
+  {
+   "url": "https://pub-cfb8b9095d7d4914990dbb6f73afeb92.r2.dev/syllabus_hierarchy/gs3/images/diagram_p16.png",
+   "card_ids": [
+    "GS3-INDI-0332"
+   ],
+   "subject": "INDIAN ECONOMY",
+   "subtopic": "LPG Reform and Impact",
+   "local_filename": "econ_lpg-reform-and-impact_01.png",
+   "status": "ok",
+   "bytes": 125438,
+   "error": null
+  },
+  {
+   "url": "https://pub-cfb8b9095d7d4914990dbb6f73afeb92.r2.dev/syllabus_hierarchy/gs3/images/diagram_p18.png",
+   "card_ids": [
+    "GS3-INDI-0348"
+   ],
+   "subject": "INDIAN ECONOMY",
+   "subtopic": "Airports X Infrastructure",
+   "local_filename": "econ_airports-x-infrastructure_01.png",
+   "status": "ok",
+   "bytes": 46556,
+   "error": null
+  },
+  {
+   "url": "https://pub-cfb8b9095d7d4914990dbb6f73afeb92.r2.dev/syllabus_hierarchy/gs3/images/diagram_p21.png",
+   "card_ids": [
+    "GS3-SCIE-0388"
+   ],
+   "subject": "SCIENCE & TECHNOLOGY",
+   "subtopic": "Innovative Technologies",
+   "local_filename": "scitech_innovative-technologies_01.png",
+   "status": "ok",
+   "bytes": 76998,
+   "error": null
+  },
+  {
+   "url": "https://pub-cfb8b9095d7d4914990dbb6f73afeb92.r2.dev/syllabus_hierarchy/gs3/images/diagram_p23.png",
+   "card_ids": [
+    "GS3-ENVI-0436"
+   ],
+   "subject": "ENVIRONMENT",
+   "subtopic": "UNFCCC",
+   "local_filename": "envi_unfccc_01.png",
+   "status": "ok",
+   "bytes": 91944,
+   "error": null
+  },
+  {
+   "url": "https://pub-cfb8b9095d7d4914990dbb6f73afeb92.r2.dev/syllabus_hierarchy/gs3/images/diagram_p24.png",
+   "card_ids": [
+    "GS3-ENVI-0445"
+   ],
+   "subject": "ENVIRONMENT",
+   "subtopic": "EIA",
+   "local_filename": "envi_eia_01.png",
+   "status": "ok",
+   "bytes": 85480,
+   "error": null
+  },
+  {
+   "url": "https://pub-cfb8b9095d7d4914990dbb6f73afeb92.r2.dev/syllabus_hierarchy/gs3/images/diagram_p6.png",
+   "card_ids": [
+    "GS3-INDI-0340"
+   ],
+   "subject": "INDIAN ECONOMY",
+   "subtopic": "Investment",
+   "local_filename": "econ_investment_01.png",
+   "status": "ok",
+   "bytes": 85233,
+   "error": null
+  },
+  {
+   "url": "https://pub-cfb8b9095d7d4914990dbb6f73afeb92.r2.dev/syllabus_hierarchy/gs3/images/diagram_p9.png",
+   "card_ids": [
+    "GS3-INDI-0336"
+   ],
+   "subject": "INDIAN ECONOMY",
+   "subtopic": "Fiscal Policy",
+   "local_filename": "econ_fiscal-policy_01.png",
+   "status": "ok",
+   "bytes": 41377,
+   "error": null
+  },
+  {
+   "url": "https://pub-cfb8b9095d7d4914990dbb6f73afeb92.r2.dev/syllabus_hierarchy/gs4/images/diagram_accountability.png",
+   "card_ids": [
+    "GS4-ETHI-0758"
+   ],
+   "subject": "ETHICS, INTEGRITY & APTITUDE",
+   "subtopic": "Accountability and Ethical Governance",
+   "local_filename": "ethi_accountability-and-ethical-governance_01.png",
+   "status": "ok",
+   "bytes": 213115,
+   "error": null
+  },
+  {
+   "url": "https://pub-cfb8b9095d7d4914990dbb6f73afeb92.r2.dev/syllabus_hierarchy/gs4/images/diagram_constitutional_morality.png",
+   "card_ids": [
+    "GS2-POLI-0558"
+   ],
+   "subject": "POLITY",
+   "subtopic": "Constitutional Morality",
+   "local_filename": "poli_constitutional-morality_01.png",
+   "status": "ok",
+   "bytes": 935128,
+   "error": null
+  },
+  {
+   "url": "https://pub-cfb8b9095d7d4914990dbb6f73afeb92.r2.dev/syllabus_hierarchy/gs4/images/diagram_corruption_equation.png",
+   "card_ids": [
+    "GS4-ETHI-0721"
+   ],
+   "subject": "ETHICS, INTEGRITY & APTITUDE",
+   "subtopic": "Challenges of Corruption",
+   "local_filename": "ethi_challenges-of-corruption_01.png",
+   "status": "ok",
+   "bytes": 811746,
+   "error": null
+  },
+  {
+   "url": "https://pub-cfb8b9095d7d4914990dbb6f73afeb92.r2.dev/syllabus_hierarchy/gs4/images/diagram_ei_models.jpg",
+   "card_ids": [
+    "GS4-ETHI-0648"
+   ],
+   "subject": "ETHICS, INTEGRITY & APTITUDE",
+   "subtopic": "EI: Concept and utility",
+   "local_filename": "ethi_ei-concept-and-utility_01.jpg",
+   "status": "ok",
+   "bytes": 34453,
+   "error": null
+  },
+  {
+   "url": "https://pub-cfb8b9095d7d4914990dbb6f73afeb92.r2.dev/syllabus_hierarchy/gs4/images/diagram_hobbes_social_contract.png",
+   "card_ids": [
+    "GS4-ETHI-0718"
+   ],
+   "subject": "ETHICS, INTEGRITY & APTITUDE",
+   "subtopic": "Teachings of Great Leaders",
+   "local_filename": "ethi_teachings-of-great-leaders_01.png",
+   "status": "ok",
+   "bytes": 220360,
+   "error": null
+  },
+  {
+   "url": "https://pub-cfb8b9095d7d4914990dbb6f73afeb92.r2.dev/syllabus_hierarchy/gs4/images/diagram_integrity_intelligence_energy.png",
+   "card_ids": [
+    "GS4-ETHI-0612"
+   ],
+   "subject": "ETHICS, INTEGRITY & APTITUDE",
+   "subtopic": "Integrity X Intelligence X Energy",
+   "local_filename": "ethi_integrity-x-intelligence-x-energy_01.png",
+   "status": "ok",
+   "bytes": 921181,
+   "error": null
+  },
+  {
+   "url": "https://pub-cfb8b9095d7d4914990dbb6f73afeb92.r2.dev/syllabus_hierarchy/gs4/images/diagram_p11_img6.png",
+   "card_ids": [
+    "GS4-ETHI-0621"
+   ],
+   "subject": "ETHICS, INTEGRITY & APTITUDE",
+   "subtopic": "Attitude for Individuals",
+   "local_filename": "ethi_attitude-for-individuals_01.png",
+   "status": "ok",
+   "bytes": 47739,
+   "error": null
+  },
+  {
+   "url": "https://pub-cfb8b9095d7d4914990dbb6f73afeb92.r2.dev/syllabus_hierarchy/gs4/images/diagram_p16_img9.png",
+   "card_ids": [
+    "GS4-ETHI-0641"
+   ],
+   "subject": "ETHICS, INTEGRITY & APTITUDE",
+   "subtopic": "EI: Concept and utility",
+   "local_filename": "ethi_ei-concept-and-utility_02.png",
+   "status": "ok",
+   "bytes": 92548,
+   "error": null
+  },
+  {
+   "url": "https://pub-cfb8b9095d7d4914990dbb6f73afeb92.r2.dev/syllabus_hierarchy/gs4/images/diagram_p17_img12.png",
+   "card_ids": [
+    "GS4-ETHI-0644"
+   ],
+   "subject": "ETHICS, INTEGRITY & APTITUDE",
+   "subtopic": "EI: Concept and utility",
+   "local_filename": "ethi_ei-concept-and-utility_03.png",
+   "status": "ok",
+   "bytes": 79587,
+   "error": null
+  },
+  {
+   "url": "https://pub-cfb8b9095d7d4914990dbb6f73afeb92.r2.dev/syllabus_hierarchy/gs4/images/diagram_p18_img13.png",
+   "card_ids": [
+    "GS4-ETHI-0636"
+   ],
+   "subject": "ETHICS, INTEGRITY & APTITUDE",
+   "subtopic": "EI in Administration",
+   "local_filename": "ethi_ei-in-administration_01.png",
+   "status": "ok",
+   "bytes": 82680,
+   "error": null
+  },
+  {
+   "url": "https://pub-cfb8b9095d7d4914990dbb6f73afeb92.r2.dev/syllabus_hierarchy/gs4/images/diagram_p20_img15.png",
+   "card_ids": [
+    "GS4-ETHI-0694"
+   ],
+   "subject": "ETHICS, INTEGRITY & APTITUDE",
+   "subtopic": "Teachings of Great Leaders",
+   "local_filename": "ethi_teachings-of-great-leaders_02.png",
+   "status": "ok",
+   "bytes": 114352,
+   "error": null
+  },
+  {
+   "url": "https://pub-cfb8b9095d7d4914990dbb6f73afeb92.r2.dev/syllabus_hierarchy/gs4/images/diagram_p24_img17.png",
+   "card_ids": [
+    "GS4-ETHI-0770"
+   ],
+   "subject": "ETHICS, INTEGRITY & APTITUDE",
+   "subtopic": "Ethical Issues in International Relations and Funding",
+   "local_filename": "ethi_ethical-issues-in-international-relation_01.png",
+   "status": "ok",
+   "bytes": 100295,
+   "error": null
+  },
+  {
+   "url": "https://pub-cfb8b9095d7d4914990dbb6f73afeb92.r2.dev/syllabus_hierarchy/gs4/images/diagram_p27_img18.png",
+   "card_ids": [
+    "GS4-ETHI-0739"
+   ],
+   "subject": "ETHICS, INTEGRITY & APTITUDE",
+   "subtopic": "Quality of Service Delivery",
+   "local_filename": "ethi_quality-of-service-delivery_01.png",
+   "status": "ok",
+   "bytes": 104579,
+   "error": null
+  },
+  {
+   "url": "https://pub-cfb8b9095d7d4914990dbb6f73afeb92.r2.dev/syllabus_hierarchy/gs4/images/diagram_p28_img19.png",
+   "card_ids": [
+    "GS4-ETHI-0721"
+   ],
+   "subject": "ETHICS, INTEGRITY & APTITUDE",
+   "subtopic": "Challenges of Corruption",
+   "local_filename": "ethi_challenges-of-corruption_02.png",
+   "status": "ok",
+   "bytes": 103934,
+   "error": null
+  },
+  {
+   "url": "https://pub-cfb8b9095d7d4914990dbb6f73afeb92.r2.dev/syllabus_hierarchy/gs4/images/diagram_p4_img1.png",
+   "card_ids": [
+    "GS4-ETHI-0551"
+   ],
+   "subject": "ETHICS, INTEGRITY & APTITUDE",
+   "subtopic": "Essence of Ethics",
+   "local_filename": "ethi_essence-of-ethics_01.png",
+   "status": "ok",
+   "bytes": 68454,
+   "error": null
+  },
+  {
+   "url": "https://pub-cfb8b9095d7d4914990dbb6f73afeb92.r2.dev/syllabus_hierarchy/gs4/images/diagram_p5_img2.png",
+   "card_ids": [
+    "GS4-ETHI-0563"
+   ],
+   "subject": "ETHICS, INTEGRITY & APTITUDE",
+   "subtopic": "Essence of Ethics",
+   "local_filename": "ethi_essence-of-ethics_02.png",
+   "status": "ok",
+   "bytes": 99869,
+   "error": null
+  },
+  {
+   "url": "https://pub-cfb8b9095d7d4914990dbb6f73afeb92.r2.dev/syllabus_hierarchy/gs4/images/diagram_p7_img3.png",
+   "card_ids": [
+    "GS4-ETHI-0568"
+   ],
+   "subject": "ETHICS, INTEGRITY & APTITUDE",
+   "subtopic": "Term Based",
+   "local_filename": "ethi_term-based_01.png",
+   "status": "ok",
+   "bytes": 69175,
+   "error": null
+  },
+  {
+   "url": "https://pub-cfb8b9095d7d4914990dbb6f73afeb92.r2.dev/syllabus_hierarchy/gs4/images/diagram_p8_img4.png",
+   "card_ids": [
+    "GS4-ETHI-0691"
+   ],
+   "subject": "ETHICS, INTEGRITY & APTITUDE",
+   "subtopic": "Teachings of Great Leaders",
+   "local_filename": "ethi_teachings-of-great-leaders_03.png",
+   "status": "ok",
+   "bytes": 69523,
+   "error": null
+  },
+  {
+   "url": "https://pub-cfb8b9095d7d4914990dbb6f73afeb92.r2.dev/syllabus_hierarchy/gs4/images/diagram_p9_img5.png",
+   "card_ids": [
+    "GS4-ETHI-0580"
+   ],
+   "subject": "ETHICS, INTEGRITY & APTITUDE",
+   "subtopic": "Value Based Questions",
+   "local_filename": "ethi_value-based-questions_01.png",
+   "status": "ok",
+   "bytes": 67273,
+   "error": null
+  },
+  {
+   "url": "https://pub-cfb8b9095d7d4914990dbb6f73afeb92.r2.dev/syllabus_hierarchy/gs4/images/diagram_rhetorical_appeals.avif",
+   "card_ids": [
+    "GS4-ETHI-0630"
+   ],
+   "subject": "ETHICS, INTEGRITY & APTITUDE",
+   "subtopic": "Social influence and persuasion",
+   "local_filename": "ethi_social-influence-and-persuasion_01.png",
+   "status": "ok",
+   "bytes": 546160,
+   "error": null
+  },
+  {
+   "url": "https://pub-cfb8b9095d7d4914990dbb6f73afeb92.r2.dev/syllabus_hierarchy/gs4/images/diagram_righteousness.png",
+   "card_ids": [
+    "GS4-ETHI-0557"
+   ],
+   "subject": "ETHICS, INTEGRITY & APTITUDE",
+   "subtopic": "Essence of Ethics",
+   "local_filename": "ethi_essence-of-ethics_03.png",
+   "status": "ok",
+   "bytes": 211793,
+   "error": null
+  },
+  {
+   "url": "https://pub-cfb8b9095d7d4914990dbb6f73afeb92.r2.dev/syllabus_hierarchy/gs4/images/diagram_transparency_good_governance.png",
+   "card_ids": [
+    "GS4-ETHI-0741"
+   ],
+   "subject": "ETHICS, INTEGRITY & APTITUDE",
+   "subtopic": "Transparency X RTI",
+   "local_filename": "ethi_transparency-x-rti_01.png",
+   "status": "ok",
+   "bytes": 881394,
+   "error": null
+  },
+  {
+   "url": "https://pub-cfb8b9095d7d4914990dbb6f73afeb92.r2.dev/syllabus_hierarchy/gs4/images/diagram_vicious_cycle_corruption.png",
+   "card_ids": [
+    "GS4-ETHI-0728"
+   ],
+   "subject": "ETHICS, INTEGRITY & APTITUDE",
+   "subtopic": "Challenges of Corruption",
+   "local_filename": "ethi_challenges-of-corruption_03.png",
+   "status": "ok",
+   "bytes": 1069013,
+   "error": null
+  }
+ ]
+}

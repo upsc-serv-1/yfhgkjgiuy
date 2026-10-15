@@ -29,3 +29,20 @@ Work Log:
 
 Stage Summary:
 - Project now isolated on `ebook-build`. `main` untouched/old. Next: relaunch Phase 1 content audit (subagent) on this branch.
+
+---
+Task ID: 1
+Agent: Super Z (main, orchestrator — executed directly; subagent launcher failed twice with "context canceled")
+Task: Phase 1 — content audit & image ingestion → content_inventory.md
+
+Work Log:
+- Subagent delegation failed twice (Task tool "context canceled") → executed inline, same protocol (persisted scripts, deliverable file, worklog).
+- User added requirements mid-phase (captured in PLAN.md §1/§3): SVG illustrations of the prototype's TYPES recreated for our book; index GS-wise → subject-wise within each GS; card taxonomy (paper/subject/section_group/microtopic/subtopic) = indexing skeleton.
+- scripts/stage2/audit_cards.py → scripts/stage2/v17_inventory.json: 551 cards, all unique, all `polished`, zero structural defects. 476 structured + 75 detail; 70,145 body words (mean 127). Papers: GS-1=98, GS-2=116, GS-3=188, GS-4=149. 14 subjects (Ethics 149 largest). Taxonomy: 48 section groups → 209 subtopics; 87 microtopics.
+- Consistency: 38 `sections:` metadata mismatches, ALL benign (31 multi-quote, 6 multi-detail, 1 multi-image GS4-ETHI-0721; dedupe-verified). 5 detail-led cards without intro/conclusion (GS3-ENVI-0462, GS3-DISA-0483, GS3-INTE-0517/0534/0543). Flags: has_image=36, format_fixed=57, universal_template=5 (practice skeletons).
+- scripts/stage2/download_images.py → assets/images/: all 37 image URLs (36 cards) downloaded + normalized ({subject}_{subtopic}_{NN}.{ext}); 1 AVIF converted to PNG via ffmpeg; resume support; 0 broken; ≈8.5 MB. Manifest: scripts/stage2/images_manifest.json. Cover candidate PNG staged.
+- scripts/stage2/make_inventory_md.py → content_inventory.md (137 lines, all tables generated from data).
+
+Stage Summary:
+- Phase 1 complete, no blockers. Deliverables: content_inventory.md, v17_inventory.json, images_manifest.json, 38 local images, 3 re-runnable scripts.
+- GATE: findings reported to user; awaiting confirmation to start Phase 2 (book architecture: prototype reverse-engineering + GS-parted TOC + illustration plan).
