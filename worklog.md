@@ -297,3 +297,16 @@ Work Log:
 
 Stage Summary:
 - Phase 8 complete. Next: Phase 9 — final validation (17-item checklist) + final report.
+
+---
+Task ID: A4-9
+Agent: Super Z (main, orchestrator)
+Task: Phase 9 — final validation (17-item checklist) + final report.
+
+Work Log:
+- verify_phase9.py: the full 17-item checklist as an executable gate. Three script bugs fixed during the run (subject-divider pages misclassified as content via href="#card-" links — they carry 0 card ANCHORS; hallucinated _hl book-map field → count markers from JSON; raw-<b> census arithmetic double-subtracted • <b><u> prefixes → line-based classifier). Book-side: ZERO failures.
+- FINAL: 17/17 PASS — 110 sheets exactly A4 (794x1123) + PDF 110 pages 595.9x842.9pt; disclaimer 56% fill foot pinned; index GS1-GS2-GS3 atomic; 108 foots all 24px; 0 clipping/orphans; median fill 69% (all <40% sheets = structural dividers); 2-col rows; 0 codes/serials; 12/12 subjects highlighted (46-558 spans); 0 non-data spans; levels l0/l1/l2 (13px indents); 1 panel == 1 zero-inline card; JSON canonical (0 continuations/artifacts/raw tags); 2407 markers == 2407 rendered; PDF==HTML; visual sweeps 5/5+8/8+4/4+6/6.
+- final_data_facts.pdf regenerated (110 A4 pages). FIX_A4_REPORT.md written: checklist table, root-cause-per-bug, files-by-phase, assumptions (7), human-review flags (73 counted-noun data points, 1 card at 48% orange, 2 no-highlight cards, force-fact overrides).
+
+Stage Summary:
+- Phases 0-9 COMPLETE. Book: final_data_facts.html (110 A4 sheets) + final_data_facts.pdf, all gates green, JSON source of truth canonical + highlight-marked, fully reproducible from JSON alone.
