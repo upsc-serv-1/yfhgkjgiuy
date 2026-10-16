@@ -237,3 +237,16 @@ Work Log:
 
 Stage Summary:
 - Phase 3 complete. Next: Phase 4 — card visual cleanup (remove card-id chips 'GS3-ECO-0002' from heads+CONTINUED strips, drop 'SUBJECT NN' serials from subject pages; anchors untouched).
+
+---
+Task ID: A4-4
+Agent: Super Z (main, orchestrator)
+Task: Phase 4 — card visual cleanup.
+
+Work Log:
+- build_book.py: card_head_html() drops the card-id chip (kept DATA: year chip; empty card-ids div omitted); cont_html() drops c-id span; emit_subject() hero-tag now 'GS PAPER N' (SUBJECT NN serial removed). Anchors untouched — 83/83 intact, all index/subject-page links resolve.
+- theme.css: dead .card-id / .cont .c-id rules removed.
+- Verified: 0 taxonomy codes in visible text (regex over tag-stripped doc), 0 serials, sample titles clean across subjects; geometry regression (112 sheets, 0 tall, 0 bad-foot, 0 orphans); VLM 5/5 pages — no codes visible, cards clean/distinct/scannable, no defects.
+
+Stage Summary:
+- Phase 4 complete. Next: Phase 5 — JSON-level content restructuring (dense cards → clean bullet hierarchy) — the first content-truth phase; verbatim gate will be re-baselined against the restructured JSON.
