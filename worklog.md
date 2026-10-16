@@ -193,3 +193,17 @@ Work Log:
 
 Stage Summary:
 - Book 2 "Dr. CSE — Data & Facts" complete: final_data_facts.html (110 A4 sheets, 83 verbatim data cards, every number dated + sourced, full clickable navigation) + complete modular src/datafacts/ partials + self-contained pipeline (parse→build→qa→measure, all green). Same iron rules as Book 1 (verbatim rows, no count stats, relative-path images, ebook-build only). Awaiting user acceptance.
+
+---
+Task ID: A4-1
+Agent: Super Z (main, orchestrator)
+Task: Multi-phase structural repair of Book 2 (Dr. CSE — Data & Facts) — Phase 0 discovery + Phase 1 A4 geometry/footer.
+
+Work Log:
+- PHASE 0 (diag_phase0.py, measurements on all 110 sheets): pipeline = build-time Python Packer (parse_data.py → df_book_map.json → build_book.py → final_data_facts.html) + Chromium print-to-PDF; screen .sheet = block 794×1123.
+- Root causes measured: (1) footer floats — .sheet display:block, no pinning (disclaimer foot at 580px, 525px dead space below); (2) index/book order GS3→GS2→GS1 (JSON first-appearance order rules the tree); index sheets fill 17–47%, paper headers appended before fit-check; (3) 13 orphaned-heading sheets (sub-h/sec-h last element before foot; Manufacturing Sector = sheet 13, card on 14) — Packer lacks keep-with-next; begin_flow_card 220px guard insufficient for tall tables; (4) card-id chips + "SUBJECT NN" serials visible; (5) parse rule 6 merges soft-wrapped lines into dense rows; (6) .srcs panels duplicate 556 inline citations (only GS2-GOV-0007 has none inline).
+- PHASE 1 (theme.css §3/§11, build_book.py backcover): .sheet flex column + .foot margin-top:auto → footer pinned at exact 24px offset on every sheet regardless of content; print rebuilt full-bleed: @page A4 margin:0, .sheet width 210mm min-height 296.5mm, html background sage (sliver cover), removed .rows{column-fill:auto} (print-only multicol non-fragmentation stacked all rows into col 1 → 50 sheets doubled → 184 PDF pages; root cause, not a CSS patch: build-time pagination means print must mirror screen balance); back cover: cover-contact margin-top:0 inline (flex doesn't collapse parent/child margins; was 13px over A4).
+- Gates: verify_phase1.py — 110/110 sheets exactly 794×1123 flex; footGap min/max 24/24px; PDF via Playwright page.pdf(A4,0,printBackground) = exactly 110 pages, all exactly 595.3×841.9pt; qa_check_df.py ALL GREEN; VLM visual check 6/6 (disclaimer, short, full, 3 random): footer bottom-pinned, no clipping.
+
+Stage Summary:
+- Phase 0 + 1 complete and committed (7fdb750). Next: Phase 2 — keep-with-next in Packer (card heads, sec-h/sub-h bands, sth sub-headings) to kill all 13 orphaned headings incl. Manufacturing Sector; then Phase 3 index rebuild with GS1→GS2→GS3.
