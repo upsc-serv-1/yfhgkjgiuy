@@ -207,3 +207,18 @@ Work Log:
 
 Stage Summary:
 - Phase 0 + 1 complete and committed (7fdb750). Next: Phase 2 — keep-with-next in Packer (card heads, sec-h/sub-h bands, sth sub-headings) to kill all 13 orphaned headings incl. Manufacturing Sector; then Phase 3 index rebuild with GS1→GS2→GS3.
+
+---
+Task ID: A4-2
+Agent: Super Z (main, orchestrator)
+Task: Phase 2 — page-break/chapter-break rules (keep-with-next).
+
+Work Log:
+- build_book.py Packer rebuilt: add(html,px,keep_next) — heading units move to a fresh sheet BEFORE placement unless their required following content fits (kills orphaned headings at the root, not via CSS patches).
+- Keep chains: sec-h → sub-h → card head → first content unit (full px, capped only in degenerate mega-unit case); sth/ssec → run of following headings + first row/table. begin_flow_card(head+first_px) replaces the 220px magic guard that orphaned titles above tall tables.
+- Estimator: CARD_MARGIN_PX=18 added per card fragment (real box-model cost was unaccounted — caused sheet 67 @1130px overflow); flush() stamps data-est for calibration (real/est 0.76–1.06, median 0.90 → healthy headroom).
+- theme.css print: blanket .card{break-inside:avoid} removed (long cards flow via CONTINUED fragments; selective .card-h/.row/.sth/.tblwrap avoids kept). No column-fill:auto (see A4-1).
+- Verified: 114 sheets; 0 orphaned headings (DOM last-element scan, all sheets — stronger than the 10-transition spot check); Manufacturing Sector band + SECONDARY SECTOR card same sheet; all subject pages fresh-sheet chapter openers; fills median 75%, under-40% sheets are hero/front pages only; PDF = 114 pages all A4; qa_check_df.py green.
+
+Stage Summary:
+- Phase 2 complete (commit 2nd of fix-A4 series). Next: Phase 3 — index rebuild with GS1→GS2→GS3 paper order (tree sorted at parse level), atomic subject blocks, no orphaned paper headers, balanced fill.
