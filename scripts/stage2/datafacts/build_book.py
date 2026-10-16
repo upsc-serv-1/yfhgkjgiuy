@@ -359,7 +359,10 @@ def backcover_html():
             '<img src="assets/images/cover_candidate_resource_guide.png" alt="Dr. CSE companion resources guide"/>'
             '</figure>'
             '<div style="margin-top:26px;padding:0 2px">'
-            '<div class="cover-contact">'
+            # margin-top:0 — the wrapper above already provides the 26px gap;
+            # flex sheets do not collapse parent/child margins, so keeping the
+            # class default (26px) here would double the gap and spill past A4.
+            '<div class="cover-contact" style="margin-top:0">'
             '<span><a href="https://drcse.in" target="_blank" rel="noopener">drcse.in</a></span>'
             '<span><a href="https://t.me/dr_cse" target="_blank" rel="noopener">t.me/dr_cse</a></span>'
             '<span><a href="mailto:dr.cse.001@gmail.com">dr.cse.001@gmail.com</a></span>'
