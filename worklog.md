@@ -173,3 +173,23 @@ Work Log:
 
 Stage Summary:
 - DESIGN.md is the canonical design spec of the shipped book; design_tokens.md remains the token reference. All four docs consistent with the built artifact. Docs-only commit — no HTML/CSS changes, no rebuild needed.
+
+---
+Task ID: 10-DF
+Agent: Super Z (main, orchestrator)
+Task: Book 2 — "Dr. CSE — Data & Facts": finish the interrupted build (fix defects found mid-pipeline), verify, document.
+
+Work Log:
+- Found the previous session's untracked WIP: inputs/updated_data.json (83 data cards), scripts/stage2/datafacts/{parse_data,build_book,qa_check_df}.py + df_book_map.json, src/datafacts/ partials, final_data_facts.html — build was interrupted mid-way with 6 QA failures and no worklog entry.
+- Diagnosis (6 QA fails → 4 root causes): (a) parse_data.py split content_markdown on '<br>' which TEARS APART tables containing <br> inside cells — GS2-POL-0006 EMERGENCY rendered an unclosed <table> + literal escaped '</td></tr>' text on the card; (b) Packer.flush() emitted content fragments WITHOUT the .sheet wrapper (no page background/padding/print pagination, no subject attribution, partials never persisted); (c) continuation fragments never re-opened <article> (83 open / 123 close); (d) table height estimator was flat 95px (a 17-row table is ~370px+) → overflow risk; plus QA-script bugs (counted '<table>' inside a CSS comment, page-number expectation -1 instead of -2).
+- parse_data.py: split_lines() now protects <table>...</table> spans with placeholders before the <br> split, restores them as atomic lines → EMERGENCY table whole; source scanned clean for other cross-fragment tag hazards (0).
+- build_book.py: flush() wraps every content sheet in <div class="sheet" data-ch="ch-N">; subject pages carry id + data-ch; cont_html re-opens <article class="card gsN cont-art"> (dashed top edge) with CONTINUED strip + fresh .rows so every fragment is a complete box (anchor stays on first fragment); emit_card streams at ROW granularity via block_units() (tables atomic); table-aware estimator (46 + 24·<tr>, full height; fact rows ×0.55 for 2-col flow); attribution + partial persistence via data-ch regex → all 110 partials now persisted (df_ch-N_MM.html fragments included).
+- Mid-fix regression caught by QA: my first block_units() rewrite dropped the ROWS of 'section' blocks via a stray continue (24 rows lost on GS3-ENV-0001 alone, 181 lines missing book-wide) — fixed; also removed the double '<div class="rows">' begin_flow_card appended to the now self-contained cont_html (49 unbalanced divs) — fixed.
+- theme.css (datafacts): added .card.cont-art{border-top-style:dashed}; .fig/.fig img for the back-cover companion figure; back-cover figure constrained to max-width:480px (was full-width → 1427px tall sheet; now every sheet exactly 1123px).
+- qa_check_df.py: strips <style> before tag-balance; page-number expectation sheets-2 (both covers carry no foot); residue scan ignores <br> inside protected tables; NEW escaped-table-markup leak check (catches the EMERGENCY bug class).
+- measure_df.py (new, persisted): headless playwright — sheet heights (min/median/max 1123/1123/1123, 0 over 1135), horizontal overflow 0, click-through index link → #card-GS2-POL-0006 lands top=12 visible, floating INDEX → #ix-title top=12; 8 screenshots.
+- Rebuilt: final_data_facts.html 110 sheets / 471 KB; qa_check_df.py ALL GREEN (83 anchors, verbatim 0 missing, tag balance all equal, 136/136 flow-card fragments, chrome + page numbers consistent, no stats). VLM review of 8 key pages (cover, disclaimer, index, opener, subject page, EMERGENCY table card, INFRASTRUCTURE tables card, continuation fragment): 8/8 PASS.
+- Docs: DESIGN.md §II (§13–§16: data-card anatomy, flowing cards, sheet map, pipeline + change protocol); HANDOFF.md Book-2 section + refreshed header/reading order; README.md restructured as two-book library with both rebuild chains.
+
+Stage Summary:
+- Book 2 "Dr. CSE — Data & Facts" complete: final_data_facts.html (110 A4 sheets, 83 verbatim data cards, every number dated + sourced, full clickable navigation) + complete modular src/datafacts/ partials + self-contained pipeline (parse→build→qa→measure, all green). Same iron rules as Book 1 (verbatim rows, no count stats, relative-path images, ebook-build only). Awaiting user acceptance.

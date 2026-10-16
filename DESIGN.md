@@ -306,3 +306,69 @@ Closing panel + companion-resources image (`assets/images/cover_candidate_resour
 (`python scripts/stage2/build.py`) → re-run QA (`python scripts/stage2/qa_check.py`)
 → re-measure any `.a4` sheet heights headless (≤ ~1135px) → update this document +
 `design_tokens.md` in the same commit → push.
+
+---
+
+# II. SIBLING BOOK — Dr. CSE · Data & Facts (`final_data_facts.html`)
+
+A second book in the same design system, shipped from this repo. Where it follows
+Replica it inherits the rules above; where it differs, §13 below is the spec.
+
+## 13. What kind of book this is
+
+- **Source:** `inputs/updated_data.json` — 83 verified, dated, sourced data cards
+  (GS Papers I–III · 12 subjects · 31 section groups · 60 subtopics).
+- **Job:** every number a student might quote in an answer — with its data window
+  (`DATA:` chip) and its source panel (org · linked title · year · type chip).
+- **Verbatim rule carries over:** fact rows are protected content; only chrome
+  (labels, headings, panel titles) is editable. No count statistics, same as §11.
+
+## 14. Anatomy of a data card (differs from Replica's card)
+
+```
+┌─ card (white rounded box, 3px paper top edge: GS-1 gold / GS-2 teal / GS-3 green)
+│  TITLE h4 ······ [ID pill] [DATA: <period> chip]
+│  ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ (dashed rule)
+│  INNER SECTION (.ssec — gold left bar, spans both columns)
+│  SUB-THEME (.sth — teal small caps)
+│  · fact row (.row, mono, 2-column flow via .rows{columns:2})
+│  · fact row …                     [TABLE .tblwrap — spans both columns]
+│  SOURCES panel (.srcs — spans both columns)
+└──────────────────────────────────
+```
+
+- **Fact rows** are the unit: mono 9.5px, hanging bullet, `break-inside:avoid`.
+  Indentation levels `.row.l1…l5` mirror the source's `&nbsp;` nesting.
+- **Tables** are atomic (never split across sheets/columns) — the parser
+  protects `<table>…</table>` spans from the `<br>` line split (a source table
+  may contain `<br>` inside cells).
+- **Flowing cards (unique to this book):** a big card may span several sheets.
+  Each sheet fragment is a complete `<article class="card … cont-art">` box —
+  the continuation re-opens the box with a **CONTINUED strip** (id · title ·
+  CONTINUED) and a **dashed top edge**; the card's anchor `#card-<ID>` stays on
+  its first fragment. Sheet budget ≈ 900 est-px (headless-verified: every sheet
+  exactly 1123px A4).
+
+## 15. Sheet system & book map (110 sheets, as built)
+
+Cover (`.p1`) → Disclaimer & How to Use → **4 index sheets** (2-column, every
+level clickable: paper → subject → section → card title) → per paper (GS-III →
+GS-II → GS-I): part opener + subject pages (`#ch-N`, each carrying its own
+clickable fact-sheet list) + card sheets (88, `data-ch="ch-N"` attribution) →
+back cover (`.p1`, companion-guide figure at `max-width:480px`, contact strip).
+Page numbers stamped `NNN / 110` in the footer (2 covers unstamped).
+
+## 16. Pipeline (scripts/stage2/datafacts/)
+
+`parse_data.py` (updated_data.json → df_book_map.json; entity decode, 🢥→→
+glyph map, table protection, title-dup skip) → `build_book.py` (map →
+`src/datafacts/df_*.html` partials + assembled `final_data_facts.html`;
+Packer with open-card continuation + row-granularity streaming; table-height
+estimator 46 + 24·rows) → `qa_check_df.py` (83 anchors, verbatim, tag balance
+incl. `escaped-table-markup` leak check, chrome/page numbers, no stats)
+→ `measure_df.py` (headless: heights ≤ 1135px, overflow, click-through,
+screenshots into `shots/`).
+
+**Change protocol:** edit `src/datafacts/theme.css` / `inputs/updated_data.json`
+→ `python scripts/stage2/datafacts/parse_data.py && python scripts/stage2/datafacts/build_book.py && python scripts/stage2/datafacts/qa_check_df.py`
+→ `measure_df.py` green → update this section in the same commit → push.

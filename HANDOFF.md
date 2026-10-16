@@ -1,8 +1,8 @@
 # HANDOFF.md — Live Handoff (any agent: read this FIRST, then PLAN.md)
 
-**Last updated:** 2026-10-16 (v3 + documentation pass: **DESIGN.md** added) · **Phases 0–8 COMPLETE + v2 + v3 REVIEW FIXES + DOCS — final_ebook.html QA-PASSED — AWAITING USER ACCEPTANCE** · Branch: `ebook-build` (this branch IS the project) · Repo: `upsc-serv-1/yfhgkjgiuy`
+**Last updated:** 2026-10-16 (Book 1 v3 + docs complete; **Book 2 "Dr. CSE — Data & Facts" BUILT + QA-green**) · Branch: `ebook-build` (this branch IS the project) · Repo: `upsc-serv-1/yfhgkjgiuy`
 
-**Reading order:** this file → `PLAN.md` (process + iron rules) → **`DESIGN.md` (design spec of the shipped book)** → `design_tokens.md` (token reference) → tail of `worklog.md`.
+**Reading order:** this file → `PLAN.md` (process + iron rules) → **`DESIGN.md` (design spec — §I for Replica, §II for Data & Facts)** → `design_tokens.md` (token reference) → tail of `worklog.md`.
 
 ## Current state in one paragraph
 
@@ -30,6 +30,26 @@ The eBook is **built, QA-verified, and reworked twice per user review**. Book na
 18. **Thin running header (v3):** logo + "Dr. CSE — Replica" only; no book-name/section/subject crumbs; page number in footer.
 19. **Cards (v3):** INTRODUCTION boxed like other blocks; syllabus-point micro line removed; long DATA lists in 2 columns.
 20. **Contact (v3):** drcse.in · t.me/dr_cse · dr.cse.001@gmail.com — shown on cover, disclaimer page, back cover. Logo asset: `assets/images/logo_dr_cse.png` (extracted from the prototype's embedded base64).
+
+## Book 2 — Dr. CSE · Data & Facts (`final_data_facts.html`) — BUILT, QA-GREEN
+
+A **second ebook** in the same design system, built from `inputs/updated_data.json`
+(83 verified/dated/sourced data cards · GS Papers I–III · 12 subjects).
+
+- **Artifact:** `final_data_facts.html` — **110 sheets** (2 covers + disclaimer +
+  4 index sheets + 3 part openers + 12 subject pages + 88 card sheets), 471 KB,
+  every sheet exactly 1123px A4. All 83 cards verbatim (0 missing lines), 0 broken
+  links, 0 escaped-markup leaks, 0 count statistics, tag balance green, 53
+  continuation strips balanced. Headless + VLM visual review: 8/8 key pages PASS.
+- **Pipeline (all under `scripts/stage2/datafacts/`):** `parse_data.py` →
+  `build_book.py` (also writes `src/datafacts/df_*.html` partials) →
+  `qa_check_df.py` (ALL GREEN required) → `measure_df.py` (heights/overflow/
+  click-through/screenshots). Re-run the full chain after ANY change to
+  `inputs/updated_data.json` or `src/datafacts/theme.css`.
+- **Design spec:** DESIGN.md §II (§13–§16) — data-card anatomy (fact rows, tables,
+  sources panels), **flowing cards** with CONTINUED strips (`.cont-art`), sheet map,
+  pipeline. Same prohibitions as Replica (no count stats, verbatim fact rows,
+  relative-path images only, no backdrop-filter).
 
 ## What to do next (if you are picking this up)
 
