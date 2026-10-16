@@ -283,3 +283,17 @@ Work Log:
 
 Stage Summary:
 - Phases 6+7 complete: exam data now bold+orange, persisted in the JSON, reproducible from source alone. Next: Phase 8 — remove duplicate SOURCES panels (keep inline citations; panel only for cards that lack inline citations).
+
+---
+Task ID: A4-8
+Agent: Super Z (main, orchestrator)
+Task: Phase 8 — remove duplicate source listings (keep inline citations).
+
+Work Log:
+- build_book.py: card_has_inline_citation() (rows + group-label links count) gates srcs_html() — the trailing SOURCES panel renders ONLY for cards that cite nothing inline (duplicate attribution removed for 82/83 cards; book 114 → 110 sheets). Disclaimer/how-to-use copy updated (sources now described as inline dotted links; 'source at the bottom' / 'Sources close the card' gone; how-a-card-is-built mentions orange exam numbers).
+- qa_check_df.py: external-links expectation = rows + labels + panels-under-new-rule; new 'duplicate source panels removed' check.
+- Census: exactly 1 card without inline citations — GS1-SOC-0001 (SOCIETY/General meta-note, 7 sources) — keeps its panel; attribution preserved for every card exactly once. (Phase-0's 'GS2-GOV-0007' case now HAS inline links via its BharatNet/MeitY label citations.)
+- Gate verify_phase8: panel owned by GS1-SOC-0001 only (attribution via CONT-strip/anchor walk after fixing a naive cross-card regex); 539 row + 17 label inline links preserved (561 external <a>); stale copy none; geometry/orphans/index/b.hl-2407 all clean; PDF 110 A4 pages; VLM 4/4 card-bottom pages clean (no dangling panels, no broken boxes).
+
+Stage Summary:
+- Phase 8 complete. Next: Phase 9 — final validation (17-item checklist) + final report.

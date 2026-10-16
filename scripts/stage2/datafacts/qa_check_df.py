@@ -50,9 +50,19 @@ check('internal links resolve', not broken, f'broken: {broken[:8] or "none"} ({l
 # ---------- 3. external links ----------
 ext = re.findall(r'<a href="https?://[^"]+"', DOC)
 n_src_links = sum(r['html'].count('<a href=') for c in cards for b in c['blocks'] for r in b['rows'])
-n_panel_links = sum(1 for c in cards for s in c['sources'] if s.get('url'))
-check('external links: content links preserved', len(ext) >= n_src_links,
-      f'{len(ext)} <a> external vs {n_src_links} content + {n_panel_links} panel expected')
+n_label_links = sum((b['title'] or '').count('<a href=') for c in cards for b in c['blocks'])
+# Phase 8: SOURCES panels exist ONLY for cards that cite nothing inline
+n_panel_links = 0
+for c in cards:
+    has_inline = any('<a href="http' in (b['title'] or '') for b in c['blocks']) or \
+                  any('<a href="http' in r['html'] for b in c['blocks'] for r in b['rows'])
+    if not has_inline:
+        n_panel_links += sum(1 for s in c['sources'] if s.get('url'))
+check('external links: content links preserved', len(ext) >= n_src_links + n_label_links,
+      f'{len(ext)} <a> external vs {n_src_links} rows + {n_label_links} labels + {n_panel_links} panel expected')
+n_srcs_panels = len(re.findall(r'<div class="srcs">', DOC))
+check('duplicate source panels removed', n_srcs_panels == 0 or n_srcs_panels <= 3,
+      f'{n_srcs_panels} SOURCES panels remain (only no-inline-citation cards may keep one)')
 
 # ---------- 4. verbatim visible text ----------
 def norm(s):
