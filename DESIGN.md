@@ -327,48 +327,67 @@ Replica it inherits the rules above; where it differs, §13 below is the spec.
 
 ```
 ┌─ card (white rounded box, 3px paper top edge: GS-1 gold / GS-2 teal / GS-3 green)
-│  TITLE h4 ······ [ID pill] [DATA: <period> chip]
+│  TITLE h4 ······ [DATA: <period> chip]
 │  ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ (dashed rule)
 │  INNER SECTION (.ssec — gold left bar, spans both columns)
 │  SUB-THEME (.sth — teal small caps)
+│  GROUP LABEL (.sth2 — quiet sans label, gold tick; Phase 5 third tier)
 │  · fact row (.row, mono, 2-column flow via .rows{columns:2})
+│    · nested fact (.row.l1/l2 — one fact per bullet, hierarchy from JSON)
 │  · fact row …                     [TABLE .tblwrap — spans both columns]
 │  SOURCES panel (.srcs — spans both columns)
 └──────────────────────────────────
 ```
 
+- **Canonical content grammar (Phase 5, source of truth = `inputs/updated_data.json`):**
+  `<b><u>Title</u></b>` → section · `• <b><u>Sub-theme</u></b>` → sub ·
+  `• <b>Group label:</b>` → minor (.sth2) · `- fact` / `&nbsp;`×4N`- fact` →
+  rows at level 0..N · `<table>…</table>` atomic. One fact per bullet; no raw
+  `<b>/<i>` tags outside headings/tables (they render as literal text — the
+  parser escapes them); no soft-wrap continuation lines; no `\n\n### Section
+  Group:` generator artifacts. `restructure_json.py` enforces/produces this
+  grammar and GUARANTEES alphanumeric-stream text preservation (every deviation
+  is an explicitly logged drop; see `restructure_log.json`).
 - **Fact rows** are the unit: mono 9.5px, hanging bullet, `break-inside:avoid`.
-  Indentation levels `.row.l1…l5` mirror the source's `&nbsp;` nesting.
+  Indentation levels `.row.l1/l2` mirror the JSON's `&nbsp;`×4N nesting
+  (l3+ intentionally unused after the Phase-5 hierarchy reconstruction).
 - **Tables** are atomic (never split across sheets/columns) — the parser
   protects `<table>…</table>` spans from the `<br>` line split (a source table
   may contain `<br>` inside cells).
 - **Flowing cards (unique to this book):** a big card may span several sheets.
   Each sheet fragment is a complete `<article class="card … cont-art">` box —
-  the continuation re-opens the box with a **CONTINUED strip** (id · title ·
+  the continuation re-opens the box with a **CONTINUED strip** (title ·
   CONTINUED) and a **dashed top edge**; the card's anchor `#card-<ID>` stays on
   its first fragment. Sheet budget ≈ 900 est-px (headless-verified: every sheet
   exactly 1123px A4).
 
-## 15. Sheet system & book map (110 sheets, as built)
+## 15. Sheet system & book map (114 sheets, as built)
 
-Cover (`.p1`) → Disclaimer & How to Use → **4 index sheets** (2-column, every
-level clickable: paper → subject → section → card title) → per paper (GS-III →
-GS-II → GS-I): part opener + subject pages (`#ch-N`, each carrying its own
-clickable fact-sheet list) + card sheets (88, `data-ch="ch-N"` attribution) →
-back cover (`.p1`, companion-guide figure at `max-width:480px`, contact strip).
-Page numbers stamped `NNN / 110` in the footer (2 covers unstamped).
+Cover (`.p1`) → Disclaimer & How to Use → **index sheets** (2-column, every
+level clickable: paper → subject → section → card title; page numbers from
+final pagination via fixpoint; GS-I → GS-II → GS-III order) → per paper
+(GS-I → GS-II → GS-III): part opener + subject pages (`#ch-N`, each carrying
+its own clickable fact-sheet list) + card sheets (`data-ch="ch-N"
+attribution) → back cover (`.p1`, companion-guide figure at `max-width:480px`,
+contact strip). Page numbers stamped `NNN / 114` in the footer (2 covers
+unstamped).
 
 ## 16. Pipeline (scripts/stage2/datafacts/)
 
-`parse_data.py` (updated_data.json → df_book_map.json; entity decode, 🢥→→
-glyph map, table protection, title-dup skip) → `build_book.py` (map →
-`src/datafacts/df_*.html` partials + assembled `final_data_facts.html`;
-Packer with open-card continuation + row-granularity streaming; table-height
-estimator 46 + 24·rows) → `qa_check_df.py` (83 anchors, verbatim, tag balance
-incl. `escaped-table-markup` leak check, chrome/page numbers, no stats)
-→ `measure_df.py` (headless: heights ≤ 1135px, overflow, click-through,
-screenshots into `shots/`).
+`restructure_json.py` (OPTIONAL — only when `inputs/updated_data.json` needs
+re-canonicalising: enforces the §14 grammar with a text-preservation guarantee;
+backup `updated_data.pre-phase5.json`) → `parse_data.py` (updated_data.json →
+df_book_map.json; entity decode, 🢥→→ glyph map, table protection, title-dup
+skip, minor-label rule 3b) → `build_book.py` (map → `src/datafacts/df_*.html`
+partials + assembled `final_data_facts.html`; Packer with open-card
+continuation + row-granularity streaming + keep-with-next for
+sec-h/sub-h/card-head/sth/ssec/minor; table-height estimator 46 + 24·rows;
+index page numbers fixpoint) → `qa_check_df.py` (83 anchors, verbatim, tag
+balance incl. `escaped-table-markup` leak check, residue incl. `###` and
+`&lt;b&gt;` classes, chrome/page numbers, no stats) → `verify_phaseN.py` /
+`measure_df.py` (headless: heights, foot pinning, orphans, overflow,
+click-through, PDF page count, screenshots into `shots/`).
 
 **Change protocol:** edit `src/datafacts/theme.css` / `inputs/updated_data.json`
 → `python scripts/stage2/datafacts/parse_data.py && python scripts/stage2/datafacts/build_book.py && python scripts/stage2/datafacts/qa_check_df.py`
-→ `measure_df.py` green → update this section in the same commit → push.
+→ `verify_phase5.py` green → update this section in the same commit → push.

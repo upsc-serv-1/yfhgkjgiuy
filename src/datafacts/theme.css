@@ -136,6 +136,13 @@ a.chip:hover{border-color:var(--teal);color:var(--teal);background:var(--t-teal)
 /* sub-theme heading — flows inside a column */
 .sth{font-family:var(--sans);font-weight:600;font-size:10.5px;letter-spacing:1.2px;text-transform:uppercase;
      color:var(--teal);margin:9px 0 4px;padding-bottom:2px;border-bottom:1px solid var(--hair)}
+/* minor group label (third tier, Phase 5) — quieter than .sth: no uppercase,
+   no rule; gold tick marks it as a label rather than a fact row */
+.sth2{font-family:var(--sans);font-weight:600;font-size:9.5px;letter-spacing:.3px;
+      color:var(--ink-h);margin:7px 0 3px}
+.sth2::before{content:"";display:inline-block;width:7px;height:7px;margin-right:6px;
+              background:var(--t-gold);border-left:2px solid var(--gold);vertical-align:baseline}
+.sth2 a{color:var(--teal);text-decoration:none;border-bottom:1px dotted var(--teal)}
 /* fact rows — 2-column dense flow */
 .rows{columns:2;column-gap:22px;column-rule:1px solid var(--hair)}
 .row{font-family:var(--mono);font-weight:500;font-size:9.5px;line-height:1.5;color:var(--ink);
@@ -229,14 +236,14 @@ a.chip:hover{border-color:var(--teal);color:var(--teal);background:var(--t-teal)
      NO blanket .card{break-inside:avoid} — long cards legitimately flow across
      pages via build-time CONTINUED fragments; blanket avoid would force whole
      cards onto fresh sheets and leave large blank gaps. */
-  .card-h,.rows .row,.sth,.tblwrap,.srcs,.note,.panel,tr{break-inside:avoid}
+  .card-h,.rows .row,.sth,.sth2,.tblwrap,.srcs,.note,.panel,tr{break-inside:avoid}
   /* NOTE: no column-fill:auto here. Sheets are paginated at BUILD time (Python
      packer), so a sheet's rows must stay balanced 2-col in print exactly as on
      screen; column-fill:auto would stack all rows into column 1 inside the
      (monolithic, non-fragmenting) flex sheet and double its height. */
   .to-ix{display:none}
   .sec-h,.sub-h,.chap-t,.cont{break-after:avoid}
-  h2,h3,h4,.ssec,.sth{break-after:avoid}
+  h2,h3,h4,.ssec,.sth,.sth2{break-after:avoid}
   thead{display:table-header-group}
   *{-webkit-print-color-adjust:exact;print-color-adjust:exact}
   a{color:inherit;text-decoration:none}

@@ -250,3 +250,19 @@ Work Log:
 
 Stage Summary:
 - Phase 4 complete. Next: Phase 5 — JSON-level content restructuring (dense cards → clean bullet hierarchy) — the first content-truth phase; verbatim gate will be re-baselined against the restructured JSON.
+
+---
+Task ID: A4-5
+Agent: Super Z (main, orchestrator)
+Task: Phase 5 — JSON-level content restructuring (one fact per bullet, grouped subheadings, clean nested levels).
+
+Work Log:
+- Discovery (analyze_density.py): 83 cards = 2009 rows, 17 prose rows, 16 soft-wrap continuations (parse rule 6 joins → dense rows), 94 long bullets (>220 chars), 133 multi-fact bullets, 79 broken-indent children (level-0 facts directly after label bullets), 10 visible '\n\n### Section Group:' generator artifacts (rendered as literal text — QA residue scan had no ### check), 29 raw <b> tags outside headings/tables that parse's inline() ESCAPES into visible literal '<b>' text (3+ confirmed rendering in the shipped book; verbatim gate blind to it because entities unescape+strip as tags during checking). BEFORE screenshots + VLM review of the 5 densest cards (General/GOV, Social Sector, Disaster Stats, Climate Change, Energy) confirmed all defect classes visually.
+- restructure_json.py (new, persisted): canonicalises inputs/updated_data.json content_markdown into a documented grammar — <b><u> → section; • <b><u> → sub; • <b>Label</b> → NEW minor tier; - fact / &nbsp;×4N- fact → rows level 0..N; <table> atomic. 233 logged operations: 27 fact splits at paren-depth-0 ';', 21 continuation joins, 5 fragment-bullet merges, 144 label promotions (• <b> form), 19 broken-child indent fixes, 10 artifact drops, 10 list-number drops, 3 bare→bullet; hierarchy reconstructed via container-stack (labels reset depth, children = container+1; source levels decide WHO nests, canonical levels decide HOW DEEP). GUARANTEE: per-card alphanumeric-stream equality before/after, every deviation a position-anchored logged drop (artifact/number) — OK 83/83.
+- Review discipline: all 27 splits + 5 merges checked one-by-one; 4 false-positive labels force-kept as facts (Target: 2500 / Operational: 314 / No state has > 20% women MLAs / No Institute in TOP 100 — numbers must stay in body for Phase 6 highlighting); 'Advancing women's equality ->' arrow stripped; Energy's broken 2-line intro (bold head + MoSPI citation) merged then promoted via new C5 rule.
+- Parser: rule 3b recognises • <b>X</b> → kind 'minor' (STATS.minors=144). Builder: minor → .sth2 unit (STH2_PX=20) + keep-with-next chains include 'minor'. CSS: .sth2 quiet label (sans 600 9.5px, ink-h, gold tick ::before, in-column — NOT column-span) + print break-inside/after rules. qa_check_df.py: residue scan now also catches '###' and &lt;b&gt;/&lt;/b&gt;/&lt;u&gt; escaped-tag leaks.
+- Bug caught mid-phase: serializer wrote 1 &nbsp; per level but parser computes level = entities/4 → all 393 l1 rows collapsed to l0 (verify census all-l0 exposed it); fixed to 4 entities/level, restored JSON from backup, re-applied, rebuilt.
+- Gate (verify_phase5.py): 144/144 .sth2 rendered; levels l0=1448/l1=393/l2=36/l3+=0; 0 .sth2 orphans; 114 sheets all exactly A4 794×1123, foot pinned 24px everywhere, 0 DOM orphans; 98 index page numbers all correct (fixed 2 verify-script bugs: .pg pairing in multi-card lines, sheet-own-id anchor capture); PDF=114 A4 pages; qa ALL GREEN; VLM 5/5 PASS (labels as headings w/ gold tick, nested hierarchy visible, zero junk, one fact per bullet).
+
+Stage Summary:
+- Phase 5 complete: JSON is canonical + fully verbatim-preserved; book renders 3-tier hierarchy (sub-theme → group label → nested facts). Next: Phase 6 — exam-data highlighting (bold + orange), subject-by-subject with batch self-checks.

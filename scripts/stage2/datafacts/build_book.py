@@ -32,6 +32,7 @@ SEC_BAND_PX = 66
 SUB_BAND_PX = 50
 CARD_HEAD_PX = 58
 CONT_PX = 40
+STH2_PX = 20        # minor group label (.sth2) — quiet in-column heading
 TBL_HEAD_PX = 46      # table chrome (thead + wrap margins)
 TBL_ROW_PX = 24       # per <tr> — tables SPAN BOTH COLUMNS (full height)
 COL_COST = 0.55       # fact rows flow in 2 columns → sheet cost factor
@@ -145,9 +146,9 @@ class Packer:
         i, n = 0, len(units)
         while i < n:
             html, px, kind = units[i]
-            if kind in ('sth', 'ssec'):
+            if kind in ('sth', 'ssec', 'minor'):
                 keep, j = 0, i + 1
-                while j < n and units[j][2] in ('sth', 'ssec'):
+                while j < n and units[j][2] in ('sth', 'ssec', 'minor'):
                     keep += units[j][1]
                     j += 1
                 if j < n:
@@ -197,6 +198,8 @@ def block_html_seq_dict(b):
         out.append(f'<div class="ssec">{b["title"]}</div>')
     elif b['kind'] == 'sub':
         out.append(f'<div class="sth">{b["title"]}</div>')
+    elif b['kind'] == 'minor':
+        out.append(f'<div class="sth2">{b["title"]}</div>')
     for r in b['rows']:
         if r['kind'] == 'table':
             out.append(f'<div class="tblwrap">{r["html"]}</div>')
@@ -212,6 +215,8 @@ def block_units(c):
             units.append((f'<div class="ssec">{b["title"]}</div>', 42, 'ssec'))   # spans both columns
         elif b['kind'] == 'sub':
             units.append((f'<div class="sth">{b["title"]}</div>', STH_PX, 'sth'))
+        elif b['kind'] == 'minor':
+            units.append((f'<div class="sth2">{b["title"]}</div>', STH2_PX, 'minor'))
         if not b['rows']:
             continue
         for r in b['rows']:

@@ -6,7 +6,9 @@ Checks:
   2. internal links: every href="#..." target exists
   3. external links: 556 source links survive as <a href="http..."> (+ sources panel links)
   4. verbatim: every visible text line of every source card appears in the built HTML
-  5. residue: no raw markdown (**, ](http), entities (&nbsp; &rarr; ...), <br>, <!--, 🢥
+  5. residue: no raw markdown (**, ](http), entities (&nbsp; &rarr; ...), <br>, <!--, 🢥,
+     plus the Phase-5 bug classes: '###' generator artifacts and &lt;b&gt; escaped-tag
+     leaks (raw <b> outside headings/tables must never render as literal text)
   6. tag balance: .card/.rows/<article>/<div> open-close balance across the document
   7. no count-statistics strings
   8. chrome: every sheet has topbar + foot; page numbers stamped NNN / TTT
@@ -82,7 +84,8 @@ check('verbatim: every source line present', not missing_lines,
 # anywhere else it is residue — count on markup with table spans removed.
 NO_TBL = re.sub(r'<table.*?</table>', '', MARKUP, flags=re.S)
 residue = {k: NO_TBL.count(k) for k in
-           ['**', '](', '&nbsp;', '<br>', '<!--', '🢥', '&rarr;', '&rupee;', '&plusmn;', '&approx;']}
+           ['**', '](', '&nbsp;', '<br>', '<!--', '🢥', '&rarr;', '&rupee;', '&plusmn;', '&approx;',
+            '###', '&lt;b&gt;', '&lt;/b&gt;', '&lt;u&gt;']}
 residue['[ ]('] = len(re.findall(r'\[[^\]]*\]\(http', NO_TBL))
 # escaped source markup leaking as VISIBLE text (class of the EMERGENCY-table bug:
 # a table torn apart by a <br> split renders literal &lt;/td&gt; on the card)

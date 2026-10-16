@@ -6,7 +6,13 @@ Parses inputs/updated_data.json (83 data cards) into a structured book map:
 Fidelity rules:
   - Visible text must survive VERBATIM (entity-decoded, glyph-mapped) into the HTML.
   - HTML comments (Theme/Sub-Theme/Sub-Sub-Theme) are non-visible metadata → dropped;
-    visible markers (• <b><u> headings) are the structural truth.
+    visible markers are the structural truth.
+  - CANONICAL GRAMMAR (Phase 5, see restructure_json.py):
+      <b><u>Title</u></b>        → section  (.ssec, spans columns)
+      • <b><u>Sub-theme</u></b>  → sub      (.sth, in-column heading)
+      • <b>Group label:</b>      → minor    (.sth2, quiet in-column label)
+      - fact / &nbsp;×4N- fact   → rows at level 0..N (one fact per bullet)
+      <table>…</table>           → atomic table
   - First full-line title equal to card_title is a duplicate of the card header → skipped.
     (For multi-theme cards like CURRENT AFFAIRS, ALL inner titles are kept as sections.)
   - 🢥 (U+1F8A5, unrenderable in shipped fonts) → →  (same meaning, logged).
@@ -99,7 +105,7 @@ def inline_table(s):
     return ''.join(out)
 
 STATS = {'glyph_mapped': 0, 'links': 0, 'rows': 0, 'tables': 0, 'headings': 0,
-         'continuations_joined': 0, 'title_dups_skipped': 0, 'sections_kept': 0}
+         'minors': 0, 'continuations_joined': 0, 'title_dups_skipped': 0, 'sections_kept': 0}
 
 TBL_PH = '\x00T{}\x00'
 TBL_RE = re.compile(r'<table.*?</table>', re.S)
@@ -169,6 +175,14 @@ def parse_card(card, serial_in_subject):
                 else:
                     new_block('section', inline(title_raw))   # inner section (CURRENT AFFAIRS, meta-note)
                     STATS['sections_kept'] += 1
+            continue
+        # 3b. minor group label: • <b>X</b>  (bold, NO underline — Phase 5
+        # canonical grammar: third heading tier under sub-themes; carries its
+        # own rows like 'sub' blocks but renders as the quieter .sth2)
+        m2 = re.match(r'^\s*•\s*<b>(.*?)</b>\s*$', no_comment)
+        if m2:
+            new_block('minor', inline(m2.group(1)))
+            STATS['minors'] += 1
             continue
         # 4. bullet rows (with &nbsp; indent)
         mb = NBSP_RUN.match(no_comment)
@@ -287,7 +301,7 @@ def main():
     print(f"parsed {s['cards']} cards | {s['papers']} papers | {s['subjects']} subjects | "
           f"{s['section_groups']} section groups | {s['subtopics']} subtopics")
     print(f"rows {s['rows']} | tables {s['tables']} | sub-headings {s['headings']} | "
-          f"inner sections {s['sections_kept']} | title dups skipped {s['title_dups_skipped']}")
+          f"minor labels {s['minors']} | inner sections {s['sections_kept']} | title dups skipped {s['title_dups_skipped']}")
     print(f"links converted {sum(c['blocks'] and sum('[href' in r['html'] for b in c['blocks'] for r in b['rows']) for c in cards)} "
           f"| continuations joined {s['continuations_joined']} | glyph 🢥→→ {s['glyph_mapped']}")
     # sanity: any card with zero blocks?

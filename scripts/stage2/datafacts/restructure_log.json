@@ -1,0 +1,1635 @@
+{
+ "entries": [
+  {
+   "card": "GS-III/Disaster Stats",
+   "op": "E1_fact_split",
+   "detail": "'Internal displacements due to natural disasters: 5' ⏎ 'South Asia recorded over 4.6 million disaster disp'",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-III/PRIMARY SECTOR",
+   "op": "C12_label_promoted",
+   "detail": "'Eco Parameters' → minor heading",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-III/PRIMARY SECTOR",
+   "op": "C12_label_promoted",
+   "detail": "'Area under Cultivation' → minor heading",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-III/PRIMARY SECTOR",
+   "op": "C12_label_promoted",
+   "detail": "'Small & Marginal farmers' → minor heading",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-III/PRIMARY SECTOR",
+   "op": "C12_label_promoted",
+   "detail": "'Urea:' → minor heading",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-III/PRIMARY SECTOR",
+   "op": "C12_label_promoted",
+   "detail": "'DAP:' → minor heading",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-III/PRIMARY SECTOR",
+   "op": "C12_label_promoted",
+   "detail": "'National Mission on Edible oils- Targets for 2030-31:' → minor heading",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-III/PRIMARY SECTOR",
+   "op": "C12_label_promoted",
+   "detail": "'Contribution:' → minor heading",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-III/PRIMARY SECTOR",
+   "op": "C12_label_promoted",
+   "detail": "'Contribution:' → minor heading",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-III/PRIMARY SECTOR",
+   "op": "D1_child_indent_fix",
+   "detail": "'Share in GDP: ~16% of GDP (17.7% of GVA) (Economic Survey 20' → nested under 'Eco Parameters'",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-III/SECONDARY SECTOR",
+   "op": "C12_label_promoted",
+   "detail": "'PM Mudra Yojana: MSMEs' → minor heading",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-III/SECONDARY SECTOR",
+   "op": "C12_label_promoted",
+   "detail": "'Fabric Production [India]' → minor heading",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-III/SECONDARY SECTOR",
+   "op": "C12_label_promoted",
+   "detail": "'Ease of Doing Business' → minor heading",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-III/SECONDARY SECTOR",
+   "op": "D1_child_indent_fix",
+   "detail": "'Accounts: 55.45 crore loan accounts sanctioned as of October' → nested under 'PM Mudra Yojana: MSMEs'",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-III/SECONDARY SECTOR",
+   "op": "E1_fact_split",
+   "detail": "'Employing 7.5 crore people' ⏎ '62% to employment in India (McKinsey Global Instit'",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-III/SECONDARY SECTOR",
+   "op": "E1_fact_split",
+   "detail": "'Semiconductor Market: Projected to grow at 13% rea' ⏎ 'India Semiconductor Mission approved 10 projects a'",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-III/LAND REFORMS",
+   "op": "C4_bare_to_bullet",
+   "detail": "'Total Land Area of world with India: 2.4%' → bullet",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-III/INCLUSIVE GROWTH & DEVELOPMENT",
+   "op": "C12_label_promoted",
+   "detail": "'Stream wise Ratio:' → minor heading",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-III/INCLUSIVE GROWTH & DEVELOPMENT",
+   "op": "C12_label_promoted",
+   "detail": "'Government Spending:' → minor heading",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-III/INCLUSIVE GROWTH & DEVELOPMENT",
+   "op": "C12_label_promoted",
+   "detail": "'Inefficient Infrastructure [UDISE+ 2023-24 Report]' → minor heading",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-III/INCLUSIVE GROWTH & DEVELOPMENT",
+   "op": "C12_label_promoted",
+   "detail": "'Universities and Colleges:' → minor heading",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-III/INCLUSIVE GROWTH & DEVELOPMENT",
+   "op": "C12_label_promoted",
+   "detail": "'Startup:' → minor heading",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-III/INCLUSIVE GROWTH & DEVELOPMENT",
+   "op": "C12_label_promoted",
+   "detail": "'Pain Points:' → minor heading",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-III/INCLUSIVE GROWTH & DEVELOPMENT",
+   "op": "C12_label_promoted",
+   "detail": "'Higher Education:' → minor heading",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-III/INCLUSIVE GROWTH & DEVELOPMENT",
+   "op": "C12_label_promoted",
+   "detail": "'QS World Rankings 2025: Top Indian Institutes' → minor heading",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-III/INCLUSIVE GROWTH & DEVELOPMENT",
+   "op": "C12_label_promoted",
+   "detail": "'Schools:' → minor heading",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-III/INCLUSIVE GROWTH & DEVELOPMENT",
+   "op": "C12_label_promoted",
+   "detail": "'ASER 2024' → minor heading",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-III/INCLUSIVE GROWTH & DEVELOPMENT",
+   "op": "C12_label_promoted",
+   "detail": "'Problem in Basic Skills:' → minor heading",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-III/INCLUSIVE GROWTH & DEVELOPMENT",
+   "op": "C12_label_promoted",
+   "detail": "'India – Poverty' → minor heading",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-III/INCLUSIVE GROWTH & DEVELOPMENT",
+   "op": "C12_label_promoted",
+   "detail": "'Decrease in Poverty [World Bank]' → minor heading",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-III/INCLUSIVE GROWTH & DEVELOPMENT",
+   "op": "C12_label_promoted",
+   "detail": "'Global – Poverty' → minor heading",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-III/INCLUSIVE GROWTH & DEVELOPMENT",
+   "op": "C12_label_promoted",
+   "detail": "'Global Inequality (Oxfam):' → minor heading",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-III/INCLUSIVE GROWTH & DEVELOPMENT",
+   "op": "C12_label_promoted",
+   "detail": "'India Inequality (Oxfam):' → minor heading",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-III/INCLUSIVE GROWTH & DEVELOPMENT",
+   "op": "C12_label_promoted",
+   "detail": "'Gini Coefficient:' → minor heading",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-III/INCLUSIVE GROWTH & DEVELOPMENT",
+   "op": "C12_label_promoted",
+   "detail": "'Status of Hunger [Global Hunger Index 2024]' → minor heading",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-III/INCLUSIVE GROWTH & DEVELOPMENT",
+   "op": "C12_label_promoted",
+   "detail": "'Global:' → minor heading",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-III/INCLUSIVE GROWTH & DEVELOPMENT",
+   "op": "C12_label_promoted",
+   "detail": "'India Specific:' → minor heading",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-III/INCLUSIVE GROWTH & DEVELOPMENT",
+   "op": "C12_label_promoted",
+   "detail": "'India Specific:' → minor heading",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-III/INCLUSIVE GROWTH & DEVELOPMENT",
+   "op": "C12_label_promoted",
+   "detail": "'UN-FAO Report:' → minor heading",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-III/INCLUSIVE GROWTH & DEVELOPMENT",
+   "op": "C12_label_promoted",
+   "detail": "'OoPE (Health):' → minor heading",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-III/INCLUSIVE GROWTH & DEVELOPMENT",
+   "op": "C12_label_promoted",
+   "detail": "'Caste System:' → minor heading",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-III/INCLUSIVE GROWTH & DEVELOPMENT",
+   "op": "C12_label_promoted",
+   "detail": "'Diversity:' → minor heading",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-III/INCLUSIVE GROWTH & DEVELOPMENT",
+   "op": "C12_label_promoted",
+   "detail": "'Communalism:' → minor heading",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-III/INCLUSIVE GROWTH & DEVELOPMENT",
+   "op": "C12_label_promoted",
+   "detail": "'States:' → minor heading",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-III/INCLUSIVE GROWTH & DEVELOPMENT",
+   "op": "D1_child_indent_fix",
+   "detail": "'Institutions: Total Higher Education Institutions (HEIs) inc' → nested under 'Universities and Colleges:'",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-III/INCLUSIVE GROWTH & DEVELOPMENT",
+   "op": "D1_child_indent_fix",
+   "detail": "'India's Rank: Improved to 102nd out of 123 countries in Glob' → nested under 'India Specific:'",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-III/INCLUSIVE GROWTH & DEVELOPMENT",
+   "op": "E1_fact_split",
+   "detail": "'61% of respondents opposed interfaith marriages' ⏎ '56% were against inter-caste unions [India Today's'",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-III/BANKING & MONEY MARKET",
+   "op": "C12_label_promoted",
+   "detail": "'Credit-Deposit Ratio (RBI’s Financial Stability Report):' → minor heading",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-III/BANKING & MONEY MARKET",
+   "op": "C12_label_promoted",
+   "detail": "'Profits:' → minor heading",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-III/NATIONAL INCOME & ACCOUNTING",
+   "op": "C12_label_promoted",
+   "detail": "'Debt Profile' → minor heading",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-III/NATIONAL INCOME & ACCOUNTING",
+   "op": "C12_label_promoted",
+   "detail": "'Debt of the Central Government:' → minor heading",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-III/NATIONAL INCOME & ACCOUNTING",
+   "op": "C12_label_promoted",
+   "detail": "'Trade' → minor heading",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-III/NATIONAL INCOME & ACCOUNTING",
+   "op": "C12_label_promoted",
+   "detail": "'Remittances:' → minor heading",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-III/TAXATION",
+   "op": "C12_label_promoted",
+   "detail": "'Income Tax Returns [ITRs]' → minor heading",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-III/INFRASTRUCTURE",
+   "op": "C12_label_promoted",
+   "detail": "'Freight Cost Comparison (NITI Aayog):' → minor heading",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-III/INFRASTRUCTURE",
+   "op": "C12_label_promoted",
+   "detail": "'Status of NIP [As of March 2025]:' → minor heading",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-III/INFRASTRUCTURE",
+   "op": "C12_label_promoted",
+   "detail": "'Length of various categories of roads:' → minor heading",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-III/INFRASTRUCTURE",
+   "op": "C12_label_promoted",
+   "detail": "'Freight:' → minor heading",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-III/INFRASTRUCTURE",
+   "op": "C12_label_promoted",
+   "detail": "'Railway Safety:' → minor heading",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-III/INFRASTRUCTURE",
+   "op": "C12_label_promoted",
+   "detail": "'Ships (ownership):' → minor heading",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-III/INFRASTRUCTURE",
+   "op": "C12_label_promoted",
+   "detail": "'Installed Capacity:' → minor heading",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-III/INFRASTRUCTURE",
+   "op": "D1_child_indent_fix",
+   "detail": "'National Highways: 1,46,572 km as of March 2026 (up from 91,' → nested under 'Length of various categories of roads:'",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-III/INFRASTRUCTURE",
+   "op": "E1_fact_split",
+   "detail": "'National Highway: 2% of total road network, 40% of' ⏎ '5853 km of NH was constructed in FY25..'",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-III/INFRASTRUCTURE",
+   "op": "E1_fact_split",
+   "detail": "'Domestic Passenger traffic: 165.7 million' ⏎ '8th biggest passenger traffic.'",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-III/INFRASTRUCTURE",
+   "op": "E1_fact_split",
+   "detail": "'Coastline: 7516.6 km' ⏎ 'Navigable Inland Waterways - 14,500 kms'",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-III/OTHERS",
+   "op": "C12_label_promoted",
+   "detail": "'India:' → minor heading",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-III/OTHERS",
+   "op": "C12_label_promoted",
+   "detail": "'SDG India Index (2023-24):' → minor heading",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-III/OTHERS",
+   "op": "C12_label_promoted",
+   "detail": "'Global:' → minor heading",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-III/OTHERS",
+   "op": "C12_label_promoted",
+   "detail": "'India:' → minor heading",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-III/Climate Change",
+   "op": "A2_drop_artifact",
+   "detail": "dropped '### Section Group: Conservation & Ecosystems'",
+   "dropped": "SectionGroupConservationEcosystems",
+   "context_after": ""
+  },
+  {
+   "card": "GS-III/Climate Change",
+   "op": "B2_merge_fragment",
+   "detail": "'cut 42 % off annual GHG emissions by 2030 and' + '57 % by 2035 in the next NDCs.' → one bullet",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-III/Climate Change",
+   "op": "B1_join_continuation",
+   "detail": "'5. Warmest year on record: 2024 (NOAA)' → merged into previous row",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-III/Climate Change",
+   "op": "B1_join_continuation",
+   "detail": "'6. Degradation and Desertification: 32% of land affected by ' → merged into previous row",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-III/Climate Change",
+   "op": "B1_join_continuation",
+   "detail": "'by desertification' → merged into previous row",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-III/Climate Change",
+   "op": "B1_join_continuation",
+   "detail": "'11. LiFE: By 2030, LiFE could save consumers USD 440 billion' → merged into previous row",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-III/Climate Change",
+   "op": "B1_join_continuation",
+   "detail": "'12. Paris agreement status: Current pledges put world on tra' → merged into previous row",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-III/Climate Change",
+   "op": "B1_join_continuation",
+   "detail": "'temperature rise– far above the 1.5°C limit [UNEP Emission G' → merged into previous row",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-III/Climate Change",
+   "op": "B1_join_continuation",
+   "detail": "'14. India’s demands: India wants to push developed nations t' → merged into previous row",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-III/Climate Change",
+   "op": "B1_join_continuation",
+   "detail": "'negative rather than carbon neutral by 2050.' → merged into previous row",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-III/Climate Change",
+   "op": "C12_label_promoted",
+   "detail": "'Panchamrit (COP-26)' → minor heading",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-III/Climate Change",
+   "op": "E1_fact_split",
+   "detail": "'158 million more women and girls into poverty by 2' ⏎ '236 million more women into hunger [UN Women]'",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-III/Biodiversity",
+   "op": "B1_join_continuation",
+   "detail": "'4. Illegally traded plants: Cedars mahogany, holy wood, and ' → merged into previous row",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-III/Biodiversity",
+   "op": "B1_join_continuation",
+   "detail": "'biggest market at 47%.' → merged into previous row",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-III/Biodiversity",
+   "op": "B1_join_continuation",
+   "detail": "'14. Ecosystem services: Total value of global ecosystem serv' → merged into previous row",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-III/Biodiversity",
+   "op": "B1_join_continuation",
+   "detail": "'16 to 54 trillion USD' → merged into previous row",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-III/Biodiversity",
+   "op": "C12_label_promoted",
+   "detail": "'India' → minor heading",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-III/Biodiversity",
+   "op": "C12_label_promoted",
+   "detail": "'Global' → minor heading",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-III/Biodiversity",
+   "op": "C12_label_promoted",
+   "detail": "'India State of Forest Report (2023)' → minor heading",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-III/Biodiversity",
+   "op": "C12_label_promoted",
+   "detail": "'State-wise data' → minor heading",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-III/Biodiversity",
+   "op": "C12_label_promoted",
+   "detail": "'Global' → minor heading",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-III/Biodiversity",
+   "op": "C12_label_promoted",
+   "detail": "'India' → minor heading",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-III/Biodiversity",
+   "op": "C12_label_promoted",
+   "detail": "'Global' → minor heading",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-III/Biodiversity",
+   "op": "C12_label_promoted",
+   "detail": "'State of India’s Birds (2023)' → minor heading",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-III/Biodiversity",
+   "op": "C12_label_promoted",
+   "detail": "'Global' → minor heading",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-III/Biodiversity",
+   "op": "E1_fact_split",
+   "detail": "'4.6% of land as wetlands' ⏎ '15.26 million hectares'",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-III/Energy",
+   "op": "A2_drop_artifact",
+   "detail": "dropped '### Section Group: Pollution & Degradation'",
+   "dropped": "SectionGroupPollutionDegradation",
+   "context_after": ""
+  },
+  {
+   "card": "GS-III/Energy",
+   "op": "B1_join_continuation",
+   "detail": "'MoSPI]' → merged into previous row",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-III/Energy",
+   "op": "B1_join_continuation",
+   "detail": "'Classification of Hydro projects' → merged into previous row",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-III/Energy",
+   "op": "B1_join_continuation",
+   "detail": "'5. Small Hydro energy' → merged into previous row",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-III/Energy",
+   "op": "B1_join_continuation",
+   "detail": "'8. Ammonia based energy: India is among the world’s largest ' → merged into previous row",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-III/Energy",
+   "op": "B1_join_continuation",
+   "detail": "'representing 8% of global production.' → merged into previous row",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-III/Energy",
+   "op": "C4_bare_to_bullet",
+   "detail": "'India’s Energy Mix (Sources and Shares) As per [Energy Stati' → bullet",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-III/Energy",
+   "op": "C12_label_promoted",
+   "detail": "'Future of Coal' → minor heading",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-III/Energy",
+   "op": "C12_label_promoted",
+   "detail": "'Rooftop solar (RTS)' → minor heading",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-III/Energy",
+   "op": "C12_label_promoted",
+   "detail": "'World position' → minor heading",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-III/Energy",
+   "op": "C12_label_promoted",
+   "detail": "'Global Scenario' → minor heading",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-III/Energy",
+   "op": "D1_child_indent_fix",
+   "detail": "'Market: Surged from 2.5 GW in FY21 to 25.73 GW cumulative ro' → nested under 'Rooftop solar (RTS)'",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-III/Energy",
+   "op": "E1_fact_split",
+   "detail": "'Target: 500 GW renewable energy by 2030' ⏎ '140 GW from wind power.'",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-III/Energy",
+   "op": "E1_fact_split",
+   "detail": "'India ranks 4th by undeveloped hydropower potentia' ⏎ '5th by total potential.'",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-III/Pollution and Waste Management",
+   "op": "B1_join_continuation",
+   "detail": "'4. Land pollution: 33% of the country’s total geographic are' → merged into previous row",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-III/Pollution and Waste Management",
+   "op": "B1_join_continuation",
+   "detail": "'degradation, salinity, and vegetation loss.' → merged into previous row",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-III/Pollution and Waste Management",
+   "op": "B2_merge_fragment",
+   "detail": "'ed to go up to 165 million tonnes by 2030 and' + '436 million tonnes by 2050' → one bullet",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-III/Pollution and Waste Management",
+   "op": "B2_merge_fragment",
+   "detail": "'te (1500 from MSW and 225 MW from sewage) and' + 'about 1300 MW from industrial waste [Ministry' → one bullet",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-III/Pollution and Waste Management",
+   "op": "C12_label_promoted",
+   "detail": "'Optimum noise level (WHO)' → minor heading",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-III/Pollution and Waste Management",
+   "op": "C12_label_promoted",
+   "detail": "'Conversion Potential' → minor heading",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-III/Pollution and Waste Management",
+   "op": "C12_label_promoted",
+   "detail": "'Type of waste' → minor heading",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-III/Pollution and Waste Management",
+   "op": "E1_fact_split",
+   "detail": "'Delhi & Indian Cities -> New Delhi remained the mo' ⏎ 'Loni (UP) was the most polluted city in 2025 at 11'",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-III/Pollution and Waste Management",
+   "op": "E1_fact_split",
+   "detail": "'35% is non-biodegradable wet waste' ⏎ '10% is inert.'",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-III/Water and its Conservation",
+   "op": "B2_merge_fragment",
+   "detail": "'% of extracted groundwater in agriculture and' + '11% is used for domestic purposes.' → one bullet",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-III/Water and its Conservation",
+   "op": "C12_label_promoted",
+   "detail": "'India’s Scenario' → minor heading",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-III/Water and its Conservation",
+   "op": "C12_label_promoted",
+   "detail": "'Dependency' → minor heading",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-III/Water and its Conservation",
+   "op": "C12_label_promoted",
+   "detail": "'Annual Groundwater Quality Report 2024' → minor heading",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-III/Water and its Conservation",
+   "op": "C12_label_promoted",
+   "detail": "'Uses' → minor heading",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-II/General",
+   "op": "C12_label_promoted",
+   "detail": "'BharatNet Project (Status as of June 2026 - MeitY / PIB)' → minor heading",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-II/General",
+   "op": "C12_label_promoted",
+   "detail": "'Aadhaar:' → minor heading",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-II/General",
+   "op": "C12_label_promoted",
+   "detail": "'Direct Benefit Transfer (DBT):' → minor heading",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-II/General",
+   "op": "C12_label_promoted",
+   "detail": "'e-NAM:' → minor heading",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-II/General",
+   "op": "C12_label_promoted",
+   "detail": "'GSTN (Goods and Services Tax Network):' → minor heading",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-II/General",
+   "op": "C12_label_promoted",
+   "detail": "'GeM (Government e-Marketplace):' → minor heading",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-II/General",
+   "op": "C12_label_promoted",
+   "detail": "'DigiLocker:' → minor heading",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-II/General",
+   "op": "C12_label_promoted",
+   "detail": "'e-Courts:' → minor heading",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-II/General",
+   "op": "D1_child_indent_fix",
+   "detail": "'2.21 lakh Gram Panchayats (GPs) have been made service-ready' → nested under 'BharatNet Project (Status as of June 202'",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-II/General",
+   "op": "D1_child_indent_fix",
+   "detail": "'Enrollment: Over 144 crore Aadhaar IDs generated as of July ' → nested under 'Aadhaar:'",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-II/General",
+   "op": "D1_child_indent_fix",
+   "detail": "'Mandi Integration: 1,522 mandis integrated across 23 States ' → nested under 'e-NAM:'",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-II/General",
+   "op": "D1_child_indent_fix",
+   "detail": "'Registrations: 1.65 crore (16.5 million) active GST taxpayer' → nested under 'GSTN (Goods and Services Tax Network):'",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-II/General",
+   "op": "D1_child_indent_fix",
+   "detail": "'Users: Over 71.66 crore (716.6 million) registered users as ' → nested under 'DigiLocker:'",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-II/Prison Reforms",
+   "op": "C5_boldhead_citation_label",
+   "detail": "'Composition of Prisons [' + citation tail → minor heading",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-II/Social Sector",
+   "op": "A2_drop_artifact",
+   "detail": "dropped '### Section Group: Development Processes & Policies'",
+   "dropped": "SectionGroupDevelopmentProcessesPolicies",
+   "context_after": ""
+  },
+  {
+   "card": "GS-II/Social Sector",
+   "op": "C4_bare_to_bullet",
+   "detail": "'Social services expenditure (SSE): General government SSE ro' → bullet",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-II/Social Sector",
+   "op": "C12_label_promoted",
+   "detail": "'Jal Jeevan Mission' → minor heading",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-II/Social Sector",
+   "op": "E1_fact_split",
+   "detail": "'Literacy Rate: 74.04% (2011 census)' ⏎ '77% (National Statistical Office (NSO)) -> nearly '",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-II/Sports Ecosystem",
+   "op": "E1_fact_split",
+   "detail": "'Olympic 2036: India has submitted a formal Letter ' ⏎ 'Union Budget 2026-27 also announced the Khelo Indi'",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-I/POST INDEPENDENCE",
+   "op": "E1_fact_split",
+   "detail": "'Now: 21.9% (2011-12 Tendulkar Committee)' ⏎ 'Multidimensional Poverty declined to 11.28% in 202'",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-III/DEFENSE",
+   "op": "E1_fact_split",
+   "detail": "'Export Destinations: Over 100 countries' ⏎ 'USA, France, and Armenia emerging as the top buyer'",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-II/INDIA'S NEIGHBOURHOOD",
+   "op": "E1_fact_split",
+   "detail": "'Bilateral Trade: $8.66 billion in FY 2022-23' ⏎ 'India's merchandise exports to Nepal stood at $7.4'",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-II/INDIA'S NEIGHBOURHOOD",
+   "op": "E1_fact_split",
+   "detail": "'Bilateral trade: $1.34 billion in FY 2022-23' ⏎ 'India's merchandise exports to Bhutan reached $1.2'",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-II/INDIA'S MAJOR BILATERAL RELATIONS",
+   "op": "A2_drop_artifact",
+   "detail": "dropped '### Section Group: Global Geopolitics & Indian Diaspora'",
+   "dropped": "SectionGroupGlobalGeopoliticsIndianDiaspora",
+   "context_after": ""
+  },
+  {
+   "card": "GS-II/INDIA'S MAJOR BILATERAL RELATIONS",
+   "op": "E1_fact_split",
+   "detail": "'Diaspora: ~1.8 million' ⏎ '> 3% of its total population.'",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-II/INDIA AND WEST ASIA",
+   "op": "E1_fact_split",
+   "detail": "'Diaspora: around 30% of the UAE's population' ⏎ '3.5 million (largest ethnic group in the country)'",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-II/INDIA AND WEST ASIA",
+   "op": "E1_fact_split",
+   "detail": "'Agreements: India and UAE implemented CEPA (May 20' ⏎ 'India also implemented the India–Oman CEPA on 1 Ju'",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-II/Africa",
+   "op": "A2_drop_artifact",
+   "detail": "dropped '### Section Group: International Organizations'",
+   "dropped": "SectionGroupInternationalOrganizations",
+   "context_after": ""
+  },
+  {
+   "card": "GS-II/GENERAL",
+   "op": "C1_label_promoted",
+   "detail": "'V-Dem Democracy Report (2024–2026 - V-Dem Institute)' → minor heading",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-II/GENERAL",
+   "op": "D1_child_indent_fix",
+   "detail": "'V-Dem Institute (University of Gothenburg) classifies India ' → nested under 'V-Dem Democracy Report (2024–2026 - V-De'",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-II/SIGNIFICANT PROVISIONS",
+   "op": "B1_join_continuation",
+   "detail": "'Landlessness' → merged into previous row",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-II/PARLIAMENT",
+   "op": "B1_join_continuation",
+   "detail": "'Decreasing Discussion Level' → merged into previous row",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-II/JUDICIARY",
+   "op": "C12_label_promoted",
+   "detail": "'Extent of Problem' → minor heading",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-II/JUDICIARY",
+   "op": "C2_force_fact",
+   "detail": "'Target: 2500' kept as fact (manual override)",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-II/JUDICIARY",
+   "op": "C2_force_fact",
+   "detail": "'Operational: 314' kept as fact (manual override)",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-II/JUDICIARY",
+   "op": "E1_fact_split",
+   "detail": "'Justice Delayed: At the current disposal rate if n' ⏎ 'Supreme Court - 1.3 years and High Courts and Subo'",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-II/ELECTIONS",
+   "op": "C2_force_fact",
+   "detail": "'No state has > 20% women MLAs' kept as fact (manual override)",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-III/Biotechnology And Health Sciences",
+   "op": "A2_drop_artifact",
+   "detail": "dropped '### Section Group: Frontier Technologies & IPR'",
+   "dropped": "SectionGroupFrontierTechnologiesIPR",
+   "context_after": ""
+  },
+  {
+   "card": "GS-III/Biotechnology And Health Sciences",
+   "op": "C12_label_promoted",
+   "detail": "'Global:' → minor heading",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-III/Biotechnology And Health Sciences",
+   "op": "C12_label_promoted",
+   "detail": "'2030 Targets (WHO):' → minor heading",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-III/Biotechnology And Health Sciences",
+   "op": "E1_fact_split",
+   "detail": "'Over 11,000+ biotech startups (up from 6,500+) and' ⏎ 'Union Budget 2026-27 also launched Biopharma SHAKT'",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-III/Biotechnology And Health Sciences",
+   "op": "E1_fact_split",
+   "detail": "'Global Burden: Over 1 billion people affected by N' ⏎ '1.6 billion need preventive or curative interventi'",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-III/Supercomputers",
+   "op": "A2_drop_artifact",
+   "detail": "dropped '### Section Group: Indigenous Tech & Achievements'",
+   "dropped": "SectionGroupIndigenousTechAchievements",
+   "context_after": ""
+  },
+  {
+   "card": "GS-II/SOCIAL JUSTICE",
+   "op": "A2_drop_artifact",
+   "detail": "dropped '### Section Group: Social Sector & Human Development'",
+   "dropped": "SectionGroupSocialSectorHumanDevelopment",
+   "context_after": ""
+  },
+  {
+   "card": "GS-II/SOCIAL JUSTICE",
+   "op": "C12_label_promoted",
+   "detail": "'Decrease in Poverty [World Bank]' → minor heading",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-II/SOCIAL JUSTICE",
+   "op": "C12_label_promoted",
+   "detail": "'Oxfam Report - Global' → minor heading",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-II/SOCIAL JUSTICE",
+   "op": "C12_label_promoted",
+   "detail": "'Oxfam Report - India' → minor heading",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-II/SOCIAL JUSTICE",
+   "op": "C12_label_promoted",
+   "detail": "'Gini Coefficient' → minor heading",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-II/SOCIAL JUSTICE",
+   "op": "C12_label_promoted",
+   "detail": "'Status of Hunger [Global Hunger Index 2024]' → minor heading",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-II/SOCIAL JUSTICE",
+   "op": "C12_label_promoted",
+   "detail": "'Global' → minor heading",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-II/SOCIAL JUSTICE",
+   "op": "C12_label_promoted",
+   "detail": "'India Specific' → minor heading",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-II/SOCIAL JUSTICE",
+   "op": "C12_label_promoted",
+   "detail": "'India Specific' → minor heading",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-II/SOCIAL JUSTICE",
+   "op": "C12_label_promoted",
+   "detail": "'UN-FAO Report' → minor heading",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-II/SOCIAL JUSTICE",
+   "op": "D1_child_indent_fix",
+   "detail": "'India's Rank: Improved to 102nd out of 123 countries in Glob' → nested under 'India Specific'",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-II/CURRENT AFFAIRS",
+   "op": "C12_label_promoted",
+   "detail": "'India' → minor heading",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-II/CURRENT AFFAIRS",
+   "op": "C12_label_promoted",
+   "detail": "'Mental Health in Students' → minor heading",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-II/CURRENT AFFAIRS",
+   "op": "C12_label_promoted",
+   "detail": "'Mental health professionals' → minor heading",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-II/CURRENT AFFAIRS",
+   "op": "C12_label_promoted",
+   "detail": "'Global' → minor heading",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-II/CURRENT AFFAIRS",
+   "op": "C12_label_promoted",
+   "detail": "'India' → minor heading",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-II/CURRENT AFFAIRS",
+   "op": "C12_label_promoted",
+   "detail": "'Global' → minor heading",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-II/CURRENT AFFAIRS",
+   "op": "C12_label_promoted",
+   "detail": "'India' → minor heading",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-II/CURRENT AFFAIRS",
+   "op": "C12_label_promoted",
+   "detail": "'Economic loss' → minor heading",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-II/CURRENT AFFAIRS",
+   "op": "C12_label_promoted",
+   "detail": "'Global' → minor heading",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-II/EDUCATION",
+   "op": "C12_label_promoted",
+   "detail": "'Schools' → minor heading",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-II/EDUCATION",
+   "op": "C12_label_promoted",
+   "detail": "'Government Spending:' → minor heading",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-II/EDUCATION",
+   "op": "C12_label_promoted",
+   "detail": "'Inefficient Infrastructure [UDISE+ 2023-24 Report]' → minor heading",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-II/EDUCATION",
+   "op": "C12_label_promoted",
+   "detail": "'Universities and Colleges:' → minor heading",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-II/EDUCATION",
+   "op": "C2_force_fact",
+   "detail": "'No Institute in TOP 100' kept as fact (manual override)",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-II/EDUCATION",
+   "op": "C12_label_promoted",
+   "detail": "'Schools:' → minor heading",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-II/EDUCATION",
+   "op": "C12_label_promoted",
+   "detail": "'ASER 2024' → minor heading",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-II/EDUCATION",
+   "op": "C12_label_promoted",
+   "detail": "'Foundational Numeracy Skills' → minor heading",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-II/EDUCATION",
+   "op": "C12_label_promoted",
+   "detail": "'Arithmetic' → minor heading",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-II/EDUCATION",
+   "op": "C12_label_promoted",
+   "detail": "'Vocational Training' → minor heading",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-II/EDUCATION",
+   "op": "C12_label_promoted",
+   "detail": "'Problem in Basic Skills:' → minor heading",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-II/EDUCATION",
+   "op": "D1_child_indent_fix",
+   "detail": "'Institutions: Total Higher Education Institutions (HEIs) inc' → nested under 'Universities and Colleges:'",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-II/HEALTH",
+   "op": "C12_label_promoted",
+   "detail": "'Government Spending:' → minor heading",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-II/HEALTH",
+   "op": "C12_label_promoted",
+   "detail": "'Economic Survey (2024-25)' → minor heading",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-II/HEALTH",
+   "op": "C12_label_promoted",
+   "detail": "'Out of Pocket Expenditure (OoPE):' → minor heading",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-II/HEALTH",
+   "op": "C12_label_promoted",
+   "detail": "'Availability of Doctors and Nurse:' → minor heading",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-II/HEALTH",
+   "op": "C12_label_promoted",
+   "detail": "'Institutional deliveries [MoHFW]' → minor heading",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-II/HEALTH",
+   "op": "C12_label_promoted",
+   "detail": "'Import Dependency:' → minor heading",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-II/HEALTH",
+   "op": "C12_label_promoted",
+   "detail": "'Anaemia (NFHS 5):' → minor heading",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-II/HEALTH",
+   "op": "C12_label_promoted",
+   "detail": "'Global' → minor heading",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-II/HEALTH",
+   "op": "D1_child_indent_fix",
+   "detail": "'~1.84–1.9% of GDP (Union Budget 2026-27 increased allocation' → nested under 'Government Spending:'",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-II/HEALTH",
+   "op": "D1_child_indent_fix",
+   "detail": "'↑ from 79% (NFHS-4, 2015-16) to 88.6% (~89%) in NFHS-5 (2019' → nested under 'Institutional deliveries [MoHFW]'",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-II/VULNERABLE SECTIONS",
+   "op": "C12_label_promoted",
+   "detail": "'Child labour' → minor heading",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-II/VULNERABLE SECTIONS",
+   "op": "C12_label_promoted",
+   "detail": "'Malnutrition' → minor heading",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-II/VULNERABLE SECTIONS",
+   "op": "C12_label_promoted",
+   "detail": "'Gen Z population - India' → minor heading",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-II/VULNERABLE SECTIONS",
+   "op": "D1_child_indent_fix",
+   "detail": "'Largest Gen Z population in the world (377 million individua' → nested under 'Gen Z population - India'",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-I/INDIAN SOCIETY",
+   "op": "A2_drop_artifact",
+   "detail": "dropped '### Section Group: Gender & Demographics'",
+   "dropped": "SectionGroupGenderDemographics",
+   "context_after": ""
+  },
+  {
+   "card": "GS-I/INDIAN SOCIETY",
+   "op": "C12_label_promoted",
+   "detail": "'States' → minor heading",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-I/INDIAN SOCIETY",
+   "op": "E1_fact_split",
+   "detail": "'61% of respondents opposed interfaith marriages' ⏎ '56% were against inter-caste unions [India Today's'",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-I/POPULATION",
+   "op": "C12_label_promoted",
+   "detail": "'Census 2011' → minor heading",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-I/POPULATION",
+   "op": "C12_label_promoted",
+   "detail": "'NFHS – 5' → minor heading",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-I/POPULATION",
+   "op": "C12_label_promoted",
+   "detail": "'Census 2011' → minor heading",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-I/POPULATION",
+   "op": "C12_label_promoted",
+   "detail": "'Ministry of Education, 2023' → minor heading",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-I/POPULATION",
+   "op": "C12_label_promoted",
+   "detail": "'Sex Ratio' → minor heading",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-I/POPULATION",
+   "op": "C12_label_promoted",
+   "detail": "'NFHS – 5' → minor heading",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-I/POPULATION",
+   "op": "C12_label_promoted",
+   "detail": "'Religion wise - Country' → minor heading",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-I/POPULATION",
+   "op": "D1_child_indent_fix",
+   "detail": "'Census 2011 – 943' → nested under 'Sex Ratio'",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-I/POPULATION",
+   "op": "D1_child_indent_fix",
+   "detail": "'Hinduism - 80 %' → nested under 'Religion wise - Country'",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-I/WOMEN",
+   "op": "A2_drop_artifact",
+   "detail": "dropped '### Section Group: Urbanisation'",
+   "dropped": "SectionGroupUrbanisation",
+   "context_after": ""
+  },
+  {
+   "card": "GS-I/WOMEN",
+   "op": "B2_merge_fragment",
+   "detail": "'Boost global GDP by $28 trillion and' + 'add $770 billion to India’s GDP by 2025.' → one bullet",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-I/WOMEN",
+   "op": "C12_label_promoted",
+   "detail": "'Rape' → minor heading",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-I/WOMEN",
+   "op": "C12_label_promoted",
+   "detail": "'Women in legislative bodies [Since Independence]' → minor heading",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-I/WOMEN",
+   "op": "C12_label_promoted",
+   "detail": "'Female Voter turnout' → minor heading",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-I/WOMEN",
+   "op": "C12_label_promoted",
+   "detail": "'Women & GDP' → minor heading",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-I/WOMEN",
+   "op": "C12_label_promoted",
+   "detail": "'Advancing women's equality ->' → minor heading",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-I/WOMEN",
+   "op": "E1_fact_split",
+   "detail": "'World Average (25%)' ⏎ 'Rwanda: 61%' ⏎ 'SA: 43%' ⏎ 'UK: 32%' ⏎ 'USA: 24%'",
+   "dropped": "",
+   "context_after": ""
+  },
+  {
+   "card": "GS-I/URBANIZATION",
+   "op": "C12_label_promoted",
+   "detail": "'Electricity:' → minor heading",
+   "dropped": "",
+   "context_after": ""
+  }
+ ]
+}
