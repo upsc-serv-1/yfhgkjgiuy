@@ -222,3 +222,18 @@ Work Log:
 
 Stage Summary:
 - Phase 2 complete (commit 2nd of fix-A4 series). Next: Phase 3 — index rebuild with GS1→GS2→GS3 paper order (tree sorted at parse level), atomic subject blocks, no orphaned paper headers, balanced fill.
+
+---
+Task ID: A4-3
+Agent: Super Z (main, orchestrator)
+Task: Phase 3 — rebuild the index (order, atomicity, page numbers).
+
+Work Log:
+- parse_data.py: tree.sort(key=paper key) — root fix for GS-III-first order (JSON appearance order ruled book+index); subject order within papers preserved from taxonomy.
+- build_book.py index rewritten: _subject_block() atomic blocks; paper header concatenated with first subject block; _ix_line_est calibrated (browser-measured est/real 1.95–1.98 → x0.30 line factor, IX chars 60); INDEX_BUDGET 1060 (tuned 930→1060 empirically; 3 sheets [65/58/18] → 2 sheets [73/58]).
+- Page numbers: build_pagemap() from final ordered sheets; index_sheets(pm) fixpoint-iterated in main() until count stable + convergence assert; .pg spans (cards '· N', subjects/papers 'p. N') styled muted mono in theme.css §8.
+- Stale partial cleanup on rebuild (df_*.html wiped — paper renumbering ch-1..ch-12 changes filenames between runs).
+- Verified: index order GS-I→GS-II→GS-III (+ book openers same); subjects in taxonomy order; 0 orphaned headers; 95/95 index page numbers == stamped positions; stamps==positions all sheets; geometry regression (A4/foot/orphans) clean; VLM visual 2/2 (hierarchy clear, no stranded headings, footers pinned). Book now 112 sheets.
+
+Stage Summary:
+- Phase 3 complete. Next: Phase 4 — card visual cleanup (remove card-id chips 'GS3-ECO-0002' from heads+CONTINUED strips, drop 'SUBJECT NN' serials from subject pages; anchors untouched).
