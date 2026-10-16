@@ -171,15 +171,19 @@ def card_head_html(c):
     yr = H.escape(str(c['data_year']))
     chip = (f'<span class="card-yr" title="{yr}">DATA: {yr}</span>'
             if c['data_year'] and c['data_year'] != 'N/A (Meta-note)' else '')
+    # No serial / taxonomy code chip: the card id lives only in the anchor
+    # (id="card-…", still targetable from every index) — visible chrome shows
+    # the title and the data window only.
+    ids = f'<div class="card-ids">{chip}</div>' if chip else ''
     return (f'<article class="card {c["paper_key"]}" id="card-{c["id"]}">'
-            f'<div class="card-h"><h4>{H.escape(c["title"])}</h4>'
-            f'<div class="card-ids"><span class="card-id">{c["id"]}</span>{chip}</div></div>')
+            f'<div class="card-h"><h4>{H.escape(c["title"])}</h4>{ids}</div>')
 
 def cont_html(c):
     """Continuation opener for the next sheet: re-open the card box (no id —
-    the anchor lives on the first fragment), CONTINUED strip, fresh .rows."""
+    the anchor lives on the first fragment), CONTINUED strip, fresh .rows.
+    Title only — no serial/taxonomy code in visible chrome."""
     return (f'<article class="card {c["paper_key"]} cont-art">'
-            f'<div class="cont"><span class="c-id">{c["id"]}</span>'
+            f'<div class="cont">'
             f'<span class="c-t">{H.escape(c["title"])}</span>'
             f'<span class="c-lab">CONTINUED</span></div>'
             '<div class="rows">')
@@ -280,7 +284,7 @@ def emit_subject(packer, subject):
     paper_label = {'GS1': 'GS PAPER I', 'GS2': 'GS PAPER II', 'GS3': 'GS PAPER III'}[subject['paper']]
     html_s = (f'<div class="sheet" id="{subject["anchor"]}" data-ch="{subject["anchor"]}">' + topbar() +
               '<div style="padding:48px 0 0">'
-              f'<div class="hero-tag">{paper_label} · SUBJECT {subject["ch_n"]:02d}</div>'
+              f'<div class="hero-tag">{paper_label}</div>'
               f'<div class="chap-t"><h1>{H.escape(subject["display"])}</h1></div>'
               '<div class="chdiv"></div>'
               '<div class="ix-hint">FACT SHEETS IN THIS SUBJECT — TAP ANY TITLE TO JUMP TO IT</div>'

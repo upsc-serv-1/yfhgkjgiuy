@@ -119,14 +119,11 @@ a.chip:hover{border-color:var(--teal);color:var(--teal);background:var(--t-teal)
         padding-bottom:7px;margin-bottom:8px;border-bottom:1px dashed var(--hair2)}
 .card-h h4{font-size:16px;margin:0}
 .card-ids{display:flex;align-items:center;gap:6px;flex:none}
-.card-id{font-family:var(--mono);font-weight:500;font-size:9px;letter-spacing:1px;color:var(--mut);
-         background:var(--box);border:1px solid var(--hair);border-radius:9px;padding:2px 8px}
 .card-yr{font-family:var(--mono);font-weight:500;font-size:8.5px;letter-spacing:.6px;color:var(--deep);
          background:var(--t-teal);border:1px solid rgba(79,143,134,.35);border-radius:9px;padding:2px 8px;max-width:300px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
 /* continuation strip when a big card flows onto the next sheet */
 .cont{display:flex;align-items:baseline;gap:10px;margin:0 0 10px;padding-bottom:6px;
       border-bottom:1px dashed var(--hair2)}
-.cont .c-id{font-family:var(--mono);font-weight:500;font-size:9px;letter-spacing:1px;color:var(--mut)}
 .cont .c-t{font-family:var(--serif);font-weight:600;font-size:13px;color:var(--ink-h)}
 .cont .c-lab{font-family:var(--mono);font-weight:500;font-size:8.5px;letter-spacing:1.8px;color:var(--gold)}
 /* continuation fragment of a flowed card — dashed top edge signals the split */
