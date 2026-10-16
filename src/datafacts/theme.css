@@ -224,7 +224,11 @@ a.chip:hover{border-color:var(--teal);color:var(--teal);background:var(--t-teal)
   .sheet{width:210mm;min-height:296.5mm;margin:0;padding:26px 48px 24px;
          box-shadow:none;display:flex;flex-direction:column;break-after:page}
   .sheet:last-child{break-after:auto}
-  .card,.rows .row,.sth,.tblwrap,.srcs,.note,.panel,tr{break-inside:avoid}
+  /* Selective avoid: heading+row groupings and atomic micro-blocks only.
+     NO blanket .card{break-inside:avoid} — long cards legitimately flow across
+     pages via build-time CONTINUED fragments; blanket avoid would force whole
+     cards onto fresh sheets and leave large blank gaps. */
+  .card-h,.rows .row,.sth,.tblwrap,.srcs,.note,.panel,tr{break-inside:avoid}
   /* NOTE: no column-fill:auto here. Sheets are paginated at BUILD time (Python
      packer), so a sheet's rows must stay balanced 2-col in print exactly as on
      screen; column-fill:auto would stack all rows into column 1 inside the

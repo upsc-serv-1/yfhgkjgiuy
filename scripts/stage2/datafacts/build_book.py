@@ -35,6 +35,7 @@ CONT_PX = 40
 TBL_HEAD_PX = 46      # table chrome (thead + wrap margins)
 TBL_ROW_PX = 24       # per <tr> — tables SPAN BOTH COLUMNS (full height)
 COL_COST = 0.55       # fact rows flow in 2 columns → sheet cost factor
+CARD_MARGIN_PX = 18   # .card{margin:0 0 18px} — real box-model cost per card
 
 def plain(s):
     return len(H.unescape(re.sub(r'<[^>]+>', '', s)))
@@ -63,7 +64,7 @@ def foot():
     return ('<div class="foot"><span>DR. CSE — DATA &amp; FACTS · VERIFIED, DATED, SOURCED</span>'
             '<span class="pg-n"></span></div>')
 
-# ---------- packer with open-card continuation ----------
+# ---------- packer with open-card continuation + keep-with-next ----------
 class Packer:
     def __init__(self):
         self.sheets = []       # list of html strings
@@ -72,8 +73,16 @@ class Packer:
         self.open_card = None  # (cont_html, cont_px) to prepend after flush
         self.cur_ch = None     # current subject key, e.g. 'ch-5' → data-ch on sheets
 
-    def add(self, html_str, px):
-        if self.est > 0 and self.est + px > SHEET_BUDGET:
+    def add(self, html_str, px, keep_next=0):
+        """Add one layout unit.
+
+        keep_next = budget px of FOLLOWING content that must share the sheet
+        with this unit (keep-with-next for heading units). If unit + keep_next
+        does not fit in the remaining budget, THIS unit is moved to a fresh
+        sheet first — so a heading can never be stranded at a page bottom
+        with its body starting on the next page (the orphaned-heading bug).
+        """
+        if self.est > 0 and self.est + px + keep_next > SHEET_BUDGET:
             self.flush()
         if not self.buf and self.open_card is not None:
             cont, cont_px = self.open_card
@@ -88,7 +97,9 @@ class Packer:
         if self.open_card is not None:
             self.buf.append('</div></article>')   # close .rows + .card on this sheet
         attr = f' data-ch="{self.cur_ch}"' if self.cur_ch else ''
-        self.sheets.append(f'<div class="sheet"{attr}>' + topbar() +
+        # data-est: packer's estimated content px for this sheet (calibration hook,
+        # compare against browser-measured heights — never rendered)
+        self.sheets.append(f'<div class="sheet"{attr} data-est="{self.est}">' + topbar() +
                            ''.join(self.buf) + foot() + '</div>')
         self.buf, self.est = [], 0
 
@@ -107,13 +118,46 @@ class Packer:
     def _pending_set(self, v):
         self.open_card = v
 
-    def begin_flow_card(self, head_html, cont_html, head_px, cont_px):
-        # if head won't fit with room for content, flush first
-        if self.est > 0 and self.est + head_px + 220 > SHEET_BUDGET:
+    def begin_flow_card(self, head_html, cont_html, head_px, cont_px, first_px=0):
+        """Open a card that may flow across sheets.
+
+        The card head is placed only where head + its FIRST content unit
+        (first_px) both fit — an orphaned card title at a sheet bottom is
+        structurally impossible. Degenerate case (head + first unit alone
+        bigger than a whole sheet budget) degrades to a partial chunk.
+        """
+        need = head_px + first_px
+        if need > SHEET_BUDGET:
+            need = head_px + min(first_px, 380)
+        if self.est > 0 and self.est + need > SHEET_BUDGET:
             self.flush()
         self.open_card = None
         self.add(head_html + '<div class="rows">', head_px)
         self.open_card = (cont_html, cont_px)   # cont_html is self-contained (article+strip+rows)
+
+    def stream_units(self, units):
+        """Stream (html, px, kind) units of one card at row/table granularity.
+
+        Heading units (sth / ssec) keep with the full run of headings that
+        follow them plus the first content unit — a sub-theme heading always
+        lands on the same sheet as its first rows.
+        """
+        i, n = 0, len(units)
+        while i < n:
+            html, px, kind = units[i]
+            if kind in ('sth', 'ssec'):
+                keep, j = 0, i + 1
+                while j < n and units[j][2] in ('sth', 'ssec'):
+                    keep += units[j][1]
+                    j += 1
+                if j < n:
+                    keep += units[j][1]
+                if px + keep > SHEET_BUDGET:      # degenerate mega-unit
+                    keep = min(keep, 380)
+                self.add(html, px, keep_next=keep)
+            else:
+                self.add(html, px)
+            i += 1
 
     def end_flow_card(self, srcs, srcs_px):
         if self.open_card is not None:
@@ -157,20 +201,20 @@ def block_html_seq_dict(b):
     return out
 
 def block_units(c):
-    """Stream a card's blocks as (html, est_px) units at row granularity."""
+    """Stream a card's blocks as (html, est_px, kind) units at row granularity."""
     units = []
     for b in c['blocks']:
         if b['kind'] == 'section':
-            units.append((f'<div class="ssec">{b["title"]}</div>', 42))   # spans both columns
+            units.append((f'<div class="ssec">{b["title"]}</div>', 42, 'ssec'))   # spans both columns
         elif b['kind'] == 'sub':
-            units.append((f'<div class="sth">{b["title"]}</div>', STH_PX))
+            units.append((f'<div class="sth">{b["title"]}</div>', STH_PX, 'sth'))
         if not b['rows']:
             continue
         for r in b['rows']:
             if r['kind'] == 'table':
-                units.append((f'<div class="tblwrap">{r["html"]}</div>', est_row(r)))
+                units.append((f'<div class="tblwrap">{r["html"]}</div>', est_row(r), 'table'))
             else:
-                units.append((f'<div class="row l{r["level"]}">{r["html"]}</div>', est_row(r)))
+                units.append((f'<div class="row l{r["level"]}">{r["html"]}</div>', est_row(r), 'row'))
     return units
 
 def block_html_seq(c):
@@ -194,11 +238,25 @@ def srcs_html(c):
     return ('<div class="srcs"><div class="s-lab">SOURCES</div>' + ''.join(items) + '</div>'), \
            26 + 15 * len(items)
 
+def head_chunk_px(c):
+    """Budget px that MUST follow a heading band on the same sheet:
+    the next card's head plus its first content unit (flow cards), or the
+    card's full body (atomic small cards). Used as keep_next for sec-h and
+    sub-h bands so a band is never orphaned above a page break."""
+    units = block_units(c)
+    srcs, srcs_px = srcs_html(c)
+    total = CARD_HEAD_PX + CARD_MARGIN_PX + sum(px for _, px, _ in units) + srcs_px
+    if total <= 300 + CARD_MARGIN_PX:      # small card — atomic
+        return total
+    return CARD_HEAD_PX + CARD_MARGIN_PX + (units[0][1] if units else 60)
+
 def emit_card(packer, c):
     srcs, srcs_px = srcs_html(c)
-    total = CARD_HEAD_PX + sum(est_block(b) for b in c['blocks']) + srcs_px
+    units = block_units(c)
+    body_total = sum(px for _, px, _ in units)
+    total = CARD_HEAD_PX + CARD_MARGIN_PX + body_total + srcs_px
 
-    if total <= 300:   # small card — atomic
+    if total <= 300 + CARD_MARGIN_PX:   # small card — atomic
         parts = [card_head_html(c), '<div class="rows">']
         for uh in block_html_seq(c):
             parts.append(uh)
@@ -210,9 +268,10 @@ def emit_card(packer, c):
         return
 
     # big card — flow across sheets at ROW granularity (never split a table)
-    packer.begin_flow_card(card_head_html(c), cont_html(c), CARD_HEAD_PX, CONT_PX)
-    for uh, px in block_units(c):
-        packer.add(uh, px)
+    first_px = units[0][1] if units else 60
+    packer.begin_flow_card(card_head_html(c), cont_html(c),
+                           CARD_HEAD_PX + CARD_MARGIN_PX, CONT_PX + CARD_MARGIN_PX, first_px)
+    packer.stream_units(units)
     packer.end_flow_card(srcs, srcs_px)
 
 def emit_subject(packer, subject):
@@ -236,7 +295,7 @@ def emit_content(packer):
     sec_state = {}
     for p in BM['tree']:
         for s in p['subjects']:
-            emit_subject(packer, s)
+            emit_subject(packer, s)      # subject page = chapter opener, always a fresh sheet
             sec_key, sub_key = None, None
             for sg in s['sections']:
                 for st in sg['subtopics']:
@@ -244,11 +303,17 @@ def emit_content(packer):
                         sec_key = (s['key'], sg['name'])
                         sub_key = None
                         kicker = {'GS1': 'GS PAPER I', 'GS2': 'GS PAPER II', 'GS3': 'GS PAPER III'}[s['paper']]
+                        # keep-with-next: section band must land with the following
+                        # subtopic band + first card head + its first content unit
                         packer.add(f'<div class="sec-h"><span class="k">{kicker} · SECTION</span>'
-                                   f'<h2>{H.escape(sg["name"])}</h2></div>', SEC_BAND_PX)
+                                   f'<h2>{H.escape(sg["name"])}</h2></div>', SEC_BAND_PX,
+                                   keep_next=SUB_BAND_PX + head_chunk_px(st['cards'][0]))
                     if sub_key != st['name']:
                         sub_key = st['name']
-                        packer.add(f'<div class="sub-h"><h3>{H.escape(st["name"])}</h3></div>', SUB_BAND_PX)
+                        # keep-with-next: subtopic band must land with the next
+                        # card head + its first content unit
+                        packer.add(f'<div class="sub-h"><h3>{H.escape(st["name"])}</h3></div>', SUB_BAND_PX,
+                                   keep_next=head_chunk_px(st['cards'][0]))
                     for c in st['cards']:
                         emit_card(packer, c)
             packer.flush()
