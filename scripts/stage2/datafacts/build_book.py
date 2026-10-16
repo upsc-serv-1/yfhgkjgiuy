@@ -436,7 +436,53 @@ def backcover_html():
             '</div></div>')
 
 # ---------- master index ----------
-def index_sheets():
+INDEX_BUDGET = 1060        # px; calibrated (sheet real capacity ~1039 minus safety)
+IX_CHARS_PER_LINE = 60    # ~338px column at 10.5px IBM Plex Sans
+
+def _pg_span(key, pm, prefix='· '):
+    """Muted page-number span for an index entry (empty when pagemap absent)."""
+    if pm and key in pm:
+        return f'<span class="pg">{prefix}{pm[key]}</span>'
+    return ''
+
+def _ix_line_est(chars):
+    """Estimated sheet-cost px of one index line (2-col balanced body).
+    Calibrated against browser measurement: stacked cost (lines×20.3+4) with a
+    ×0.30 net factor for balanced 2-column flow + wrap variance (measured
+    est/real ratio was 1.95–1.98 before calibration — see worklog A4-3)."""
+    lines = max(1, math.ceil(chars / IX_CHARS_PER_LINE))
+    return (lines * 20.3 + 4) * 0.30
+
+def _subject_block(s, pm):
+    """One subject's index block (subject header + section + subtopic card lines).
+    Rendered and packed as an ATOMIC unit — a subject never tears across sheets."""
+    parts = [f'<div class="ix-sec"><a href="#{s["anchor"]}">{H.escape(s["display"])}</a>'
+             + _pg_span(s['anchor'], pm, 'p. ') + '</div>']
+    est = 48
+    for sg in s['sections']:
+        parts.append(f'<div class="ix-line"><span class="st">{H.escape(sg["name"])}</span></div>')
+        est += 24
+        for st in sg['subtopics']:
+            links, chars = [], 0
+            for c in st['cards']:
+                pgno = pm.get(c['id']) if pm else None
+                pg_s = f'<span class="pg">· {pgno}</span>' if pgno else ''
+                links.append(f'<a href="#card-{c["id"]}">{H.escape(c["title"])}</a>{pg_s}')
+                chars += len(c['title']) + (len(str(pgno)) + 4 if pgno else 0) + 3
+            parts.append('<div class="ix-line">' + ' <span class="sep">·</span> '.join(links) + '</div>')
+            est += _ix_line_est(chars)
+    return ''.join(parts), est
+
+def index_sheets(pm=None):
+    """Build the master index sheets.
+
+    Pagination rules (Phase 2 break logic applied to the index):
+      - a paper header is CONCATENATED with its first subject block → a paper
+        heading can never be orphaned at a sheet bottom;
+      - subject blocks are atomic (all-or-nothing per sheet);
+      - page numbers (pm) come from the FINAL ordering — main() iterates to a
+        fixpoint so displayed numbers always match stamped pagination.
+    """
     sheets, buf, est = [], [], 0
 
     def flush(first):
@@ -448,32 +494,40 @@ def index_sheets():
         hint = ('<div class="ix-hint">PAPER → SUBJECT → SECTION → THEME — EVERY LINE IS CLICKABLE</div>'
                 if first else '')
         sid = ' id="ix-master"' if first else ''
-        sheets.append(f'<div class="sheet"{sid}>' + topbar() + head + hint +
+        sheets.append(f'<div class="sheet"{sid} data-est="{est}">' + topbar() + head + hint +
                       '<div class="ix-body">' + ''.join(buf) + '</div>' + foot() + '</div>')
         buf.clear()
         est = 0
 
     first = True
-    for p in BM['tree']:
-        buf.append(f'<div class="ix-ch"><a class="t" href="#pt-{p["key"].lower()}">{H.escape(p["label"])}</a></div>')
-        est += 42
-        for s in p['subjects']:
-            s_html = [f'<div class="ix-sec"><a href="#{s["anchor"]}">{H.escape(s["display"])}</a></div>']
-            s_est = 44
-            for sg in s['sections']:
-                s_html.append(f'<div class="ix-line"><span class="st">{H.escape(sg["name"])}</span></div>')
-                s_est += 22
-                for st in sg['subtopics']:
-                    s_html.append('<div class="ix-line">' + ' <span class="sep">·</span> '.join(
-                        f'<a href="#card-{c["id"]}">{H.escape(c["title"])}</a>' for c in st['cards']) + '</div>')
-                    s_est += 19 * max(1, math.ceil(len(st['cards']) / 3))
-            if est + s_est > SHEET_BUDGET and buf:
+    for p in BM['tree']:                       # GS1 → GS2 → GS3 (sorted at parse)
+        head_html = ('<div class="ix-ch"><a class="t" href="#pt-{k}">{lab}</a>{pg}</div>'
+                     .format(k=p['key'].lower(), lab=H.escape(p['label']),
+                             pg=_pg_span(f'pt-{p["key"].lower()}', pm, 'p. ')))
+        for si, s in enumerate(p['subjects']):
+            s_html, s_est = _subject_block(s, pm)
+            head_now, head_est = (head_html, 40) if si == 0 else ('', 0)
+            if est > 0 and est + head_est + s_est > INDEX_BUDGET:
                 flush(first)
                 first = False
-            buf.append(''.join(s_html))
-            est += s_est
+            buf.append(head_now + s_html)      # paper header rides with first subject
+            est += head_est + s_est
     flush(first)
     return sheets
+
+def build_pagemap(ordered):
+    """card/subject/part anchor → printed page number (position in final order)."""
+    pm = {}
+    for pos, sh in enumerate(ordered, start=1):
+        for m in re.finditer(r'id="card-([A-Z0-9-]+)"', sh):
+            pm.setdefault(m.group(1), pos)
+        m = re.search(r'<div class="sheet" id="(ch-\d+)"', sh)
+        if m:
+            pm[m.group(1)] = pos
+        m = re.search(r'<div class="sheet" id="(pt-gs\d)"', sh)
+        if m:
+            pm[m.group(1)] = pos
+    return pm
 
 # ---------- main ----------
 def main():
@@ -491,7 +545,6 @@ def main():
     packer = Packer()
     emit_content(packer)
 
-    ix = index_sheets()
     openers = {p['key']: opener_html(p['key']) for p in BM['tree']}
 
     # group content sheets by paper (via data-ch attribution), interleave with openers
@@ -505,11 +558,31 @@ def main():
         if cur_paper:
             by_paper[cur_paper].append(sh)
 
-    ordered = [cover_html(), disclaimer_html()] + ix
-    for p in BM['tree']:
-        ordered.append(openers[p['key']])
-        ordered += by_paper[p['key']]
-    ordered.append(backcover_html())
+    def assemble(ix):
+        ordered = [cover_html(), disclaimer_html()] + ix
+        for p in BM['tree']:
+            ordered.append(openers[p['key']])
+            ordered += by_paper[p['key']]
+        ordered.append(backcover_html())
+        return ordered
+
+    # INDEX IS GENERATED LAST: iterate to a fixpoint — index page numbers depend
+    # on the final ordering, and the ordering depends on the index sheet count.
+    # Converged when the count stops changing (numbers then cannot shift pages).
+    ix = index_sheets(None)
+    ordered = assemble(ix)
+    for _ in range(6):
+        pm = build_pagemap(ordered)
+        new_ix = index_sheets(pm)
+        if len(new_ix) == len(ix):
+            ix = new_ix
+            break
+        ix = new_ix
+        ordered = assemble(ix)
+    ordered = assemble(ix)
+    # stability assertion: page numbers in the shipped index match final pagination
+    pm_final = build_pagemap(ordered)
+    assert len(index_sheets(pm_final)) == len(ix), 'index pagination did not converge'
 
     total = len(ordered)
     stamped = []
@@ -545,7 +618,11 @@ def main():
     open(out_path, 'w').write(doc)
     print(f'assembled {out_path}: {total} sheets, {os.path.getsize(out_path)/1024:.0f} KB')
 
-    # persist partials
+    # persist partials — wipe stale df_*.html first (paper reordering changes
+    # ch-N numbering and index sheet counts between runs)
+    for f in os.listdir(SRC):
+        if f.startswith('df_') and f.endswith('.html'):
+            os.remove(os.path.join(SRC, f))
     parts = {'df_fm1_cover.html': cover_html(),
              'df_fm2_disclaimer.html': disclaimer_html(),
              'df_bm2_back.html': backcover_html()}

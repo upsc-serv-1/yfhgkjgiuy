@@ -239,6 +239,9 @@ def main():
         cards.append(parse_card(c, serial[subj]))
 
     # ---- book tree: paper → subject → section_group → subtopic → cards (file order) ----
+    # Papers are SORTED GS1 → GS2 → GS3 regardless of file appearance order (the
+    # source JSON leads with GS-III cards; the book and index must read Paper I first).
+    # Subject order within a paper follows source appearance (source taxonomy preserved).
     papers, subjects, sections, subtopics = {}, {}, {}, {}
     tree = []
     for c in cards:
@@ -262,6 +265,8 @@ def main():
             subtopics[(c['subject'], sg, st)] = {'name': st, 'cards': []}
             sgnode['subtopics'].append(subtopics[(c['subject'], sg, st)])
         subtopics[(c['subject'], sg, st)]['cards'].append(c)
+
+    tree.sort(key=lambda pnode: pnode['key'])   # GS1 → GS2 → GS3
 
     out = {
         'book': 'Dr. CSE — Data & Facts',

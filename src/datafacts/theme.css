@@ -187,6 +187,10 @@ a.chip:hover{border-color:var(--teal);color:var(--teal);background:var(--t-teal)
 .ix-line a{color:var(--ink2);text-decoration:none;border-bottom:1px dotted var(--hair)}
 .ix-line a:hover{color:var(--teal);border-color:var(--teal)}
 .ix-line .sep{color:var(--mut);padding:0 2px}
+/* page numbers in the index (generated LAST from final pagination) */
+.ix-line .pg,.ix-sec .pg,.ix-ch .pg{font-family:var(--mono);font-weight:500;font-size:8.5px;
+                                    color:var(--mut);padding-left:3px;letter-spacing:.3px;white-space:nowrap}
+.ix-ch .pg{font-size:9.5px}
 .ix-cards{display:flex;flex-wrap:wrap;gap:3px 10px;margin:0 0 8px;padding-left:2px}
 .ix-cards a{font-size:10.5px;color:var(--ink2);text-decoration:none;border-bottom:1px dotted var(--hair2);line-height:1.5}
 .ix-cards a:hover{color:var(--teal);border-color:var(--teal)}
