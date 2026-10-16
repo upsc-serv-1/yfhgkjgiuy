@@ -31,25 +31,37 @@ The eBook is **built, QA-verified, and reworked twice per user review**. Book na
 19. **Cards (v3):** INTRODUCTION boxed like other blocks; syllabus-point micro line removed; long DATA lists in 2 columns.
 20. **Contact (v3):** drcse.in · t.me/dr_cse · dr.cse.001@gmail.com — shown on cover, disclaimer page, back cover. Logo asset: `assets/images/logo_dr_cse.png` (extracted from the prototype's embedded base64).
 
-## Book 2 — Dr. CSE · Data & Facts (`final_data_facts.html`) — BUILT, QA-GREEN
+## Book 2 — Dr. CSE · Data & Facts (`final_data_facts.html`) — REPAIRED (fix-A4 phases 0–9), ALL GATES GREEN
 
 A **second ebook** in the same design system, built from `inputs/updated_data.json`
 (83 verified/dated/sourced data cards · GS Papers I–III · 12 subjects).
+The multi-phase structural repair (A4 geometry, pagination, index, content
+structure, exam-data highlighting, source dedup) is COMPLETE — 17/17 final
+checklist items pass (`verify_phase9.py`); full write-up in **`FIX_A4_REPORT.md`**.
 
-- **Artifact:** `final_data_facts.html` — **110 sheets** (2 covers + disclaimer +
-  4 index sheets + 3 part openers + 12 subject pages + 88 card sheets), 471 KB,
-  every sheet exactly 1123px A4. All 83 cards verbatim (0 missing lines), 0 broken
-  links, 0 escaped-markup leaks, 0 count statistics, tag balance green, 53
-  continuation strips balanced. Headless + VLM visual review: 8/8 key pages PASS.
-- **Pipeline (all under `scripts/stage2/datafacts/`):** `parse_data.py` →
-  `build_book.py` (also writes `src/datafacts/df_*.html` partials) →
-  `qa_check_df.py` (ALL GREEN required) → `measure_df.py` (heights/overflow/
-  click-through/screenshots). Re-run the full chain after ANY change to
+- **Artifact:** `final_data_facts.html` — **110 sheets** (covers + disclaimer +
+  index + openers + 12 subject pages + card sheets), every sheet exactly
+  794×1123 A4; `final_data_facts.pdf` = 110 A4 pages. GS-I→GS-II→GS-III
+  throughout; footers pinned; keep-with-next pagination (0 orphaned headings);
+  one-fact-per-bullet hierarchy (`.sth` sub-themes → `.sth2` group labels →
+  nested rows l0/l1/l2); **exam data bold+orange** via the `{{hl}}` marker
+  (2407 spans, ≤50%/card, persisted in the JSON — JSON-only rebuild is
+  byte-identical); sources inline-only (1 panel remains, on the one card with
+  no inline citations).
+- **Pipeline (all under `scripts/stage2/datafacts/`):** `restructure_json.py`
+  (only when re-canonicalising content) → `parse_data.py` → `build_book.py`
+  (writes `src/datafacts/df_*.html` partials) → `qa_check_df.py` (ALL GREEN
+  required — now also guards `###` artifacts, escaped tags, `{{hl}}` residue)
+  → `verify_phase9.py` (the 17-item final gate; phase gates 1–8 kept as
+  regression scripts). Re-run the chain after ANY change to
   `inputs/updated_data.json` or `src/datafacts/theme.css`.
-- **Design spec:** DESIGN.md §II (§13–§16) — data-card anatomy (fact rows, tables,
-  sources panels), **flowing cards** with CONTINUED strips (`.cont-art`), sheet map,
-  pipeline. Same prohibitions as Replica (no count stats, verbatim fact rows,
+- **Design spec:** DESIGN.md §II (§13–§16) — canonical content grammar,
+  `{{hl}}` marker convention, data-card anatomy, sheet map, pipeline.
+  Same prohibitions as Replica (no count stats, verbatim fact rows,
   relative-path images only, no backdrop-filter).
+- **Human-review queue:** 73 counted-noun data points left unhighlighted
+  (`highlight_log.json` → flags), 1 card at 48% orange, force-fact overrides —
+  see FIX_A4_REPORT.md §"Flagged for human review".
 
 ## What to do next (if you are picking this up)
 
