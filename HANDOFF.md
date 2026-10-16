@@ -1,10 +1,12 @@
 # HANDOFF.md — Live Handoff (any agent: read this FIRST, then PLAN.md)
 
-**Last updated:** 2026-10-16 (post-review **v3 / rebrand**) · **Phases 0–8 COMPLETE + v2 + v3 REVIEW FIXES APPLIED — final_ebook.html rebuilt and QA-PASSED — AWAITING USER ACCEPTANCE** · Branch: `ebook-build` (this branch IS the project) · Repo: `upsc-serv-1/yfhgkjgiuy`
+**Last updated:** 2026-10-16 (v3 + documentation pass: **DESIGN.md** added) · **Phases 0–8 COMPLETE + v2 + v3 REVIEW FIXES + DOCS — final_ebook.html QA-PASSED — AWAITING USER ACCEPTANCE** · Branch: `ebook-build` (this branch IS the project) · Repo: `upsc-serv-1/yfhgkjgiuy`
+
+**Reading order:** this file → `PLAN.md` (process + iron rules) → **`DESIGN.md` (design spec of the shipped book)** → `design_tokens.md` (token reference) → tail of `worklog.md`.
 
 ## Current state in one paragraph
 
-The eBook is **built, QA-verified, and reworked twice per user review**. Book name: **"Replica (Exam Replicable) · Intro to Conclusion"** (a Dr. CSE publication). `final_ebook.html` (1.10 MB, **217 sheets**, all 551 v17 cards verbatim — 0 text/digit mismatches, 0 broken links, 0 hotlinks, every sheet fits A4). v3 changes: **renamed + rebranded** (Dr. CSE logo top-left of every page via a thin "Dr. CSE — Replica" running header; page number moved to the footer; the old book-name/section/subject header crumbs are GONE — cards start directly); **page 2 = Disclaimer + How to Approach** (with drcse.in · t.me/dr_cse · dr.cse.001@gmail.com, replacing foreword + how-to-use); **master index is 2-column** and EVERY level is clickable (paper → subject → section → **subtopic** → card title — e.g. "Buddhism" jumps to its band; auto-paginated into true-A4 sheets); **each subject page opens with its own clickable card index** (Ethics spans 2 A4 pages, compact 3-col); **no card-count statistics anywhere** (cover stats, "N CARDS" chips, "SECTION N OF 48" stamps all removed); **INTRODUCTION is now a boxed block** like the others; the **syllabus-point micro line is removed** from cards; **long DATA walls flow in 2 columns** (`.data-cols`, 25 cards incl. GS1-HIST-0012). Structure: cover → disclaimer+approach → 7 index sheets → 4 parts × 14 chapters → back cover. Rebuild: `python scripts/stage2/convert_cards.py && python scripts/stage2/build_front.py && python scripts/stage2/build_back.py && python scripts/stage2/build.py` then `python scripts/stage2/qa_check.py`. **GitHub `main` holds an OLD, superseded project — ignore it completely.**
+The eBook is **built, QA-verified, and reworked twice per user review**. Book name: **"Replica (Exam Replicable) · Intro to Conclusion"** (a Dr. CSE publication). `final_ebook.html` (1.10 MB, **217 sheets**, all 551 v17 cards verbatim — 0 text/digit mismatches, 0 broken links, 0 hotlinks, every sheet fits A4). v3 changes: **renamed + rebranded** (Dr. CSE logo top-left of every page via a thin "Dr. CSE — Replica" running header; page number moved to the footer; the old book-name/section/subject header crumbs are GONE — cards start directly); **page 2 = Disclaimer + How to Approach** (with drcse.in · t.me/dr_cse · dr.cse.001@gmail.com, replacing foreword + how-to-use); **master index is 2-column** and EVERY level is clickable (paper → subject → section → **subtopic** → card title — e.g. "Buddhism" jumps to its band; auto-paginated into true-A4 sheets); **each subject page opens with its own clickable card index** (Ethics spans 2 A4 pages, compact 3-col); **no card-count statistics anywhere** (cover stats, "N CARDS" chips, "SECTION N OF 48" stamps all removed); **INTRODUCTION is now a boxed block** like the others; the **syllabus-point micro line is removed** from cards; **long DATA walls flow in 2 columns** (`.data-cols`, 25 cards incl. GS1-HIST-0012). Structure (217 sheets): cover → disclaimer+approach → 7 index sheets → 4 parts × 14 chapters → back cover. Rebuild: `python scripts/stage2/convert_cards.py && python scripts/stage2/build_front.py && python scripts/stage2/build_back.py && python scripts/stage2/build.py` then `python scripts/stage2/qa_check.py`. **GitHub `main` holds an OLD, superseded project — ignore it completely.**
 
 ## User decisions already locked (do not re-ask)
 
@@ -32,13 +34,13 @@ The eBook is **built, QA-verified, and reworked twice per user review**. Book na
 ## What to do next (if you are picking this up)
 
 1. Confirm you are on `ebook-build` (`git branch --show-current`). Clone with `git clone -b ebook-build <repo-url>` if starting fresh.
-2. Read `PLAN.md` fully (phase table, iron rules, file map, open questions).
+2. Read `PLAN.md` fully (phase table, iron rules, file map, open questions), then `DESIGN.md` (the design spec — components, prohibitions, change protocol).
 3. Read the tail of `worklog.md` for the latest completed Task ID.
-4. **All phases 0–8 + v2 + v3 review fixes are complete and QA-green.** Awaiting user acceptance of the v3 build.
+4. **All phases 0–8 + v2 + v3 review fixes + documentation pass are complete and QA-green.** Awaiting user acceptance of the v3 build.
 5. Rebuild after ANY src/ change — full chain:
    `python scripts/stage2/convert_cards.py && python scripts/stage2/build_front.py && python scripts/stage2/build_back.py && python scripts/stage2/build.py && python scripts/stage2/qa_check.py` (all must stay green).
 6. If index/opener pagination is tuned: re-measure sheet heights with a headless browser (see session scripts `measure_sheets.js` / `measure_ix.js` pattern) — every `.a4`/`.p1` sheet must stay ≤ ~1135px.
-7. After every change: update the status table in `PLAN.md`, update this file, append to `worklog.md`, then commit and push (`phase-N: summary`).
+7. After every change: update the status table in `PLAN.md`, update this file AND `DESIGN.md` (§ that changed), append to `worklog.md`, then commit and push (`phase-N: summary`).
 
 ## DO NOT
 
@@ -53,4 +55,4 @@ The eBook is **built, QA-verified, and reworked twice per user review**. Book na
 ## Verification tools
 
 - Stage-2 scripts live in `scripts/stage2/` (audit_cards.py, download_images.py, convert_cards.py, build_front.py, build_back.py, build.py, qa_check.py). Write new ones there — no throwaway inline code.
-- QA gate checklist: PLAN.md §6.
+- QA gate checklist: PLAN.md §6 · Design prohibitions: DESIGN.md §11 · Change protocol: DESIGN.md §12.

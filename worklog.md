@@ -157,3 +157,19 @@ Work Log:
 
 Stage Summary:
 - final_ebook.html v3 complete on branch ebook-build: "Replica (Exam Replicable) · Intro to Conclusion", 217 sheets, all 551 cards verbatim, QA green, browser-verified. Awaiting user acceptance.
+
+---
+Task ID: 9D
+Agent: Super Z (main, orchestrator)
+Task: Documentation pass — DESIGN.md (new), HANDOFF.md refresh, PLAN.md update, README rebrand; push.
+
+Work Log:
+- Fact-audited the shipped book directly from final_ebook.html: 217 sheets (2 .p1 cover/back, 27 .a4 = 1 disclaimer + 7 index pages 003–009 + 4 part openers + 14 subject pages + 1 Ethics index continuation, 188 content); 551 cards; 25 .data-cols cards; 38 image figures; 89 detail panels; 5 practice-skeleton chips; 1 floating INDEX button; 215 stamped page numbers.
+- Caught + fixed a count error: an earlier anchor-walk suggested 8 index sheets; per-sheet content walk proved 7 (the 8th IX-flagged sheet is the GS-1 part opener carrying ix-cards chips). HANDOFF/PLAN/DESIGN all state 7 now.
+- WROTE DESIGN.md: design principles; v1→v2→v3 decision history; book anatomy with sheet census; screen geometry + A4 print rules; full color system (surfaces, semantic accents, tints, per-paper edges); type scale; card component anatomy (ASCII diagram) with rules; editorial components; navigation system; page specs (cover/disclaimer/index/openers/subject pages/card sheets/back cover); hard prohibitions (§11); theme.css §1–11 map + change protocol (§12).
+- HANDOFF.md: reading order now includes DESIGN.md; doc-maintained-in-same-commit rule added; §9D status; index-count correction.
+- PLAN.md: Phase 9D row added to status table; file map now lists REAL src/ filenames (old planned names removed) + DESIGN.md.
+- README.md: rebranded from stale "PYQ Nano Analysis" title to "Replica (Exam Replicable) · Intro to Conclusion — Dr. CSE"; DESIGN.md added to reading order + deliverables chain; no-analytics rule surfaced.
+
+Stage Summary:
+- DESIGN.md is the canonical design spec of the shipped book; design_tokens.md remains the token reference. All four docs consistent with the built artifact. Docs-only commit — no HTML/CSS changes, no rebuild needed.

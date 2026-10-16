@@ -23,6 +23,7 @@
 | 8 | QA audit — vs prototype + spec + checklist; fix loop until pass | `qa_report.md` | ✅ DONE — ALL CHECKS GREEN |
 | 8R | **User design review fixes (v2)** — remove count-analytics; clickable subject-wise index to front matter; card-in-rounded-box redesign; persistent INDEX navigation | rebuilt `final_ebook.html` + docs | ✅ DONE — QA re-run green, browser click-through verified |
 | 8R2 | **User review fixes (v3 / rebrand)** — rename to “Replica (Exam Replicable) · Intro to Conclusion”; Dr. CSE logo header on every page; page-2 Disclaimer + How to Approach; 2-column clickable index (subtopics clickable too); subject pages carry their own clickable card index (A4); no counts anywhere; intro boxed; syllabus-point line removed; wide DATA in 2 columns | rebuilt `final_ebook.html` (217 sheets) + docs | ✅ DONE — QA green, heights + click-through browser-verified |
+| 9D | **Documentation pass** — DESIGN.md (design spec of the shipped book: principles, decision history, page system, color/typography, card anatomy, navigation, prohibitions, change protocol); HANDOFF.md refreshed; README rebranded | `DESIGN.md` | ✅ DONE — pushed |
 | 9 | Final handoff — push, wrap up | repo state | ▶ awaiting user acceptance of v3 build |
 
 **Gate rule:** after Phase 1 and after Phase 8, the orchestrator reports to the user and WAITS for confirmation. All other phases: orchestrator audits the subagent output, fixes or returns it, then proceeds and pushes.
@@ -68,13 +69,17 @@
 ```
 inputs/                  ← frozen source inputs (4 files above)
 assets/images/           ← downloaded + renamed card images (manifest in scripts/stage2/images_manifest.json)
-src/                     ← modular HTML sources
-  00_cover.html, 01_foreword.html, 02_how_to_use.html, 10_gs1_history.html … (one per chapter; naming finalized in Phase 2)
-  theme.css              ← design tokens (Phase 3)
+src/                     ← modular HTML sources (actual filenames)
+  fm1_cover.html, fm2_disclaimer.html          ← front matter
+  pt1_gs1_opener.html … pt4_gs4_opener.html    ← 4 part openers
+  ch01_history.html … ch14_ethics.html         ← 14 chapters (subject page + cards)
+  bm1_index.html, bm2_back_cover.html          ← back matter (7-sheet master index, back cover)
+  theme.css              ← design tokens + all components (§1–11, see DESIGN.md §12)
 scripts/stage2/          ← build + QA scripts (audit_cards.py, download_images.py, build.py, check.py …)
 content_inventory.md     ← Phase 1 deliverable
 ebook_structure.md       ← Phase 2 deliverable
-design_tokens.md         ← Phase 3 deliverable
+design_tokens.md         ← Phase 3 deliverable (token reference)
+DESIGN.md                ← design spec of the SHIPPED book (post-v3) — principles, components, prohibitions, change protocol
 review_notes.md          ← Phase 5 deliverable
 toc_index.md             ← Phase 6 deliverable
 qa_report.md             ← Phase 8 deliverable
