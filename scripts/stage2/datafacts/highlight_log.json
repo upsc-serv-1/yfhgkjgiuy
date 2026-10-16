@@ -1,0 +1,1018 @@
+[
+ {
+  "card": "GS-III/Climate Risk Index 2025",
+  "subject": "DISASTER MANAGEMENT",
+  "spans": 5,
+  "hl_chars": 132,
+  "row_chars": 429,
+  "ratio_pct": 30.8,
+  "over_cap": false,
+  "flags": [
+   "'8,32,000 deaths' left plain (counted noun)"
+  ],
+  "n_flags": 1
+ },
+ {
+  "card": "GS-III/Disaster Stats",
+  "subject": "DISASTER MANAGEMENT",
+  "spans": 37,
+  "hl_chars": 345,
+  "row_chars": 2243,
+  "ratio_pct": 15.4,
+  "over_cap": false,
+  "flags": [
+   "'35 people' left plain (counted noun)",
+   "'8000 incidents' left plain (counted noun)"
+  ],
+  "n_flags": 2
+ },
+ {
+  "card": "GS-III/Economic cost of disasters",
+  "subject": "DISASTER MANAGEMENT",
+  "spans": 4,
+  "hl_chars": 47,
+  "row_chars": 239,
+  "ratio_pct": 19.7,
+  "over_cap": false,
+  "flags": [],
+  "n_flags": 0
+ },
+ {
+  "card": "GS-III/GENERAL STATE OF ECONOMY (ECONOMIC SURVEY 2024-25)",
+  "subject": "INDIAN ECONOMY",
+  "spans": 22,
+  "hl_chars": 100,
+  "row_chars": 932,
+  "ratio_pct": 10.7,
+  "over_cap": false,
+  "flags": [],
+  "n_flags": 0
+ },
+ {
+  "card": "GS-III/PRIMARY SECTOR",
+  "subject": "AGRICULTURE",
+  "spans": 131,
+  "hl_chars": 1063,
+  "row_chars": 7787,
+  "ratio_pct": 13.7,
+  "over_cap": false,
+  "flags": [],
+  "n_flags": 0
+ },
+ {
+  "card": "GS-III/SECONDARY SECTOR",
+  "subject": "INDIAN ECONOMY",
+  "spans": 80,
+  "hl_chars": 728,
+  "row_chars": 5132,
+  "ratio_pct": 14.2,
+  "over_cap": false,
+  "flags": [
+   "'10 projects' left plain (counted noun)",
+   "'6 states' left plain (counted noun)"
+  ],
+  "n_flags": 2
+ },
+ {
+  "card": "GS-III/TERTIARY SECTOR",
+  "subject": "INDIAN ECONOMY",
+  "spans": 52,
+  "hl_chars": 440,
+  "row_chars": 2851,
+  "ratio_pct": 15.4,
+  "over_cap": false,
+  "flags": [],
+  "n_flags": 0
+ },
+ {
+  "card": "GS-III/LAND REFORMS",
+  "subject": "AGRICULTURE",
+  "spans": 15,
+  "hl_chars": 96,
+  "row_chars": 930,
+  "ratio_pct": 10.3,
+  "over_cap": false,
+  "flags": [],
+  "n_flags": 0
+ },
+ {
+  "card": "GS-III/INCLUSIVE GROWTH & DEVELOPMENT",
+  "subject": "INDIAN ECONOMY",
+  "spans": 138,
+  "hl_chars": 990,
+  "row_chars": 9964,
+  "ratio_pct": 9.9,
+  "over_cap": false,
+  "flags": [
+   "'67,000 schools' left plain (counted noun)",
+   "'1,168 universities' left plain (counted noun)",
+   "'45,473 colleges' left plain (counted noun)",
+   "'3 students' left plain (counted noun)",
+   "'3 students' left plain (counted noun)",
+   "'5 students' left plain (counted noun)",
+   "'3 students' left plain (counted noun)",
+   "'3 students' left plain (counted noun)",
+   "'123 countries' left plain (counted noun)",
+   "'12 riots' left plain (counted noun)",
+   "'7 riots' left plain (counted noun)"
+  ],
+  "n_flags": 11
+ },
+ {
+  "card": "GS-III/BANKING & MONEY MARKET",
+  "subject": "INDIAN ECONOMY",
+  "spans": 16,
+  "hl_chars": 139,
+  "row_chars": 1287,
+  "ratio_pct": 10.8,
+  "over_cap": false,
+  "flags": [],
+  "n_flags": 0
+ },
+ {
+  "card": "GS-III/NATIONAL INCOME & ACCOUNTING",
+  "subject": "INDIAN ECONOMY",
+  "spans": 69,
+  "hl_chars": 613,
+  "row_chars": 4077,
+  "ratio_pct": 15.0,
+  "over_cap": false,
+  "flags": [],
+  "n_flags": 0
+ },
+ {
+  "card": "GS-III/TAXATION",
+  "subject": "INDIAN ECONOMY",
+  "spans": 36,
+  "hl_chars": 371,
+  "row_chars": 2157,
+  "ratio_pct": 17.2,
+  "over_cap": false,
+  "flags": [],
+  "n_flags": 0
+ },
+ {
+  "card": "GS-III/INFRASTRUCTURE",
+  "subject": "INDIAN ECONOMY",
+  "spans": 109,
+  "hl_chars": 1210,
+  "row_chars": 7354,
+  "ratio_pct": 16.5,
+  "over_cap": false,
+  "flags": [
+   "'474 deaths' left plain (counted noun)",
+   "'351 people' left plain (counted noun)"
+  ],
+  "n_flags": 2
+ },
+ {
+  "card": "GS-III/OTHERS",
+  "subject": "INDIAN ECONOMY",
+  "spans": 36,
+  "hl_chars": 346,
+  "row_chars": 2549,
+  "ratio_pct": 13.6,
+  "over_cap": false,
+  "flags": [],
+  "n_flags": 0
+ },
+ {
+  "card": "GS-III/Climate Change",
+  "subject": "ENVIRONMENT",
+  "spans": 58,
+  "hl_chars": 705,
+  "row_chars": 4445,
+  "ratio_pct": 15.9,
+  "over_cap": false,
+  "flags": [],
+  "n_flags": 0
+ },
+ {
+  "card": "GS-III/Biodiversity",
+  "subject": "ENVIRONMENT",
+  "spans": 61,
+  "hl_chars": 489,
+  "row_chars": 5429,
+  "ratio_pct": 9.0,
+  "over_cap": false,
+  "flags": [
+   "'600 people' left plain (counted noun)",
+   "'60 deaths' left plain (counted noun)",
+   "'19 states' left plain (counted noun)",
+   "'28 states' left plain (counted noun)"
+  ],
+  "n_flags": 4
+ },
+ {
+  "card": "GS-III/Energy",
+  "subject": "ENVIRONMENT",
+  "spans": 82,
+  "hl_chars": 830,
+  "row_chars": 4566,
+  "ratio_pct": 18.2,
+  "over_cap": false,
+  "flags": [
+   "'100,000 households' left plain (counted noun)",
+   "'63,000 villages' left plain (counted noun)"
+  ],
+  "n_flags": 2
+ },
+ {
+  "card": "GS-III/Pollution and Waste Management",
+  "subject": "ENVIRONMENT",
+  "spans": 74,
+  "hl_chars": 905,
+  "row_chars": 4421,
+  "ratio_pct": 20.5,
+  "over_cap": false,
+  "flags": [
+   "'10 states' left plain (counted noun)"
+  ],
+  "n_flags": 1
+ },
+ {
+  "card": "GS-III/Water and its Conservation",
+  "subject": "ENVIRONMENT",
+  "spans": 30,
+  "hl_chars": 352,
+  "row_chars": 3041,
+  "ratio_pct": 11.6,
+  "over_cap": false,
+  "flags": [],
+  "n_flags": 0
+ },
+ {
+  "card": "GS-II/Aadhar",
+  "subject": "GOVERNANCE",
+  "spans": 12,
+  "hl_chars": 103,
+  "row_chars": 695,
+  "ratio_pct": 14.8,
+  "over_cap": false,
+  "flags": [
+   "'7,50,000 beneficiaries' left plain (counted noun)"
+  ],
+  "n_flags": 1
+ },
+ {
+  "card": "GS-II/Citizen Participation",
+  "subject": "GOVERNANCE",
+  "spans": 1,
+  "hl_chars": 10,
+  "row_chars": 161,
+  "ratio_pct": 6.2,
+  "over_cap": false,
+  "flags": [],
+  "n_flags": 0
+ },
+ {
+  "card": "GS-II/Civil Services",
+  "subject": "GOVERNANCE",
+  "spans": 3,
+  "hl_chars": 8,
+  "row_chars": 357,
+  "ratio_pct": 2.2,
+  "over_cap": false,
+  "flags": [],
+  "n_flags": 0
+ },
+ {
+  "card": "GS-II/Corruption",
+  "subject": "GOVERNANCE",
+  "spans": 3,
+  "hl_chars": 38,
+  "row_chars": 483,
+  "ratio_pct": 7.9,
+  "over_cap": false,
+  "flags": [
+   "'180 countries' left plain (counted noun)"
+  ],
+  "n_flags": 1
+ },
+ {
+  "card": "GS-II/Criminal Justice",
+  "subject": "GOVERNANCE",
+  "spans": 17,
+  "hl_chars": 102,
+  "row_chars": 840,
+  "ratio_pct": 12.1,
+  "over_cap": false,
+  "flags": [],
+  "n_flags": 0
+ },
+ {
+  "card": "GS-II/Custodial Violence",
+  "subject": "GOVERNANCE",
+  "spans": 9,
+  "hl_chars": 43,
+  "row_chars": 908,
+  "ratio_pct": 4.7,
+  "over_cap": false,
+  "flags": [],
+  "n_flags": 0
+ },
+ {
+  "card": "GS-II/General",
+  "subject": "GOVERNANCE",
+  "spans": 39,
+  "hl_chars": 714,
+  "row_chars": 2855,
+  "ratio_pct": 25.0,
+  "over_cap": false,
+  "flags": [
+   "'731 banks' left plain (counted noun)"
+  ],
+  "n_flags": 1
+ },
+ {
+  "card": "GS-II/Grievance Redressal",
+  "subject": "GOVERNANCE",
+  "spans": 6,
+  "hl_chars": 47,
+  "row_chars": 424,
+  "ratio_pct": 11.1,
+  "over_cap": false,
+  "flags": [],
+  "n_flags": 0
+ },
+ {
+  "card": "GS-II/Police",
+  "subject": "GOVERNANCE",
+  "spans": 14,
+  "hl_chars": 122,
+  "row_chars": 1041,
+  "ratio_pct": 11.7,
+  "over_cap": false,
+  "flags": [],
+  "n_flags": 0
+ },
+ {
+  "card": "GS-II/Prison Reforms",
+  "subject": "GOVERNANCE",
+  "spans": 16,
+  "hl_chars": 178,
+  "row_chars": 1198,
+  "ratio_pct": 14.9,
+  "over_cap": false,
+  "flags": [
+   "'18000 children' left plain (counted noun)"
+  ],
+  "n_flags": 1
+ },
+ {
+  "card": "GS-II/RTI & OSA",
+  "subject": "GOVERNANCE",
+  "spans": 5,
+  "hl_chars": 21,
+  "row_chars": 664,
+  "ratio_pct": 3.2,
+  "over_cap": false,
+  "flags": [],
+  "n_flags": 0
+ },
+ {
+  "card": "GS-II/Social Audit",
+  "subject": "GOVERNANCE",
+  "spans": 5,
+  "hl_chars": 36,
+  "row_chars": 575,
+  "ratio_pct": 6.3,
+  "over_cap": false,
+  "flags": [],
+  "n_flags": 0
+ },
+ {
+  "card": "GS-II/Social Sector",
+  "subject": "GOVERNANCE",
+  "spans": 35,
+  "hl_chars": 448,
+  "row_chars": 2649,
+  "ratio_pct": 16.9,
+  "over_cap": false,
+  "flags": [
+   "'10 people' left plain (counted noun)",
+   "'8,058 projects' left plain (counted noun)",
+   "'7,479 projects' left plain (counted noun)"
+  ],
+  "n_flags": 3
+ },
+ {
+  "card": "GS-II/Micro Credit",
+  "subject": "GOVERNANCE",
+  "spans": 10,
+  "hl_chars": 62,
+  "row_chars": 701,
+  "ratio_pct": 8.8,
+  "over_cap": false,
+  "flags": [],
+  "n_flags": 0
+ },
+ {
+  "card": "GS-II/NGOs",
+  "subject": "GOVERNANCE",
+  "spans": 6,
+  "hl_chars": 51,
+  "row_chars": 705,
+  "ratio_pct": 7.2,
+  "over_cap": false,
+  "flags": [
+   "'400 people' left plain (counted noun)",
+   "'400 people' left plain (counted noun)"
+  ],
+  "n_flags": 2
+ },
+ {
+  "card": "GS-II/SHGs",
+  "subject": "GOVERNANCE",
+  "spans": 6,
+  "hl_chars": 95,
+  "row_chars": 440,
+  "ratio_pct": 21.6,
+  "over_cap": false,
+  "flags": [],
+  "n_flags": 0
+ },
+ {
+  "card": "GS-II/Sports Ecosystem",
+  "subject": "GOVERNANCE",
+  "spans": 7,
+  "hl_chars": 66,
+  "row_chars": 868,
+  "ratio_pct": 7.6,
+  "over_cap": false,
+  "flags": [
+   "'6 medals' left plain (counted noun)",
+   "'29 medals' left plain (counted noun)"
+  ],
+  "n_flags": 2
+ },
+ {
+  "card": "GS-I/PRE-COLONIAL PERIOD & CHRONOLOGY",
+  "subject": "HISTORY",
+  "spans": 6,
+  "hl_chars": 66,
+  "row_chars": 932,
+  "ratio_pct": 7.1,
+  "over_cap": false,
+  "flags": [],
+  "n_flags": 0
+ },
+ {
+  "card": "GS-I/BRITISH COLONIAL ECONOMY",
+  "subject": "HISTORY",
+  "spans": 27,
+  "hl_chars": 295,
+  "row_chars": 2405,
+  "ratio_pct": 12.3,
+  "over_cap": false,
+  "flags": [],
+  "n_flags": 0
+ },
+ {
+  "card": "GS-I/FREEDOM STRUGGLE & MOVEMENTS",
+  "subject": "HISTORY",
+  "spans": 13,
+  "hl_chars": 211,
+  "row_chars": 2129,
+  "ratio_pct": 9.9,
+  "over_cap": false,
+  "flags": [
+   "'864 seats' left plain (counted noun)"
+  ],
+  "n_flags": 1
+ },
+ {
+  "card": "GS-I/COLONIAL POLICIES & DEVELOPMENT",
+  "subject": "HISTORY",
+  "spans": 11,
+  "hl_chars": 81,
+  "row_chars": 1780,
+  "ratio_pct": 4.6,
+  "over_cap": false,
+  "flags": [
+   "'19 universities' left plain (counted noun)",
+   "'500 colleges' left plain (counted noun)"
+  ],
+  "n_flags": 2
+ },
+ {
+  "card": "GS-I/POST INDEPENDENCE",
+  "subject": "HISTORY",
+  "spans": 16,
+  "hl_chars": 154,
+  "row_chars": 1073,
+  "ratio_pct": 14.4,
+  "over_cap": false,
+  "flags": [],
+  "n_flags": 0
+ },
+ {
+  "card": "GS-III/BORDER MANAGEMENT",
+  "subject": "INTERNAL SECURITY",
+  "spans": 5,
+  "hl_chars": 43,
+  "row_chars": 674,
+  "ratio_pct": 6.4,
+  "over_cap": false,
+  "flags": [],
+  "n_flags": 0
+ },
+ {
+  "card": "GS-III/MARITIME AND COASTAL SECURITY",
+  "subject": "INTERNAL SECURITY",
+  "spans": 5,
+  "hl_chars": 46,
+  "row_chars": 533,
+  "ratio_pct": 8.6,
+  "over_cap": false,
+  "flags": [],
+  "n_flags": 0
+ },
+ {
+  "card": "GS-III/DEFENSE",
+  "subject": "INTERNAL SECURITY",
+  "spans": 20,
+  "hl_chars": 333,
+  "row_chars": 1099,
+  "ratio_pct": 30.3,
+  "over_cap": false,
+  "flags": [
+   "'100 countries' left plain (counted noun)"
+  ],
+  "n_flags": 1
+ },
+ {
+  "card": "GS-III/TERRORISM",
+  "subject": "INTERNAL SECURITY",
+  "spans": 5,
+  "hl_chars": 50,
+  "row_chars": 500,
+  "ratio_pct": 10.0,
+  "over_cap": false,
+  "flags": [],
+  "n_flags": 0
+ },
+ {
+  "card": "GS-III/LEFT-WING EXTREMISM (MHA DATA)",
+  "subject": "INTERNAL SECURITY",
+  "spans": 13,
+  "hl_chars": 331,
+  "row_chars": 1385,
+  "ratio_pct": 23.9,
+  "over_cap": false,
+  "flags": [
+   "'375 incidents' left plain (counted noun)",
+   "'1,005 deaths' left plain (counted noun)",
+   "'126 districts' left plain (counted noun)"
+  ],
+  "n_flags": 3
+ },
+ {
+  "card": "GS-III/ORGANISED CRIME",
+  "subject": "INTERNAL SECURITY",
+  "spans": 9,
+  "hl_chars": 83,
+  "row_chars": 1099,
+  "ratio_pct": 7.6,
+  "over_cap": false,
+  "flags": [
+   "'141 countries' left plain (counted noun)",
+   "'10,000 cases' left plain (counted noun)"
+  ],
+  "n_flags": 2
+ },
+ {
+  "card": "GS-III/CYBER SECURITY",
+  "subject": "INTERNAL SECURITY",
+  "spans": 7,
+  "hl_chars": 165,
+  "row_chars": 839,
+  "ratio_pct": 19.7,
+  "over_cap": false,
+  "flags": [],
+  "n_flags": 0
+ },
+ {
+  "card": "GS-III/INSURGENCY [MHA DATA]",
+  "subject": "INTERNAL SECURITY",
+  "spans": 5,
+  "hl_chars": 16,
+  "row_chars": 280,
+  "ratio_pct": 5.7,
+  "over_cap": false,
+  "flags": [],
+  "n_flags": 0
+ },
+ {
+  "card": "GS-II/INDIA'S NEIGHBOURHOOD",
+  "subject": "INTERNATIONAL RELATIONS",
+  "spans": 39,
+  "hl_chars": 697,
+  "row_chars": 4173,
+  "ratio_pct": 16.7,
+  "over_cap": false,
+  "flags": [],
+  "n_flags": 0
+ },
+ {
+  "card": "GS-II/INDIA'S MAJOR BILATERAL RELATIONS",
+  "subject": "INTERNATIONAL RELATIONS",
+  "spans": 30,
+  "hl_chars": 417,
+  "row_chars": 3110,
+  "ratio_pct": 13.4,
+  "over_cap": false,
+  "flags": [],
+  "n_flags": 0
+ },
+ {
+  "card": "GS-II/INDIA AND WEST ASIA",
+  "subject": "INTERNATIONAL RELATIONS",
+  "spans": 50,
+  "hl_chars": 788,
+  "row_chars": 3327,
+  "ratio_pct": 23.7,
+  "over_cap": false,
+  "flags": [],
+  "n_flags": 0
+ },
+ {
+  "card": "GS-II/INDIA-EUROPE",
+  "subject": "INTERNATIONAL RELATIONS",
+  "spans": 35,
+  "hl_chars": 647,
+  "row_chars": 3029,
+  "ratio_pct": 21.4,
+  "over_cap": false,
+  "flags": [],
+  "n_flags": 0
+ },
+ {
+  "card": "GS-II/Central Asia",
+  "subject": "INTERNATIONAL RELATIONS",
+  "spans": 2,
+  "hl_chars": 20,
+  "row_chars": 551,
+  "ratio_pct": 3.6,
+  "over_cap": false,
+  "flags": [],
+  "n_flags": 0
+ },
+ {
+  "card": "GS-II/INDIA-ASIA PACIFIC",
+  "subject": "INTERNATIONAL RELATIONS",
+  "spans": 21,
+  "hl_chars": 470,
+  "row_chars": 1881,
+  "ratio_pct": 25.0,
+  "over_cap": false,
+  "flags": [],
+  "n_flags": 0
+ },
+ {
+  "card": "GS-II/Africa",
+  "subject": "INTERNATIONAL RELATIONS",
+  "spans": 8,
+  "hl_chars": 137,
+  "row_chars": 662,
+  "ratio_pct": 20.7,
+  "over_cap": false,
+  "flags": [],
+  "n_flags": 0
+ },
+ {
+  "card": "GS-II/MULTILATERAL",
+  "subject": "INTERNATIONAL RELATIONS",
+  "spans": 69,
+  "hl_chars": 713,
+  "row_chars": 5217,
+  "ratio_pct": 13.7,
+  "over_cap": false,
+  "flags": [
+   "'9 countries' left plain (counted noun)"
+  ],
+  "n_flags": 1
+ },
+ {
+  "card": "GS-II/INDIAN DIASPORA",
+  "subject": "INTERNATIONAL RELATIONS",
+  "spans": 18,
+  "hl_chars": 221,
+  "row_chars": 1597,
+  "ratio_pct": 13.8,
+  "over_cap": false,
+  "flags": [],
+  "n_flags": 0
+ },
+ {
+  "card": "GS-II/GENERAL",
+  "subject": "POLITY",
+  "spans": 0,
+  "hl_chars": 0,
+  "row_chars": 156,
+  "ratio_pct": 0.0,
+  "over_cap": false,
+  "flags": [],
+  "n_flags": 0
+ },
+ {
+  "card": "GS-II/CONSTITUTION",
+  "subject": "POLITY",
+  "spans": 8,
+  "hl_chars": 101,
+  "row_chars": 484,
+  "ratio_pct": 20.9,
+  "over_cap": false,
+  "flags": [
+   "'60 countries' left plain (counted noun)"
+  ],
+  "n_flags": 1
+ },
+ {
+  "card": "GS-II/SIGNIFICANT PROVISIONS",
+  "subject": "POLITY",
+  "spans": 40,
+  "hl_chars": 328,
+  "row_chars": 3394,
+  "ratio_pct": 9.7,
+  "over_cap": false,
+  "flags": [
+   "'701 cases' left plain (counted noun)",
+   "'16 states' left plain (counted noun)",
+   "'379 people' left plain (counted noun)",
+   "'54 countries' left plain (counted noun)"
+  ],
+  "n_flags": 4
+ },
+ {
+  "card": "GS-II/PARLIAMENT",
+  "subject": "POLITY",
+  "spans": 12,
+  "hl_chars": 82,
+  "row_chars": 793,
+  "ratio_pct": 10.3,
+  "over_cap": false,
+  "flags": [],
+  "n_flags": 0
+ },
+ {
+  "card": "GS-II/FEDERALISM",
+  "subject": "POLITY",
+  "spans": 18,
+  "hl_chars": 291,
+  "row_chars": 1501,
+  "ratio_pct": 19.4,
+  "over_cap": false,
+  "flags": [],
+  "n_flags": 0
+ },
+ {
+  "card": "GS-II/EMERGENCY",
+  "subject": "POLITY",
+  "spans": 2,
+  "hl_chars": 18,
+  "row_chars": 322,
+  "ratio_pct": 5.6,
+  "over_cap": false,
+  "flags": [],
+  "n_flags": 0
+ },
+ {
+  "card": "GS-II/JUDICIARY",
+  "subject": "POLITY",
+  "spans": 36,
+  "hl_chars": 400,
+  "row_chars": 3318,
+  "ratio_pct": 12.1,
+  "over_cap": false,
+  "flags": [
+   "'15 states' left plain (counted noun)",
+   "'3,06,604 cases' left plain (counted noun)"
+  ],
+  "n_flags": 2
+ },
+ {
+  "card": "GS-II/ELECTIONS",
+  "subject": "POLITY",
+  "spans": 21,
+  "hl_chars": 225,
+  "row_chars": 1722,
+  "ratio_pct": 13.1,
+  "over_cap": false,
+  "flags": [],
+  "n_flags": 0
+ },
+ {
+  "card": "GS-II/LOCAL SELF GOVERNMENT",
+  "subject": "POLITY",
+  "spans": 17,
+  "hl_chars": 231,
+  "row_chars": 1163,
+  "ratio_pct": 19.9,
+  "over_cap": false,
+  "flags": [
+   "'18 states' left plain (counted noun)",
+   "'18 states' left plain (counted noun)",
+   "'3 states' left plain (counted noun)"
+  ],
+  "n_flags": 3
+ },
+ {
+  "card": "GS-III/Biotechnology And Health Sciences",
+  "subject": "SCIENCE & TECHNOLOGY",
+  "spans": 34,
+  "hl_chars": 391,
+  "row_chars": 2535,
+  "ratio_pct": 15.4,
+  "over_cap": false,
+  "flags": [],
+  "n_flags": 0
+ },
+ {
+  "card": "GS-III/IT And Communication Technology",
+  "subject": "SCIENCE & TECHNOLOGY",
+  "spans": 13,
+  "hl_chars": 134,
+  "row_chars": 851,
+  "ratio_pct": 15.7,
+  "over_cap": false,
+  "flags": [],
+  "n_flags": 0
+ },
+ {
+  "card": "GS-III/R&D And IPR",
+  "subject": "SCIENCE & TECHNOLOGY",
+  "spans": 32,
+  "hl_chars": 439,
+  "row_chars": 2287,
+  "ratio_pct": 19.2,
+  "over_cap": false,
+  "flags": [],
+  "n_flags": 0
+ },
+ {
+  "card": "GS-III/Space Technology",
+  "subject": "SCIENCE & TECHNOLOGY",
+  "spans": 16,
+  "hl_chars": 218,
+  "row_chars": 1404,
+  "ratio_pct": 15.5,
+  "over_cap": false,
+  "flags": [],
+  "n_flags": 0
+ },
+ {
+  "card": "GS-III/Supercomputers",
+  "subject": "SCIENCE & TECHNOLOGY",
+  "spans": 2,
+  "hl_chars": 87,
+  "row_chars": 435,
+  "ratio_pct": 20.0,
+  "over_cap": false,
+  "flags": [],
+  "n_flags": 0
+ },
+ {
+  "card": "GS-III/Nuclear Technology",
+  "subject": "SCIENCE & TECHNOLOGY",
+  "spans": 14,
+  "hl_chars": 285,
+  "row_chars": 1357,
+  "ratio_pct": 21.0,
+  "over_cap": false,
+  "flags": [],
+  "n_flags": 0
+ },
+ {
+  "card": "GS-II/SOCIAL JUSTICE",
+  "subject": "SOCIAL JUSTICE",
+  "spans": 38,
+  "hl_chars": 366,
+  "row_chars": 2358,
+  "ratio_pct": 15.5,
+  "over_cap": false,
+  "flags": [],
+  "n_flags": 0
+ },
+ {
+  "card": "GS-II/CURRENT AFFAIRS",
+  "subject": "SOCIAL JUSTICE",
+  "spans": 48,
+  "hl_chars": 631,
+  "row_chars": 3716,
+  "ratio_pct": 17.0,
+  "over_cap": false,
+  "flags": [
+   "'100,000 people' left plain (counted noun)",
+   "'3600 people' left plain (counted noun)",
+   "'15 states' left plain (counted noun)",
+   "'36 countries' left plain (counted noun)"
+  ],
+  "n_flags": 4
+ },
+ {
+  "card": "GS-II/EDUCATION",
+  "subject": "SOCIAL JUSTICE",
+  "spans": 81,
+  "hl_chars": 818,
+  "row_chars": 5233,
+  "ratio_pct": 15.6,
+  "over_cap": false,
+  "flags": [
+   "'67,000 schools' left plain (counted noun)",
+   "'1,168 universities' left plain (counted noun)",
+   "'45,473 colleges' left plain (counted noun)",
+   "'3 students' left plain (counted noun)",
+   "'3 students' left plain (counted noun)",
+   "'5 students' left plain (counted noun)",
+   "'3 students' left plain (counted noun)",
+   "'3 students' left plain (counted noun)"
+  ],
+  "n_flags": 8
+ },
+ {
+  "card": "GS-II/HEALTH",
+  "subject": "SOCIAL JUSTICE",
+  "spans": 74,
+  "hl_chars": 902,
+  "row_chars": 5096,
+  "ratio_pct": 17.7,
+  "over_cap": false,
+  "flags": [
+   "'1,194 people' left plain (counted noun)"
+  ],
+  "n_flags": 1
+ },
+ {
+  "card": "GS-II/VULNERABLE SECTIONS",
+  "subject": "SOCIAL JUSTICE",
+  "spans": 57,
+  "hl_chars": 419,
+  "row_chars": 2991,
+  "ratio_pct": 14.0,
+  "over_cap": false,
+  "flags": [],
+  "n_flags": 0
+ },
+ {
+  "card": "GS-I/General",
+  "subject": "SOCIETY",
+  "spans": 0,
+  "hl_chars": 0,
+  "row_chars": 26,
+  "ratio_pct": 0.0,
+  "over_cap": false,
+  "flags": [],
+  "n_flags": 0
+ },
+ {
+  "card": "GS-I/INDIAN SOCIETY",
+  "subject": "SOCIETY",
+  "spans": 9,
+  "hl_chars": 30,
+  "row_chars": 1073,
+  "ratio_pct": 2.8,
+  "over_cap": false,
+  "flags": [
+   "'10,000 people' left plain (counted noun)",
+   "'12 riots' left plain (counted noun)",
+   "'7 riots' left plain (counted noun)"
+  ],
+  "n_flags": 3
+ },
+ {
+  "card": "GS-I/POPULATION",
+  "subject": "SOCIETY",
+  "spans": 60,
+  "hl_chars": 479,
+  "row_chars": 2347,
+  "ratio_pct": 20.4,
+  "over_cap": false,
+  "flags": [],
+  "n_flags": 0
+ },
+ {
+  "card": "GS-I/WOMEN",
+  "subject": "SOCIETY",
+  "spans": 70,
+  "hl_chars": 648,
+  "row_chars": 3803,
+  "ratio_pct": 17.0,
+  "over_cap": false,
+  "flags": [
+   "'148 countries' left plain (counted noun)"
+  ],
+  "n_flags": 1
+ },
+ {
+  "card": "GS-I/URBANIZATION",
+  "subject": "SOCIETY",
+  "spans": 42,
+  "hl_chars": 264,
+  "row_chars": 2070,
+  "ratio_pct": 12.8,
+  "over_cap": false,
+  "flags": [],
+  "n_flags": 0
+ }
+]

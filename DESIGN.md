@@ -348,6 +348,19 @@ Replica it inherits the rules above; where it differs, §13 below is the spec.
   Group:` generator artifacts. `restructure_json.py` enforces/produces this
   grammar and GUARANTEES alphanumeric-stream text preservation (every deviation
   is an explicitly logged drop; see `restructure_log.json`).
+- **Exam-data highlight marker (Phases 6–7):** `{{hl}}…{{/hl}}` inside fact
+  rows wraps an exam-relevant data phrase (statistic, ranking, percent, growth,
+  target, budget figure). Rendering: `<b class="hl">` — **bold + orange**
+  (`--hl: #C2410C`, 5.2:1 on white). Convention rules: markers are styling,
+  never visible text (`visible_text` strips them → the verbatim QA gate is
+  marker-blind); never inside tables/headings/labels/link targets; hard cap
+  ≤ 50% of a card's fact-row chars (review band 40–50%); every span must
+  contain a digit (ranks via 1st/2nd/… suffixes count). `highlight_json.py`
+  adds the markers (P1 author-bold data spans · P2 unit-regex phrases · P3
+  short noun/period extensions) with per-card caps and a counted-noun flag
+  list for human review; markers live in the JSON so any rebuild reproduces
+  the highlighting (verified by `verify_phase7.py`: JSON-only regeneration +
+  legacy no-marker backward-compat).
 - **Fact rows** are the unit: mono 9.5px, hanging bullet, `break-inside:avoid`.
   Indentation levels `.row.l1/l2` mirror the JSON's `&nbsp;`×4N nesting
   (l3+ intentionally unused after the Phase-5 hierarchy reconstruction).

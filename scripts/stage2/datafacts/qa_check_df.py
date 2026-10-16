@@ -85,7 +85,7 @@ check('verbatim: every source line present', not missing_lines,
 NO_TBL = re.sub(r'<table.*?</table>', '', MARKUP, flags=re.S)
 residue = {k: NO_TBL.count(k) for k in
            ['**', '](', '&nbsp;', '<br>', '<!--', '🢥', '&rarr;', '&rupee;', '&plusmn;', '&approx;',
-            '###', '&lt;b&gt;', '&lt;/b&gt;', '&lt;u&gt;']}
+            '###', '&lt;b&gt;', '&lt;/b&gt;', '&lt;u&gt;', '{{hl}}', '{{/hl}}']}
 residue['[ ]('] = len(re.findall(r'\[[^\]]*\]\(http', NO_TBL))
 # escaped source markup leaking as VISIBLE text (class of the EMERGENCY-table bug:
 # a table torn apart by a <br> split renders literal &lt;/td&gt; on the card)

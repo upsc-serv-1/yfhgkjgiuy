@@ -50,6 +50,9 @@ GLYPH_MAP = {'🢥': '→'}   # unrenderable arrow → standard arrow (logged)
 MD_LINK = re.compile(r'\[([^\]]+)\]\((https?://[^)\s]+)\)')
 MD_BOLD = re.compile(r'\*\*(.+?)\*\*')
 NBSP_RUN = re.compile(r'^((?:&nbsp;)+)')
+# Phase-6/7 exam-data highlight marker (documented convention — see
+# highlight_json.py): {{hl}}…{{/hl}} wraps a data phrase; renders bold+orange.
+HL_RE = re.compile(r'\{\{hl\}\}(.*?)\{\{/hl\}\}')
 
 def decode_entities(s):
     for k, v in ENTITY_MAP.items():
@@ -69,13 +72,14 @@ def esc(s):
 
 def inline(s):
     """Raw source line fragment → safe HTML fragment.
-    Order: decode entities → map glyphs → escape <>& → markdown links → markdown bold.
-    Source <b>/<i> tags are trusted structure added later; raw tags in s get escaped."""
+    Order: decode entities → map glyphs → escape <>& → markdown links →
+    markdown bold → {{hl}} exam-data marker → <b class=hl> (bold + orange)."""
     s = decode_entities(s)
     s = map_glyphs(s)
     s = esc(s)
     s = MD_LINK.sub(lambda m: f'<a href="{m.group(2)}" target="_blank" rel="noopener">{m.group(1)}</a>', s)
     s = MD_BOLD.sub(lambda m: f'<b>{m.group(1)}</b>', s)
+    s = HL_RE.sub(lambda m: f'<b class="hl">{m.group(1)}</b>', s)
     return s
 
 def visible_text(s):
@@ -86,6 +90,7 @@ def visible_text(s):
     s = re.sub(r'<[^>]+>', '', s)          # strip source tags
     s = MD_LINK.sub(lambda m: m.group(1), s)
     s = s.replace('**', '')
+    s = s.replace('{{hl}}', '').replace('{{/hl}}', '')   # markers are styling, not text
     return s
 
 def inline_table(s):

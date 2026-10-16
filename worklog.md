@@ -266,3 +266,20 @@ Work Log:
 
 Stage Summary:
 - Phase 5 complete: JSON is canonical + fully verbatim-preserved; book renders 3-tier hierarchy (sub-theme → group label → nested facts). Next: Phase 6 — exam-data highlighting (bold + orange), subject-by-subject with batch self-checks.
+
+---
+Task ID: A4-6/7
+Agent: Super Z (main, orchestrator)
+Task: Phase 6 (exam-data highlighting, bold+orange) + Phase 7 (persist highlighting in JSON schema).
+
+Work Log:
+- highlight_json.py (new, persisted): adds {{hl}}…{{/hl}} markers to fact rows in inputs/updated_data.json. P1 = author-bold data spans (digits, not label-colon, not list-number-prefix; link-bearing spans split — link text stays plain, digit segments highlighted). P2 = unit-regex numeric phrases (money ₹/Rs/$/USD + number + multiplier chain incl. lakh-crore, %, per cent, GW/MW/km/kg/cm/tonnes…, ranges N–N, bare ordinals 1st/2nd/…, multiplier+physical-unit '1 lakh MW'). P3 = closed-list extensions ('% of GDP/land/…', ordinal + ≤3 words, 'in/by/since FYxx/20xx'). Flags: 73 counted-noun data points ('1,522 mandis') left plain for human review.
+- Review-driven regex fixes (all caught by span dump review, never shipped): (1) NUM alternation spliced un-parenthesized → split the whole phrase pattern ('Rs 73' without unit, '5%' out of '92.5%'); (2) MONEY? attached its ? to the trailing \s, making the money prefix MANDATORY (every unprefixed number missed); (3) EXT_OF open noun list matched verbs/preps ('of women run') → closed examy-noun list; (4) numbered labels ('5. Small Hydro energy') excluded; (5) link regions never highlighted.
+- Renderer: parse_data inline() converts marker → <b class="hl"> (after MD_BOLD); visible_text strips markers (verbatim gate marker-blind). theme.css: --hl #C2410C (orange-700, 5.2:1) + .row b.hl. qa_check_df residue now also guards literal {{hl}} in HTML.
+- Applied: 2407 spans / 83 cards / 14.8% of fact-row chars; 0 cards over the 50% cap (1 card at 48% — Climate Risk Index, tiny data-dense card, accepted + logged); all 12 subjects covered (46–558 spans).
+- Gate verify_phase6: 2407 markers == 2407 rendered b.hl (traceability); 0 junk spans (all contain digits); 0 hl in tables/headings; geometry/orphans/index clean; 16 pages screenshotted across all 12 subjects; VLM 10-second scan test 8/8 PASS (numbers pop, consistent, no junk, no misses, density reasonable).
+- Phase 7 (verify_phase7): marker well-formedness (0 unbalanced/nested/misplaced); PERSISTENCE — wiped book map + partials, JSON-only regeneration → byte-identical build, 2407 b.hl, QA green; LEGACY backward-compat — pre-phase6 unmarked JSON builds 0 b.hl, 0 residue, QA green; convention documented in DESIGN.md §14 + parse_data docstring + highlight_json header. (Op note: one --apply run died on SIGPIPE from `| head` before json.dump — detected by the gate's 0-marker count, re-run cleanly; lesson: no pipes on apply runs.)
+- Backups: inputs/updated_data.pre-phase6.json.
+
+Stage Summary:
+- Phases 6+7 complete: exam data now bold+orange, persisted in the JSON, reproducible from source alone. Next: Phase 8 — remove duplicate SOURCES panels (keep inline citations; panel only for cards that lack inline citations).

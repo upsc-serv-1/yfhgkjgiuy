@@ -20,6 +20,7 @@
   --ink: #1E2A2A;   --ink-h: #16211F; --ink2: #43514F; --mut: #5B6B6C;
   --hair: rgba(30,42,42,.16);  --hair2: rgba(30,42,42,.30);
   --teal: #4F8F86;  --gold: #A97D2B; --green: #6E9468; --deep: #1F4F52;
+  --hl: #C2410C;   /* exam-data highlight (orange-700, 5.2:1 on white) */
   --t-gold: rgba(169,125,43,.08); --t-teal: rgba(79,143,134,.08); --t-green: rgba(110,148,104,.11);
   --serif: "Fraunces", Georgia, "Times New Roman", serif;
   --sans: "IBM Plex Sans", system-ui, "Segoe UI", Arial, sans-serif;
@@ -155,6 +156,7 @@ a.chip:hover{border-color:var(--teal);color:var(--teal);background:var(--t-teal)
 .row.l4{margin-left:52px}
 .row.l5{margin-left:65px}
 .row b{color:var(--ink-h)}
+.row b.hl{color:var(--hl);font-weight:600}   /* exam data — bold + orange */
 .row a{color:var(--teal);text-decoration:none;border-bottom:1px dotted var(--teal)}
 .row a:hover{color:var(--gold);border-color:var(--gold)}
 /* data tables inside cards (source <table>) */
